@@ -11,5 +11,5 @@ theme:
 nav:
   - Home: index.md
   - Character Concepts:
-      - Aramis Rosarian: character-concepts/aramis-rosarian.md
-      - Cephala Fortina: character-concepts/cephala-fortina.md
+      - Aramis Rosarian: character_concepts/aramis-rosarian.md
+      - Cephala Fortina: character_concepts/cephala-fortina.md
