@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# Steal These Ideas
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![STI](assets/sti.png)
+Welcome to **Steal These Ideas**, a curated vault of *free*, *conceptually rich*, and *system-friendly* content for GMs and players alike.
 
-## Commands
+Whether you're running a tense one-shot, building long-form campaigns, or just looking to drop a compelling character into tonight's session, everything here is designed to be **plug-and-play** with minimal prep.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+> **Mission**: To share narrative-driven, thematically charged resources that fit seamlessly into any table—without cost, friction, or bloat.
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 🔗 Explore
+
+* [Character Concepts](character-concepts/)
+
+  * Two PCs, already available:
+
+    * [Aramis Rosarian](character_concepts/aramis-rosarian)
+    * [Cephala Fortina](character_concepts/cephala-fortina)
+* *(More sections coming soon: one-shots, campaign seeds, bestiaries, etc.)*
+
+---
+
+Built with ❤️ using [MkDocs](https://www.mkdocs.org) and [GitHub Pages](https://pages.github.com/).
