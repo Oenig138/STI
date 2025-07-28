@@ -1,19 +1,22 @@
 # Steal These Ideas
 
-![STI](assets/sti.png)
-Welcome to **Steal These Ideas**, a curated vault of *free*, *conceptually rich*, and *system-friendly* content for GMs and players alike.
+<img src="assets/sti.png" alt="STI" width="300">
 
-Whether you're running a tense one-shot, building long-form campaigns, or just looking to drop a compelling character into tonight's session, everything here is designed to be **plug-and-play** with minimal prep.
+Welcome to **Steal These Ideas**, where I upload a bunch of free, hopefully conceptually rich, and 100% officially licensed content for GMs and players alike. Right now it's mainly D&D stuff, but hey, if you like something you see, you're free to steal it and do what you want with it.
 
-> **Mission**: To share narrative-driven, thematically charged resources that fit seamlessly into any table—without cost, friction, or bloat.
+Everything here is designed to be **plug-and-play** with minimal prep. Characters have been created on the dndbeyond official website, and at occasion I've had to take some liberties to fit it all into the character sheets.
+
+> **Mission**: My mission statement, because suddenly that's a thing we're supposed to have, is to share narrative-driven, thematically charged resources that fit seamlessly into any table. 
+
+On the **elephant in the room**: Yes, images have been generated with AI. This is my way to show my own vision of the vibes of the characters or the scenarios. You're welcome to have **strong opinions on this**. Please just remember that this is free stuff, and if you dislike any aspect of it, you are free to only take the parts that you want. 
 
 ---
 
-## 🔗 Explore
+## Explore
 
 * [Character Concepts](character-concepts/)
 
-  * Two PCs, already available:
+  * Two PC concepts are currently available, in the series I've decided to call "Divine tricksters".
 
     * [Aramis Rosarian](character_concepts/aramis-rosarian)
     * [Cephala Fortina](character_concepts/cephala-fortina)

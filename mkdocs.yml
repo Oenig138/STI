@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: Steal These Ideas
+site_url: https://oenig138.github.io/STI/
+theme:
+  name: material
+  palette:
+    scheme: slate         # Default to dark mode
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Character Concepts:
+      - Aramis Rosarian: character-concepts/aramis-rosarian.md
+      - Cephala Fortina: character-concepts/cephala-fortina.md
