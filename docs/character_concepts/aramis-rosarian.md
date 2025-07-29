@@ -1,6 +1,6 @@
 # Aramis Rosarian
 
-<img src="assets/Aramis-Rosarian.png" alt="Aramis Rosarian" width="500">
+<img src="assets/Aramis-Rosarian.png" alt="Aramis Rosarian" width="500" />
 
 > *"Pretends to be a holy man, but every day he just feels more and more hollow…"*
 
@@ -38,14 +38,14 @@ Aramis Rosarian wanders from town to town posing as a priest of the obscure **Fe
 ## Gameplay Notes
 
 ??? info "Playing Aramis effectively"
-\- **Not a real healer**: Don’t rely on him for restorative magic.
-\- **Leverage deception**: Use *Disguise Self*, *Subtle Spell*, and *Telepathic Speech* to steer scenes.
-\- **Plan the reveal**: Coordinate with the DM for a dramatic unmasking of his false cleric identity.
+	- **Not a real healer**: Don’t rely on him for restorative magic.
+	- **Leverage deception**: Use *Disguise Self*, *Subtle Spell*, and *Telepathic Speech* to steer scenes.
+	- **Plan the reveal**: Coordinate with the DM for a dramatic unmasking of his false cleric identity.
 
 ??? danger "DM Guidance"
-\- Make sure Aramis’s deception enriches party cohesion and doesn't derail it.
-\- Introduce witch‑hunters, suspicious clergy, or villagers who notice inconsistencies.
-\- Offer opportunities for growth: exposure, possibilities to use the aberrant abilities for good (or bad), or moral conflict that forces action.
+	- Make sure Aramis’s deception enriches party cohesion and doesn't derail it.
+	- Introduce witch‑hunters, suspicious clergy, or villagers who notice inconsistencies.
+	- Offer opportunities for growth: exposure, possibilities to use the aberrant abilities for good (or bad), or moral conflict that forces action.
 
 ---
 

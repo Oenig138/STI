@@ -1,6 +1,6 @@
 # Cephala Fortina
 
-<img src="assets/Cephala-Fortina.png" alt="Cephala Fortina" width="500">
+<img src="assets/Cephala-Fortina.png" alt="Cephala Fortina" width="500" />
 
 > *“An entire people got lost? Guess I'll have to charge double rate for this one. How much is a people even worth, strictly speaking?”*
 
@@ -38,15 +38,15 @@ Cephala was once a drifting card‑sharp who relied on her charm, sleight‑of�
 ## Gameplay Notes
 
 ??? info "Playing Cephala effectively"
-\- **Pact of the Blade** lets you use a CHA‑based weapon (Rapier +1) for stylish melee.
-\- **Celestial Revelation** grants flight, light aura, or fear burst once per long rest.
-\- **Eldritch Invocations** add utility (*Find Familiar*, *Thorn Whip*, *Minor Illusion*, etc.).
-\- Use *Suggestion* and *Invisibility* to pull social heists; fallback to *Armor of Agathys* for durability.
+	- **Pact of the Blade** lets you use a CHA‑based weapon (Rapier +1) for stylish melee.
+	- **Celestial Revelation** grants flight, light aura, or fear burst once per long rest.
+	- **Eldritch Invocations** add utility (*Find Familiar*, *Thorn Whip*, *Minor Illusion*, etc.).
+	- Use *Suggestion* and *Invisibility* to pull social heists; fallback to *Armor of Agathys* for durability.
 
 ??? danger "DM Guidance"
-\- The **Tattered Seraph** should feel dreamlike, cryptic, even unreliable. A deeper revelation may show that the people it is searching for is tragically much more close than either of them realize. The Tattered Seraph is immensely powerful, but utterly insane and confused. Meanwhile, Cephala may be too impulsive to follow leads consistently. Plan accordingly.
-\- The inquisitor **Morben**, witness to her awakening, makes a potent recurring antagonist. But is he truly a villain or a Les Mis "Jauvert" type antagonist?
-\- Lean into omens via her treasured deck: each draw foreshadows or complicates scenes. The world is your oyster. Go wild.
+	- The **Tattered Seraph** should feel dreamlike, cryptic, even unreliable. A deeper revelation may show that the people it is searching for is tragically much more close than either of them realize. The Tattered Seraph is immensely powerful, but utterly insane and confused. Meanwhile, Cephala may be too impulsive to follow leads consistently. Plan accordingly.
+	- The inquisitor **Morben**, witness to her awakening, makes a potent recurring antagonist. But is he truly a villain or a Les Mis "Jauvert" type antagonist?
+	- Lean into omens via her treasured deck: each draw foreshadows or complicates scenes. The world is your oyster. Go wild.
 
 ---
 
