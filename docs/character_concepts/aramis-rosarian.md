@@ -1,6 +1,6 @@
 # Aramis Rosarian
 
-![Aramis Rosarian](assets/Aramis-Rosarian.png)
+<img src="assets/Aramis-Rosarian.png" alt="Aramis Rosarian" width="500">
 
 > *"Pretends to be a holy man, but every day he just feels more and more hollow…"*
 

@@ -1,6 +1,6 @@
 # Cephala Fortina
 
-![Cephala Fortina](assets/Cephala-Fortina.png)
+<img src="assets/Cephala-Fortina.png" alt="Cephala Fortina" width="500">
 
 > *“An entire people got lost? Guess I'll have to charge double rate for this one. How much is a people even worth, strictly speaking?”*
 
