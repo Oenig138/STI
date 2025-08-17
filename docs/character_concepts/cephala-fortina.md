@@ -103,6 +103,47 @@ On the night Cephala tried to swindle the inquisitor **Morben**, divine fire eru
 * Morben’s **witch‑catchers** start interrogating people the party cares about.
 * Cephala has the mind of a Rogue in the body of a Warlock. There will be marks looking to settle grievances.
 
+## The Truth of the Tattered Seraph
+
+Cephala eventually learns the truth: the Tattered Seraph *is* her people — the result of a magical catastrophe that fused their minds and bodies into one fractured celestial entity. The countless eyes are the scattered perspectives of every soul trapped inside, half-aware and yearning for identity. The Seraph knows *something* happened, but its memory is clouded and unstable; full awareness could shatter it.  
+
+The Inquisition guards this secret, claiming it’s to prevent the disaster from ever happening again — but whether their motives are pure, political, or both is unclear.
+
+---
+
+### Possible Endgames
+
+#### 1. **The Gentle Lie** (Benevolent)
+Cephala chooses to protect the Seraph from the truth, keeping it ignorant to preserve its fragile unity.  
+- The Seraph remains a living, if incomplete, remnant of her people.  
+- Cephala bears the guilt and burden of knowing.  
+- The Inquisition, seeing her cooperation, may offer a wary alliance — or keep her under close watch.  
+- **Tone:** Quiet heroism, sacrifice without recognition.
+
+#### 2. **The Restoration Gambit** (Bittersweet)
+Cephala seeks a way to reintegrate the Seraph’s mind and restore her people.  
+- Success means her people return — but Cephala’s identity is erased, becoming part of the whole.  
+- Partial success might restore only fragments: some live again, others are lost forever.  
+- Failure risks the Seraph collapsing into madness, scattering its essence across the planes.  
+- **Tone:** Epic tragedy, self-sacrifice, the cost of hope.
+
+#### 3. **The Fracture of Truth** (Tragic)
+Cephala tells the Seraph everything, against all warnings.  
+- The Seraph’s mind splinters, voices pulling in different directions.  
+- The Inquisition moves to destroy or contain the unstable entity.  
+- Cephala must choose: defend it against all odds, aid in putting it down, or flee with what fragments she can save.  
+- **Tone:** Raw moral weight, no clean victories, lasting consequences.
+
+---
+
+### Ongoing Hooks
+- **Echo Memories:** At times, a voice from within the Seraph speaks directly to Cephala — someone she may have known in life.  
+- **Shifting Personas:** The Seraph’s demeanor changes as different personalities surface.  
+- **Inquisition’s Stance:** Their agents range from ruthless zealots to conflicted idealists; any could become ally or enemy.  
+- **Moral Pressure:** Every truth Cephala uncovers increases the risk to the Seraph’s stability.
+
+
+
 ---
 
 *Last updated: {{ date }}*

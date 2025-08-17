@@ -8,6 +8,13 @@ theme:
     toggle:
       icon: material/weather-sunny
       name: Switch to light mode
+      
+plugins:
+  - search
+  - macros:
+      include_yaml:
+        - docs/data/*.yaml
+
 
 markdown_extensions:
   - admonition

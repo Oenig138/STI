@@ -100,6 +100,32 @@ Fifteen years ago, novice Aramis discovered the abbot of his abbey embezzling al
 * A dying child whose cure forces him to choose between secrecy and compassion
 * An old friend who recognizes him beneath the cowl
 
+## Playing Aramis Rosarian
+
+**Public Face**: Aramis presents himself as a pious, itinerant cleric — a man of the cloth, humble but world-weary. His speech in public is deliberate, measured, and salted with well-rehearsed platitudes about faith, duty, and the gods’ inscrutable will. His vestments are worn but not ragged; his rosaries are functional but poorly kept, the beads dulled from neglect. His eyes carry a haunted, wary look that never fully lifts.
+
+**Private Truth**: In reality, Aramis is an Aberrant Mind sorcerer whose divine image is a cover. His true arcane focus is hidden in a secret pocket in his robes; any perceptive observer might spot him touching it in the wrong context. His “divine magic” is psionic manipulation — and his faith is, at best, a performance.
+
+---
+
+### At the Table
+- **Opening Gambit**: When first meeting NPCs or the party, slip into the “pious cleric” speech pattern — formal, slow, and with light sermonizing.  
+- **Cracks in the Mask**: Occasionally fumble the persona — use a spell in a way a cleric normally wouldn’t, refer to arcane theory, or respond too quickly to something esoteric.  
+- **Spotlight Seeds**: Above the table, give players breadcrumbs — e.g., narrate a night where Aramis disappears, transforms his appearance, and spends hours on a solitary bender. This tips them off OOC that something’s off, while leaving their PCs in the dark.  
+- **Suspense Management**: Don’t overuse the deception. Let moments of genuine connection or moral conflict breathe so Aramis feels like a person, not just a twist.
+
+---
+
+### Hooks for the DM
+- **Suspicion Rolls**: Let the DM call for Perception or Insight checks from allies/NPCs at opportune moments (e.g., a flash of the hidden focus, an arcane slip).  
+- **Faction Pressure**: Have agents from his past appear — either allies who know the truth or enemies who can expose him.  
+- **Faith as Theater**: Challenge him with situations where he must act as a cleric in a way his magic can’t fully support, forcing improvisation.
+
+---
+
+**Key Dynamic**: Aramis is most fun when both the *players* and *PCs* are working from incomplete but different sets of information. The trick is to keep the tension simmering — enough to intrigue, but not so much that it becomes an OOC frustration. 
+
+
 ---
 
 *Last updated: {{ date }}*

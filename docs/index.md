@@ -14,10 +14,12 @@ On the **elephant in the room**: Yes, images have been generated with AI. This i
 
 * [Character Concepts](character-concepts/)
 
-  * Two PC concepts are currently available, in the series I've decided to call "Divine tricksters".
+  * Three PC concepts are currently available.
 
-    * [Aramis Rosarian](character_concepts/aramis-rosarian)
-    * [Cephala Fortina](character_concepts/cephala-fortina)
+    * [Aramis Rosarian, aberrant sorcerer refugee in cleric's robes](character_concepts/aramis-rosarian)
+    * [Cephala Fortina, charlatan aasimar warlock with main character vibes](character_concepts/cephala-fortina)
+	* [Thimble, bullied orc samurai who went full Kurosawa, but with bad puns](character-concepts/thimble)
+	* [Yawp Cumuluni, Goliath bard and one-woman moshpit](character-concepts/yawp-cumuluni) 
 * *(More sections coming soon: one-shots, campaign seeds, bestiaries, etc.)*
 
 ---
