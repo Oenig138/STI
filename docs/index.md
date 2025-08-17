@@ -17,6 +17,7 @@ On the **elephant in the room**: Yes, images have been generated with AI. This i
   * Three PC concepts are currently available.
 
     * [Aramis Rosarian, aberrant sorcerer refugee in cleric's robes](character_concepts/aramis-rosarian)
+	* [Beitian "Betty" Winter's Heart, deaf Soul Knife who like is her own worst obstacle](character_concepts/beitian-winters-heart)
 	* [Belvarax "Gobsmack" Allimander, the passive Paladin of overthinking everything](character_concepts/belvarax-allimander)
     * [Cephala Fortina, charlatan aasimar warlock with main character vibes](character_concepts/cephala-fortina)
 	* [Simeon Blackreef, haunted sea elf noble druid who thinks wild shaping is beneath him](character_concepts/simeon-blackreef)

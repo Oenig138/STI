@@ -1,6 +1,6 @@
 # [Character Name]
 
-![Character Name](assets/firstname-lastname.png){ width="500" }
+![Character Name](assets/firstname-lastname.png){ width="300" }
 
 > *"[Short flavor quote. Ideally from or about the character.]"*
 
@@ -57,3 +57,4 @@ INT [score] ([mod])   WIS [score] ([mod])   CHA [score] ([mod])
 HP [value]   AC [value]   Speed [ft]
 Proficiency Bonus [+X]
 Spell Save DC [X]   Spell Attack [+X]
+```

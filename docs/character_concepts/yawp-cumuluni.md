@@ -1,6 +1,6 @@
 # Yawp Cumuluni
 
-![Yawp Cumuluni](assets/yawp-cumuluni.png){ width="500" }
+![Yawp Cumuluni](assets/yawp-cumuluni.png){ width="300" }
 
 > *"“If the sky won’t echo me back, I’ll climb higher.”"*
 

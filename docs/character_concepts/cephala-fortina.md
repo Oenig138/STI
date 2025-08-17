@@ -1,6 +1,6 @@
 # Cephala Fortina
 
-![Cephala Fortina](assets/cephala-fortina.png){ width="500" }
+![Cephala Fortina](assets/cephala-fortina.png){ width="300" }
 
 > *“An entire people got lost? Guess I'll have to charge double rate for this one. How much is a people even worth, strictly speaking?”*
 
@@ -26,6 +26,7 @@ Cephala was once a drifting card‑sharp who relied on her charm, sleight‑of�
 * Loves the thrill of a clever con, but feels a pull toward higher purpose.
 * Balances radiant heritage with shady instincts, and doesn't feel the tension. It's all the same to her.
 * Reads prophetic patterns in a marked deck of cards she always shuffles.
+* The most likely party member to somehow end up as queen of Latveria
 
 ---
 

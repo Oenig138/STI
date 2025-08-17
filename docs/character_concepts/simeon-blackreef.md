@@ -1,6 +1,6 @@
 # Simeon Blackreef
 
-![Simeon Blackreef](assets/simeon-blackreef.png){ width="500" }
+![Simeon Blackreef](assets/simeon-blackreef.png){ width="300" }
 
 > *"“A Blackreef finishes what he starts. Preferably in style. Why are you all laughing?”"*
 
@@ -26,6 +26,7 @@ A vain but newly humbled sea-elf noble who channels the ocean’s fury. Simeon d
 * Wants to do right but clings to status; prone to theatrical complaints and fashion advice
 * Loyal to companions, merciless to mockery; learns slowly to see beyond class
 * Torn between the hags’ blood legacy and his father’s name; refuses to be anyone’s pawn again
+* The most likely party member to spend his entire share of the loot on giving the Barbarian a makeover
 
 ---
 

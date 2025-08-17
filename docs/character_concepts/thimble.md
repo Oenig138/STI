@@ -1,8 +1,8 @@
 # Thimble
 
-![Thimble](assets/thimble.png){ width="500" }
+![Thimble](assets/thimble.png){ width="300" }
 
-> *"“We fighting big’uns today? Hill giants? Kanabō it is.”"*
+> *“We fighting big’uns today? Hill giants? Kanabō it is.”*
 
 ---
 
@@ -22,11 +22,11 @@ Thimble is a wandering orc fighter trained as a samurai but denied the noble’s
 
 ## Personality
 
+* Reclaimed his pride after a childhood of bullying and abuse, even if it made him powerful enemies
+* Scarred by his childhood, today he delights in calling bullies out and seeing them shrink back
+* Terrified of becoming cruel himself if given power over others, so avoids leadership and responsibilities
 * Pragmatic, loyal, easy-going, laughs at his own terrible jokes
-* The most likely PC to secretly eat the party's pet ferret
-* Terrified of becoming cruel if given power, due to childhood abuse
-* Friendly and pugnacious, respects free souls and integrity 
-* Scarred by a childhood of bullying, delights in calling out bullying and hypocrisy today
+* The most likely party member to secretly eat the druid's pet ferret
 
 ---
 

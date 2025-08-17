@@ -1,6 +1,6 @@
 # Aramis Rosarian
 
-![Aramis Rosarian](assets/aramis-rosarian.png){ width="500" }
+![Aramis Rosarian](assets/aramis-rosarian.png){ width="300" }
 
 > *"I'd love to bless your child, madam, for but a humble tithe. Say, is that liquor?"*
 
@@ -26,6 +26,7 @@ Aramis Rosarian wanders from town to town posing as a priest of the obscure **Fe
 * Helps the vulnerable, but only on his own guarded terms.
 * Keeps his true sorcerous nature hidden behind clerical platitudes of piety.
 * Secretly longs for a quiet life, a vineyard, and unconditional acceptance.
+* The most likely party member to inadvertently get pulled into a theological rap battle and win by the skin of his teeth.
 
 ---
 

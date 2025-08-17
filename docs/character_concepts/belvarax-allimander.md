@@ -1,6 +1,6 @@
 # Belvarax "Gobsmack" Allimander
 
-![Belvarax "Gobsmack" Allimander](assets/belvarax-gobsmack-allimander.png){ width="500" }
+![Belvarax "Gobsmack" Allimander](assets/belvarax-gobsmack-allimander.png){ width="300" }
 
 > *"I live not to be honored, but to avoid staining my soul. Let them call me coward. I’ve made peace with being misunderstood."*
 
@@ -25,14 +25,14 @@ Belvarax, once a gallant merchant-turned-paladin, has become a conflicted yet st
 * Haunted by past disillusionment, now tries to honor his Paladin vows through radical doubt and intellectual discipline
 * Upholds a morally complex code that reads as rules-bending to more simplistic Paladins
 * Often ridiculed for "goblin love" because he won't just smite the little buggers
-* Most likely to end up being the party daddy
 * Always faithfully comes through in the end, pike in hand, when the situation calls for it
+* Most likely to end up being the party daddy
 
 ---
 
 ## PDF Character Sheet
 
-[Download full character sheet](assets/belvarax_gobsmack_allimander.pdf)
+[Download full character sheet](assets/belvarax-gobsmack-allimander.pdf)
 
 ---
 
