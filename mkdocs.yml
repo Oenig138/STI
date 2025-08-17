@@ -9,12 +9,6 @@ theme:
       icon: material/weather-sunny
       name: Switch to light mode
       
-plugins:
-  - search
-  - macros:
-      include_yaml:
-        - docs/data/*.yaml
-
 
 markdown_extensions:
   - admonition
@@ -31,3 +25,6 @@ nav:
   - Character Concepts:
       - Aramis Rosarian: character_concepts/aramis-rosarian.md
       - Cephala Fortina: character_concepts/cephala-fortina.md
+      - Simeon Blackreef: character_concepts/simeon-blackreef.md
+      - Thimble: character_concepts/thimble.md
+      - Yawp Cumuluni: character_concepts/yawp-cumuluni.md
