@@ -38,7 +38,7 @@ Cephala was once a drifting card‑sharp who relied on her charm, sleight‑of�
 ## Gameplay Notes
 
 ??? info "Playing Cephala effectively"
-	- **Pact of the Tome** is Cephala's notebook for storing clues about her people.
+	- **Pact of the Tome** is Cephala's notebook for storing clues about her people. 
 	- **Celestial Revelation** grants flight, light aura, or fear burst once per long rest.
 	- **Eldritch Invocations** add utility (*Find Familiar*, *Thorn Whip*, *Minor Illusion*, etc.).
 	- Use *Suggestion* and *Invisibility* to pull social heists; fallback to *Armor of Agathys* for durability.

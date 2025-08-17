@@ -23,8 +23,9 @@ Thimble is a wandering orc fighter trained as a samurai but denied the noble’s
 ## Personality
 
 * Pragmatic, loyal, easy-going, laughs at his own terrible jokes
+* The most likely PC to secretly eat the party's pet ferret
 * Terrified of becoming cruel if given power, due to childhood abuse
-* Friendly and pugnacious, respects free souls and integrity above all
+* Friendly and pugnacious, respects free souls and integrity 
 * Scarred by a childhood of bullying, delights in calling out bullying and hypocrisy today
 
 ---
@@ -38,14 +39,15 @@ Thimble is a wandering orc fighter trained as a samurai but denied the noble’s
 ## Gameplay Notes
 
 ??? info "Playing Thimble effectively"
-- [Player-facing tactical/roleplay advice]
-- [Use of specific features or spells]
-- [Coordination tip or suggestion]
+    - **Fight with sprezzatura**: Use Fighting Spirit (advantage + temp HP) to make combat look effortless and keep your bravado consistent. The table banter is half the fun. Lean into it!
+    - **Control the field**: Polearm Master + Weapon Mastery gives you reach, bonus strikes, and reactions. You’re the wall that stops enemies from walking past.
+    - **Play out the legacy**: His sling *Suna’s Roar* and mithral armor are mementos of his mother. Mention them in combat descriptions to sell Thimble's backstory.
 
 ??? danger "DM Guidance"
-- [Narrative risk or caveat]
-- [Tension-generating advice for NPCs or events]
-- [Opportunity for growth or moral crisis]
+    - **Bring back Rai’s shadow**: The Izu-no-Kane clan should frame Thimble as a betrayer and accursed ingrate, no matter how just his actions. It fuels conflict without cheap villains.
+    - **Test his fear of cruelty**: Put him in positions of power: leading troops, holding prisoners, and see if he can resist becoming what he dreads.
+    - **Reward defiance**: When he calls out bullying or grandstanding (whether from NPC nobles or monsters), let it land narratively.
+	- **Homebrew check**: Thimble has a home-brew sling called "Suna's roar", a memento of his mother. It's a Sling +1 with an extra 1d4 Thunder damage, and the *Thrown* property (so it can be wielded using STR instead of DEX).
 
 ---
 

@@ -1,6 +1,6 @@
 # [Character Name]
 
-<img src="assets/[image-file-name]" alt="[Character Name]" width="500">
+![Character Name](assets/firstname-lastname.png){ width="500" }
 
 > *"[Short flavor quote. Ideally from or about the character.]"*
 
@@ -38,14 +38,14 @@
 ## Gameplay Notes
 
 ??? info "Playing [Character Name] effectively"
-- [Player-facing tactical/roleplay advice]
-- [Use of specific features or spells]
-- [Coordination tip or suggestion]
+	- [Player-facing tactical/roleplay advice]
+	- [Use of specific features or spells]
+	- [Coordination tip or suggestion]
 
 ??? danger "DM Guidance"
-- [Narrative risk or caveat]
-- [Tension-generating advice for NPCs or events]
-- [Opportunity for growth or moral crisis]
+	- [Narrative risk or caveat]
+	- [Tension-generating advice for NPCs or events]
+	- [Opportunity for growth or moral crisis]
 
 ---
 
