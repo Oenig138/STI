@@ -1,8 +1,8 @@
 # Aramis Rosarian
 
-<img src="assets/Aramis-Rosarian.png" alt="Aramis Rosarian" width="500" />
+<img src="assets/aramis-rosarian.png" alt="Aramis Rosarian" width="500">
 
-> *"Pretends to be a holy man, but every day he just feels more and more hollow…"*
+> *"I'd love to bless your child, madam, for but a humble tithe. Say, is that liquor?"*
 
 ---
 
@@ -31,7 +31,7 @@ Aramis Rosarian wanders from town to town posing as a priest of the obscure **Fe
 
 ## PDF Character Sheet
 
-📄 [Download full character sheet](assets/Aramis-Rosarian.pdf)
+📄 [Download full character sheet](assets/aramis-rosarian.pdf)
 
 ---
 

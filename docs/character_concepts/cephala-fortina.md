@@ -1,6 +1,6 @@
 # Cephala Fortina
 
-<img src="assets/Cephala-Fortina.png" alt="Cephala Fortina" width="500" />
+<img src="assets/cephala-fortina.png" alt="Cephala Fortina" width="500" />
 
 > *“An entire people got lost? Guess I'll have to charge double rate for this one. How much is a people even worth, strictly speaking?”*
 
@@ -10,11 +10,11 @@
 
 |                   |                                          |
 | ----------------- | ---------------------------------------- |
-| **Class & Level** | Warlock (Hexblade) 4                     |
-| **Background**    | Charlatan (Milestone)                    |
+| **Class & Level** | Warlock (Genie) 4                     |
+| **Background**    | Charlatan                     |
 | **Race**          | Aasimar                                  |
 | **Alignment**     | Chaotic Neutral                          |
-| **Role**          | Celestial con‑artist, pact‑blade duelist |
+| **Role**          | Celestial con‑artist, blaster and party face |
 
 Cephala was once a drifting card‑sharp who relied on her charm, sleight‑of‑hand, and changing aliases to stay a half skip ahead of the law. But one night when she was assailed by a mysterious inquisitor, her dormant celestial blood ignited, unleashing wings of light and a bond to the **Tattered Seraph**. She became something stranger: half radiant avatar, half street‑wise trickster, on a quest to find her own vanished people that only the Seraph remembers.
 
@@ -31,14 +31,14 @@ Cephala was once a drifting card‑sharp who relied on her charm, sleight‑of�
 
 ## PDF Character Sheet
 
-📄 [Download full character sheet](assets/Cephala-Fortina.pdf)
+📄 [Download full character sheet](assets/cephala-fortina.pdf)
 
 ---
 
 ## Gameplay Notes
 
 ??? info "Playing Cephala effectively"
-	- **Pact of the Blade** lets you use a CHA‑based weapon (Rapier +1) for stylish melee.
+	- **Pact of the Tome** is Cephala's notebook for storing clues about her people.
 	- **Celestial Revelation** grants flight, light aura, or fear burst once per long rest.
 	- **Eldritch Invocations** add utility (*Find Familiar*, *Thorn Whip*, *Minor Illusion*, etc.).
 	- Use *Suggestion* and *Invisibility* to pull social heists; fallback to *Armor of Agathys* for durability.
@@ -53,15 +53,15 @@ Cephala was once a drifting card‑sharp who relied on her charm, sleight‑of�
 ## Stat Snapshot
 
 ```text
-STR 11 (+0)   DEX 14 (+2)   CON 14 (+2)
+STR 8 (-1)   DEX 14 (+2)   CON 14 (+2)
 INT 12 (+1)   WIS 10 (+0)   CHA 18 (+4)
-HP 31          AC 18 (Breastplate + Shield)   Speed 30 ft
+HP 31          AC 15   Speed 30 ft
 Proficiency Bonus +2
 Spell Save DC 14   Spell Attack +6
 Damage Resistances: Radiant, Necrotic
 ```
 
-**Invocations**: Lessons of the First Ones (extra feat), Pact of the Blade, Pact of the Tome  •  **Luck Points**: 2  •  **Healing Hands**: 2d4 HP once/long rest
+**Invocations**: Lessons of the First Ones (extra feat), Pact of the Tome, Agonizing Blash •  **Luck Points**: 2  •  **Healing Hands**: 2d4 HP once/long rest
 
 ---
 
@@ -69,7 +69,7 @@ Damage Resistances: Radiant, Necrotic
 
 ### Cantrips
 
-Booming Blade • Minor Illusion • Prestidigitation • Light • Mage Hand • Message • Thorn Whip
+Eldritch Blast • Minor Illusion • Prestidigitation • Light • Mage Hand • Message • 
 
 ### 1st‑Level
 
@@ -83,10 +83,8 @@ Suggestion • Invisibility • Mirror Image • Misty Step (feat)
 
 ## Equipment & Magic Items
 
-* **Rapier +1** (hexblade focus)
-* **Sentinel Shield** (advantage on initiative & Perception)
-* **Breastplate** + light cloak
-* **Stone of Good Luck (Luckstone)**
+* **Glamoured Studded Leather**
+* **Pearl of Power**
 * Forgery kit, marked playing cards, disguise wardrobe
 
 ---
