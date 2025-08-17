@@ -1,6 +1,6 @@
 # Aramis Rosarian
 
-<img src="assets/aramis-rosarian.png" alt="Aramis Rosarian" width="500">
+![Aramis Rosarian](assets/aramis-rosarian.png){ width="500" }
 
 > *"I'd love to bless your child, madam, for but a humble tithe. Say, is that liquor?"*
 

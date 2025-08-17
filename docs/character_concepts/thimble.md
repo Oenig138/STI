@@ -1,6 +1,6 @@
 # Thimble
 
-<img src="assets/thimble.png" alt="Thimble" width="500 />
+![Thimble](assets/thimble.png){ width="500" }
 
 > *"“We fighting big’uns today? Hill giants? Kanabō it is.”"*
 

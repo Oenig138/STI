@@ -1,6 +1,6 @@
 # Simeon Blackreef
 
-<img src="assets/simeon-blackreef.png" alt="Simeon Blackreef" width="500">
+![Simeon Blackreef](assets/simeon-blackreef.png){ width="500" }
 
 > *"“A Blackreef finishes what he starts. Preferably in style. Why are you all laughing?”"*
 
