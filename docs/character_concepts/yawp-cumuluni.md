@@ -59,3 +59,4 @@ INT [10] ([+0])   WIS [8] ([-1])   CHA [18] ([+4])
 HP [31]   AC [17]   Speed [35 ft]
 Proficiency Bonus [+X]
 Spell Save DC [14]   Spell Attack [+6]
+```

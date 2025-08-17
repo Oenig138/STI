@@ -57,6 +57,7 @@ INT [10] ([+0])   WIS [18] ([+4])   CHA [14] ([+2])
 HP [31]   AC [19]   Speed [30 ft], swimming Speed [30 ft]
 Proficiency Bonus [+2]
 Spell Save DC [14]   Spell Attack [+6]
+```
 
 ## Wild Shape and Simeon
 

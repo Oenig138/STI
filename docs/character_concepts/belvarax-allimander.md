@@ -1,6 +1,6 @@
 # Belvarax "Gobsmack" Allimander
 
-![Belvarax "Gobsmack" Allimander](assets/belvarax_gobsmack_allimander.png){ width="500" }
+![Belvarax "Gobsmack" Allimander](assets/belvarax-gobsmack-allimander.png){ width="500" }
 
 > *"I live not to be honored, but to avoid staining my soul. Let them call me coward. I’ve made peace with being misunderstood."*
 
