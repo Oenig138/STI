@@ -25,10 +25,21 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Character Concepts:
+      - Alveta "Velvet": character_concepts/alveta-velvet.md
       - Aramis Rosarian: character_concepts/aramis-rosarian.md
-      - Beitian "Betty" Winter's Heart: character_concepts/beitian-winters-heart.md
+      - Beitian "Betty" Winters Heart: character_concepts/beitian-winters-heart.md
       - Belvarax "Gobsmack" Allimander: character_concepts/belvarax-allimander.md
+      - Calypso "So-So" Sonder: character_concepts/calypso-so-so-sonder.md
       - Cephala Fortina: character_concepts/cephala-fortina.md
+      - Clover Medley: character_concepts/clover-medley.md
+      - Donner: character_concepts/donner.md
+      - Harold: character_concepts/harold-carnap.md
+      - Korak the Gilded: character_concepts/korak-the-gilded.md
+      - Lia Amberhorn: character_concepts/lia-amberhorn.md
+      - Rikiki Twilk: character_concepts/rikiki-twilk.md
       - Simeon Blackreef: character_concepts/simeon-blackreef.md
       - Thimble: character_concepts/thimble.md
+      - Tippy: character_concepts/tippy.md
+      - Vilgor Blackwell: character_concepts/vilgor-blackwell.md
       - Yawp Cumuluni: character_concepts/yawp-cumuluni.md
+      - Yelena Gagarina: character_concepts/yelena-gagarina.md
