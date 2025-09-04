@@ -60,3 +60,4 @@ INT 10 (+0)  WIS 16 (+3)   CHA 8 (-1)
 HP 31   AC 17   Speed 40 ft
 Proficiency Bonus +2
 Spell Save DC 13   Spell Attack +5
+```
