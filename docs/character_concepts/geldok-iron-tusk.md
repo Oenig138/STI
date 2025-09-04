@@ -20,6 +20,18 @@ Mocked half a lifetime by his Orc clan *Iron Tusk* for being “soft gutted,” 
 
 ---
 
+## Stat Snapshot
+
+```text
+STR 14 (+2)   DEX 10 (+0)   CON 16 (+3)
+INT 8  (-1)   WIS 18 (+4)   CHA 8  (-1)
+HP 43   AC 18   Speed 30 ft
+Proficiency Bonus +2
+Spell Save DC 15   Spell Attack +7
+```
+
+---
+
 ## Personality
 
 * Gruff bedside manner, secretly tender-hearted
@@ -51,12 +63,3 @@ Mocked half a lifetime by his Orc clan *Iron Tusk* for being “soft gutted,” 
 
 ---
 
-## Stat Snapshot
-
-```text
-STR 14 (+2)   DEX 10 (+0)   CON 16 (+3)
-INT 8  (-1)   WIS 18 (+4)   CHA 8  (-1)
-HP 43   AC 18   Speed 30 ft
-Proficiency Bonus +2
-Spell Save DC 15   Spell Attack +7
-```

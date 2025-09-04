@@ -12,6 +12,19 @@
 
 ---
 
+## Stat Snapshot
+
+```text
+STR 18 (+4)   DEX 14 (+2)   CON 14 (+2)
+INT 10 (+0)  WIS 12 (+1)   CHA 8 (-1)
+
+HP 44   AC 16 (shield bump as needed)   Speed 30 ft
+Proficiency Bonus +2
+Spell Save DC —   Spell Attack —
+```
+
+---
+
 ## Character Overview
 
 |                   |                                      |
@@ -58,13 +71,3 @@ A gruff harengon who survived too many reckless charges under a Lawful Stupid so
 
 ---
 
-## Stat Snapshot
-
-```text
-STR 18 (+4)   DEX 14 (+2)   CON 14 (+2)
-INT 10 (+0)  WIS 12 (+1)   CHA 8 (-1)
-
-HP 44   AC 16 (shield bump as needed)   Speed 30 ft
-Proficiency Bonus +2
-Spell Save DC —   Spell Attack —
-```

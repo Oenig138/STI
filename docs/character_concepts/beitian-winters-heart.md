@@ -22,6 +22,19 @@ A sharp-tongued dragonborn rogue who grew up in a clan of deaf dragonborn sign-s
 
 ---
 
+## Stat Snapshot
+
+```text
+STR 8 (-1)   DEX 18 (+4)   CON 14 (+2)
+INT 16 (+3)  WIS 10 (+0)   CHA 8 (-1)
+
+HP 31   AC 17   Speed 30 ft
+Proficiency Bonus +2
+Spell Save DC 12   Spell Attack +4
+```
+
+---
+
 ## Personality
 
 * Chipper and sardonic; loves pranks and sly humor, using her psionic whispers to get a rise out of her companions
@@ -54,14 +67,3 @@ A sharp-tongued dragonborn rogue who grew up in a clan of deaf dragonborn sign-s
 	- **Flight + eagle eyes**: Treat her long-range lip-reading as a cinematic flourish rather than an “auto-succeed” button. Use distance, lighting, and obstacles to keep it balanced while rewarding creativity.  
 
 ---
-
-## Stat Snapshot
-
-```text
-STR 8 (-1)   DEX 18 (+4)   CON 14 (+2)
-INT 16 (+3)  WIS 10 (+0)   CHA 8 (-1)
-
-HP 31   AC 17   Speed 30 ft
-Proficiency Bonus +2
-Spell Save DC 12   Spell Attack +4
-```

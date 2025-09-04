@@ -20,6 +20,19 @@ A halfling refugee who escaped a grotesque gnomish blood-sport, Yelena lost her 
 
 ---
 
+## Stat Snapshot
+
+```text
+STR 8 (-1)   DEX 18 (+4)   CON 14 (+2)
+INT 10 (+0)  WIS 16 (+3)   CHA 8 (-1)
+
+HP 31   AC 17   Speed 40 ft
+Proficiency Bonus +2
+Spell Save DC 13   Spell Attack +5
+```
+
+---
+
 ## Personality
 
 * Fatalistic, dry humor; deeply principled, but understated. 
@@ -51,13 +64,3 @@ A halfling refugee who escaped a grotesque gnomish blood-sport, Yelena lost her 
 
 ---
 
-## Stat Snapshot
-
-```text
-STR 8 (-1)   DEX 18 (+4)   CON 14 (+2)
-INT 10 (+0)  WIS 16 (+3)   CHA 8 (-1)
-
-HP 31   AC 17   Speed 40 ft
-Proficiency Bonus +2
-Spell Save DC 13   Spell Attack +5
-```

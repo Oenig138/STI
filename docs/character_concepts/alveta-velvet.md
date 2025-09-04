@@ -20,6 +20,18 @@ Velvet grew up sparring with sticks in the woods with her childhood friend Reed,
 
 ---
 
+## Stat Snapshot
+
+```text
+STR 8  (-1)   DEX 16 (+3)   CON 14 (+2)
+INT 10 (+0)   WIS 12 (+1)   CHA 16 (+3)
+HP 36   AC 16   Speed 35 ft
+Proficiency Bonus +2
+Spell Save DC 13   Spell Attack +5
+```
+
+---
+
 ## Personality
 
 * Bravado and puns mask insecurity and imposter syndrome
@@ -51,12 +63,3 @@ Velvet grew up sparring with sticks in the woods with her childhood friend Reed,
 
 ---
 
-## Stat Snapshot
-
-```text
-STR 8  (-1)   DEX 16 (+3)   CON 14 (+2)
-INT 10 (+0)   WIS 12 (+1)   CHA 16 (+3)
-HP 36   AC 16   Speed 35 ft
-Proficiency Bonus +2
-Spell Save DC 13   Spell Attack +5
-```

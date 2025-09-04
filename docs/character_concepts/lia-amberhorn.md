@@ -20,6 +20,18 @@ Exiled from a family determined to scrub away Feywild excess, Lia plays the part
 
 ---
 
+## Stat Snapshot
+
+```text
+STR 8  (-1)   DEX 12 (+1)   CON 14 (+2)
+INT 10 (+0)   WIS 14 (+2)   CHA 18 (+4)
+HP 26   AC 14   Speed 35 ft
+Proficiency Bonus +2
+Spell Save DC 14   Spell Attack +6
+```
+
+---
+
 ## Personality
 
 * Masks ableism induced shame with an over-the-top “bimbo satyr” act
@@ -51,12 +63,3 @@ Exiled from a family determined to scrub away Feywild excess, Lia plays the part
 
 ---
 
-## Stat Snapshot
-
-```text
-STR 8  (-1)   DEX 12 (+1)   CON 14 (+2)
-INT 10 (+0)   WIS 14 (+2)   CHA 18 (+4)
-HP 26   AC 14   Speed 35 ft
-Proficiency Bonus +2
-Spell Save DC 14   Spell Attack +6
-```

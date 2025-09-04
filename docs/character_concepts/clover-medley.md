@@ -20,6 +20,19 @@ A farm-born tiefling from the blighted valley of Willow Grove, Clover carries he
 
 ---
 
+## Stat Snapshot
+
+```text
+STR 8 (-1)   DEX 16 (+3)   CON 16 (+3)
+INT 10 (+0)  WIS 14 (+2)   CHA 12 (+1)
+
+HP 48   AC 16 (18 with shield)   Speed 30 ft
+Proficiency Bonus +2
+Spell Save DC 12   Spell Attack +4
+```
+
+---
+
 ## Personality
 
 * Down-to-earth and stubborn, equally wholesome and macabre.
@@ -52,13 +65,3 @@ A farm-born tiefling from the blighted valley of Willow Grove, Clover carries he
 
 ---
 
-## Stat Snapshot
-
-```text
-STR 8 (-1)   DEX 16 (+3)   CON 16 (+3)
-INT 10 (+0)  WIS 14 (+2)   CHA 12 (+1)
-
-HP 48   AC 16 (18 with shield)   Speed 30 ft
-Proficiency Bonus +2
-Spell Save DC 12   Spell Attack +4
-```

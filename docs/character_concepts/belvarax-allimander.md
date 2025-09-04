@@ -20,6 +20,18 @@ Belvarax, once a gallant farmer-turned-paladin, has become a conflicted yet stea
 
 ---
 
+## Stat Snapshot
+
+```text
+STR 14 (+2)   DEX 10 (+0)   CON 14 (+2)
+INT 14 (+2)   WIS 8  (-1)   CHA 18 (+4)
+HP 36   AC 19 (Mithral Plate + Shield)   Speed 30 ft
+Proficiency Bonus +2
+Spell Save DC 14   Spell Attack +6
+```
+
+---
+
 ## Personality
 
 * Haunted by past disillusionment, now tries to honor his Paladin vows through radical doubt and intellectual discipline
@@ -61,13 +73,4 @@ His weapon of choice is the pike, historically used in the fairy tales when hero
 
 When he switches to sword-and-board, he becomes the archetypal paladin: shield high, blade steady, every move drilled until it’s part of his bones. AC 21 and Sap mastery means enemies find every strike turned aside or sapped of force. It’s not meant to be exciting, just economical and safe. This is the stance for when there’s no room to push or pull, when the only goal is to make sure everyone walks away alive.
 
-
-## Stat Snapshot
-
-```text
-STR 14 (+2)   DEX 10 (+0)   CON 14 (+2)
-INT 14 (+2)   WIS 8  (-1)   CHA 18 (+4)
-HP 36   AC 19 (Mithral Plate + Shield)   Speed 30 ft
-Proficiency Bonus +2
-Spell Save DC 14   Spell Attack +6
-```
+---

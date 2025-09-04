@@ -20,6 +20,19 @@ A friendly old halfling who thinks he joined a historical reenactment society, H
 
 ---
 
+## Stat Snapshot
+
+```text
+STR 8 (-1)   DEX 12 (+1)   CON 14 (+2)
+INT 10 (+0)  WIS 14 (+2)   CHA 18 (+4)
+
+HP 39   AC 13   Speed 30 ft
+Proficiency Bonus +2
+Spell Save DC 14   Spell Attack +6
+```
+
+---
+
 ## Personality
 
 * Agreeable, chatty, helpful, insouciant, always with a kind word for everyone and the patience of a saint.
@@ -52,12 +65,3 @@ A friendly old halfling who thinks he joined a historical reenactment society, H
 
 ---
 
-## Stat Snapshot
-
-```text
-STR 8 (-1)   DEX 12 (+1)   CON 14 (+2)
-INT 10 (+0)  WIS 14 (+2)   CHA 18 (+4)
-
-HP 39   AC 13   Speed 30 ft
-Proficiency Bonus +2
-Spell Save DC 14   Spell Attack +6

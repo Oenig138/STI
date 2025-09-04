@@ -20,6 +20,18 @@ Aramis Rosarian wanders from town to town posing as a priest of the obscure **Fe
 
 ---
 
+## Stat Snapshot
+
+```text
+STR 8  (-1)   DEX 12 (+1)   CON 14 (+2)
+INT 14 (+2)   WIS 10 (+0)   CHA 18 (+4)
+HP 26          AC 12         Speed 30 ft.
+Proficiency Bonus +2
+Spell Save DC 14   Spell Attack +6
+```
+
+---
+
 ## Personality
 
 * Distrustful; he has scryed too many dark thoughts to believe in virtue.
@@ -50,21 +62,9 @@ Aramis Rosarian wanders from town to town posing as a priest of the obscure **Fe
 
 ---
 
-## Stat Snapshot
-
-```text
-STR 8  (-1)   DEX 12 (+1)   CON 14 (+2)
-INT 14 (+2)   WIS 10 (+0)   CHA 18 (+4)
-HP 26          AC 12         Speed 30 ft.
-Proficiency Bonus +2
-Spell Save DC 14   Spell Attack +6
-```
+## Spellcasting Highlights
 
 **Metamagic**: Subtle Spell, Seeking Spell  •  **Sorcery Points**: 4  •  **Psionic Spells**: *Arms of Hadar, Calm Emotions, Detect Thoughts, Misty Step, Mind Sliver*
-
----
-
-## Spellcasting Highlights
 
 ### Cantrips
 

@@ -18,7 +18,19 @@
 
 Calypso “So-So” Sonder is the last noble practitioner of the **Opera of the Open Hand** — a theatrical combat tradition blending kabuki poses, lucha libre bombast and crowd pleasing, haka ceremonial ferocity, and the acrobatic prowess of Chinese opera. Once chanted to glory by roaring crowds, So-So now wanders as an aging showman, cloak billowing, mask gleaming, knees aching. He fights like a performer because for him, combat is theatre: a chance to inspire, to teach, and to embody the noblest aspirations of humanity. Unfortunately, aspirations don't draw big crowds anymore.
 
-⚠️**Contains light home-brew**: Suggestions for *Opera Flourishes* in combat.
+⚠️**Contains home-brew**: Suggestions for *Opera Flourishes* in combat.
+
+---
+
+## Stat Snapshot
+
+```text
+STR 10 (+0)   DEX 18 (+4)   CON 12 (+1)
+INT 8  (-1)   WIS 14 (+2)   CHA 14 (+2)
+HP 35   AC 14   Speed 40 ft
+Proficiency Bonus +2
+Focus Points 4   Save DC 12
+```
 
 ---
 
@@ -52,12 +64,3 @@ Calypso “So-So” Sonder is the last noble practitioner of the **Opera of the 
 	- Use his ageing and melancholy as pathos hooks: rival troupes, the Iron Tusks-style enemies of Geldok, or the fading of his art form can all test him.
 
 ---
-
-## Stat Snapshot
-
-```text
-STR 10 (+0)   DEX 18 (+4)   CON 12 (+1)
-INT 8  (-1)   WIS 14 (+2)   CHA 14 (+2)
-HP 35   AC 14   Speed 40 ft
-Proficiency Bonus +2
-Focus Points 4   Save DC 12

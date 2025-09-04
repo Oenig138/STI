@@ -18,6 +18,20 @@
 
 Thimble is a wandering orc fighter trained as a samurai but denied the noble’s blade. He carries his mother’s armor and sling, fighting with a relaxed bravado that masks scars from abuse and exile.
 
+⚠️**Contains home-brew**: Sling +1 with extra damage and hit mechanics, tied to backstory.
+
+---
+
+## Stat Snapshot
+
+```text
+STR [18] ([+4])   DEX [10] ([+0])   CON [15] ([+2])
+INT [10] ([+0])   WIS [14] ([+2])   CHA [8] ([-1])
+HP [36]   AC [18]   Speed [30 ft]
+Proficiency Bonus [+2]
+Spell Save DC [-]   Spell Attack [-]
+```
+
 ---
 
 ## Personality
@@ -50,13 +64,3 @@ Thimble is a wandering orc fighter trained as a samurai but denied the noble’s
 	- **Homebrew check**: Thimble has a home-brew sling called "Suna's roar", a memento of his mother. It's a Sling +1 with an extra 1d4 Thunder damage, and the *Thrown* property (so it can be wielded using STR instead of DEX).
 
 ---
-
-## Stat Snapshot
-
-```text
-STR [18] ([+4])   DEX [10] ([+0])   CON [15] ([+2])
-INT [10] ([+0])   WIS [14] ([+2])   CHA [8] ([-1])
-HP [36]   AC [18]   Speed [30 ft]
-Proficiency Bonus [+2]
-Spell Save DC [-]   Spell Attack [-]
-```
