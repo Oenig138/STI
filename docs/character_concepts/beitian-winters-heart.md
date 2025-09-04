@@ -18,6 +18,8 @@
 
 A sharp-tongued dragonborn rogue who grew up in a clan of deaf dragonborn sign-speakers, Betty blends psionic trickery with a hustler’s instinct. She is too clever for her own good and proud of it, and perpetually one perfect hand away from fortune.
 
+⚠️**Contains light home-brew**: Feat for lip-reading.
+
 ---
 
 ## Personality

@@ -9,6 +9,7 @@ Almost everything is designed to be **plug-and-play** with minimal prep. Charact
 On the **elephant in the room**: Yes, there are some mood images and visual aids that were AI generated. They're not essential to the concepts, which are 100% my own. They're just a way to show the vibes I'm going for. You're welcome to have **strong opinions on this**. Just remember this is free stuff, and you are welcome to only take the parts that you want, remix them and disregard everything else. If people can be civil, hopefully I won't get sad and stop making free stuff for y'all.
 
 As a rule, characters in this bundle are **PG-13**. Many work fine for younger audiences, but please check the notes responsibly. Any potential trigger warnings are added on the respective character pages.
+
 ---
 
 ## Explore

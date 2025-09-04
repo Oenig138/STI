@@ -8,6 +8,8 @@
 
 ⚠️ **Content Warning**: Donner’s backstory and gameplay notes involve **horror themes**, including survivor’s guilt, graphic descriptions of death, and a haunting Revenant antagonist in the style of [It Follows](https://sv.wikipedia.org/wiki/It_Follows). Please ensure this is appropriate for your table. Tone down or reframe details as needed to keep play comfortable for everyone.
 
+⚠️**Contains home-brew**: Haunting mechanics tied to Long rests, with debuffs on failed CHA save.
+
 ---
 
 ## Character Overview
