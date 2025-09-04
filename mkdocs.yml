@@ -19,6 +19,10 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.magiclink
+  
+  extra_css:
+  - assets/cards.css
+
   - toc:
       permalink: true
 

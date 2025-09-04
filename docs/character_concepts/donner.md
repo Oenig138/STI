@@ -12,19 +12,6 @@
 
 ---
 
-## Stat Snapshot
-
-```text
-STR 18 (+4)   DEX 14 (+2)   CON 14 (+2)
-INT 10 (+0)  WIS 12 (+1)   CHA 8 (-1)
-
-HP 44   AC 16 (shield bump as needed)   Speed 30 ft
-Proficiency Bonus +2
-Spell Save DC —   Spell Attack —
-```
-
----
-
 ## Character Overview
 
 |                   |                                      |
@@ -36,6 +23,19 @@ Spell Save DC —   Spell Attack —
 | **Role**          | Defensive tactician, grim survivor, party cook |
 
 A gruff harengon who survived too many reckless charges under a Lawful Stupid so-called hero, Donner learned to value preparation, pragmatism, and kale stew over glory and fortune. He fights like a demon, thinks like a cynic, and lives with the guilt of the choices that kept him breathing.
+
+---
+
+## Stat Snapshot
+
+```text
+STR 18 (+4)   DEX 14 (+2)   CON 14 (+2)
+INT 10 (+0)  WIS 12 (+1)   CHA 8 (-1)
+
+HP 44   AC 16 (shield bump as needed)   Speed 30 ft
+Proficiency Bonus +2
+Spell Save DC —   Spell Attack —
+```
 
 ---
 

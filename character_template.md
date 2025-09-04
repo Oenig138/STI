@@ -2,7 +2,7 @@
 
 ![Character Name](assets/firstname-lastname.png){ width="300" }
 
-> *"[Flavor quote from the provided Sample quotes in the character sheet.]"*
+> *"[Flavor quote from any sampled quote in the character sheet.]"*
 
 ---
 
@@ -17,6 +17,18 @@
 | **Role**          | [Party role summary]                 |
 
 [1–2 sentence narrative introduction. Who they are, what makes them unusual, and what tensions they carry.]
+
+---
+
+## Stat Snapshot
+
+```text
+STR [score] ([mod])   DEX [score] ([mod])   CON [score] ([mod])
+INT [score] ([mod])   WIS [score] ([mod])   CHA [score] ([mod])
+HP [value]   AC [value]   Speed [ft]
+Proficiency Bonus [+X]
+Spell Save DC [X]   Spell Attack [+X]
+```
 
 ---
 
@@ -50,13 +62,3 @@
 	- [Opportunity for growth or moral crisis]
 
 ---
-
-## Stat Snapshot
-
-```text
-STR [score] ([mod])   DEX [score] ([mod])   CON [score] ([mod])
-INT [score] ([mod])   WIS [score] ([mod])   CHA [score] ([mod])
-HP [value]   AC [value]   Speed [ft]
-Proficiency Bonus [+X]
-Spell Save DC [X]   Spell Attack [+X]
-```
