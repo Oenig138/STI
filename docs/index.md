@@ -15,8 +15,6 @@ As a rule, characters in this bundle are **PG-13**. Many work fine for younger a
 
 * [Character Concepts](character-concepts/)
 
-  * Three PC concepts are currently available.
-
     * [Alveta "Velvet", Air Genasi Oath of Glory Paladin whose childhood stickfights with her dearest friend turned into a scam, and later a dream of vindication.](character_concepts/alveta-velvet)
 	* [Aramis Rosarian, false cleric and secret aberrant sorcerer, who robs the rich with hollow blessings while quietly aching for a vineyard and a home.](character_concepts/aramis-rosarian)
 	* [Beitian “Betty” Winter’s Heart, deaf psionic dragonborn rogue, a puzzle-cracking prodigy turned gambling addict who swore she’ll pay her clan back in glory... someday. But first, Dragonchess!](character_concepts/beitian-winters-heart)

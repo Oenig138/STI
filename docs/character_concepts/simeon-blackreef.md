@@ -16,7 +16,7 @@
 | **Alignment**     | Lawful Neutral                          |
 | **Role**          | Control and utility caster; resilient skirmisher with sea-themed tricks                 |
 
-A vain but newly humbled sea-elf noble who channels the ocean’s fury. Simeon dresses like a prince, fights like a warden, and wrestles with whether his legacy is curse or compass.
+A vain but newly humbled sea-elf noble who channels the ocean’s fury. Simeon dresses like a prince, reasons like a brat, showers his friends with affection and wrestles with whether his legacy is curse or compass.
 
 ---
 

@@ -26,12 +26,13 @@ Exiled from a family determined to scrub away Feywild excess, Lia plays the part
 * Embodies the entitled Sorcerer archetype, using magic for everything
 * Loves cats and reckless fun, tries not to think too hard about tomorrow
 * Empathic, with much better instincts than she admits
+* Most likely party member to accidentally get bamfed into another realm and return with five new friends and a marriage proposal
 
 ---
 
 ## PDF Character Sheet
 
-📄 [Download full character sheet](../assets/lia-amberhorn-lv-4.pdf)
+📄 [Download full character sheet](../assets/lia-amberhorn.pdf)
 
 ---
 

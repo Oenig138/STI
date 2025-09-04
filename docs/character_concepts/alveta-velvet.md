@@ -1,6 +1,6 @@
 # Alveta "Velvet" 
 
-![Velvet](../assets/velvet.png){ width="300" }
+![Velvet](../assets/alveta-velvet.png){ width="300" }
 
 > *"Contrary to popular belief, my one big goal in life is not vindication… It’s windication."*
 
@@ -16,7 +16,7 @@
 | **Alignment**     | Chaotic Good                         |
 | **Role**          | Flashy duelist, skirmisher, inspirer  |
 
-Velvet grew up sparring with sticks in the woods with her childhood friend Reed, dreaming up the “Two Winds One Will” style. Their scam dojo days are behind her — now she duels with real blades, half showmanship, half stubborn faith that a child’s dream can become legend. Her Oath of Glory is not faith in gods, but in the idea that a mocked dream can inspire greatness.
+Velvet grew up sparring with sticks in the woods with her childhood friend Reed, dreaming up the “Two Winds One Will” style. Later, that style became a scam they used to perform for the smallfolk. Now, her McDojo days are firmly behind her, and  she duels with real blades, half showmanship, half stubborn pride. Her Oath of Glory is not about faith in the Gods, but in the impossible aspiration that a naïve childhood dream could still become reality. But the shadows of past transgressions, and her close childhood friend Reed, still loom.
 
 ---
 
@@ -26,6 +26,7 @@ Velvet grew up sparring with sticks in the woods with her childhood friend Reed,
 * Thrives on being underestimated, responds to mockery with flair
 * Fiercely loyal to Reed, even when rivalry deepens
 * Compassionate to outcasts and dreamers; knows what it’s like to be mocked
+* Most likely party member to mistakenly crash into a live scene performance and end up as the crowd favorite.
 
 ---
 

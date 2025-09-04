@@ -11,7 +11,7 @@
 |                   |                                      |
 | ----------------- | ------------------------------------ |
 | **Class & Level** | Sorcerer (Aberrant Mind) 4           |
-| **Background**    | Acolyte (Milestone variant)          |
+| **Background**    | Acolyte                              |
 | **Race**          | Human                                |
 | **Alignment**     | Neutral                              |
 | **Role**          | False cleric, telepathic manipulator |

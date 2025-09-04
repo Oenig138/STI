@@ -10,13 +10,13 @@
 
 |                   |                                          |
 | ----------------- | ---------------------------------------- |
-| **Class & Level** | Warlock (Genie) 4                     |
+| **Class & Level** | Warlock (Great Old One) 4                |
 | **Background**    | Charlatan                     |
 | **Race**          | Aasimar                                  |
 | **Alignment**     | Chaotic Neutral                          |
 | **Role**          | Celestial con‑artist, blaster and party face |
 
-Cephala was once a drifting card‑sharp who relied on her charm, sleight‑of‑hand, and changing aliases to stay a half skip ahead of the law. But one night when she was assailed by a mysterious inquisitor, her dormant celestial blood ignited, unleashing wings of light and a bond to the **Tattered Seraph**. She became something stranger: half radiant avatar, half street‑wise trickster, on a quest to find her own vanished people that only the Seraph remembers.
+Cephala was once a drifting card‑sharp who relied on her charm, sleight‑of‑hand, and changing aliases to stay a half skip ahead of the law. But one night when she was assailed by a mysterious inquisitor, her dormant celestial blood ignited, unleashing wings of light and a bond to the **Tattered Seraph**. She became something stranger: half radiant avatar, half street‑wise trickster, all wanderer, on a quest to find her own vanished people that only the Seraph remembers.
 
 ---
 

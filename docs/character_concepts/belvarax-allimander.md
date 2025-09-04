@@ -11,12 +11,12 @@
 |                   |                              |
 | ----------------- | ---------------------------- |
 | **Class & Level** | Paladin (Oath of Devotion) 4 |
-| **Background**    | Merchant         |
+| **Background**    | Farmer         |
 | **Race**          | Dragonborn (Gold Ancestry)   |
 | **Alignment**     | Neutral Good                 |
 | **Role**          | Tank, Support, Moral Compass |
 
-Belvarax, once a gallant merchant-turned-paladin, has become a conflicted yet steadfast guardian. Scorned for his compassion toward former enemies, he seeks redemption through restraint, not righteousness.
+Belvarax, once a gallant farmer-turned-paladin, has become a conflicted yet steadfast guardian. Scorned for his compassion toward former enemies, he seeks redemption through restraint, not righteousness.
 
 ---
 
@@ -50,9 +50,7 @@ Belvarax, once a gallant merchant-turned-paladin, has become a conflicted yet st
 	- **Get gritty** Force immediate moral action: child in danger, innocents accused, villains offering twisted logic.
 	- **Dirty him with politics** Give him personal moral crises—e.g., legitimate freedom fighters mistaken for raiders due to their undisciplined methods.
 	- ***I can do this all day*** Make sure that Belvarax gets a time to shine. He's built to come after and quietly save the day when the others rushed ahead and went down.
-	- **Have other Paladins feel threatened by Belvarax's passivity** His Paladin powers remain despite him seemingly breaking his code. An implicit divine validation of his evolving creed.
-	- **Equipment check** Belvarax sports full plate in his character sheet, which can be a lot for a level 4 character. 
-	
+	- **Have other Paladins feel threatened by Belvarax's passivity** His Paladin powers remain despite him seemingly breaking his code. An implicit divine validation of his evolving creed.	
 
 ---
 
