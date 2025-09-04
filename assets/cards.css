@@ -1,0 +1,71 @@
+/* Responsive grid */
+.character-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+/* Card container */
+.character-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 0.75rem;
+  box-shadow: var(--md-shadow-z2, 0 4px 10px rgba(0,0,0,.12));
+  transition: transform .2s ease;
+}
+.character-card:hover { transform: translateY(-2px); }
+
+/* Image */
+.character-card img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 3 / 4;     /* pleasant portrait ratio */
+  object-fit: cover;        /* crops gracefully if sizes vary */
+}
+
+/* Optional name chip in the corner */
+.character-card .name {
+  position: absolute;
+  top: .5rem;
+  left: .5rem;
+  background: rgba(0,0,0,.6);
+  color: #fff;
+  padding: .2rem .5rem;
+  border-radius: .5rem;
+  font-weight: 600;
+  font-size: .9rem;
+}
+
+/* Hover/tap reveal panel */
+.character-card figcaption {
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,.75);
+  color: #fff;
+  padding: .75rem .9rem;
+  font-size: .9rem;
+  line-height: 1.3;
+  transform: translateY(100%);
+  transition: transform .2s ease;
+}
+
+/* Reveal on hover and when the link inside gets keyboard focus */
+.character-card:hover figcaption,
+.character-card:focus-within figcaption {
+  transform: translateY(0);
+}
+
+/* Make the whole card clickable via an empty link stretched over it */
+.character-card a {
+  position: absolute;
+  inset: 0;
+  text-decoration: none;
+  color: inherit;
+  outline: none;
+}
+
+/* Phone/tablet: no hover, so keep captions visible */
+@media (hover: none) {
+  .character-card figcaption { transform: translateY(0); }
+}
