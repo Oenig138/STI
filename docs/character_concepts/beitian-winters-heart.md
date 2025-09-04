@@ -2,7 +2,7 @@
 
 ![Betty Winter’s Heart](assets/beitian-winters-heart.png){ width="300" }
 
-> *“Life’s a game of Dragonchess. Sometimes you sacrifice a rook, sometimes you bluff with nothing in hand. Either way, I’m still playing.”*
+> *“Hey barkeep, yes this is the white dragonborn gal in the corner speaking directly into your mind. Crazy, right? Anyway, couldn't be arsed to get up. Pretzels please!”*
 
 ---
 
