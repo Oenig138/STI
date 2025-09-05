@@ -16,7 +16,7 @@
 | **Alignment**     | Lawful Good                          |
 | **Role**          | Frontline striker and protector; moral compass with slapstick delivery |
 
-Rikiki Twilk is a big‑hearted, bird‑brained zealot barbarian who atones for a tragic fire by protecting children, puppies, and the weak with unshakeable loyalty. He hits like a cart of bricks rolling downhill and has the moral subtlety of an anvil in decaying orbit.
+Rikiki Twilk is a highly principled but bird‑brained Zealot Barbarian who atones for a tragic fire by bonking wrongdoers and trying to live by a code undergoing constant revision. He tries everything a bit too hard, which is both saddening, endearing and occasionally hilarious.
 
 ---
 
@@ -34,9 +34,9 @@ Spell Save DC 10   Spell Attack +2
 
 ## Personality
 
-* Earnest to a fault, incapable of irony; often comic in clumsiness.
-* Fierce protector of children and the vulnerable; punishes actions, not identities.
+* Earnest to a fault, incapable of irony; often comic in clumsiness..
 * Trusting, loyal, and endlessly patient, but deeply gullible.
+* Tries and fails to create a foundational ethics document with simplistic terms: Bad wizard: bonk. Bread thief: check if hungry.
 * Haunted by guilt from burning his orphanage; desperate for redemption.
 * Most likely in the party to crash into a fruit stand for justice.
 

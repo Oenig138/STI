@@ -61,5 +61,27 @@ Spell Save DC 13   Spell Attack +5
 	- Reed is her strongest hook: play him as rival, foil, and eventual tragedy, but don’t let him steal her spotlight.
 	- Garrick Pike makes an excellent long-term rival/mentor NPC. His presence reinforces Velvet’s growth without overshadowing her arc.
 
+??? danger "Plot hooks for the DM only"
+	Reed, Velvet’s childhood friend, has franchised their old “game” into a flashy dojo scam under the patronage of the wealthy merchant who took him in. The school has become infamous as a joke across taverns and training yards. Velvet is mocked for using its flourishes, unaware at first that Reed is the one behind it. When she eventually confronts him, she finds him bitter and defensive, convinced he’s the true heir of their “style.” To his students, Velvet looks like the fraud. 
+
+	*The Shadow of Garrick Pike* 
+	Garrick is a scrappy but deadly high level Fighter. He becomes Velvet’s recurring rival and mentor, duelling her throughout the campaign. He offers begrudging lessons and measures her progress. But something keeps him busy and he never stays long. DM hook: The campaign's BBEG? He’s stern but grows proud of her over time, promising to retire the day Velvet beats him. But before that day comes, Reed, who still only knows him as the man who humiliated them, slays him using a cursed blade. This robs her of closure and fuels a final, tragic confrontation. Reed is changed beyond recognition.
+
+	*Reed’s Descent* 
+	As Velvet’s reputation slowly shifts from “laughing stock” to “inspiring duelist,” Reed grows desperate. His school begins to slip as challengers expose his limits. Pressured, possibly by his merchant patron and his own obsession, he seeks forbidden weapons. Eventually, he bonds with a cursed greatsword, becoming a Hexblade Warlock. His fighting style turns into a grotesque parody of the “Two Winds” school, every flourish now powered by infernal hunger. A child's dream turned nightmarish.
+
+	*Suggested Arc*
+	1. Early: Velvet duels Garrick recurrently, losing but growing each time. Rumors of her “fake style” dog her steps; taverns and rivals mock her. 
+
+	2. Middle: Velvet discovers Reed's school. Their first reunion is bitter. He claims she abandoned the dream, while he preserved it. He continues running the scam while she proves herself in real duels. 
+
+	3. Escalation: Velvet starts winning duels that matter: guard captains, bandits, robber barons. She begins to inspire others, living her Oath of Glory. Reed, humiliated by comparison, becomes desperate. Garrick advices Velvet to not mind the haters and reassures her that she shows real growth. Nothing can take that away from her. 
+
+	4. The Cruel Twist: Reed kills Garrick with his cursed blade, robbing Velvet of her promised final duel with her rival. This is a great time to throw in a reveal: Maybe Reed has his own master, Garrick's rival?
+
+	5. Climax: Velvet confronts Reed the Hexblade Warlock, now under the cursed blade's influence. The fight is as much about reclaiming their childhood dream as it is about stopping a monster. Her two-sword style, once mocked, finally finds vindication.
+
+	They were childhood sweethearts, like two peas in a pod. Reed was the only other who shared Velvet's dream. He can finish her sentences, knows her puns, calls her "Alveta". Every flourish he makes evokes core memories in her. She sees the dark armor and remembers the tramp, the blushing boy. This is ultimately a tragic story, but think less King Arthur, more Cobra Kai meets Anakin Skywalker.
+
 ---
 
