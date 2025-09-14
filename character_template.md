@@ -42,6 +42,12 @@ Spell Save DC [X]   Spell Attack [+X]
 
 ---
 
+## Backstory (Short Form)
+
+A few sentences covering the essentials.
+
+---
+
 ## PDF Character Sheet
 
 📄 [Download full character sheet](assets/[firstname-lastname.pdf])

@@ -27,6 +27,8 @@ One minute onboarding:
 
 ## Explore
 
+**Locations:** [Lith and Flesh](lith-and-flesh.md), a decadent boutique where petrified objects are modified and sold at premium rates. Tone: Satire, Body horror, Comedy. Includes Jeremy, the NPC that refuses to die.
+
 <div class="character-gallery" markdown>
 
 <figure class="character-card">

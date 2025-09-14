@@ -2,7 +2,7 @@
 
 ![Rikiki Twilk](assets/rikiki-twilk.png){ width="300" }
 
-> *"Cats may not be evil, but I have my eye on them."*
+> *"I grew up with bullies like you. I know the way you look for weakness. Go ahead. Look close. I have all day."*
 
 ---
 

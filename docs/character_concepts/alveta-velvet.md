@@ -71,6 +71,7 @@ Spell Save DC 13   Spell Attack +5
 	As Velvet’s reputation slowly shifts from “laughing stock” to “inspiring duelist,” Reed grows desperate. His school begins to slip as challengers expose his limits. Pressured, possibly by his merchant patron and his own obsession, he seeks forbidden weapons. Eventually, he bonds with a cursed greatsword, becoming a Hexblade Warlock. His fighting style turns into a grotesque parody of the “Two Winds” school, every flourish now powered by infernal hunger. A child's dream turned nightmarish.
 
 	*Suggested Arc*
+	
 	1. Early: Velvet duels Garrick recurrently, losing but growing each time. Rumors of her “fake style” dog her steps; taverns and rivals mock her. 
 
 	2. Middle: Velvet discovers Reed's school. Their first reunion is bitter. He claims she abandoned the dream, while he preserved it. He continues running the scam while she proves herself in real duels. 

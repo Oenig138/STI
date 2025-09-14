@@ -16,7 +16,7 @@
 | **Alignment**     | Chaotic Neutral                          |
 | **Role**          | Celestial con‑artist, blaster and party face |
 
-Cephala was once a drifting card‑sharp who relied on her charm, sleight‑of‑hand, and changing aliases to stay a half skip ahead of the law. But one night when she was assailed by a mysterious inquisitor, her dormant celestial blood ignited, unleashing wings of light and a bond to the **Tattered Seraph**. She became something stranger: half radiant avatar, half street‑wise trickster, all wanderer, on a quest to find her own vanished people that only the Seraph remembers.
+Cephala was once a chronically drifting card‑sharp who relied on her charm, sleight‑of‑hand, and changing aliases to stay a half skip ahead of the law. But one night when she was assailed by a mysterious inquisitor, her dormant celestial blood ignited, unleashing wings of light and a bond to the **Tattered Seraph**. She became something stranger: half radiant avatar, half street‑wise trickster, all wanderer, on a quest to find her own vanished people that only the Seraph remembers.
 
 ---
 
@@ -52,65 +52,17 @@ Damage Resistances: Radiant, Necrotic
 ## Gameplay Notes
 
 ??? info "Playing Cephala effectively"
-	- **Pact of the Tome** is Cephala's notebook for storing clues about her people. 
-	- **Celestial Revelation** grants flight, light aura, or fear burst once per long rest.
-	- **Eldritch Invocations** add utility (*Find Familiar*, *Thorn Whip*, *Minor Illusion*, etc.).
-	- Use *Suggestion* and *Invisibility* to pull social heists; fallback to *Armor of Agathys* for durability.
+	- **Pact of the Tome** is not just for spells, it's Cephala's metaphysical notebook for storing clues about her people. You can have it bamf in and out of existence in a nonchalant way, and treat it with a lot less respect than most spellcasters treat their tomes. Remember, Cephala never asked for any of this.
+	- **Tarot readings** Cephala makes her living making faux tarot readings. Perhaps sometimes she can find out things that the DM wants to foreshadow. Give the DM the chance to communicate in cryptic ways with the party through your cards by occasionally doing a spread!
+	- **Wanderlust** Cephala can't remain in place for any extended period of time. But by this point, she doesn't even know what she's looking for. Wandering is both her big relief and her big sorrow. Perhaps one day she'll find the one thing, or person, that are compelling enough to let her set roots. Play around with what you want this to be, and how you want the mood of Cephala's story arc. Is she more of a dandelion seed waiting to settle? What gifts could she bring once she decides to stay? What does your own version of Cephala value? Community work like running an orphanage? Romance? Or a life of continued adventure?
 
-??? danger "DM Guidance"
+??? danger "DM Guidance and plot hooks"
 	- The **Tattered Seraph** should feel dreamlike, cryptic, even unreliable. A deeper revelation may show that the people it is searching for is tragically much more close than either of them realize. The Tattered Seraph is immensely powerful, but utterly insane and confused. Meanwhile, Cephala may be too impulsive to follow leads consistently. Plan accordingly.
 	- The inquisitor **Morben**, witness to her awakening, makes a potent recurring antagonist. But is he truly a villain or a Les Mis "Jauvert" type antagonist?
 	- Lean into omens via her treasured deck: each draw foreshadows or complicates scenes. The world is your oyster. Go wild.
-
----
-
-
-## Hooks & Complications
-
-* A **cryptic tarot spread** predicts doom for someone the party cares about.
-* Morben’s **witch‑catchers** start interrogating people the party cares about.
-* Cephala has the mind of a Rogue in the body of a Warlock. There will be marks looking to settle grievances.
-
-## The Truth of the Tattered Seraph
-
-Cephala eventually learns the truth: the Tattered Seraph *is* her people — the result of a magical catastrophe that fused their minds and bodies into one fractured celestial entity. The countless eyes are the scattered perspectives of every soul trapped inside, half-aware and yearning for identity. The Seraph knows *something* happened, but its memory is clouded and unstable; full awareness could shatter it.  
-
-The Inquisition guards this secret, claiming it’s to prevent the disaster from ever happening again — but whether their motives are pure, political, or both is unclear.
-
----
-
-### Possible Endgames
-
-#### 1. **The Gentle Lie** (Benevolent)
-Cephala chooses to protect the Seraph from the truth, keeping it ignorant to preserve its fragile unity.  
-- The Seraph remains a living, if incomplete, remnant of her people.  
-- Cephala bears the guilt and burden of knowing.  
-- The Inquisition, seeing her cooperation, may offer a wary alliance — or keep her under close watch.  
-- **Tone:** Quiet heroism, sacrifice without recognition.
-
-#### 2. **The Restoration Gambit** (Bittersweet)
-Cephala seeks a way to reintegrate the Seraph’s mind and restore her people.  
-- Success means her people return — but Cephala’s identity is erased, becoming part of the whole.  
-- Partial success might restore only fragments: some live again, others are lost forever.  
-- Failure risks the Seraph collapsing into madness, scattering its essence across the planes.  
-- **Tone:** Epic tragedy, self-sacrifice, the cost of hope.
-
-#### 3. **The Fracture of Truth** (Tragic)
-Cephala tells the Seraph everything, against all warnings.  
-- The Seraph’s mind splinters, voices pulling in different directions.  
-- The Inquisition moves to destroy or contain the unstable entity.  
-- Cephala must choose: defend it against all odds, aid in putting it down, or flee with what fragments she can save.  
-- **Tone:** Raw moral weight, no clean victories, lasting consequences.
-
----
-
-### Ongoing Hooks
-- **Echo Memories:** At times, a voice from within the Seraph speaks directly to Cephala — someone she may have known in life.  
-- **Shifting Personas:** The Seraph’s demeanor changes as different personalities surface.  
-- **Inquisition’s Stance:** Their agents range from ruthless zealots to conflicted idealists; any could become ally or enemy.  
-- **Moral Pressure:** Every truth Cephala uncovers increases the risk to the Seraph’s stability.
-
-
+	- **The Truth of the Tattered Seraph**: Cephala eventually learns the truth: the Tattered Seraph *is* her people! The result of a magical catastrophe that fused their minds and bodies into one fractured celestial entity. The countless eyes are the scattered perspectives of every soul trapped inside, half-aware each yearning for identity, all struggling and tugging at their communal form like a ten thousand people large marriage with only one blanket. The Seraph knows *something* happened, but its memory is clouded and unstable. Full awareness could shatter it beyond repair. The Inquisition guards this secret, claiming it’s to prevent the disaster from ever happening again... but whether their motives are pure, political, or both is unclear.
+	-  A **cryptic tarot spread** predicts doom for someone the party cares about.
+	-  Morben’s **witch‑catchers** start interrogating people in the party's vicinity.
 
 ---
 
