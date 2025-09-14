@@ -20,13 +20,73 @@ Lith & Flesh is a boutique that specializes in luxury goods carved from **petrif
 
 ---
 
+---
+
+## Proprietor: Veyra of the Gilded Chisel
+
+*“Art redeems all things. Yes, even ruin. Especially ruin. Only art can carry a message from the dead to the living.”*
+
+Veyra (they/them) is the visionary behind Lith & Flesh. Once a guttersnipe sketching on crumbling walls, they briefly tried the adventuring life in search of coin and grandeur. On their very first delve, their best friend Iressa was struck by a basilisk’s gaze. Veyra dragged her petrified form back to the city, polishing the stone each morning, whispering words of regret and shame to the unhearing face each night.
+
+Years passed before revelation struck. The statue itself had beauty, dignity, permanence, even as Veyra themselves grew older. Selling Iressa’s form was Veyra’s first act of “redemption.” They vowed to turn such tragedies into art, so the fallen might never be forgotten. And the nobles and wealthy guilds absolutely ate it up.
+
+### Appearance
+- Glittering beard dusted with enchanted mica and fragrances of clover and violet 
+- Cat-sharp eyeliner that turns every glance into a performance  
+- Layer upon layer of silks with precious stones, hiding their body contour in luxury.
+- Rings on every finger, yet a deep sadness in their eyes.
+
+### Personality
+- **Brilliant eye:** Spots artistry in the grotesque, reaches out to the PC with the messiest past and findds beauty there.
+- **Sincerely deluded:** Refuses to believe petrified statues might still be aware, and they're too far invested to walk back on this.
+- **Insecure roots:** Obsession with elegance stems from their squalid past. 
+
+### Roleplaying Veyra
+- **Patron:** Might hire adventurers to fetch “raw material” with chilling nonchalance.
+- **Confidant:** If befriended, they can provide genuine emotional support, not to mention material wealth.
+- **Antagonist:** If pressed on the “still sentient” rumor, Veyra grows defensive, then furious. They’ll fight to preserve both their fortune, their philosophy and ultimtely their peace of mind. 
+- **Complicated past:** A wise PC (e.g. Insight skill check) may realize that Veyra has skin in the game. They sold their dearest friend as a statue years ago. The realization that they may have saved her instead may be too much for their heart to bear, and make them unwilling to listen.
+
+---
+
+??? info "Veyra, Proprietor of Lith & Flesh (Social Stat Block)"
+    *Medium humanoid (any), Lawful Neutral*
+
+    **Armor Class** 12 (fine silks, little combat ability)  
+    **Hit Points** 36 (6d8 + 8)  
+    **Speed** 30 ft.  
+
+    | STR | DEX | CON | INT | WIS | CHA |
+    |:--:|:--:|:--:|:--:|:--:|:--:|
+    | 9 (–1) | 12 (+1) | 12 (+1) | 15 (+2) | 13 (+1) | 18 (+4) |
+
+    **Saving Throws** Wis +3, Cha +6  
+    **Skills** Insight +3, Persuasion +8, Deception +6, Performance +6  
+    **Senses** passive Perception 11  
+    **Languages** Common, Elvish, Draconic  
+    **Challenge** 2 (450 XP)  
+
+    **Traits**  
+    - **Silver Tongue.** Advantage on Persuasion checks with nobility.  
+    - **Collector’s Eye.** Advantage on Investigation checks relating to art or stonework.  
+    - **Unshakable Belief.** Immune to fear effects that question their philosophy.  
+
+    **Actions**  
+    - **Cutting Remark (Recharge 5–6).** As a bonus action, Veyra targets one creature within 30 ft. that can hear them. The target must succeed on a DC 14 Wisdom save or have disadvantage on their next attack roll.  
+    - **Dagger (for show).** +3 to hit, 1d4+1 piercing.  
+
+    **Reactions**  
+    - **Deflect with Wit.** When targeted by an Intimidation or Persuasion check, Veyra can roll a Charisma (Deception) contest. On a success, the attempt fails.
+
+---
+
 ## Plot Hooks
 
 1. **The Macabre Marketplace:** The party needs gold, and the boutique is hiring adventurers to bring in petrified monsters.  
 2. **The Screaming Furniture:** Rumors spread that petrified creatures remain conscious. A concerned noble hires the party to investigate after hearing terrible moans throughout a banquet.  
-3. **Orbital Cannon Mass Dispel Event:** A rival guild, mad mage, unlikely lunar flare or unholy artifact casts a city-wide *Dispel Magic*. The boutique’s “collection” comes to life all across the city. Many die immediately since they've been hollowed out, but many live and are *pissed*. 
-4. **The Vanished Adventurer:** The party seeks an important artifact last held by a long-lost wanderer. Tracing clues leads to Lith & Flesh, where the man—or what remains of him—is sealed within a display piece of a Gelatinous Cube. 
-5. **The Noble’s Statue:** A rival family boasts a statue of an enemy they petrified. The victim’s allies hire the party to restore them.  
+3. **Orbital Cannon Mass Dispel Event:** A rival guild, mad mage, unlikely lunar flare or unholy artifact casts a city-wide *Dispel Magic*. The boutique’s “collection” comes to life all across the city. Many die immediately since they've been hollowed out, but many live and are *pissed*. This can become every bit as epic as you wish as a DM. What if a BBEG chromatic dragon was petrified long ago? Or just make it into a monster neutralization race, throwing in whatever you want in people's homes, public parks, guild halls and what have you.
+4. **The Vanished Adventurer:** The party seeks an important artifact last held by a long-lost wanderer. In the cave where he disappeared they find smashed petrified Gelatinous cubes, and dragging scuffs on the floor. Tracing the clues leads them to Lith & Flesh, where the man—or what remains of him—is unfortunately sealed within a display piece of a Gelatinous Cube. So their item is on a person inside a monster claimed by a spell and protected by guards. Of course they *could* just throw a Dispel Magic, but at what cost?
+5. **The Noble’s Statue:** A rival family boasts a statue of an enemy they petrified, an actual sapient being this time. The victim’s allies hire the party to restore them.  
 
 ---
 
@@ -35,6 +95,15 @@ Lith & Flesh is a boutique that specializes in luxury goods carved from **petrif
 - **Comic Relief:** Nobles dining on monsters frozen mid-roar.  
 - **Body Horror:** Living minds trapped in decorative stone.  
 - **Social Satire:** Grotesque luxury, where life itself is consumed as a status symbol.  
+
+---
+
+!!! note "Moral Dilemmas"
+    Selling petrified monsters can earn the party serious gold, but it also risks their reputation.  
+    - Nobles may see them as “respectable suppliers,” while local clerics brand them as desecrators. 
+    - If Evil aligned, rival adventurers may attack them as poachers.
+	- If Good aligned, they may also be recruited by druids after rival adventurers have been going through the forests petrifying the dryads.
+	- Take care to drop the information that the creatures may still be conscious in there at the right time.
 
 ---
 
@@ -69,9 +138,9 @@ Like a cockroach, Jeremy simply doesn't die. Throughout the campaign, he can be 
 
 He can function as your campaign's *M'aiq the Liar*, an unlikely easter egg who provides levity, brief character interaction and perhaps a vital clue to the dungeon they're in. Remember to always have a good, entertaining story prepared for *why he's survived this time.*
 
-**Example:** Caught by ilithids and infected with a tadpole? Once alone, Jeremy used Metamagic *Careful spell* and cast Gaseous form on himself but not the Tadpole, resulting in it falling harmlessly to the floor. He ended up having to eat it to get rid of the evidence, and when the PC's arrive at the Ilithids' lair, they find him dining with the rest of the Mindflayers, pretending to be in a mid-transition and buying time, looking for the right time to escape.
+**Example:** Caught by ilithids and infected with a tadpole? Once alone, Jeremy used Metamagic *Careful spell* and cast Gaseous form on himself but not the Tadpole, resulting in it falling harmlessly to the floor. He ended up having to eat it to get rid of the evidence ("tasted like calamari"), and when the PC's arrive at the Ilithids' lair, they find him dining with the rest of the Mindflayers, pretending to be in a mid-transition and buying time, looking for the right time to escape.
 
-## Jeremy, the Cockroach
+## Jeremy, stat blocks
 
 Jeremy has an uncanny knack for survival, no matter the situation.  
 Use the stat block that best fits your party’s tier.
