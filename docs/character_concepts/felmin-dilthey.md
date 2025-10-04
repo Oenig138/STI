@@ -51,7 +51,7 @@ Felmin grew up in the high mountains, child of naturalists who maintained an anc
 
 ## PDF Character Sheet
 
-📄 [Download full character sheet](../assets/Felmin%20Dilthey%20lv%204%20flattened.pdf)
+📄 [Download full character sheet](assets/felmin-dilthey.pdf)
 
 ---
 
