@@ -37,14 +37,14 @@ Years passed before revelation struck. The statue itself had beauty, dignity, pe
 - Rings on every finger, yet a deep sadness in their eyes.
 
 ### Personality
-- **Brilliant eye:** Spots artistry in the grotesque, reaches out to the PC with the messiest past and findds beauty there.
+- **Brilliant eye:** Spots artistry in the grotesque, reaches out to the PC with the messiest past and finds beauty there.
 - **Sincerely deluded:** Refuses to believe petrified statues might still be aware, and they're too far invested to walk back on this.
 - **Insecure roots:** Obsession with elegance stems from their squalid past. 
 
 ### Roleplaying Veyra
 - **Patron:** Might hire adventurers to fetch “raw material” with chilling nonchalance.
 - **Confidant:** If befriended, they can provide genuine emotional support, not to mention material wealth.
-- **Antagonist:** If pressed on the “still sentient” rumor, Veyra grows defensive, then furious. They’ll fight to preserve both their fortune, their philosophy and ultimtely their peace of mind. 
+- **Antagonist:** If pressed on the “still sentient” rumor, Veyra grows defensive, then furious. They’ll fight to preserve both their fortune, their philosophy and ultimately their peace of mind. 
 - **Complicated past:** A wise PC (e.g. Insight skill check) may realize that Veyra has skin in the game. They sold their dearest friend as a statue years ago. The realization that they may have saved her instead may be too much for their heart to bear, and make them unwilling to listen.
 
 ---
@@ -85,7 +85,7 @@ Years passed before revelation struck. The statue itself had beauty, dignity, pe
 1. **The Macabre Marketplace:** The party needs gold, and the boutique is hiring adventurers to bring in petrified monsters.  
 2. **The Screaming Furniture:** Rumors spread that petrified creatures remain conscious. A concerned noble hires the party to investigate after hearing terrible moans throughout a banquet.  
 3. **Orbital Cannon Mass Dispel Event:** A rival guild, mad mage, unlikely lunar flare or unholy artifact casts a city-wide *Dispel Magic*. The boutique’s “collection” comes to life all across the city. Many die immediately since they've been hollowed out, but many live and are *pissed*. This can become every bit as epic as you wish as a DM. What if a BBEG chromatic dragon was petrified long ago? Or just make it into a monster neutralization race, throwing in whatever you want in people's homes, public parks, guild halls and what have you.
-4. **The Vanished Adventurer:** The party seeks an important artifact last held by a long-lost wanderer. In the cave where he disappeared they find smashed petrified Gelatinous cubes, and dragging scuffs on the floor. Tracing the clues leads them to Lith & Flesh, where the man—or what remains of him—is unfortunately sealed within a display piece of a Gelatinous Cube. So their item is on a person inside a monster claimed by a spell and protected by guards. Of course they *could* just throw a Dispel Magic, but at what cost?
+4. **The Vanished Adventurer:** The party seeks an important artifact last held by a long-lost wanderer. In the cave where he disappeared they find smashed petrified Gelatinous cubes, and dragging scuffs on the floor. Tracing the clues leads them to Lith & Flesh, where the man—or what remains of him—is unfortunately sealed within a display piece of a Gelatinous Cube. So their item is on a person inside a monster claimed by a spell and protected by guards. Of course they *could* just throw a Dispel Magic, but at what cost? Also, this person may have been trapped in the shop for some time (weeks? Months? *years?*), and may have heard all sorts of gossip.
 5. **The Noble’s Statue:** A rival family boasts a statue of an enemy they petrified, an actual sapient being this time. The victim’s allies hire the party to restore them.  
 
 ---
@@ -142,8 +142,7 @@ He can function as your campaign's *M'aiq the Liar*, an unlikely easter egg who 
 
 ## Jeremy, stat blocks
 
-Jeremy has an uncanny knack for survival, no matter the situation.  
-Use the stat block that best fits your party’s tier.
+Jeremy is not really an offensive NPC and likely won't ever try to attack the players unless severely provoked. But he has an uncanny knack for survival, no matter the situation. Use the stat block that best fits your party’s tier.
 
 ---
 
@@ -196,7 +195,8 @@ Use the stat block that best fits your party’s tier.
     **Traits**  
     - **Sneak Attack (2d6).**  
     - **Draconic Ancestry (Lightning).** Adds bonus hp per level.  
-    - **Sorcery.** *Mage Hand, Minor Illusion, Fire Bolt, Shield, Disguise Self, Mirror Image, Invisibility.*  
+    - **Sorcery.** *Mage Hand, Minor Illusion, Message, Fire Bolt, Shield, Disguise Self, Mirror Image, Invisibility.*  
+    - **Metamagic.** Can apply Careful, Twinned or Subtle Spell twice per short rest.  
     - **Cunning Action.** Bonus action Dash, Disengage, or Hide.  
     - **Unkillable Idiot.** When reduced to 0 hp, roll a d6. On 4–6, he survives at 1 hp.  
 
@@ -225,8 +225,8 @@ Use the stat block that best fits your party’s tier.
 
     **Traits**  
     - **Sneak Attack (2d6).**  
-    - **Sorcery.** *Fire Bolt, Mage Hand, Minor Illusion, Mirror Image, Counterspell, Hypnotic Pattern, Fly, Fireball.*  
-    - **Metamagic.** Can apply Careful or Subtle Spell once per short rest.  
+    - **Sorcery.** *Fire Bolt, Mage Hand, Message, Minor Illusion, Disguise Self, Mirror Image, Shield, Invisibility, Hypnotic Pattern, Counterspell, Fly, Gaseous Form.*  
+    - **Metamagic.** Can apply Careful, Twinned, Heightened or Subtle Spell three times per short rest.  
     - **Uncanny Dodge.** Reaction halves damage.  
     - **Unkillable Idiot.** When reduced to 0 hp, roll a d6. On 3–6, he survives at 1 hp.  
 

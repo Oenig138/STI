@@ -193,13 +193,13 @@ One minute onboarding:
 </figure>
 
 <figure class="character-card">
-  <img src="assets/characters/vilgor-blackwell.webp"
-       alt="Vilgor Blackwell, dwarf trickster cleric" loading="lazy">
-  <span class="name" id="name-vilgor-blackwell">Vilgor Blackwell</span>
-  <figcaption id="cap-vilgor-blackwell">
-    Dwarf Cleric (Trickster). TBA
+  <img src="assets/characters/felmin-dilthey.webp"
+       alt="Felmin Dilthey, Gnomish Circle of Stars Druid" loading="lazy">
+  <span class="name" id="name-felmin-dilthey">Felmin Dilthey</span>
+  <figcaption id="cap-felmin-dilthey">
+    A scientist who gazed at the wrong segment of the sky, survived the ordeal and got decidedly weirder.
   </figcaption>
-  <a href="character_concepts/vilgor-blackwell" aria-labelledby="name-vilgor-blackwell cap-vilgor-blackwell"></a>
+  <a href="character_concepts/felmin-dilthey" aria-labelledby="name-felmin-dilthey cap-felmin-dilthey"></a>
 </figure>
 
 <figure class="character-card">
