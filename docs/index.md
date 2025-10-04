@@ -133,6 +133,16 @@ One minute onboarding:
 </figure>
 
 <figure class="character-card">
+  <img src="assets/characters/kekiliat-anakaleaku.webp"
+       alt="Kekiliat 'Keki' Anakaleaku, Goliath Open Hand Monk" loading="lazy">
+  <span class="name" id="name-keki">Kekiliat “Keki” Anakaleaku</span>
+  <figcaption id="cap-keki">
+    Goliath Open Hand Monk shepherdess. Loves wrestling oxen, repetitive tasks, and dumplings.
+  </figcaption>
+  <a href="character_concepts/kekiliat-anakaleaku" aria-labelledby="name-keki cap-keki"></a>
+</figure>
+
+<figure class="character-card">
   <img src="assets/characters/korak-the-gilded.webp"
        alt="Korak the Gilded, hobgoblin barbarian" loading="lazy">
   <span class="name" id="name-korak-the-gilded">Korak the Gilded</span>
