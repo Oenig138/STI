@@ -1,8 +1,10 @@
-# Steal These Ideas
+	# Steal These Ideas
 
 <img src="assets/sti.png" alt="STI logo" width="300">
 
-**Steal These Ideas** is a free library of plug-and-play D&D material: prebuilt quality characters with clear personality, narrative hooks, and handouts that drop straight into your session. Remix what you want, ignore the rest.
+**Steal These Ideas** is a free library of plug-and-play D&D material: prebuilt **high-quality characters** with clear **personality, narrative hooks** and **unique voice**. Remix what you want, ignore the rest. 
+
+**Note:** Visual aid and graphics are indeed AI generated, *with love and care on a zero-budget*. Feel free to ignore these images if they rub you the wrong way. All I'm asking is that you judge the characters on their own merits.
 
 <p>
   <a href="#explore" class="md-button md-button--primary">Browse Character Concepts</a>
@@ -23,12 +25,16 @@ One minute onboarding:
 
 	- Click a character → read the concept → open the PDF sheet.
 	- Download a printable PDF if you want something table-ready.
-	- Drop into your session as an NPC or as one-shot pregens.
+	- Tweak as you wish, then drop into your session.
+	- These function equally as rich NPC's, well-developed one-shot pregens or campaign PC's.
 
 ## Explore
 
 **Locations:** 
 - **[Lith and Flesh](locations/lith-and-flesh.md)**, a decadent boutique where petrified objects are modified and sold at premium rates. Tone: Satire, Body horror, Comedy. Includes Jeremy, the NPC that refuses to die.
+
+**Factions:**
+- **[The Mud Nuns](factions/mud-nuns.md)**, a barefoot mendicant order of nuns living for mercy through mischief and larceny in the slums of the City. Tone: Heists, Divine trickstery, Urban Intrigue. Includes Sister Garra, PC/NPC who leaves receipts of "karma rebalanced" with her victims.
 
 <div class="character-gallery" markdown>
 
@@ -113,6 +119,16 @@ One minute onboarding:
 </figure>
 
 <figure class="character-card">
+  <img src="assets/characters/felmin-dilthey.webp"
+       alt="Felmin Dilthey, Gnomish Circle of Stars Druid" loading="lazy">
+  <span class="name" id="name-felmin-dilthey">Felmin Dilthey</span>
+  <figcaption id="cap-felmin-dilthey">
+    A scientist who gazed at the wrong segment of the sky, survived the ordeal and got decidedly weirder.
+  </figcaption>
+  <a href="character_concepts/felmin-dilthey" aria-labelledby="name-felmin-dilthey cap-felmin-dilthey"></a>
+</figure>
+
+<figure class="character-card">
   <img src="assets/characters/harold-carnap.webp"
        alt="Harold Carnap, halfling warlock" loading="lazy">
   <span class="name" id="name-harold-carnap">Harold Carnap</span>
@@ -137,7 +153,7 @@ One minute onboarding:
        alt="Kekiliat 'Keki' Anakaleaku, Goliath Open Hand Monk" loading="lazy">
   <span class="name" id="name-keki">Kekiliat “Keki” Anakaleaku</span>
   <figcaption id="cap-keki">
-    Goliath Open Hand Monk shepherdess. Loves wrestling oxen, repetitive tasks, and dumplings.
+    Goliath Kensei Monk shepherdess. Loves wrestling oxen, repetitive tasks, and dumplings.
   </figcaption>
   <a href="character_concepts/kekiliat-anakaleaku" aria-labelledby="name-keki cap-keki"></a>
 </figure>
@@ -163,6 +179,16 @@ One minute onboarding:
 </figure>
 
 <figure class="character-card">
+  <img src="assets/characters/olan-danu.webp"
+       alt="Olan Danù, Tortle Abjurer" loading="lazy">
+  <span class="name" id="name-olan-danu">Olan Danù</span>
+  <figcaption id="cap-olan-danu">
+    Tortle Abjurer diplomat who believes in mercy and kindness as rational investments, but struggles with mounting evidence that people aren't worth the effort. 
+  </figcaption>
+  <a href="character_concepts/olan-danu" aria-labelledby="name-olan-danu cap-olan-danu"></a>
+</figure>
+
+<figure class="character-card">
   <img src="assets/characters/rikiki-twilk.webp"
        alt="Rikiki Twilk, zealot barbarian" loading="lazy">
   <span class="name" id="name-rikiki-twilk">Rikiki Twilk</span>
@@ -183,13 +209,13 @@ One minute onboarding:
 </figure>
 
 <figure class="character-card">
-  <img src="assets/characters/thimble.webp"
-       alt="Thimble, orc samurai" loading="lazy">
-  <span class="name" id="name-thimble">Thimble</span>
-  <figcaption id="cap-thimble">
-    Orc Samurai. Former servant who slew his abuser. Roams in his mother’s armor with Kurosawa gravitas, bad jokes and Fighter's sprezzatura.
+  <img src="assets/characters/sister-garra.webp"
+       alt="Sister Garra, Tabaxi Trickster Cleric" loading="lazy">
+  <span class="name" id="name-sister-garra">Sister Garra</span>
+  <figcaption id="cap-sister-garra">
+    Tabaxi Trickster Cleric of the Mud Nuns, meticulous about accounting and receipts to the people she rob to keep their stagnant wealth from poisoning their souls.
   </figcaption>
-  <a href="character_concepts/thimble" aria-labelledby="name-thimble cap-thimble"></a>
+  <a href="character_concepts/sister-garra" aria-labelledby="name-sister-garra cap-sister-garra"></a>
 </figure>
 
 <figure class="character-card">
@@ -203,13 +229,13 @@ One minute onboarding:
 </figure>
 
 <figure class="character-card">
-  <img src="assets/characters/felmin-dilthey.webp"
-       alt="Felmin Dilthey, Gnomish Circle of Stars Druid" loading="lazy">
-  <span class="name" id="name-felmin-dilthey">Felmin Dilthey</span>
-  <figcaption id="cap-felmin-dilthey">
-    A scientist who gazed at the wrong segment of the sky, survived the ordeal and got decidedly weirder.
+  <img src="assets/characters/tormin-remus.webp"
+       alt="Tormin Remus, Changeling Fiend Warlock" loading="lazy">
+  <span class="name" id="name-tormin-remus">Tormin Remus</span>
+  <figcaption id="cap-tormin-remus">
+    "Guy Faust", a revolutionary who sold his soul and face to become the perfect insurrectionist, the pied piper of the smallfolk.
   </figcaption>
-  <a href="character_concepts/felmin-dilthey" aria-labelledby="name-felmin-dilthey cap-felmin-dilthey"></a>
+  <a href="character_concepts/tormin-remus" aria-labelledby="name-tormin-remus cap-tormin-remus"></a>
 </figure>
 
 <figure class="character-card">
@@ -242,7 +268,7 @@ One minute onboarding:
 Some mood images and visual aids are AI-generated to convey vibes. They’re non-essential and you're free to ignore them. The concepts and writing are original.
 
 **Is this PG-13?**  
-Yes. Most content works for younger audiences, but check notes on each page. Any trigger warnings appear on the relevant character pages.
+Yes. Most content works for younger audiences or can easily be tweaked, but check notes on each page. Any trigger warnings appear on the relevant character pages.
 
 **How are the characters designed?**
 All characters are designed to slot in seamlessly at many tables:
@@ -250,7 +276,7 @@ All characters are designed to slot in seamlessly at many tables:
 - Level 4 with one ASI taken
 - Built in the official character creator at dndbeyond.com
 - All ability scores are taken with the Points buy method.
-- All magic items are just suggestions, but are generally designed to fit most tables at level 4.
+- All magic items are just suggestions, but are generally designed to fit most tables at level 4 (1-2 Uncommon Magic items, or in rare cases 1 Rare item that seems like a suitable fit).
 
 Ultimately, these are just suggestions. Take what you want, discard, rebuild or remix the rest.
 
