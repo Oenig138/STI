@@ -52,7 +52,7 @@ Now a myth whispered among revolutionaries, Tormin topples regimes through imper
 
 ## PDF Character Sheet
 
-📄 [Download full character sheet](../assets/Tormin%20Remus%20lv%204%20flattened.pdf)
+📄 [Download full character sheet](../assets/tormin-remus.pdf)
 
 ---
 
