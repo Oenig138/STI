@@ -1,4 +1,7 @@
 # The Mud Nuns
+
+![The Mud Nuns' Holy Symbol](assets/logo.png){ width="300" }
+
 > *“May your pot never empty, and your purse never swell.”*
 
 ---
@@ -92,6 +95,8 @@ The Order enjoys **immense popularity among the poor and oppressed**. Their supp
 ---
 
 ## The Fork Raids
+
+![The Fork Raids are immensely popular with younger Mud Nuns](assets/fork-raid.png){ width="400" }
 
 > *“If the rich can’t stoop to eating with their hands, they shouldn’t eat at all.”*  
 > — Anonymous graffiti, Upper Ward
