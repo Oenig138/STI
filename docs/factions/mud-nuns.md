@@ -2,17 +2,17 @@
 
 ![The Mud Nuns' Holy Symbol](assets/logo.png){ width="300" }
 
-> *“May your pot never empty, and your purse never swell.”*
+> *“May your pot never empty, and your purse never swell, lest it be reorganized.”*
 
 ---
 
 ## Overview
 
-The **Mud Nuns** — formally *The Sisters of the Undulating Graces* — are a barefoot order of mendicant women who believe divinity resides in all parts of life, including sweat, soot, and labor. They hold that *purity* is a lie of the privileged meant to fatten their pride with illusions. Every act performed with compassion, whether cooking, thieving, or extortion, is holy if it eases suffering, restores balance, and teaches humility.
+The **Mud Nuns** — formally *The Sisters of the Undulating Graces* — are a barefoot order of mendicant women who believe divinity resides in all parts of life, including sweat, soot, and labor. They hold that *purity is a lie of the privileged*. 
 
-Wherever there is a gutter, the Mud Nuns are nearby. Their soup lines double as safehouses, their chants are esoteric codes passing information through the streets. They form a decentralized network of mercy and mischief that recognizes no boundary: saints, smugglers, pilferers, and stray dogs are sacred and profane in equal measure.
+Their activities blur the line between charity, espionage, spirituality, and organized crime. They maintain trade routes for smuggled identities and safe passage for the persecuted, bribe officials to look away, and rob nobles whose feasts could feed a district.
 
-Their activities blur the line between charity, espionage, spirituality, and organized crime. They maintain trade routes for smuggled identities and safe passage for the persecuted, bribe officials to look away, rob nobles whose feasts could feed a district, and redistribute the spoils among the poor.
+Wherever there is a gutter, the Mud Nuns are nearby. Their soup lines double as safehouses, their chants are both teaching scripture and secret codes passing information through the streets. They form a decentralized network of mercy and mischief that recognizes no boundary: saints, smugglers, pilferers, and stray dogs are sacred and profane in equal measure.
 
 ---
 
@@ -22,7 +22,7 @@ The order began with **three women** (Nymwe, Esthara and Gerthel) who refused te
 
 In defiance, the three broke into the Great Temple and **emptied its cupboard of relics**, selling them to foreign merchants for an immense sum. With the gold, they built kitchens for the poor, shelters for the hunted, and a network of secret safehouses throughout the city.
 
-The Seekers of Penitence swiftly signed contracts for their lives. For years, the three stayed hidden while building their network. Nymwe was finally captured, and later yet, Esthara, both whisked away to be summarily tried and executed in public. Only the third and youngest founder, Gerthel, lived to see the dream of a new Order of Faith come to fruition.
+The Seekers of Penitence swiftly signed contracts for their lives. For years, the three stayed hidden while building their network. Nymwe was finally captured, and later yet Esthara, both whisked away to be summarily tried and executed in public. Only the third and youngest founder, Gerthel, lived to see the dream of a new Order of Faith come to fruition.
 
 To this day, the Mud Nuns honor the three wise women, calling them the *Three Pillars of Faith*, and live by their creed: *To bow, to give, and to dare* (humility, charity and courage).
 
@@ -160,7 +160,7 @@ To the Seekers, the Mud Nuns are not just heretics against order and solidarity,
 No regular **D&D deity** is provided for the Sisters of the Undulating Graces. This keeps the concept portable to any campaign setting.
 
 ### Example Character
-**[Sister Garra](character_concepts/sister-garra.md)**: a Tabaxi Trickster Cleric with the *Mud Nun* background.
+**[Sister Garra](../character_concepts/sister-garra.md)**: a Tabaxi Trickster Cleric with the *Mud Nun* background.
 
 ### Mud Nun Background
 A homebrew variant of the *Scribe* background (2024 rules):
