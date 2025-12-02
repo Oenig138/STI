@@ -1,3 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="1.2em" height="1.2em" style="vertical-align: -0.2em; display: inline-block;"><g fill="currentColor"><path d="M12,14 Q12,8 32,8 Q52,8 52,14 L52,24 Q52,28 48,28 L16,28 Q12,28 12,24 Z"/><rect x="10" y="26" width="44" height="28" rx="2"/><circle cx="32" cy="40" r="4" fill="#000" opacity="0.3"/><rect x="10" y="32" width="44" height="2" opacity="0.2"/><rect x="10" y="48" width="44" height="2" opacity="0.2"/><ellipse cx="32" cy="26" rx="20" ry="3" opacity="0.15"/></g></svg>
+
+**Steal These Ideas** is a free library of plug-and-play D&D material...
+
 	# Steal These Ideas
 
 <img src="assets/sti.png" alt="STI logo" width="300">
