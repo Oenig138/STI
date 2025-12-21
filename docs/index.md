@@ -53,13 +53,13 @@ One minute onboarding:
 </figure>
 
 <figure class="character-card">
-  <img src="assets/characters/aramis-rosarian.webp"
-       alt="Aramis Rosarian, false cleric and secret aberrant sorcerer" loading="lazy">
-  <span class="name" id="name-aramis">Aramis Rosarian</span>
-  <figcaption id="cap-aramis">
-    Aberrant Sorcerer on the run in cleric disguise. Performs "miracles", collects tithes and secretly dreams of a vineyard.
+  <img src="assets/characters/basil-tenebrian.webp"
+       alt="Basil Tenebrian, Noble Bladesinger Shifter" loading="lazy">
+  <span class="name" id="name-basil">Basil Tenebrian</span>
+  <figcaption id="cap-basil">
+    A fugitive Noble shifter who mastered bladesinging under an elven sage, now hunted by his brother, but still a Good Boy.
   </figcaption>
-  <a href="character_concepts/aramis-rosarian" aria-labelledby="name-aramis cap-aramis"></a>
+  <a href="character_concepts/basil-tenebrian" aria-labelledby="name-basil cap-basil"></a>
 </figure>
 
 <figure class="character-card">
@@ -123,13 +123,13 @@ One minute onboarding:
 </figure>
 
 <figure class="character-card">
-  <img src="assets/characters/felmin-dilthey.webp"
-       alt="Felmin Dilthey, Gnomish Circle of Stars Druid" loading="lazy">
-  <span class="name" id="name-felmin-dilthey">Felmin Dilthey</span>
-  <figcaption id="cap-felmin-dilthey">
-    A scientist who gazed at the wrong segment of the sky, survived the ordeal and got decidedly weirder.
+  <img src="assets/characters/geldok-iron-tusk.webp"
+       alt="Geldok Iron Tusk, orc cleric" loading="lazy">
+  <span class="name" id="name-geldok-iron-tusk">Geldok Iron Tusk</span>
+  <figcaption id="cap-geldok-iron-tusk">
+    Orc Cleric. Ex-raider turned unlikely cleric of the Big Boss; more of a streetcorner "problem solver" than mainstream faith healer. 
   </figcaption>
-  <a href="character_concepts/felmin-dilthey" aria-labelledby="name-felmin-dilthey cap-felmin-dilthey"></a>
+  <a href="character_concepts/geldok-iron-tusk" aria-labelledby="name-geldok-iron-tusk cap-geldok-iron-tusk"></a>
 </figure>
 
 <figure class="character-card">
@@ -143,23 +143,13 @@ One minute onboarding:
 </figure>
 
 <figure class="character-card">
-  <img src="assets/characters/geldok-iron-tusk.webp"
-       alt="Geldok Iron Tusk, orc cleric" loading="lazy">
-  <span class="name" id="name-geldok-iron-tusk">Geldok Iron Tusk</span>
-  <figcaption id="cap-geldok-iron-tusk">
-    Orc Cleric. Ex-raider turned unlikely cleric of the Big Boss; more of a streetcorner "problem solver" than mainstream faith healer. 
+  <img src="assets/characters/iblit.webp"
+       alt="Iblit, Kobold Celestial Warlock" loading="lazy">
+  <span class="name" id="name-iblit">Iblit</span>
+  <figcaption id="cap-iblit">
+    Calvin & Hobbes meets Good Omens: A kobold teen warlock bound to an archangel who hates this assignment as much as he does.
   </figcaption>
-  <a href="character_concepts/geldok-iron-tusk" aria-labelledby="name-geldok-iron-tusk cap-geldok-iron-tusk"></a>
-</figure>
-
-<figure class="character-card">
-  <img src="assets/characters/kekiliat-anakaleaku.webp"
-       alt="Kekiliat 'Keki' Anakaleaku, Goliath Open Hand Monk" loading="lazy">
-  <span class="name" id="name-keki">Kekiliat “Keki” Anakaleaku</span>
-  <figcaption id="cap-keki">
-    Goliath Kensei Monk shepherdess. Loves wrestling oxen, repetitive tasks, and dumplings.
-  </figcaption>
-  <a href="character_concepts/kekiliat-anakaleaku" aria-labelledby="name-keki cap-keki"></a>
+  <a href="character_concepts/iblit" aria-labelledby="name-iblit cap-iblit"></a>
 </figure>
 
 <figure class="character-card">
@@ -193,23 +183,23 @@ One minute onboarding:
 </figure>
 
 <figure class="character-card">
-  <img src="assets/characters/rikiki-twilk.webp"
-       alt="Rikiki Twilk, zealot barbarian" loading="lazy">
-  <span class="name" id="name-rikiki-twilk">Rikiki Twilk</span>
-  <figcaption id="cap-rikiki-twilk">
-    Aarakocra Barbarian. Atones for his tragic mistakes by dive-bombing all wrongdoers and generally trying way too hard.
+  <img src="assets/characters/salynna-sally-tarrant.webp"
+       alt="Sally Tarrant, Human Oath of Redemption Paladin" loading="lazy">
+  <span class="name" id="name-salynna-sally-tarrant">Salynna "Sally the Pally" Tarrant</span>
+  <figcaption id="cap-salynna-sally-tarrant">
+    Trickster Pally
   </figcaption>
-  <a href="character_concepts/rikiki-twilk" aria-labelledby="name-rikiki-twilk cap-rikiki-twilk"></a>
+  <a href="character_concepts/salynna-sally-tarrant" aria-labelledby="name-salynna-sally-tarrant cap-salynna-sally-tarrant"></a>
 </figure>
 
 <figure class="character-card">
-  <img src="assets/characters/simeon-blackreef.webp"
-       alt="Simeon Blackreef, sea elf druid" loading="lazy">
-  <span class="name" id="name-simeon-blackreef">Simeon Blackreef</span>
-  <figcaption id="cap-simeon-blackreef">
-    Sea Elf Druid. Fallen noble scarred by pirates, hags and unloving parents; clings to his vanity like an armor, but still really needs a hug.
+  <img src="assets/characters/scarecrow.webp"
+       alt="Scarecrow, Warforged College of Whispers bard" loading="lazy">
+  <span class="name" id="name-scarecrow">Scarecrow</span>
+  <figcaption id="cap-scarecrow">
+    Warforged Bard who stood guard in a village square for centuries, quietly indexing every life. Gives great hugs. Also spies on you.
   </figcaption>
-  <a href="character_concepts/simeon-blackreef" aria-labelledby="name-simeon-blackreef cap-simeon-blackreef"></a>
+  <a href="character_concepts/scarecrow" aria-labelledby="name-scarecrow cap-scarecrow"></a>
 </figure>
 
 <figure class="character-card">
@@ -223,13 +213,13 @@ One minute onboarding:
 </figure>
 
 <figure class="character-card">
-  <img src="assets/characters/tippy.webp"
-       alt="Tippy, fairy rogue (Arcane Trickster)" loading="lazy">
-  <span class="name" id="name-tippy">Tippy</span>
-  <figcaption id="cap-tippy">
-    Fairy Arcane Trickster. Self-styled gumshoe narrating a noir casebook, chasing the mystery of their lost parents while dodging the babysitter.
+  <img src="assets/characters/stennart-goldgift.webp"
+       alt="Stennart Goldgift, Barbarian (World Tree)" loading="lazy">
+  <span class="name" id="name-stennart">Stennart Goldgift</span>
+  <figcaption id="cap-stennart">
+    Dwarf merchant turned overnight Chad. Slowly transforming into a World Tree seedling while desperately clinging to the strength that finally made him feel important.
   </figcaption>
-  <a href="character_concepts/tippy" aria-labelledby="name-tippy cap-tippy"></a>
+  <a href="character_concepts/stennart" aria-labelledby="name-stennart cap-stennart"></a>
 </figure>
 
 <figure class="character-card">
@@ -250,16 +240,6 @@ One minute onboarding:
     Goliath Bard raised in silence, now a one-woman moshpit who plays bagpipes in thunderstorms and lives to be the party's hype machine.
   </figcaption>
   <a href="character_concepts/yawp-cumuluni" aria-labelledby="name-yawp-cumuluni cap-yawp-cumuluni"></a>
-</figure>
-
-<figure class="character-card">
-  <img src="assets/characters/yelena-gagarina.webp"
-       alt="Yelena Gagarina, one-armed halfling monk" loading="lazy">
-  <span class="name" id="name-yelena-gagarina">Yelena Gagarina</span>
-  <figcaption id="cap-yelena-gagarina">
-    Halfling Monk. Stubborn, amputated fantasy Squid Game escapee, now hounded for knowing the location of the bloodsport Macguffin.
-  </figcaption>
-  <a href="character_concepts/yelena-gagarina" aria-labelledby="name-yelena-gagarina cap-yelena-gagarina"></a>
 </figure>
 
 </div>

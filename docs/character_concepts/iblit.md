@@ -1,0 +1,317 @@
+# Iblit
+
+![Iblit](assets/iblit.png){ width="300" }
+
+> *"Forthwith, please refrain from dangling my Avatar, a literal manifestation of the power of the Morninglord Lathander, over the privy."*
+
+**Calvin & Hobbes meets Good Omens: A kobold teen warlock bound to an archangel who hates this assignment as much as he does. Radiant damage, theological bickering, and occasional outbursts of "you're not my mom!"**
+
+---
+
+## Basic Information
+**Species:** Kobold  
+**Class:** Warlock 5 (Celestial Patron)  
+**Background:** Acolyte  
+**Age:** 15  
+**Alignment:** Chaotic Neutral
+
+## Quick Intro
+
+??? info "Quick Intro"
+    
+    **At the Table**
+    
+    * Impulsive troublemaker with a good heart buried under layers of teenage defiance
+    * Constantly bickering with his literal archangel Patron (Serena) who appears as a tiny winged avatar Familiar
+    * Wants to be taken seriously and free from divine oversight, fears abandonment and proving the monks right about him
+    * Reluctant healer and chaos agent—keeps people alive while complaining about it, then demands praise
+    
+    **Backstory (Short Form)**
+    
+    Iblit's kobold clan was slaughtered by adventurers when he was a hatchling. A merciful cleric left him at a monastery of Lathander, where he grew up alienated and restless. At 15, he destroyed a holy relic in an act of rebellion and fled—only to be claimed as a warlock by Lathander himself, who sent Archangel Serena to guide (read: babysit) him back to righteousness. Neither of them wanted this arrangement.
+    
+    **Playing Iblit**
+    
+    * **Combat:** Eldritch Blast artillery with Agonizing Blast, emergency healing via Healing Light and Cure Wounds, crowd control with Hypnotic Pattern. Uses Familiar for scouting and comedy.
+    * **Roleplay:** Snarky teen energy with occasional vulnerability. Bickers constantly with Serena (DM-controlled familiar). Impulsive, brave, and desperate for approval he won't admit he wants.
+    * **Party Synergy:** Reluctant support caster who keeps the party alive while pretending not to care. Comic relief with emotional depth when things get serious.
+
+---
+
+## Deep Dive
+
+??? info "Deep Dive"
+    
+    ### Full Backstory
+    
+    Iblit was only just hatched when his entire clan was slaughtered by a raiding adventuring party, but the party cleric couldn't bring themselves to slay an infant. They had no better option than leave Iblit with the monks at a monastery of Lathander. But this mercy did nothing to temper Iblit's sense of alienation towards humans or religion. Growing up within the cloistered walls, he soon made a name for himself by sneaking off from theology class, causing mischief, or just staring wistfully into the wilderness outside the cloister wall.
+    
+    At 15, the inciting incident happened: After a particularly rough and frankly unfair session of scolding from the deacon, Iblit, frustrated with his life, decided to make a statement. He snuck into the inner sanctum of the temple and destroyed a holy relic of Lathander. Then, he vanished into the night, intent on never setting foot on hallowed ground again.
+    
+    But since then, Iblit has been constantly visited in his sleep by a stern angel, proclaiming herself to be a messenger of Lathander. The Morninglord has sensed some good in the soul of this little sinner, and has sent Archangel Serena to nudge Iblit back into the fold.
+    
+    As a first step to earn Iblit's trust and good will, Serena has imbued him with some small amount of power, "only meant to serve the will of the Morninglord, you hear?" A small part of her also accompanies him in the shape of a mini-version with tiny armor and angel wings—his Pact of the Chain familiar.
+    
+    She isn't exactly wild about this situation. Neither is Iblit. Now he and his Celestial Patron have to figure out a way to deal with each other.
+    
+    ### Psychological Profile
+    
+    **Who is this kid?**
+    
+    *"Oh shittt fuck, that's like so much blood. Daaaamn. Ok, sorry, I spaced out there for a sec. Hold still. This'll pop you right back up. Just uh, don't sneeze too hard?"*
+    
+    Iblit is not a bad kid, but he's a trouble magnet. He is bad at detecting danger, gets way too absorbed in his little projects, doesn't think things through, and acts on impulse 50% of the time.
+    
+    Despite what the monks may have thought of him, Iblit never actively wants to hurt anyone. He loves playing pranks on those who think they're above him, and can be a real little shit. But he's also brave and strong of will.
+    
+    He's fundamentally a half-feral, half-heartbroken kobold teen—equal parts smoke alarm and abandoned kitten. He never had a mother, and while he'd die before admitting it, there's a part of him desperate for guidance and belonging.
+    
+    ### Flavor and Mechanics
+        
+    **Pact of the Chain: Archangel Serena's Avatar**
+    
+    Any familiar made available by the Pact of the Chain can be visually reflavored to an avatar of Serena, but some are better fits than others mechanically. The celestial option is the **Sphinx of Wonder**, which can notably add +2 to any ability check or saving throw within 30 ft, twice per day. Another option is the **Pseudodragon**, perhaps a more pugnacious avatar of Serena that she musters before a big fight. Investment of the Chain Master allows her to Sting using Iblit's Spell save DC instead of the measly 12 DC of the familiar's stat block. On a fail, the target has the Poisoned condition *and* is rendered unconscious for one hour.
+    
+    **Pact of the Tome: The Coloring Book of Shame**
+    
+    *"Why the hell is it a coloring book? I'm not a fucking kid!"*  
+    *"Please abstain from sullying the scripture with your foul remarks. This book was crafted with the young, and learning, in mind."*  
+    *"This is embarrassing! Do I have to do this?"*  
+    *"Just... sit with it for now. The Morning Lord has promised fine rewards if you study vigorously."*  
+    *"Daaamn, that's a cool ass dragon picture though. Is that like your battle-mount? Could I ride it?!"*  
+    *"...That's Tiamat."*
+    
+    Iblit's Pact Tome is not an evil grimoire, but a primer that Serena pushes on him. In exchange for keeping it on him and reading from time to time, she provides him with extra spells. He constantly slacks off, because he's a kid, and of course she nags him about it. The spells are cast through applying crayons and stickers to the correct pages, which Iblit resents and thinks is childish, but he goes through the motions. Begrudgingly. And wants praise for it afterwards.
+    
+    **The Holy Symbol Problem**
+    
+    Iblit constantly forgets his **holy symbol of Lathander** everywhere. At the tavern, in the privy, in a random tree branch, you name it. It's still only a part of his inventory due to frankly heroic efforts by his Archangel Avatar Familiar.
+    
+    **Spell Choices**
+    
+    While it's perfectly allowed RAW to take evil-flavored spells as a Celestial Warlock, roleplay-wise, Iblit likely wouldn't get permission from Wing Mom to cast *Hunger of Hadar* or *Summon Demon*. Reflavor them or roleplay Iblit's negotiation with your DM!
+    
+    ### Character Arc Potential
+    
+    A build made for both comedic moments of petty defiance, kobold mischief, and theological head-scratching, and also a longer character arc where Iblit and Archangel Serena hopefully slowly start to tolerate each other.
+    
+    Iblit will likely be a lot more fun at the table as the healing-capable little chaos lizard teen who wants to be taken seriously but also has made it a game to force his literal Archangel Patron's avatar Familiar to go steal the Paladin's underwear again.
+    
+    **Growing Up**
+    
+    As with all teenagers, they grow up. This little guy's main arc is one we all go through—it's about simply maturing. If Iblit survives out there, he gets to learn about the world outside the sheltered monastery walls, and maybe also about what the monks were trying to shield him from. It's tough out there, especially for a young kobold.
+    
+    Maybe as he sees more of the world, or even becomes an indispensable part of a group of adventurers, using his powers to bring back someone he likes from the brink of death, he slowly comes to appreciate what he has. Only time will tell.
+    
+    ### Sample Dialogue
+    
+    **Iblit:** "So... have you ever, you know, been with someone?"  
+    *Serena stiffens and represses a scoff*  
+    **Serena:** "Iblit. I am not discussing mortal reproductive customs with you. I am not equipped, commissioned, or compensated for this conversation."  
+    *flies off*  
+    **Iblit:** "Peak virgin behavior."
+    
+    ---
+    
+    **Serena:** "Was it truly necessary to utilise the power of Lathander to... soil the breeches of that bully?"  
+    **Iblit:** "It's teaching humility right? Deacon yapped about that all the time! Fuck, did you really teach a kid like me the Prestidigitation spell and expect me to be mature with it?"  
+    *Thoughtful pause*  
+    **Serena:** "You know what?...that's partially on me."  
+    **Iblit:** "Partially? Really?"  
+    **Serena:** "Don't push it."
+    
+    ---
+    
+    **Iblit:** *(snaps fingers nonchalantly, radiant energy stitches the fighter closed)* "There, happy? You're un-died. Don't hug me, you're sweaty."  
+    **Fighter:** *(weak thumbs-up)* "Thanks, little guy."  
+    **Iblit:** "Whatever. Wing Mom said I had to, or she'd reduce my spell allowance."
+    
+    ### Playing Iblit: Practical Advice
+    
+    **Balance comedy with consequences**  
+    Don't just lean into comedy. Remember, Iblit is a kid! Seeing too much death, having to heal someone he likes and possibly failing, or facing terrifying threats or betrayal should have real consequences for him. Give him moments where he drops the bit and just desperately keeps someone alive while whispering "don't you fucking die on me, asshole, I mean it." Let the party see the scared kid under the gremlin. That contrast is what makes people care.
+    
+    **Accidental wisdom**  
+    Let Iblit occasionally say something wise by accident, planting the seed that maybe, just maybe Lathander saw something real and valuable in this kid. Maybe he blurts something offhand that hits a moral truth Serena's been dodging. That inversion keeps the dynamic from being purely "teacher and unruly student."
+    
+    **Over the table**  
+    Try to find the golden spot where your antics contribute to the party. Avoid sabotaging the plot. While pranks and shenanigans are fun, check in with the table and agree where to set the bar for pranks and shenanigans. Some tables will not enjoy if you spend precious spell slots on spiting your pixie familiar mid-combat, others will love it.
+    
+    Having Serena essentially on stand-by as an extra NPC in the party creates different dynamics from the regular, more sparse dream-sequence or private contacts that most Warlocks have with their Patron. If other players at your table feel the banter takes too much time, try and think of ways to include other party members. Ask the Barbarian to judge in your latest conflict with Serena on the theology of doing your homework. Ask the Rogue for a potion to prank your familiar.
+    
+    ### Thematic Notes
+    
+    This is **Calvin & Hobbes** meets **Good Omens**, with radiant damage and occasional outbursts of "you're not my mom!"
+    
+    Iblit is a Celestial Warlock designed to be an anti-pious healer, deeply frustrated with the Gods and the pantheon, while hounded by an archangel who hates this just as much as he does, but is ordered by a higher authority to somehow turn Iblit back to the straight and narrow.
+    
+    Iblit never asked for this, and he doesn't exactly sympathize with Serena, even though he realizes she's just middle management stuck with a problem she never asked for. He'll send her avatar to perform all kinds of highly dubious tasks only to spite her, and will constantly try to trick and cheat her into releasing him from her patronage, something she is simply not allowed to do.
+
+	### Roleplaying Ideas
+	
+	- Iblit learns Serena doesn't know how to whistle. It doesn't come with the Angelic toolkit. After laughing at her for ten solid minutes, he makes it his new mission in life to teach her. Serena is flustered at the difficulty. She smites demons for a living. She's not used to failing at menial tasks.
+	- Serena teaches Iblit some actual, valuable facts about life, and for a brief moment they actually connect and laugh together.
+	- Offer to run Serena's "barks" (small dialogue lines) yourself during combat, based on agreed-upon personality traits, so the DM only has to step in for big plot moments and downtime dialogue.
+
+---
+
+## Notes for the DM
+
+??? danger "Notes for the DM"
+	
+	### Running Archangel Serena
+	
+	**DM buy-in is essential**  
+	You as a DM need to be willing to play the role of Serena for this character to work. Collaborate about finding the right voice and tone of their interaction.
+	
+	**Serena's perspective: Mommy issues go both ways**
+	
+	*"I am a divine bureaucrat, not a caregiver! Why are you like this?!"*  
+	*"Just pull my finger! It'll be fun!"*
+	
+	Iblit is just a kid who never had a mother. You as DM can choose to play into that, and have Serena slowly becoming a more motherly figure over time, with player consent. However, it's important to know that **Serena doesn't want to be a mother.** She's an Archangel, fundamentally not built for it, and silently regards her task as a demotion. She was made for delivering divine memos, praising her Lord and smiting the occasional ghoul. This challenge is both below her and way above her.
+	
+	There could be an arc here for Serena as well, depending on how you want to play your Celestials. If the arc is going to be that they slowly start tolerating each other, there needs to be a bit of movement from both directions. Will there be a brief humanizing moment where she complains about her own boss?
+	
+	**Let her make mistakes**  
+	It's important to let her make mistakes. What does an Archangel know about being 15? Her attempts to meet Iblit where he is will undoubtedly be hamfisted at first, trying and failing to introduce theological chore wheels and pedagogic props.
+	
+	The universe has stuck her with a half-feral, half-heartbroken kobold teen who's equal parts smoke alarm and abandoned kitten, and the only options are:
+	
+	- Abandon him, which the divine HR handbook forbids.
+	- Fix him. Except he's not broken, just… unassembled. He's a kid.
+	- Or, saints preserve us, try to learn how to care.
+	
+	And genuinely caring is not necessarily a thing angels excel at, because that means improvising, being flexible, and acknowledging the importance of someone else than their God.
+	
+	### Plot Hooks
+	
+	- The monastery sends someone to retrieve Iblit (and the stolen/destroyed relic's remains)
+	- Lathander has a specific mission for Iblit that only he can accomplish
+	- Serena's superiors question whether she's the right angel for this job
+	- Iblit encounters other survivors from his kobold clan
+
+---
+
+## Mechanical build and PDF download
+
+??? info "Level 5 Build"
+
+	| STR | DEX | CON | INT | WIS | CHA |
+	|:---:|:---:|:---:|:---:|:---:|:---:|
+	| 8 (-1) | 14 (+2) | 16 (+3) | 8 (-1) | 10 (+0) | 18 (+4) |
+	
+	## Combat Stats
+	
+	| AC | HP | Hit Dice | Speed | Initiative | Prof. Bonus |
+	|:---:|:---:|:---:|:---:|:---:|:---:|
+	| 15 | 43 | 5d8 | 30 ft. | +2 | +3 |
+	
+	**Saving Throws:** DEX +3, WIS +4, CHA +7  
+	**Resistances:** Advantage on saves to avoid or end the frightened condition
+	
+	## Proficiencies
+	**Skills:** Deception +7, Insight +3, Persuasion +7, Religion +2
+	
+	**Armor:** Light Armor | **Weapons:** Simple Weapons
+	
+	**Tools:** Calligrapher's Supplies | **Languages:** Celestial, Common
+	
+	## Feats
+	- **Resilient (Constitution)**: +1 CON, gain proficiency in CON saving throws
+	- **Magic Initiate (Cleric)**: Learn Guidance and Mending cantrips, Cure Wounds 1/long rest (CHA spellcasting)
+	
+	## Class Features
+	
+	### Warlock Features
+	- **Pact Magic:** 2 spell slots (3rd level), regain on short rest
+	- **Magical Cunning:** 1/long rest, 1-minute ritual to regain 1 expended Pact Magic spell slot
+	- **Eldritch Invocations:**
+		- **Agonizing Blast:** Add CHA modifier to Eldritch Blast damage
+		- **Eldritch Mind:** Advantage on CON saves to maintain Concentration
+		- **Investment of the Chain Master:** Enhanced familiar abilities (see Pact of the Chain)
+		- **Pact of the Chain:** Find Familiar spell (at will, no slot), familiar can Attack as bonus action
+		- **Pact of the Tome:** Book of Shadows with 3 cantrips (Message, Prestidigitation, Word of Radiance) and 2 ritual spells (Detect Magic, Comprehend Languages)
+	
+	### Celestial Patron Features
+	- **Healing Light:** Pool of 6d6, bonus action to heal creature within 60 ft. (max 4 dice at once), regain on long rest
+	- **Celestial Spells (Always Prepared):**
+		- Cantrips: Light, Sacred Flame
+		- 1st: Cure Wounds, Guiding Bolt
+		- 2nd: Aid, Lesser Restoration
+		- 3rd: Daylight, Revivify
+	
+	### Kobold Species Traits
+	- **Darkvision:** 60 ft.
+	- **Draconic Cry:** 3/long rest, bonus action cry; allies within 10 ft. get advantage on attacks vs. enemies who heard you until start of your next turn
+	- **Kobold Legacy - Defiance:** Advantage on saves to avoid or end frightened condition
+	
+	## Equipment
+	**Worn/Wielded:**
+	- Studded Leather armor
+	- Dagger (×2)
+	- Cloak of Protection (attuned) - +1 AC and saves
+	- Gloves of Thievery (attuned)
+	
+	**Carried:**
+	- Backpack
+	- Calligrapher's Supplies
+	- Holy Symbol (frequently lost, heroically recovered by Serena)
+	- Orb (spellcasting focus)
+	- Oil (10 flasks)
+	- Tinderbox
+	- Lamp
+	
+	**Currency:** 23 GP
+	
+	## Spellcasting
+	**Spellcasting Ability:** Charisma  
+	**Spell Save DC:** 15  
+	**Spell Attack Bonus:** +7
+	
+	### Cantrips (at will)
+	- **Eldritch Blast** (2 beams, +4 damage each from Agonizing Blast)
+	- **Guidance** (Magic Initiate)
+	- **Light** (Celestial)
+	- **Mage Hand**
+	- **Mending** (Magic Initiate)
+	- **Message** (Pact of the Tome)
+	- **Minor Illusion**
+	- **Prestidigitation** (Pact of the Tome)
+	- **Sacred Flame** (Celestial)
+	- **Word of Radiance** (Pact of the Tome)
+	
+	### 1st Level
+	- **Armor of Agathys**
+	- **Comprehend Languages** (ritual, Pact of the Tome)
+	- **Cure Wounds** (Celestial, always prepared; also 1/LR from Magic Initiate)
+	- **Detect Magic** (ritual, Pact of the Tome)
+	- **Find Familiar** (ritual, Pact of the Chain)
+	- **Guiding Bolt** (Celestial, always prepared)
+	
+	### 2nd Level
+	- **Aid** (Celestial, always prepared)
+	- **Lesser Restoration** (Celestial, always prepared)
+	- **Mirror Image**
+	
+	### 3rd Level (2 slots)
+	- **Counterspell**
+	- **Daylight** (Celestial, always prepared)
+	- **Fly**
+	- **Hypnotic Pattern**
+	- **Revivify** (Celestial, always prepared)
+	- **Thunder Step**
+
+📄 [Download Level 5 Character Sheet (PDF)](assets/iblit-lv5.pdf)
+
+---
+
+## **Session Zero**
+
+??? danger "**Session Zero Considerations**"
+    
+    **Content Notes:** Themes of childhood trauma (orphaned by violence), religious trauma, and found family dynamics. Some crude humor and teenage irreverence toward religion. Suitable for most tables, but discuss comfort levels with religious satire and parental figure dynamics.
+    
+    **Representation Notes:** This character explores themes of abandonment, institutional alienation, and what happens when divine beings attempt to care for mortals. The DM will need to actively roleplay Serena as a supporting character, which adds table dynamics to consider.
+
+---

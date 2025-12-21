@@ -59,6 +59,7 @@ Cephala was once a chronically drifting card sharp who relied on her charm, slei
 	---
 	
 	## The Tattered Seraph
+	![The Tattered Seraph](assets/tattered-seraph.jpg){ width="300" }
 	The Tattered Seraph wanders the thresholds between worlds, unable to manifest outside of dreams and pocket dimensions. It is veiled in layer upon layer of torn fabrics, stitched with **ten thousand watching eyes, blinking, gazing, staring, weeping, sleeping**. Its voice is a fragmented choir of many voices and one, every phrase broken, arrhythmic and labyrinthine, as if it truly does not know what the end of every sentence will be as it speaks them.
 	
 	The Seraph doesn't so much issue commands as make requests, and it asks strangely. It offers visions like mirror shards, some clear, some murky, all enigmatic, frustrating, but also what seems like earnest attempts at communication from a being at once **extraordinarily powerful and pitifully incoherent**. It claims to have once been worshipped by a people now erased from time, and Cephala may be their last spark, or final witness.
@@ -185,38 +186,6 @@ Cephala was once a chronically drifting card sharp who relied on her charm, slei
 
 ## Mechanical build and PDF download
 
-??? info "Level 1 Build"
-	| STR | DEX | CON | INT | WIS | CHA |
-	|:---:|:---:|:---:|:---:|:---:|:---:|
-	| 8 (-1) | 14 (+2) | 14 (+2) | 10 (+0) | 12 (+1) | 17 (+3) |
-	
-	## Combat Stats
-	
-	| AC | HP | Hit Dice | Speed | Initiative | Prof. Bonus |
-	|:---:|:---:|:---:|:---:|:---:|:---:|
-	| 14 | 10 | 1d8 | 30 ft. | +2 | +2 |
-	
-	**Saving Throws: Wisdom: +3, Charisma: +5**
-	**Resistances: Necrotic, Radiant**
-	
-	## Proficiencies
-	**Skills**: Deception +5, History +2, Insight +3, Perception +3, Persuasion +5, Sleight of hand +4
-	
-	**Armor**: Light Armor | **Weapons**: Simple Weapons
-	
-	**Tools**: Forgery Kit, Playing Card Set | **Languages**: Common, [+2 common languages]
-	
-	## Feats
-	- **Skilled**: 3 additional skill/tool proficiencies
-	
-	## Equipment
-	Studded Leather, Sickle, 2x Dagger, Forgery Kit, Playing Card Set, Book of Shadows
-	
-	---
-	
-	## PDF Character Sheet
-	
-	📄 [Download full character sheet](assets/cephala-fortina-lv1.pdf)
 	
 ??? info "Level 5 Build"
 	| STR | DEX | CON | INT | WIS | CHA |
