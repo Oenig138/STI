@@ -8,14 +8,12 @@
 
 ---
 
-## Basic Information
-**Species:** Dwarf (transforming)
-**Class:** Barbarian 5 (Path of the World Tree)  
-**Background:** Merchant  
-**Age:** 28
-**Alignment:** Neutral
-
-## Quick Intro
+## Character Overview
+- **Species:** Dwarf (transforming)
+- **Class:** Barbarian 5 (Path of the World Tree)  
+- **Background:** Merchant  
+- **Age:** 28
+- **Alignment:** Neutral
 
 ??? info "Quick Intro"
     
@@ -37,8 +35,6 @@
     *Party Synergy:* The guy who carries everyone's stuff, haggles for deals, and accidentally breaks things when emotional. Hits hard, but needs gentle feedback when intimidation isn't the answer.
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -100,8 +96,6 @@
     
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 
     ### DM Plot Hooks
@@ -138,9 +132,7 @@
 
 ---
 
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -176,11 +168,9 @@
 	## Equipment
 	War Pick, Maul, 3x Handaxe, Breastplate, Shield, Explorer's Kit
 
-📄 [Download Level 5 Character Sheet (PDF)](assets/stennart-goldgift-lv5.pdf)
+	📄 [Download Level 5 Character Sheet (PDF)](assets/stennart-goldgift-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

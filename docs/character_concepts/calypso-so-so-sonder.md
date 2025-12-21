@@ -10,14 +10,12 @@
 
 ---
 
-## Basic Information
-**Species:** Human
-**Class:** Monk 5 (Open Hand)  
-**Background:**  
-**Age:** 49
-**Alignment:** Lawful Good
-
-## Quick Intro
+## Character Overview
+- **Species:** Human
+- **Class:** Monk 5 (Open Hand)  
+- **Background:**  
+- **Age:** 49
+- **Alignment:** Lawful Good
 
 ??? info "Quick Intro"
     
@@ -39,8 +37,6 @@
     * **Party Synergy:** Generous with spotlight—points to allies mid-fight to frame their strikes as dramatic crescendos. His whole artform is teamwork; he lifts the whole party.
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -114,8 +110,6 @@
 	
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 	
 	## Player Guidance
@@ -149,8 +143,6 @@
 	**Other options:** Allow CHA to fill the role that WIS does in regular Monk builds, or change So-So's expertise from Acrobatics to Performance, and allow him to use this skill for a wider variety of ability checks, such as intimidation, acrobatics, etc, at the DM's discretion.
 		
 ---
-
-## Mechanical build and PDF download
 
 ??? info "Level 5 Build"
 
@@ -186,8 +178,6 @@
 	📄 [Download Level 5 Character Sheet (PDF)](assets/calypso-so-so-sonder-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

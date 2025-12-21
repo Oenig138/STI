@@ -10,14 +10,12 @@
 
 ---
 
-## Basic Information
-**Species:** Changeling
-**Class:** Warlock 5 (Pact of the Fiend)  
-**Background:** Wayfarer
-**Age:** 29
-**Alignment:** Neutral
-
-## Quick Intro
+## Character Overview
+- **Species:** Changeling
+- **Class:** Warlock 5 (Pact of the Fiend)  
+- **Background:** Wayfarer
+- **Age:** 29
+- **Alignment:** Neutral
 
 ??? info "Quick Intro"
     
@@ -39,8 +37,6 @@
     * **Party Synergy:** Needs explicit ties to other PCs established in session zero—a reason to care beyond the revolution. Works best when sharing secrets early to build trust and balancing solo infiltration with group unity.
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -110,8 +106,6 @@
 
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 	
 	## Possible Campaign Arcs
@@ -152,9 +146,7 @@
 	
 ---
 
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -199,8 +191,6 @@
 	📄 [Download Level 5 Character Sheet (PDF)](assets/tormin-remus-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

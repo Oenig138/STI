@@ -10,14 +10,12 @@
 
 ---
 
-## Basic Information
-**Species:** Tortle
-**Class:** Wizard 5 (Abjuration)  
-**Background:** Noble  
-**Age:** 140
-**Alignment:** Lawful Neutral
-
-## Quick Intro
+## Character Overview
+- **Species:** Tortle
+- **Class:** Wizard 5 (Abjuration)  
+- **Background:** Noble  
+- **Age:** 140
+- **Alignment:** Lawful Neutral
 
 ??? info "Quick Intro"
     
@@ -39,8 +37,6 @@
     * **Party Synergy:** Makes friends everywhere, mends equipment, offers strategic counsel. Diplomatic infrastructure personified—she'll get you into anywhere and out of most trouble.
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -120,8 +116,6 @@
 
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 	
 	The fantasy that makes Olan fun to play is not the glass cannon wizard raining down destruction, but the denial engine that keeps everybody breathing and weathers the storm. If you truly want to take her offline, DEX or STR saves will do the job, but remember the game is about having fun, not countering each others' builds.
@@ -130,9 +124,7 @@
 	
 ---
 
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -168,11 +160,9 @@
 	**Level 2**: Dragon's Breath, Shatter, Spider Climb
 	**Level 3**: Intellect Fortress, Magic Circle
 
-📄 [Download Level 5 Character Sheet (PDF)](assets/olan-danu-lv5.pdf)
+	📄 [Download Level 5 Character Sheet (PDF)](assets/olan-danu-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

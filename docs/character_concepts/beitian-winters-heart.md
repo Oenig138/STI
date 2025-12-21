@@ -10,14 +10,12 @@
 
 ---
 
-## Basic Information
-**Species:** White Dragonborn (Clan Bellokan)
-**Class:** Rogue 5 (Soulknife)  
-**Background:** Gambler  
-**Age:** 26
-**Alignment:** Chaotic Good
-
-## Quick Intro
+## Character Overview
+- **Species:** White Dragonborn (Clan Bellokan)
+- **Class:** Rogue 5 (Soulknife)  
+- **Background:** Gambler  
+- **Age:** 26
+- **Alignment:** Chaotic Good
 
 ??? info "Quick Intro"
     
@@ -39,8 +37,6 @@
     * **Party Synergy:** Natural team player who covers others' debts (literally and metaphorically), turns her deafness into tactical advantages with party coordination, keeps morale high with irreverent humor
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -118,8 +114,6 @@
 
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 	
 	## Table Guidance: Playing a Deaf Character
@@ -154,9 +148,7 @@
 		
 ---
 
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -194,11 +186,10 @@
 	
 	**Soul Blades:** Can use psionic die for Homing Strikes (reroll missed attack) or Psychic Teleportation (10 ft teleport as bonus action)
 
-📄 [Download Level 5 Character Sheet (PDF)](assets/beitian-betty-winters-heart-lv5.pdf)
+	📄 [Download Level 5 Character Sheet (PDF)](assets/beitian-betty-winters-heart-lv5.pdf)
 
 ---
 
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

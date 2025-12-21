@@ -1,13 +1,12 @@
 # Cephala Fortina
 
-*Keywords: Melancholy, trickster, mystery, roleplay, character driven play, cosmic horror*
-
 ![Cephala Fortina](assets/cephala-fortina.png){ width="300" }
 
 *“Three days in one place and I feel offended by the wallpaper. A week and I'm counting the stones in the road. Two weeks? I start to feel like the stones are counting me.”*
 
-Cephala was once a chronically drifting card sharp who relied on her charm, sleight‑of‑hand, and changing aliases to stay a half skip ahead of the law. But one night when she was assailed by a mysterious inquisitor, her dormant celestial blood ignited, unleashing wings of light and a bond to the mysterious **Tattered Seraph**. She became something stranger: half radiant avatar, half street‑wise trickster, all wanderer, on a quest to find her own vanished people that only the Seraph remembers.
+**Chronically drifting card sharp, one night assailed by a mysterious inquisitor. Her dormant celestial blood ignited, unleashing wings of light and a bond to the mysterious Tattered Seraph. Now she is on a quest to find her own vanished people that only the Seraph remembers.**
 
+*Keywords: Melancholy, trickster, mystery, roleplay, character driven play, cosmic horror*
 
 ## Character overview
 - **Race**: Aasimar
@@ -17,8 +16,6 @@ Cephala was once a chronically drifting card sharp who relied on her charm, slei
 - **Party Role**: Celestial con‑artist, blaster and party face
 
 ---
-
-## Quick Intro
 
 ??? info "Quick Intro"
     
@@ -35,9 +32,8 @@ Cephala was once a chronically drifting card sharp who relied on her charm, slei
     
 ---
 
-## Deep Dive
-
 ??? info "Full context and story"
+
 	## Background story
 	
 	Cephala’s earliest memories are of scent. The Fortina family built their fortune on rare oils, distillates, and perfumes traded across seas. Their manor reeked in layers of jasmine, rose, and frankincense. To guests, **Cephala was a showpiece**, the strange pale child adopted by the perfumers, raised in silk and sandalwood. “Our little angel,” they would laugh, patting her head before drifting back to their gilded intrigues.
@@ -148,6 +144,7 @@ Cephala was once a chronically drifting card sharp who relied on her charm, slei
 ---
 
 ??? danger "For the DM only"
+	
 	Explore the possibility that the Tattered Seraph might in fact *be* Cephala's lost people, somehow magically whisked away and merged into a single being, and having their minds mercilessly broken in the process. It could set Cephala up for extremely hard moral decisions later in the campaign, having to decide whether to keep the Seraph in darkness, or try to help it, or even end its suffering.
 	
 	### The encounter with Morben the Inquisitor
@@ -184,10 +181,9 @@ Cephala was once a chronically drifting card sharp who relied on her charm, slei
 		- If the player feels stumped and has missed several clues, have the Seraph intervene with a new vision, or have messages left in her notebook that she doesn't remember writing. The Seraph is clearly a broken being, and who knows who or what aspect of it decided to intervene. 
 		- As a last-ditch resort, have a junior inquisition investigator defect and spill the beans as to what little he/she knows. Maybe their conscience is weighing too heavy and they want to come clean, pointing the party in the right direction before going underground and fleeing the country.
 
-## Mechanical build and PDF download
-
+---
 	
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
 	| 8 (-1) | 14 (+2) | 14 (+2) | 10 (+0) | 12 (+1) | 18 (+4) |

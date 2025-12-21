@@ -8,14 +8,12 @@
 
 ---
 
-## Basic Information
-**Species:** Goliath
-**Class:** Bard 5 (College of Valor)  
-**Background:** Wayfarer  
-**Age:** 24
-**Alignment:** Chaotic Good
-
-## Quick Intro
+## Character Overview
+- **Species:** Goliath
+- **Class:** Bard 5 (College of Valor)  
+- **Background:** Wayfarer  
+- **Age:** 24
+- **Alignment:** Chaotic Good
 
 ??? info "Quick Intro"
     
@@ -37,8 +35,6 @@
     * **Party Synergy:** Natural wingman who points praise at others, makes everyone feel like the protagonist of their own epic, and transforms downtime into celebrations.
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -134,8 +130,6 @@
     
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 	
 	## Thymeon the Pilgrim
@@ -152,9 +146,7 @@
 	
 ---
 
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -191,13 +183,11 @@
 	**Level 2**: Enlarge/Reduce, Heat Metal, Shatter, Skywrite
 	**Level 3**: Mass Healing Word
 
-📄 [Download Level 5 Character Sheet (PDF)](assets/yawp-cumuluni-lv5.pdf)
+	📄 [Download Level 5 Character Sheet (PDF)](assets/yawp-cumuluni-lv5.pdf)
 
 ---
 
-## **Session Zero**
-
-??? danger "**Session Zero Considerations**"
+??? danger "Session Zero Considerations"
     
     **Content Notes:** Check language levels and vibes with the table. Yawp is written as a PG-13 character (and then some), unapologetically rowdy, horny and happy. Contains themes of childhood isolation, abandonment by parents, and brief sexual betrayal (non-graphic). Claustrophobia may be explored if DM and player agree. If your table leans more serious, Yawp may still be a great fit, but with proper adjustments to tone and language.
     

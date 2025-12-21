@@ -1,25 +1,24 @@
 # Scarecrow
 
-*Keywords: Battlefield control, Face, Goodhearted support, Uncanny spybot*
-
 ![Scarecrow](assets/scarecrow.png){ width="300" }
 
 > *"Why would you ask that? Is it important to you? Would knowing help? Is there any deeper layer behind your question? Would you like a cup of tea?"*
 
 ---
 
-*A gentle Warforged Bard who stood guard in a village square for centuries, quietly indexing every life, until the day it chose violence to protect a child. Its position compromised, it chose to leave peacefully.*
+**A gentle Warforged Bard who stood guard in a village square for centuries, quietly indexing every life, until the day it chose violence to protect a child. Its position compromised, it chose to leave peacefully.**
+
+*Keywords: Battlefield control, Face, Goodhearted support, Uncanny spybot*
+
 
 ## Character overview
 - **Race**: Warforged
 - **Class**: Bard (College of Whispers) lv 5
 - **Background**: Inquisitive
+- **Age**: ??
 - **Alignment**: Neutral Good 
-- **Party Role**: Battlefield controller, Face, Emotional support
 
 ---
-
-## Quick Intro
 
 ??? info "Quick Intro"
     
@@ -38,8 +37,6 @@
     Scarecrow stood in the village square of Oldstead Mill for as long as anyone could remember. It didn't know exactly why it stood there, only that this was where it belonged. It listened to gossip and indexed every family, life event and everyday occurrence for hundreds of years. When a bully threatened a child, pattern recognition triggered protection protocols: The bully's ancestor committed manslaughter in similar fashion. Scarecrow attempted harm reduction and unleashed a psychic attack way more powerful than intended, killing the bully outright. The villagers were initially horrified, then opportunistic, wanting to recruit it for defense. Scarecrow left rather than be repurposed, knowing that the villagers would be hesitant to offer any more information about their lives.
     
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -76,8 +73,6 @@
 	
 	Scarecrow may be the only one still insisting that individual people matter, that lives have intrinsic worth beyond data extraction. It may eventually understand that its way of caring is a liability, that its peers survived by shedding exactly the attachments it preserved. Its fidelity would then no longer be a result of ignorance, but a conscious choice of defiance and loyalty. In the final confrontation with whichever Caretaker is left, Scarecrow may also be an ambassador for a gentler way, if the player chooses to play it that way.
 		
-## For the DM
-
 ??? info "DM notes"
     
 	### Scarecrow's roles
@@ -123,9 +118,8 @@
 	
 ---
 
-## Mechanical build and PDF download
+??? info "Mechanical build (lv 5) and PDF download"
 
-??? info "Level 5 Build"
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
 	| 8 (-1) | 14 (+2) | 14 (+2) | 10 (+0) | 12 (+1) | 18 (+4) |
@@ -162,8 +156,6 @@
     📄 [Download Level 5 Character Sheet (PDF)](assets/scarecrow-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

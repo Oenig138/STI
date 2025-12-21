@@ -10,14 +10,12 @@
 
 ---
 
-## Basic Information
-**Species:** Air Genasi
-**Class:** Paladin 5 (Oath of Glory)  
-**Background:** Charlatan  
-**Age:** 22
-**Alignment:** Chaotic Good
-
-## Quick Intro
+## Character Overview
+- **Species:** Air Genasi
+- **Class:** Paladin 5 (Oath of Glory)  
+- **Background:** Charlatan  
+- **Age:** 22
+- **Alignment:** Chaotic Good
 
 ??? info "Quick Intro"
     
@@ -39,8 +37,6 @@
     * **Party Synergy:** Natural face and support healer who champions underdogs and refuses to let allies believe they're failures. Not above foul play and trickery for the greater good.
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -105,8 +101,6 @@
 
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
     
     ## Suggested Plot Arcs
@@ -141,9 +135,9 @@
 
 ---
 
-## Mechanical build and PDF download
 
-??? info "Level 5 Build"
+
+??? info "Mechanical build (lv 5) and PDF download"
 
     | STR | DEX | CON | INT | WIS | CHA |
     |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -179,11 +173,9 @@
     ## Equipment
     Studded Leather, Scimitar, Short Sword, 3x Dagger, Forgery Kit, Thieves' Tools, Ring of Protection *(+1 AC and Saving Throws, suggested magic item for this level to beef her up a bit; always clarify magic items with DM before play)*
 
-📄 [Download Level 5 Character Sheet (PDF)](assets/alveta-velvet-lv5.pdf)
+	📄 [Download Level 5 Character Sheet (PDF)](assets/alveta-velvet-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

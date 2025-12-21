@@ -1,7 +1,5 @@
 # Donner
 
-*Keywords: Haunted, Bruiser, Horror, Survival, Cynic, Team efforts.*
-
 ⚠️ *Content Warning: Body horror, survivor's guilt, sacrifice of innocents. Session Zero this character.*
 
 ![Donner](assets/donner.png){ width="300" }
@@ -10,16 +8,16 @@
 
 **Cynical, gruff and haunted by the young one he sacrificed to stay alive; keeps others alive with blunt advice and kale stews.**
 
+*Keywords: Haunted, Bruiser, Horror, Survival, Cynic, Team efforts.*
+
 ---
 
-## Basic Information
-**Species:** Harengon
-**Class:** Fighter 5 (Battle Master)  
-**Background:** Farmer  
-**Age:** 40
-**Alignment:** Lawful Evil
-
-## Quick Intro
+## Character Overview
+- **Species:** Harengon
+- **Class:** Fighter 5 (Battle Master)  
+- **Background:** Farmer  
+- **Age:** 40
+- **Alignment:** Lawful Evil
 
 ??? info "Quick Intro"
     
@@ -41,8 +39,6 @@
     * **Party Synergy:** The reluctant dad who feeds you, criticizes your technique, and keeps you alive despite his worldview that everyone's ultimately on their own.
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -100,8 +96,6 @@
 
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 	
 	## The Haunting Mechanic
@@ -145,9 +139,7 @@
 	
 ---
 
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -192,8 +184,6 @@
 	📄 [Download Level 5 Character Sheet (PDF)](assets/donner-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

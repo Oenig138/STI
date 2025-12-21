@@ -10,14 +10,12 @@
 
 ---
 
-## Basic Information
-**Species:** Halfling
-**Class:** Warlock 5 (Pact of the Fiend)  
-**Background:** Cloth Merchant (Homebrew)
-**Age:** 65
-**Alignment:** Lawful Good (?)
-
-## Quick Intro
+## Character Overview
+- **Species:** Halfling
+- **Class:** Warlock 5 (Pact of the Fiend)  
+- **Background:** Cloth Merchant (Homebrew)
+- **Age:** 65
+- **Alignment:** Lawful Good (?)
 
 ??? info "Quick Intro"
     
@@ -39,8 +37,6 @@
     * **Party Synergy:** Natural face and morale booster who will absolutely invite the party to "cult meetings" (now basically town halls with interpretive chanting)
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -99,8 +95,6 @@
 
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 	
 	**DM Hooks and Ideas**
@@ -137,9 +131,7 @@
 	
 ---
 
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -174,18 +166,16 @@
 	Studded Leather, Dagger, Arcane Focus, Weaver's Tools.
 	
 	## Spellcasting
-	**Cantrips**: Eldritch Blast, Blade Ward, Prestidigitation, Minor Illusion, Guidance, Sorcerous Burst
-    **Level 1**: Burning Hands, Command, Mage Armor (Eldritch Invocation), Unseen Servant [R], Detect Magic [R]
-	**Level 2**: Spider Climb, Scorching Ray, Suggestion
-	**Level 3**: Hunger of Hadar, Fireball, Counterspell, Thunderstep, Fear, Stinking Cloud, Summon Lesser Demons
+	- **Cantrips**: Eldritch Blast, Blade Ward, Prestidigitation, Minor Illusion, Guidance, Sorcerous Burst
+    - **Level 1**: Burning Hands, Command, Mage Armor (Eldritch Invocation), Unseen Servant [R], Detect Magic [R]
+	- **Level 2**: Spider Climb, Scorching Ray, Suggestion
+	- **Level 3**: Hunger of Hadar, Fireball, Counterspell, Thunderstep, Fear, Stinking Cloud, Summon Lesser Demons
 	
 	---
 	
 	📄 [Download Level 5 Character Sheet (PDF)](assets/harold-carnap-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

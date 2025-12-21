@@ -10,14 +10,12 @@
 
 ---
 
-## Basic Information
-**Species:** Hobgoblin
-**Class:** Barbarian 5 (Path of the Wild Heart)  
-**Background:** Farmer  
-**Age:** 55
-**Alignment:** Lawful Neutral
-
-## Quick Intro
+## Character Overview
+- **Species:** Hobgoblin
+- **Class:** Barbarian 5 (Path of the Wild Heart)  
+- **Background:** Farmer  
+- **Age:** 55
+- **Alignment:** Lawful Neutral
 
 ??? info "Quick Intro"
     
@@ -39,8 +37,6 @@
     * **Party Synergy:** The sturdy, unflashy foil who makes everyone else shine brighter while carrying the group's physical burdens
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -102,8 +98,6 @@
 
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 	
 	## DM Hooks
@@ -116,9 +110,7 @@
 	
 ---
 
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -152,8 +144,6 @@
 	📄 [Download Level 5 Character Sheet (PDF)](assets/korak-the-gilded-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

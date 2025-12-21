@@ -10,14 +10,12 @@
 
 ---
 
-## Basic Information
-**Species:** Tabaxi
-**Class:** Cleric 5 (Trickster Domain)  
-**Background:** Mud Nun
-**Age:** 39
-**Alignment:** Chaotic Good
-
-## Quick Intro
+## Character Overview
+- **Species:** Tabaxi
+- **Class:** Cleric 5 (Trickster Domain)  
+- **Background:** Mud Nun
+- **Age:** 39
+- **Alignment:** Chaotic Good
 
 ??? info "Quick Intro"
     
@@ -39,8 +37,6 @@
     * **Party Synergy:** Moral compass with flexible interpretation—she'll argue theft isn't theft when correcting "cosmic stagnation," keeps detailed ledgers of party actions
 	
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -144,8 +140,6 @@
 
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 	
 	**Plot Hook: The Defector**
@@ -158,9 +152,7 @@
 	
 ---
 
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -193,19 +185,14 @@
 	Studded Leather, Shield, Dagger, Holy Symbol, Ledger, Cook's Utensils, Thieves' Tools, Heward's Handy Spice Pouch (minor magical item)
 	
 	## Spellcasting
-	**Cantrips:** Guidance, Spare the Dying, Mending, Word of Radiance, Toll the Dead
-	
-	**Level 1:** (Trickster domain) Charm Person, Disguise Self
-	
-	**Level 2:** (Trickster domain) Pass without Trace, Invisibility
-	
-	**Level 3:** (Trickster domain) Nondetection, Hypnotic Pattern
+	- **Cantrips:** Guidance, Spare the Dying, Mending, Word of Radiance, Toll the Dead
+	- **Level 1:** (Trickster domain) Charm Person, Disguise Self
+	- **Level 2:** (Trickster domain) Pass without Trace, Invisibility
+	- **Level 3:** (Trickster domain) Nondetection, Hypnotic Pattern
 
-📄 [Download Level 5 Character Sheet (PDF)](assets/sister-garra-lv5.pdf)
+	📄 [Download Level 5 Character Sheet (PDF)](assets/sister-garra-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

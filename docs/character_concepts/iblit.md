@@ -8,14 +8,12 @@
 
 ---
 
-## Basic Information
-**Species:** Kobold  
-**Class:** Warlock 5 (Celestial Patron)  
-**Background:** Acolyte  
-**Age:** 15  
-**Alignment:** Chaotic Neutral
-
-## Quick Intro
+## Character Overview
+- **Species:** Kobold  
+- **Class:** Warlock 5 (Celestial Patron)  
+- **Background:** Acolyte  
+- **Age:** 15  
+- **Alignment:** Chaotic Neutral
 
 ??? info "Quick Intro"
     
@@ -37,8 +35,6 @@
     * **Party Synergy:** Reluctant support caster who keeps the party alive while pretending not to care. Comic relief with emotional depth when things get serious.
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -155,8 +151,6 @@
 
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 	
 	### Running Archangel Serena
@@ -193,9 +187,7 @@
 
 ---
 
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -233,19 +225,6 @@
 		- **Pact of the Chain:** Find Familiar spell (at will, no slot), familiar can Attack as bonus action
 		- **Pact of the Tome:** Book of Shadows with 3 cantrips (Message, Prestidigitation, Word of Radiance) and 2 ritual spells (Detect Magic, Comprehend Languages)
 	
-	### Celestial Patron Features
-	- **Healing Light:** Pool of 6d6, bonus action to heal creature within 60 ft. (max 4 dice at once), regain on long rest
-	- **Celestial Spells (Always Prepared):**
-		- Cantrips: Light, Sacred Flame
-		- 1st: Cure Wounds, Guiding Bolt
-		- 2nd: Aid, Lesser Restoration
-		- 3rd: Daylight, Revivify
-	
-	### Kobold Species Traits
-	- **Darkvision:** 60 ft.
-	- **Draconic Cry:** 3/long rest, bonus action cry; allies within 10 ft. get advantage on attacks vs. enemies who heard you until start of your next turn
-	- **Kobold Legacy - Defiance:** Advantage on saves to avoid or end frightened condition
-	
 	## Equipment
 	**Worn/Wielded:**
 	- Studded Leather armor
@@ -254,22 +233,9 @@
 	- Gloves of Thievery (attuned)
 	
 	**Carried:**
-	- Backpack
-	- Calligrapher's Supplies
 	- Holy Symbol (frequently lost, heroically recovered by Serena)
-	- Orb (spellcasting focus)
-	- Oil (10 flasks)
-	- Tinderbox
-	- Lamp
-	
-	**Currency:** 23 GP
-	
-	## Spellcasting
-	**Spellcasting Ability:** Charisma  
-	**Spell Save DC:** 15  
-	**Spell Attack Bonus:** +7
-	
-	### Cantrips (at will)
+		
+	### Cantrips
 	- **Eldritch Blast** (2 beams, +4 damage each from Agonizing Blast)
 	- **Guidance** (Magic Initiate)
 	- **Light** (Celestial)
@@ -302,11 +268,9 @@
 	- **Revivify** (Celestial, always prepared)
 	- **Thunder Step**
 
-📄 [Download Level 5 Character Sheet (PDF)](assets/iblit-lv5.pdf)
+	📄 [Download Level 5 Character Sheet (PDF)](assets/iblit-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

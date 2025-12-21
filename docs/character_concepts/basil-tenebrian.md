@@ -12,12 +12,14 @@
 
 ## Basic Information
 **Species:** Shifter (Beasthide)
-**Class:** Wizard 5 (Bladesinger)  
-**Background:** Noble  
-**Age:** 20
-**Alignment:** Neutral Good
 
-## Quick Intro
+**Class:** Wizard 5 (Bladesinger)  
+
+**Background:** Noble  
+
+**Age:** 20
+
+**Alignment:** Neutral Good
 
 ??? info "Quick Intro"
     
@@ -39,8 +41,6 @@
     * **Party Synergy:** Versatile gish who can control battlefields while threatening in melee. Brings scholarly expertise (Arcana +10) for tough Magic checks, noble connections, and surprising durability for a wizard.
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -130,8 +130,6 @@
 
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 	
 	## Session Considerations
@@ -152,9 +150,9 @@
 
 ---
 
-## Mechanical build and PDF download
 
-??? info "Level 5 Build"
+
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -207,8 +205,6 @@
 	📄 [Download Level 5 Character Sheet (PDF)](assets/basil-tenebrian-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

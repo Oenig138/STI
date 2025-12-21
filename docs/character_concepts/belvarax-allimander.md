@@ -1,12 +1,13 @@
 # Belvarax "Gobsmack" Allimander
 
-*Keywords: Moral dilemmas, Reluctant tank, Party daddy*
-
 ![Belvarax "Gobsmack" Allimander](assets/belvarax-gobsmack-allimander.png){ width="300" }
 
 > *"Let the world scorn me, call me coward. I've made peace with being misunderstood. If I defended myself, I'd be serving my pride, not my oath."*
 
-*Dragonborn Paladin. Party daddy universally scorned for his reluctance to smite baddies. The gentle shepherd in the back.*
+**Dragonborn Paladin. Party daddy universally scorned for his reluctance to smite baddies. The gentle shepherd in the back.**
+
+*Keywords: Moral dilemmas, Reluctant tank, Party daddy*
+
 
 ## Character overview
 - **Race**: Dragonborn
@@ -15,10 +16,7 @@
 - **Alignment**: Lawful Good 
 - **Party Role**: Tank, Face, Secondary healer, Party conscience
 
-
 ---
-
-## Quick Intro
 
 ??? info "Quick Intro"
     
@@ -40,8 +38,6 @@
     * **Party Synergy:** Natural protector who never leaves allies to face storms alone. Overthinks rather than undercares—his flaw is analysis paralysis, not apathy.
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -115,7 +111,9 @@
     (Add only with explicit player and DM consent)
     
     Dragonborn woman of deep green scales, steady hands, and a laugh that still makes Belvarax's stomach knot. They grew up side by side on neighboring farms in the Amberfield valley. Where Belvarax was cautious and deliberate, Marielthra was bold, singing while she worked, haggling at market stalls, and daring him into mischief. Belvarax never managed to confess his feelings. His oath, his battles, and later his exile kept him at a distance. Today, he knows little of what became of her.
-    
+
+--- 
+ 
 ??? danger "For the DM: suggestions and ideas"
 
     ### DM Suggestions and Ideas
@@ -132,9 +130,7 @@
 
 ---
 	
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -170,8 +166,6 @@
     📄 [Download Level 5 Character Sheet (PDF)](assets/belvarax-gobsmack-allimander-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

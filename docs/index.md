@@ -6,7 +6,7 @@
 
 *All characters created in the official character creator tool at DNDBeyond.com, with minimal homebrew marked as such.*
 
-**About me:** Experienced writer of prose and fiction, and dungeon master in various RPG systems since 30 years. This project has been a creative outlet through a period of illness, and I'd like to share them freely with the D&D community.
+**About me:** Experienced writer of prose and fiction, and dungeon master in various RPG systems for 30 years. This project has been a creative outlet through a period of illness, and I'd like to share it freely with the D&D community.
 
 **Note:** Visual aid and graphics are indeed AI generated, *with love and care on a zero-budget*. If this is an issue, feel free to ignore any images and focus on the actual content.
 
@@ -172,7 +172,7 @@
        alt="Sally Tarrant, Human Oath of Redemption Paladin" loading="lazy">
   <span class="name" id="name-salynna-sally-tarrant">Salynna "Sally the Pally" Tarrant</span>
   <figcaption id="cap-salynna-sally-tarrant">
-    Trickster Pally
+    Stole cutlery at the boarding school for ten years before she found her purpose in life; now smothers her Ward with equal amounts of cold steel and trickery.
   </figcaption>
   <a href="character_concepts/salynna-sally-tarrant" aria-labelledby="name-salynna-sally-tarrant cap-salynna-sally-tarrant"></a>
 </figure>
@@ -204,7 +204,7 @@
   <figcaption id="cap-stennart">
     Dwarf merchant turned overnight Chad. Slowly transforming into a World Tree seedling while desperately clinging to the strength that finally made him feel important.
   </figcaption>
-  <a href="character_concepts/stennart" aria-labelledby="name-stennart cap-stennart"></a>
+  <a href="character_concepts/stennart-goldgift" aria-labelledby="name-stennart cap-stennart"></a>
 </figure>
 
 <figure class="character-card">
@@ -230,7 +230,7 @@
 </div>
 
 **Locations:** 
-- **[Lith and Flesh](locations/lith-and-flesh.md)**, a decadent boutique where petrified objects are modified and sold at premium rates. Tone: Satire, Body horror, Comedy. Includes Jeremy, the NPC that refuses to die.
+- **[Lith and Flesh](locations/the-lith-and-flesh.md)**, a decadent boutique where petrified objects are modified and sold at premium rates. Tone: Satire, Body horror, Comedy. Includes Jeremy, the NPC that refuses to die.
 
 **Factions:**
 - **[The Mud Nuns](factions/mud-nuns.md)**, a barefoot mendicant order of nuns living for mercy through mischief and larceny in the slums of the City. Tone: Heists, Divine trickstery, Urban Intrigue. Includes Sister Garra, PC/NPC who leaves receipts of "karma rebalanced" with her victims.

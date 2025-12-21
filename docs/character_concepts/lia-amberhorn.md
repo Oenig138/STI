@@ -10,14 +10,12 @@
 
 ---
 
-## Basic Information
-**Species:** Satyr
-**Class:** Sorcerer 5 (Wild Magic)  
-**Background:** Merchant  
-**Age:** 22
-**Alignment:** Chaotic Good
-
-## Quick Intro
+## Character Overview
+- **Species:** Satyr
+- **Class:** Sorcerer 5 (Wild Magic)  
+- **Background:** Merchant  
+- **Age:** 22
+- **Alignment:** Chaotic Good
 
 ??? info "Quick Intro"
     
@@ -39,8 +37,6 @@
     * **Party Synergy:** The lovable disaster who somehow pulls off the clutch play. Advocates for "impossible" options if they sound fun. Champions stray cats and underdogs.
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -108,8 +104,6 @@
 
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 	
 	### Plot Ideas
@@ -122,9 +116,7 @@
 	
 ---
 
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -158,11 +150,9 @@
 	**Level 2**: Mirror Image, Scorching Ray, Tasha's Mind Whip, Misty Step
 	**Level 3**: Fireball, Fly
 
-📄 [Download Level 5 Character Sheet (PDF)](assets/lia-amberhorn-lv5.pdf)
+	📄 [Download Level 5 Character Sheet (PDF)](assets/lia-amberhorn-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     
@@ -174,6 +164,6 @@
     
     Lia leans into tropes that are often mishandled in roleplay: the "bimbo", the sexually open party girl. She's designed to have humor and depth, but without care, she can easily collapse into stereotype. Her promiscuity is part of her coping style and self image, not a gag. If you're confident navigating tropes tied to women's sexuality and messiness without veering into caricature, then go for it. If it turns into "haha, she's easy," the table may suffer.
     
-    This is a great topic for session zero. Make sure everyone agrees on how much alcohol, sex, and chaos they want in their game, and what stays offscreen. If the group leans heroic and serious, it's better to play her messes as slapstick garnish. Bottom line: Lia is built to be a chaos engine with hidden competence, not a license to make anyone uncomfortable. If the group wants to fade-to-black, then fade you will.
+    This is an important topic for session zero. Make sure everyone agrees on how much alcohol, sex, and chaos they want in their game, and what stays offscreen. If the group leans heroic and serious, it's better to play her messes as slapstick garnish. Bottom line: Lia is built to be a chaos engine with hidden competence, not a license to make anyone uncomfortable. If the group wants to fade-to-black, then fade you will.
 
 ---

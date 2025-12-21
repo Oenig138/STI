@@ -10,14 +10,12 @@
 
 ---
 
-## Basic Information
-**Species:** Orc
-**Class:** Cleric 5 (Life Domain)  
-**Background:** Reformed Raider
-**Age:** 52
-**Alignment:** Neutral Good
-
-## Quick Intro
+## Character Overview
+- **Species:** Orc
+- **Class:** Cleric 5 (Life Domain)  
+- **Background:** Reformed Raider
+- **Age:** 52
+- **Alignment:** Neutral Good
 
 ??? info "Quick Intro"
     
@@ -39,8 +37,6 @@
     * **Party Synergy:** The sane adult everyone wishes they had in their life as a kid—tough, fair, kind, and unafraid to do what's right
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -102,8 +98,6 @@
 
 ---
 
-## Notes for the DM
-
 ??? danger "Notes for the DM"
 	
 	### Playing Geldok
@@ -128,9 +122,7 @@
 	
 ---
 
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -161,8 +153,6 @@
 	📄 [Download Level 5 Character Sheet (PDF)](assets/geldok-iron-tusk-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     

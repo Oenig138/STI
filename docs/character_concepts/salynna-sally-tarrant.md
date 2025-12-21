@@ -1,21 +1,21 @@
 # Salynna "Sally" Tarrant
 
-*Keywords: Bravado, trickster, roguish charm, bodyguard, reflavored Oath of Redemption*
-
 ![Salynna "Sally" Tarrant](assets/salynna-sally-tarrant.png){ width="300" }
 
 *“Break the rules. Keep the oath.”*
 
+**Sally was rejected by her noble family for being "unladylike", and sent to a boarding school, where she stole cutlery for ten full years before she found her purpose in life; now she is the ultimate bodyguard, if you don't care about a private life, and smothers her Ward with equal amounts of competence, cold steel and charlatanery.**
+
+*Keywords: Bravado, trickster, roguish charm, bodyguard, reflavored Oath of Redemption*
+
 ---
 
-## Basic Information
-**Species:** Human
-**Class:** Paladin 5 (Oath of Redemption)  
-**Background:** Charlatan 
-**Age:** 25  
-**Alignment:** Chaotic Good
-
-## Quick Intro
+## Character Overview
+- **Species:** Human
+- **Class:** Paladin 5 (Oath of Redemption)  
+- **Background:** Charlatan 
+- **Age:** 25  
+- **Alignment:** Chaotic Good
 
 ??? info "Quick Intro"
     
@@ -38,10 +38,7 @@
 
 ---
 
-## Deep Dive
-
 ??? info "Deep Dive"
-
 
 	## Backstory
 	The house Tarrant is a noble family. Salynna is very much not a noble character. At 15 she had already made herself an absolute headache at home, failing to learn her noble etiquette, kissing boys from the wrong social classes behind the stables and having a bad habit of stealing silverware. She was also growing unreasonably strong for her age, and decidedly unladylike to boot: tall, muscular and curvy, a dominant physique more suited for a rowdy tavern than the royal court.
@@ -114,12 +111,6 @@
 	*The Mirror* – Ward is independent, maybe even reckless. Sally protects against their freedom.
 	
 	*Fighting style: If your Ward has low AC, it's better to switch out Protection for Interception.*
-	
-	---
-	
-## Session zero notes
-
-Sally is built to be a charismatic, roguish Paladin who for the first time in her life believes in something. If you're going to play her as full "toxic helicopter mom" you **need to okay this with the table, and especially with your assigned Ward**. You and your fellow player will be essential to each other with these characters, and you must absolutely make sure that you're both on board with this scenario and dynamic. A good idea is to invite the table to help you know where the line is. This gives your fellow players express permission, allowing them to feel safe to let you know if Sally accidentally crosses it.
 
 ---
 
@@ -171,3 +162,17 @@ Sally is built to be a charismatic, roguish Paladin who for the first time in he
 	## PDF Character Sheet
 	
 	📄 [Download full character sheet](assets/salynna-sally-tarrant-lv5.pdf)
+	
+---
+	
+??? danger "**Session Zero Considerations**"
+
+	**Player-driven Ward dynamic**: The Ward relationship is deliberately left open for collaborative worldbuilding. The player of Sally and the player of her Ward should work together to define boundaries, expectations, and the nature of their bond *before* play begins.
+    
+	Sally is built to be a charismatic, roguish Paladin who for the first time in her life believes in something. If you're going to play her as full "toxic helicopter mom" you *need to okay this with the table, and especially with your assigned Ward*. You and your fellow player will be essential to each other with these characters, and must make sure you're both on board with this scenario and dynamic. 
+	
+	A good idea is to invite the table to help you know where the line is. This gives your fellow players express permission, allowing them to feel safe to let you know if Sally accidentally crosses it.
+	
+	**Family rejection and self-worth issues**: Players uncomfortable with themes of parental/familial rejection should be aware.
+    
+    **Body positivity and dealing with stereotypes**: Sally is explicitly described as "tall, muscular and curvy"—a body type her noble family deemed "unladylike" and shameful. Her story affirms that there's nothing wrong with her body or being in the world. Still, here's the heads-up: Sally has many layers, but can easily fall into the stereotype of big, beautiful and boisterous women. It is strongly suggested that you at least take it up at session zero and make sure you're all on board.

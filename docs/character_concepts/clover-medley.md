@@ -8,14 +8,12 @@
 
 ---
 
-## Basic Information
-**Species:** Tiefling
-**Class:** Ranger 5 (Hunter)  
-**Background:** Farmer
-**Age:** 22
-**Alignment:** Neutral Good
-
-## Quick Intro
+## Character Overview
+- **Species:** Tiefling
+- **Class:** Ranger 5 (Hunter)  
+- **Background:** Farmer
+- **Age:** 22
+- **Alignment:** Neutral Good
 
 ??? info "Quick Intro"
     
@@ -37,8 +35,6 @@
     * **Party Synergy:** The grounded, wholesome presence who shares cornbread and mends clothes even while quarreling. Keeps spirits up with dark humor and rural wisdom.
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -130,7 +126,6 @@
 
 ---
 
-## Notes for the DM
 
 ??? danger "Notes for the DM"
 	
@@ -148,9 +143,7 @@
 	
 ---
 
-## Mechanical build and PDF download
-
-??? info "Level 5 Build"
+??? info "Mechanical build (lv 5) and PDF download"
 
 	| STR | DEX | CON | INT | WIS | CHA |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -183,13 +176,12 @@
 	**Cantrips**: Chill Touch, Thaumaturgy
     **Level 1**: Absorb Elements, Cure Wounds, Animal Friendship, Detect Magic, Hail of Thorns, False Life, Protection from Evil and Good, Hunter's Mark
 	**Level 2**: Silence, Ray of Enfeeblement, Zone of Truth
-
-
-📄 [Download Level 5 Character Sheet (PDF)](assets/clover-medley-lv5.pdf)
-
+	
+	---
+	
+	📄 [Download Level 5 Character Sheet (PDF)](assets/clover-medley-lv5.pdf)
+	
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     
