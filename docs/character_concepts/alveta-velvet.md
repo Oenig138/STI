@@ -6,6 +6,8 @@
 
 **Air Genasi charlatan turned paladin, haunted by a childhood scam gone wrong. She fights to prove her invented fighting style—once a fraud—can become something worthy of glory.**
 
+*Keywords: Bravado, trickster, dramatic story arc, character driven play, infiltrator, skirmisher, dexadin*
+
 ---
 
 ## Basic Information
@@ -100,10 +102,6 @@
     "You know what that guard just said to me? 'Two Winds? That's just hot air.' And now I hate myself for not thinking of that one first."
     
     "Merchant! What do you want for that ancient dagger? ... Right... fuck me running, that's a lot of money. How about all I have on me, *and* I teach you how to do a cartwheel?"
-    
-    ## Character Arc Potential
-    
-    **Keywords:** Bravado, trickster, dramatic story arc, character driven play, infiltrator, skirmisher, dexadin
 
 ---
 

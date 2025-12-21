@@ -1,44 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="1.2em" height="1.2em" style="vertical-align: -0.2em; display: inline-block;"><g fill="currentColor"><path d="M12,14 Q12,8 32,8 Q52,8 52,14 L52,24 Q52,28 48,28 L16,28 Q12,28 12,24 Z"/><rect x="10" y="26" width="44" height="28" rx="2"/><circle cx="32" cy="40" r="4" fill="#000" opacity="0.3"/><rect x="10" y="32" width="44" height="2" opacity="0.2"/><rect x="10" y="48" width="44" height="2" opacity="0.2"/><ellipse cx="32" cy="26" rx="20" ry="3" opacity="0.15"/></g></svg>
-
-**Steal These Ideas** is a free library of plug-and-play D&D material...
-
 	# Steal These Ideas
 
 <img src="assets/sti.png" alt="STI logo" width="300">
 
-**Steal These Ideas** is a free library of plug-and-play D&D material: prebuilt **high-quality characters** with clear **personality, narrative hooks** and **unique voice**. Remix what you want, ignore the rest. 
+**Steal These Ideas** is a free library of state of the art plug-and-play D&D material: prebuilt **high-quality characters** with clear **personality, narrative hooks** and **unique voice**. Remix what you want, ignore the rest. 
 
-**Note:** Visual aid and graphics are indeed AI generated, *with love and care on a zero-budget*. Feel free to ignore these images if they rub you the wrong way. All I'm asking is that you judge the characters on their own merits.
+*All characters created in the official character creator tool at DNDBeyond.com, with minimal homebrew marked as such.*
+
+**About me:** Experienced writer of prose and fiction, and dungeon master in various RPG systems since 30 years. This project has been a creative outlet through a period of illness, and I'd like to share them freely with the D&D community.
+
+**Note:** Visual aid and graphics are indeed AI generated, *with love and care on a zero-budget*. If this is an issue, feel free to ignore any images and focus on the actual content.
 
 <p>
   <a href="#explore" class="md-button md-button--primary">Browse Character Concepts</a>
-  <a href="assets/sti-starter-bundle.zip" class="md-button">Download full character Bundle (ZIP)</a>
+  <a href="assets/full-bundle.zip" class="md-button">Download full character Bundle (ZIP)</a>
 </p>
 
-<small>Updated: 2025-09-04 • v0.1 · <a href="changelog/">CHANGELOG</a></small>
+<small>Updated: 2025-12-21 • v0.2 · <a href="changelog/">CHANGELOG</a></small>
 
 ### Why this helps you run better games
 
 - **Save prep time:** drop-in NPCs and PCs ready for adventure.
-- **Session-ready:** stat blocks, hooks, and handouts where applicable.
+- **Session-ready:** stat blocks, hooks, and sample dialogue crafted by an experienced writer.
 - **Remix-friendly:** free to use and share with attribution, non-commercial. 🔖 **License:** CC BY-NC-SA 4.0. See the full terms in the <a href="https://github.com/Oenig138/STI#readme">README</a>.
 
-## How to use
-
-One minute onboarding:
-
-	- Click a character → read the concept → open the PDF sheet.
-	- Download a printable PDF if you want something table-ready.
-	- Tweak as you wish, then drop into your session.
-	- These function equally as rich NPC's, well-developed one-shot pregens or campaign PC's.
-
 ## Explore
-
-**Locations:** 
-- **[Lith and Flesh](locations/lith-and-flesh.md)**, a decadent boutique where petrified objects are modified and sold at premium rates. Tone: Satire, Body horror, Comedy. Includes Jeremy, the NPC that refuses to die.
-
-**Factions:**
-- **[The Mud Nuns](factions/mud-nuns.md)**, a barefoot mendicant order of nuns living for mercy through mischief and larceny in the slums of the City. Tone: Heists, Divine trickstery, Urban Intrigue. Includes Sister Garra, PC/NPC who leaves receipts of "karma rebalanced" with her victims.
 
 <div class="character-gallery" markdown>
 
@@ -244,6 +229,12 @@ One minute onboarding:
 
 </div>
 
+**Locations:** 
+- **[Lith and Flesh](locations/lith-and-flesh.md)**, a decadent boutique where petrified objects are modified and sold at premium rates. Tone: Satire, Body horror, Comedy. Includes Jeremy, the NPC that refuses to die.
+
+**Factions:**
+- **[The Mud Nuns](factions/mud-nuns.md)**, a barefoot mendicant order of nuns living for mercy through mischief and larceny in the slums of the City. Tone: Heists, Divine trickstery, Urban Intrigue. Includes Sister Garra, PC/NPC who leaves receipts of "karma rebalanced" with her victims.
+
 * *(More sections coming soon: one-shots, campaign seeds, bestiaries, etc.)*
 
 ## FAQ
@@ -257,12 +248,12 @@ Yes. Most content works for younger audiences or can easily be tweaked, but chec
 **How are the characters designed?**
 All characters are designed to slot in seamlessly at many tables:
 
-- Level 4 with one ASI taken
+- Level 5
 - Built in the official character creator at dndbeyond.com
 - All ability scores are taken with the Points buy method.
-- All magic items are just suggestions, but are generally designed to fit most tables at level 4 (1-2 Uncommon Magic items, or in rare cases 1 Rare item that seems like a suitable fit).
+- Any magic items are merely suggestions, but are chosen first and foremost to fit the character.
 
-Ultimately, these are just suggestions. Take what you want, discard, rebuild or remix the rest.
+Take what you want, discard, rebuild or remix the rest.
 
 ---
 
