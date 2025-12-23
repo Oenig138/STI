@@ -6,7 +6,7 @@
 
 **A tortle wizard who survived being boiled by the fey and turned calculated kindness into her best defense—diplomat, abjurer, and philosophical survivor who forgives everything but forgets nothing.**
 
-*Keywords: Character driven roleplay, bittersweet, philosophical play*
+*Keywords: Character Driven Roleplay, Bittersweet philosophical play, Party Detective, Munchkin-adjacent Build*
 
 ---
 
@@ -21,8 +21,7 @@
     
     **At the Table**
     
-    * Calculated warmth masking deep disappointment in humanity
-    * Offers snacks, mends cloaks, remembers birthdays—all strategic infrastructure
+    * Offers snacks, mends cloaks, remembers birthdays, but it's mostly diplomatic infrastructure and habit
     * Wants to believe people are worth it; fears she's lying to herself
     * Party detective, anti-mage, battlefield controller, and diplomatic face
     
@@ -34,7 +33,7 @@
     
     * **Combat:** Denial engine wizard—shields, wards, and battlefield control. Keeps everyone breathing while weathering the storm. Shell up for +4 AC and concentration advantage when critical.
     * **Roleplay:** Smooth, unflappable, warm and gracious... especially when hurt or betrayed. Watch Fafnir the frog Familiar—he mirrors her actual feelings. When her voice turns to honey, someone's about to get the shovel.
-    * **Party Synergy:** Makes friends everywhere, mends equipment, offers strategic counsel. Diplomatic infrastructure personified—she'll get you into anywhere and out of most trouble.
+    * **Party Synergy:** Makes friends everywhere, does favors and logs them to call them in further down the line, offers strategic counsel.
 
 ---
 
@@ -116,11 +115,40 @@
 
 ---
 
+??? info "Key Relationships"
+	- **Dharma Lanternghost**: Tabaxi soothsayer who almost certainly goes under a stagename. She runs fortunes from a river boat that's constantly on the move, and she's either the real deal or the world's most convincing charlatan—even Olan can't tell, and that uncertainty drives her crazy. Whenever they bump into eachother the will always indulge in tea and card games and catch up: part genuine affection, part philosophical chess match. Dharma represents everything Olan's trying not to believe: that maybe some things can't be rationalized, that maybe trust requires actual faith, that maybe her careful calculations are just another shell she's hiding in.
+	
+	Dharma constantly tries to give Olan talismans, which the more secularly minded Tortle kindly declines. They met forty years ago when Dharma read Olan's fortune unbidden: "You'll spend your life building walls that look like bridges." Olan laughed it off, but the line haunts her.
+
+	- **Trequay Kimwin**: Aaracokra who is better known as the "Messenger Pigeon". He's pathologically devoted to his work, treating every delivery like a sacred oath. He's saved multiple city-states just by refusing to accept that "impossible" applies to him. Olan hired him once for a routine job and was so impressed that she's used him exclusively for 10 years. He's delivered messages through active warzones, bypassed magical wards, and memorized verbal messages too sensitive to write down.
+
+	- **Aquila Diredawn**: Edgy young Tortle Sorceress. She is everything Olan used to be before the incident with the cauldron: brilliant, idealistic, convinced that being right is enough. She's also reckless, self-sabotaging, and chronically underestimates consequences. Olan has extracted her from trouble dozens of times—magical debts, pissed-off nobles, experiments gone wrong. Aquila is grateful but also deeply resentful, trapped in that adolescent belief that accepting help means admitting incompetence.
+	
+	Olan never asked for a mentor role and Aquila never demanded it, but somehow that's the positions they slip into whenever their paths cross. Aquila is arguably more naturally talented than Olan. Her wild magic makes her unpredictable but devastatingly powerful when it connects. Olan sees her younger self in Aquila but also sees potential she herself never had. There's genuine affection there, buried under layers of mentorship neither of them agreed to. But Aquila is making the same mistakes Olan did, and it's only a matter of time before she embarrasses the wrong archfey.
+
+---
+
 ??? danger "Notes for the DM"
 	
 	The fantasy that makes Olan fun to play is not the glass cannon wizard raining down destruction, but the denial engine that keeps everybody breathing and weathers the storm. If you truly want to take her offline, DEX or STR saves will do the job, but remember the game is about having fun, not countering each others' builds.
 	
-	Exploit her pragmatism. She sees mercy as an investment and grudges as bad accounting. That's ripe for moral knots: Say a bandit she spared resurfaces. Has he "paid his debt," or defaulted? A foe begs for mercy but clearly can't be trusted. Does she waste the "loan"? An ally keeps making reckless choices. Does she keep investing, or cut losses?
+	### Dramatic Questions
+	
+	- *How will Olan act towards those who misuse her investments in them? Say a bandit she spared resurfaces as a robber baron. Has he "paid his debt," or defaulted? A foe begs for mercy but clearly can't be trusted. Does she waste the "loan"? An ally keeps making reckless choices. Does she keep investing, or cut losses?*
+	- *On a personal level, how does Olan deal with someone showing true respect and deference to her, not just treat her as a cog in the political machinery? What does it take for the cynic to go quiet, if only for a while?*
+	- *What would it take for Olan to explode? Not just do something that's not premeditated, but truly lose her composition? Even if she's immune to personal slights, then what if somebody manipulated her, used her credibility and contacts to hurt others in her name?*
+			
+	### Plot hooks
+	
+	- **The Premises of the Promises**: Advilmar the Fey lord has a problem. He's simultaneously promised a tract of his domains to two different factions of Bugbears, hoping they'd end up destroying each other. Instead, they teamed up. Against him. But this spells bad news not just for Advilmar but for other adjacent city-states as well. Now he needs a top diplomat to figure out how to split the two clans again, sowing dispute and suspicion in their ranks.
+	
+	It may already be a hundred years since the boiling incident, but both Olan and Advilmar remember it vividly. Now he's coming to *her* for help, and he's doing a shitty job of being graceful about it. Even so, this is where Olan's philosophy is put to the test. Does she make an ally of Advilmar? Does she trust him to keep his word? And what will she do with the knowledge now that she has it? Is saying "no" truly an option here? 
+	
+	- **The Thread Pulled**: Grevik the Fence, one of Olan's oldest "investments" has been captured by enemies of the Reedwater Throne and is giving up the people he knows in her network to save himself. While he doesn't know many, there are two who Olan would want to save at all cost, but maybe they don't have time to save them both?
+	
+		- Merry Catchlight (halfling innkeeper, 70s): Olan's oldest friend and most trusted message drop. She's been running The Gildenwort Inn as neutral ground for forty years. Knows only two other names but is beloved by everyone—losing her would crater Olan's reputation for protecting her people.
+		
+		- Wex (kenku forger, 20): Creates the documents that make Olan's diplomatic machinery work. Knows five contacts. Morally flexible, brilliant, impossible to replace, and has a long life ahead of them.
 	
 ---
 
@@ -152,7 +180,12 @@
 	- **Keen Mind**: Expertise in an Intelligence skill, can Investigate as Bonus Action
 		
 	## Equipment
-	Enduring Spellbook, Quarterstaff, Component Pouch, Playing cards, Forgery Kit, Calligrapher's Supplies
+	Spellbook, Abacus, Quarterstaff, Component Pouch, Playing cards, Forgery Kit, Calligrapher's Supplies
+	
+	**Suggestions for Magic Items**
+		- Cloak of Protection (More AC on tanky Wizard always the right move)
+		- Perfume of Bewitching (Advantage on Charisma checks for 1 hour, perfect for a diplomat)
+		- Mind Sharpener  (4 charges, lets you keep Concentration even if you failed the roll, recovers 1d4 charges/LR)
 	
 	## Spellcasting
 	**Cantrips**: Mending, Message, Mind Sliver, Minor Illusion

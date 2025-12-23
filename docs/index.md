@@ -52,8 +52,8 @@
        alt="Beitian 'Betty' Winter’s Heart, dragonborn psionic rogue" loading="lazy">
   <span class="name" id="name-betty">Beitian “Betty” Winter’s Heart</span>
   <figcaption id="cap-betty">
-    Dragonborn Psionic Rogue. Deaf Dragonchess prodigy and gambling addict. Built for representation and fun at the table.
-  </figcaption>
+    Dragonborn Psionic Rogue. Deaf Dragonchess prodigy and gambling addict who lives for gossip, outsmarting card sharps, and cataloguing everything that does and doesn't go with mustard.
+	</figcaption>
   <a href="character_concepts/beitian-winters-heart" aria-labelledby="name-betty cap-betty"></a>
 </figure>
 
@@ -72,7 +72,7 @@
        alt="Calypso 'So-So' Sonder, human monk (Open Hand)" loading="lazy">
   <span class="name" id="name-calypso-so-so-sonder">Calypso “So-So” Sonder</span>
   <figcaption id="cap-calypso-so-so-sonder">
-    Human Monk (Open Hand). The last noble D&D style kabuki luchador, aging artist of a dying tradition.
+    Human Monk (Open Hand). The last noble D&D style kabuki luchador, aging artist of a dying tradition struggling with obsolence. Hogs party protein, but always apologizes.
   </figcaption>
   <a href="character_concepts/calypso-so-so-sonder" aria-labelledby="name-calypso-so-so-sonder cap-calypso-so-so-sonder"></a>
 </figure>
@@ -82,7 +82,7 @@
        alt="Cephala Fortina, aasimar warlock" loading="lazy">
   <span class="name" id="name-cephala-fortina">Cephala Fortina</span>
   <figcaption id="cap-cephala-fortina">
-    Aasimar Warlock. Charlatan with chronic wanderlust and main-character energy. Given a demographic mystery by her strange patron.
+    Aasimar Warlock. Charlatan with chronic wanderlust and attachment issues. Perhaps the least qualified person to become divine detective tasked by a broken Patron with finding a lost people, but here we are.
   </figcaption>
   <a href="character_concepts/cephala-fortina" aria-labelledby="name-cephala-fortina cap-cephala-fortina"></a>
 </figure>
@@ -92,7 +92,7 @@
        alt="Clover Medley, tiefling ranger" loading="lazy">
   <span class="name" id="name-clover-medley">Clover Medley</span>
   <figcaption id="cap-clover-medley">
-    Tiefling Ranger. Charming farmgirl from a blighted valley obsessed with chasing a cursed Kirin. Wrangles pigs that grunt in Abyssal.
+    Tiefling Ranger. Charming farmgirl from a loving home in a deeply cursed valley, obsessed with chasing an alleged blighted Kirin. Wrangles Abyssal pigs and creeps out the cityfolk.
   </figcaption>
   <a href="character_concepts/clover-medley" aria-labelledby="name-clover-medley cap-clover-medley"></a>
 </figure>
@@ -102,7 +102,7 @@
        alt="Donner, harengon Battle Master" loading="lazy">
   <span class="name" id="name-donner">Donner</span>
   <figcaption id="cap-donner">
-    Harengon Battle Master. Cynical and haunted by the young one he sacrificed to stay alive; keeps others alive with blunt advice and kale stews.
+    Harengon Battle Master with a Schopenhauerian worldview. Haunted by the young he sacrificed to escape a predating terror; keeps others alive with blunt advice and kale stew.
   </figcaption>
   <a href="character_concepts/donner" aria-labelledby="name-donner cap-donner"></a>
 </figure>
@@ -112,7 +112,7 @@
        alt="Geldok Iron Tusk, orc cleric" loading="lazy">
   <span class="name" id="name-geldok-iron-tusk">Geldok Iron Tusk</span>
   <figcaption id="cap-geldok-iron-tusk">
-    Orc Cleric. Ex-raider turned unlikely cleric of the Big Boss; more of a streetcorner "problem solver" than mainstream faith healer. 
+    Orc Cleric. Soft-gutted ex-raider turned unlikely cleric of the Big Boss; more of a streetcorner "problem solver" than mainstream faith healer. 
   </figcaption>
   <a href="character_concepts/geldok-iron-tusk" aria-labelledby="name-geldok-iron-tusk cap-geldok-iron-tusk"></a>
 </figure>
@@ -152,7 +152,7 @@
        alt="Lia Amberhorn, satyr sorcerer" loading="lazy">
   <span class="name" id="name-lia-amberhorn">Lia Amberhorn</span>
   <figcaption id="cap-lia-amberhorn">
-    Satyr Sorcerer. Dyslexic and rejected by her merchant family. Plays to all the party girl and sorcerer stereotypes, but is secretly brilliant. 
+    Satyr Sorcerer. Dyslexic and rejected by her merchant family. Plays into all the party girl and sorcerer stereotypes. But beyond the cope, chaos and negative self talk, she's competent, clever and loving.
   </figcaption>
   <a href="character_concepts/lia-amberhorn" aria-labelledby="name-lia-amberhorn cap-lia-amberhorn"></a>
 </figure>
@@ -162,7 +162,7 @@
        alt="Olan Danù, Tortle Abjurer" loading="lazy">
   <span class="name" id="name-olan-danu">Olan Danù</span>
   <figcaption id="cap-olan-danu">
-    Tortle Abjurer diplomat who believes in mercy and kindness as rational investments, but struggles with mounting evidence that people aren't worth the effort. 
+    Tortle Abjurer. Diplomat who almost died for being right. Struggles with mounting evidence that people aren't worth the effort of mercy, but keeps being decent out of pure spite. 
   </figcaption>
   <a href="character_concepts/olan-danu" aria-labelledby="name-olan-danu cap-olan-danu"></a>
 </figure>
@@ -182,7 +182,7 @@
        alt="Scarecrow, Warforged College of Whispers bard" loading="lazy">
   <span class="name" id="name-scarecrow">Scarecrow</span>
   <figcaption id="cap-scarecrow">
-    Warforged Bard who stood guard in a village square for centuries, quietly indexing every life. Gives great hugs. Also spies on you.
+    Warforged Bard who stood guard in a village square for centuries, quietly indexing every life and family tree. Gives great hugs. Also spies on you.
   </figcaption>
   <a href="character_concepts/scarecrow" aria-labelledby="name-scarecrow cap-scarecrow"></a>
 </figure>
@@ -192,7 +192,7 @@
        alt="Sister Garra, Tabaxi Trickster Cleric" loading="lazy">
   <span class="name" id="name-sister-garra">Sister Garra</span>
   <figcaption id="cap-sister-garra">
-    Tabaxi Trickster Cleric of the Mud Nuns, meticulous about accounting and receipts to the people she rob to keep their stagnant wealth from poisoning their souls.
+    Tabaxi Trickster Cleric of the mendicant Mud Nuns order, meticulous about accounting and receipts to the people she robs, struggles with the allure of soft beds mid-heist.
   </figcaption>
   <a href="character_concepts/sister-garra" aria-labelledby="name-sister-garra cap-sister-garra"></a>
 </figure>

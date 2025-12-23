@@ -181,9 +181,12 @@
 	### Plot Hooks
 	
 	- The monastery sends someone to retrieve Iblit (and the stolen/destroyed relic's remains)
-	- Lathander has a specific mission for Iblit that only he can accomplish
-	- Serena's superiors question whether she's the right angel for this job
+	- Serena is told by the inscrutable powers above to give Iblit specific missions, such as saving a temple from corruption or, Heavens forbid, broker peace in a Chapter of the Dawn between two factions of quarreling Paladins. Iblit may seem like the worst possible candidate for the job, but just trust the process!
 	- Iblit encounters other survivors from his kobold clan
+	
+	### Lathander's Gambit
+	
+	The Morning Lord doesn’t need Iblit to become devout. Maybe the choice to assign Serena to this little menace is much simpler, and kinder. Here's a little brave soul who was handed a shitty start in life. The decision to put him in a monastery of the Morning Lord meant something. A being was put in the care of a God, and that God decided to care. So many wily Kobolds are slain in the name of the good Gods every year. What if just one of them was allowed to explore their potential, find connection and do something great? That is a thesis statement about not giving up on anybody. That is a profoundly Lathanderian message. The big problem, of course, is that Lathander doesn't have a squad of Nanny Angels available, so it had to be Serena. For better or worse, Lathander decided to trust in the process.
 
 ---
 
@@ -212,61 +215,21 @@
 	## Feats
 	- **Resilient (Constitution)**: +1 CON, gain proficiency in CON saving throws
 	- **Magic Initiate (Cleric)**: Learn Guidance and Mending cantrips, Cure Wounds 1/long rest (CHA spellcasting)
-	
-	## Class Features
-	
-	### Warlock Features
-	- **Pact Magic:** 2 spell slots (3rd level), regain on short rest
-	- **Magical Cunning:** 1/long rest, 1-minute ritual to regain 1 expended Pact Magic spell slot
 	- **Eldritch Invocations:**
-		- **Agonizing Blast:** Add CHA modifier to Eldritch Blast damage
-		- **Eldritch Mind:** Advantage on CON saves to maintain Concentration
-		- **Investment of the Chain Master:** Enhanced familiar abilities (see Pact of the Chain)
-		- **Pact of the Chain:** Find Familiar spell (at will, no slot), familiar can Attack as bonus action
-		- **Pact of the Tome:** Book of Shadows with 3 cantrips (Message, Prestidigitation, Word of Radiance) and 2 ritual spells (Detect Magic, Comprehend Languages)
+		- *Agonizing Blast*
+		- *Eldritch Mind*
+		- *Investment of the Chain Master* 
+		- *Pact of the Chain*
+		- *Pact of the Tome* 
 	
 	## Equipment
-	**Worn/Wielded:**
-	- Studded Leather armor
-	- Dagger (×2)
-	- Cloak of Protection (attuned) - +1 AC and saves
-	- Gloves of Thievery (attuned)
-	
-	**Carried:**
-	- Holy Symbol (frequently lost, heroically recovered by Serena)
+	- Studded Leather armor, Dagger (×2), Holy Symbol, Cloak of Protection (magic item for durability, suggested), Gloves of Thievery (for "little Kobold shit" vibes)
 		
-	### Cantrips
-	- **Eldritch Blast** (2 beams, +4 damage each from Agonizing Blast)
-	- **Guidance** (Magic Initiate)
-	- **Light** (Celestial)
-	- **Mage Hand**
-	- **Mending** (Magic Initiate)
-	- **Message** (Pact of the Tome)
-	- **Minor Illusion**
-	- **Prestidigitation** (Pact of the Tome)
-	- **Sacred Flame** (Celestial)
-	- **Word of Radiance** (Pact of the Tome)
-	
-	### 1st Level
-	- **Armor of Agathys**
-	- **Comprehend Languages** (ritual, Pact of the Tome)
-	- **Cure Wounds** (Celestial, always prepared; also 1/LR from Magic Initiate)
-	- **Detect Magic** (ritual, Pact of the Tome)
-	- **Find Familiar** (ritual, Pact of the Chain)
-	- **Guiding Bolt** (Celestial, always prepared)
-	
-	### 2nd Level
-	- **Aid** (Celestial, always prepared)
-	- **Lesser Restoration** (Celestial, always prepared)
-	- **Mirror Image**
-	
-	### 3rd Level (2 slots)
-	- **Counterspell**
-	- **Daylight** (Celestial, always prepared)
-	- **Fly**
-	- **Hypnotic Pattern**
-	- **Revivify** (Celestial, always prepared)
-	- **Thunder Step**
+	### Spellcasting
+	- **Cantrips**: Eldritch Blast, Guidance, Light, Mage Hand, Mending, Message, Minor Illusion, Prestidigitation, Sacred Flame, Word of Radiance
+	- **Level 1**: Armor of Agathys, Comprehend Languages [R], Cure Wounds [1/LR], Detect Magic[R], Find Familiar, Guiding Bolt
+	- **Level 2**: Aid, Lesser Restoration, Mirror Image
+	- **Level 3**: Counterspell, Daylight, Fly, Hypnotic Pattern, Revivify, Thunder Step
 
 	📄 [Download Level 5 Character Sheet (PDF)](assets/iblit-lv5.pdf)
 

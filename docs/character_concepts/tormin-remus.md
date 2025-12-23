@@ -6,7 +6,7 @@
 
 **A revolutionary changeling warlock who traded his soul—and his face—to fight tyranny, now spreading sedition through music while slowly forgetting who he used to be.**
 
-*Keywords: Revolutionary, Identity Loss, Folk Hero, Deception, Intrigue, Tragic Heroism*
+*Keywords: Revolutionary, Identity Loss, Folk Hero, Deception, Heavy Intrigue Play, Tragic Heroism*
 
 ---
 
@@ -21,19 +21,17 @@
     
     **At the Table**
     
-    * Lost his original face after years of wearing masks—literally can't remember what he looked like
-    * Plays a haunting flute melody that's become an outlawed anthem of rebellion
-    * Fears becoming nothing but performance, a mask with nothing underneath
+	* Effortless party face with Warlock blasting power and versatile toolkit
+    * His Faustian bargain gave him uncanny musical skills; now he plays a haunting melody that's become an outlawed anthem of rebellion
     * The party's infiltrator and face-changer, but needs emotional anchors to avoid Main Character Syndrome
+	* Best suited for a limited, heavy intrigue arc
     
     **Backstory (Short Form)**
     
-    Tormin watched his family hang for unpaid taxes, then walked the forbidden road to strike a devil's bargain: the power to fight back in exchange for his soul. Years of wearing stolen faces as a revolutionary have eroded his memory of who he was. Now he spreads rebellion through an outlawed melody while slowly dissolving into the masks he wears.
+    Tormin watched his family hang for unpaid taxes, then walked the forbidden path to strike a devil's bargain at the crossroads: the power to fight back in exchange for his soul. Years of wearing stolen faces as a revolutionary have eroded his memory of who he was. Now he spreads rebellion through an outlawed melody while slowly dissolving into the masks he wears.
     
     **Playing Tormin**
-    
-    * **Combat:** Blasts from range with Eldritch Blast (+4 CHA to damage), uses invisibility and movement spells to reposition, summons shadowspawn for battlefield control.
-    * **Roleplay:** Gallows humor masking deep melancholy. Observant and empathetic to others' struggles since he's lost connection to his own identity. The flute melody he learned from his mother is his only remaining anchor to his former self.
+    * **Roleplay:** Gallows humor masking melancholy. Observant and empathetic to others' struggles since he's lost connection to his own identity. The flute melody he learned from his mother is his only remaining anchor to his former self.
     * **Party Synergy:** Needs explicit ties to other PCs established in session zero—a reason to care beyond the revolution. Works best when sharing secrets early to build trust and balancing solo infiltration with group unity.
 
 ---
@@ -42,29 +40,47 @@
     
     ## Full Backstory
     
-    Tormin Remus was a human once, but lost most of his life to a robber baron's brutal tax collectors. As he alone cut down his relatives swinging from the gallows tree, he vowed to end the oppression. He took the forbidden road beyond the village boundary, to the dark forest, ending up at a crossroads on a moonless midnight. There, he entered a pact for his soul, in exchange for the power to fight back.
+    Tormin Remus was a human once, but lost most of his life to a robber baron's brutal tax collectors. 15 years old, he alone cut down his relatives swinging from the gallows tree, and vowed to end the oppression. He took a forbidden path beyond the village boundary, to the dark forest, ending up at a crossroads on a moonless midnight. There, he entered a pact for his soul, in exchange for the power to fight back.
     
     Now, Tormin has been traveling the roads as an anonymous wayfarer for years, fighting back wherever he gets the opportunity. He impersonates guard captains, releases insurrectionists, plants dissent and confusion. But the cost is higher than just his soul.
     
     For a natural Fey Changeling, transformation is comfortable. But for Tormin, given this power by a pact, every shift is a violation of his self. After years of wearing other faces, he can't remember his original appearance clearly. Eye color, hair, height—they're all fuzzy.
     
-    *"They say the Flutist could be anyone. And they're right. Because he's been everyone so long, he's no one at all."*
-    
     Now, other revolutionaries pretend to be him, creating paranoia by playing his tune in the night. The nobles can't tell which incidents are Tormin and which are theater. That suits Tormin perfectly, but it also hurts his soul a little.
     
     ## The Traitor's Tune
     
-    Tormin lost his face and self as a result of his pact with the Devil. Instead, he plays a song on his flute. It is his only remaining connection to who he was, a song he learned from his mother as a child. Many know it, but none can play it with Tormin's uncanny precision. Now it's his calling card, it's how allies recognize him, and how enemies know they're already caught in his web.
+    Tormin lost his face and sense of self. Instead, he plays a song on his flute. It is his only remaining connection to who he was, a song he learned from his mother as a child. Many know it, but none can play it with Tormin's uncanny precision. Now it's his calling card, it's how allies recognize him, and how enemies know they're already caught in his web.
     
     The nobles, desperate and grasping at smoke, outlawed the melody itself, which only made more people learn it. Workers hum it under their breath. Children make games of it. The Traitor's Tune has become sacred to the oppressed, a cultural revolution transmitted through music, something bigger than Tormin himself.
     
     ## Mythological Inspirations
     
-    Tormin is a remix of various myths: He has the inhuman musical skills of Robert Johnson, fabled to have struck a deal with the Devil at the crossroads. Playing his own tune on the flute (resembling the pied piper of Hamelin) or fiddle (think Paganini) is the only way Tormin can still remember who he used to be. The drums he mostly uses when on the march, when people need to be led. He has the folk-hero in disguise vibes of Robin Hood, but his ability to disguise is a lot more literal. Finally, he has the die-hard revolutionary mindset of Guy Fawkes, willing to do whatever it takes to see his vision come true, even at great personal expense.
+    Tormin is a remix of various myths: He has the inhuman musical skills of Robert Johnson, fabled to have struck a deal with the Devil at the crossroads. Playing his own tune on the flute (resembling the pied piper of Hamelin) or fiddle (think Paganini) is the only way Tormin can still remember who he used to be. The drums he mostly uses when on the march, when people need to be led. He has the folk-hero in disguise vibes of Robin Hood and the flair of the Scarlet Pimpernel. Finally, he has the die-hard revolutionary mindset of Guy Fawkes, willing to do whatever it takes to see his vision come true, even at great personal expense.
     
+	## Sample quotes
+	
+	"At this point, I feel we'll probably fail. Most revolutions do, that's a fact. But someone has to try, and I've already paid the entry fee."
+	
+	"I once impersonated a village drunk for a full week. Even slept in the gutter. Then I had to shift to a Dragonborn for another week just to get rid of the fleas."
+	
+	"No, as a matter of fact I don't know what will come next. I only know what was, and what mustn't be allowed to repeat itself. Faced with two possible evils I will always choose the ones I haven't yet seen."
+	
+	"Sometimes you need to take a step back and enjoy the craft. The guard captain ordered his men to look for a scarred half-elf woman I performed as yesterday. So I shifted to *another* scarred half-elf woman and let myself get arrested, to waste everybody's time. Tomorrow I think I'll take a shot at being the guard captain."
+	
+	"Sorry, I don't perform as priests. Even I have limits."
+	
+	"You want to hear me play the violin? Very well... But it can be a lot. It's not exactly music that's coming from a happy place. Please don't be afraid."
+	
+	"For some reason I crave pickles every time I perform Orcs. Is it psychosomatic? Could it be the skin color?"
+	
+	"I love hearing people play the Traitor's Tune. It belongs to everyone who hums it now, but everybody has their own little variation of it. I have mine. And that little variation that only I do... It's sacred."
+	
+	---
+	
     ## Three Solutions to the Forgery Problem
     
-    Tormin lacks forgery skills, which could be essential for his missions. There are some ways you could solve this:
+    Tormin lacks forgery skills (simply couldn't fit them cleanly into the build), which could be essential for his missions. There are some ways you could solve this:
     
     1. **The Alfred Solution**: Tormin once saved a master counterfeiter from the gallows. Ever since that day, they've been a team, like Batman and Alfred, the Punisher and Micro. This ally can precisely mimic handwriting, seals, or any bureaucratic style. They could even be the unseen pen and theorist behind Tormin's revolution.
     
@@ -74,22 +90,8 @@
     
     ## Gender and Changelingship
     
-    In this character description, Tormin is referred to as "he" because the tropes he's leaning on (Guy Fawkes, Faust, etc.) are all male coded. But Tormin's form is mutable, and his sense of self is eroding with every new mask he puts on. Using 'they' pronouns can underscore that loss of identity. However, it's important to note: this is fundamentally different from nonbinary or genderfluid identity. Trans and nonbinary people are discovering and affirming their authentic selves, moving toward wholeness. Tormin's story is the opposite: a tragic loss of self through literal, unwilling fragmentation.
-    
-    If you choose to describe Tormin as "they," do so to highlight this metaphysical unraveling, not to echo trans identity. His story is about losing the self, not becoming who he truly is.
-    
-    ## Playing Tormin: Session Zero Essentials
-    
-    Tormin thrives in intrigue and subterfuge. In a dungeon-crawl or monster-hunt, his talents may play second fiddle. Check the campaign vibes with the DM.
-    
-    Tormin risks Main Character Syndrome. His modus operandi is deception, infiltration, and working alone. You *need* to make this mesh well with your party.
-    
-    **Suggestion**: During session zero, explicitly tie him to another character. Is he the bodyguard for the party's noble? Does he see a spark of his lost family in the naive cleric? He needs a reason to care about the group beyond his revolution. Share your secrets with at least one other PC early on to build trust. Listen to your table and balance the solo missions.
-    
-    **Suggestion**: Avoid falling into the brooding edgelord stereotype by playing into gallows humor and bittersweet melancholy. People who go through hardships but still find meaning often tune in more to the plight of others and empathize with them. Tormin isn't all about himself. On the contrary, he doesn't have much of a self left. It would be natural that he live vicariously through the group, caring more about his friends and their struggles.
-    
-    Tormin has no long- or short-term goals listed, in order to be versatile and work in many campaign settings. You'll have to decide with your DM who it is Tormin is working to topple and what his concrete goals are.
-    
+    In this character description, Tormin is referred to as "he" because the tropes he's leaning on (Guy Fawkes, Faust, etc.) are all male coded. But Tormin's form is mutable, and his sense of self is eroding with every new mask he puts on. Using 'they' pronouns can underscore that loss of identity. However, it's important to note: this is fundamentally different from actual nonbinary or genderfluid identity. Trans and nonbinary people are affirming an authentic self. Tormin's story is the opposite: a tragic loss of self through literal, unwilling fragmentation.
+        
     ## Alignment Considerations
     
     Tormin's alignment is set as Neutral. Tormin truly can't know if his struggle will create a better country. All he knows is that this one has to go, and he's willing to take the risk that innocents will die in the process. All things considered, "Good" seems too generous an alignment, and "Evil" too harsh.
@@ -125,7 +127,7 @@
 	**Arc 3: The Reckoning**
 	Endgame possibilities:
 	- **Tragic Completion** - Revolution succeeds, Tormin fades into crowd wearing a stranger's face
-	- **Redemption** - Tormin realizes the cost and tries to find another way
+	- **Redemption** - Tormin finally realizes the cost and tries to find another way
 	- **Horror Reveal** - The devil's true purpose emerges
 	- **The New Tyranny** - "Meet the new boss, same as the old boss"
 	
@@ -135,10 +137,10 @@
 	The revolution itself is the goal. Revolution produces massacres and retribution, purges and counter-purges. The righteous become monsters and thousands are damned on BOTH sides. The devil doesn't care who wins. He wants the bloodbath.
 	
 	**Theory 2: Tormin's Corruption**
-	The devil doesn't care if the Kingdom were to fall. He wants to watch Tormin become unrecognizable. Every face worn erodes who he was. The idealist who cared enough to damn himself is slowly becoming just... the masks. Finally, there's nothing left but performance. Thus, a good man is utterly erased, through his own making. What triumph could be greater?
+	The devil doesn't care if the Kingdom were to fall. He wants to watch Tormin become unrecognizable. The idealist who cared enough to damn himself is slowly vanishing with every new face he wears, of his own choice. What triumph could be greater?
 	
 	**Theory 3: Breaking Ancient Seals (Classic High Fantasy Style)**
-	The Kingdom's tyranny may actually maintain ancient wards/seals containing something much worse. The devil can't break them directly, but a revolution could burn old records, kill a bloodline of keepers, or destroy institutions maintaining the seals.
+	The Kingdom's tyranny may maintain ancient wards/seals containing something much worse. The devil can't break them directly, but a revolution could burn old records, kill a bloodline of keepers, or destroy institutions maintaining the seals.
 	
 	## Additional Plot Hooks
 	
@@ -194,8 +196,19 @@
 
 ??? danger "**Session Zero Considerations**"
     
+	### Campaign vibes
+	Tormin thrives in intrigue and subterfuge. In a dungeon-crawl or monster-hunt, his talents may play second fiddle (hah). Check the campaign vibes with the DM.
+    
+    Tormin risks Main Character Syndrome. His modus operandi is deception, infiltration, and working alone. You *need* to make this mesh well with your party.
+    
+    **Solutin: Deepening bonds**: During session zero, explicitly tie him to another character. Is he the bodyguard for the party's noble? Does he see a spark of his lost family in the cleric? He needs a reason to care about the group beyond his revolution. Share your secrets with at least one other PC early on to build trust.
+    
+    Avoid falling into the brooding edgelord stereotype by playing into gallows humor and bittersweet melancholy. People who go through hardships but still find meaning often tune in more to the plight of others and empathize with them. Tormin isn't all about himself. On the contrary, he doesn't have much of a self left. It would be natural that he live vicariously through the group, caring more about his friends and their struggles.
+    
+    Tormin has no long- or short-term goals listed, in order to be versatile and work in different campaign settings. You'll have to decide with your DM who it is Tormin is working to topple and what his concrete goals are.
+	
     **Content Notes:** Violence (execution, revolutionary violence), themes of identity loss and existential horror, morally grey choices regarding revolution and collateral damage. The character's story involves state violence, torture implications, and the psychological cost of sustained deception.
     
-    **Representation Notes:** The character explores identity dissolution through supernatural means. While Tormin uses changeling abilities and shifting pronouns could underscore his loss of self, this is explicitly NOT meant to represent trans or nonbinary identity—it represents tragic fragmentation, not authentic self-discovery. Discuss comfort levels with body horror, identity themes, and political violence during session zero.
+    **Representation Notes:** The character explores identity dissolution through supernatural means. Discuss comfort levels with body horror, identity themes, and political violence during session zero.
 
 ---
