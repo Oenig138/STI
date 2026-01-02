@@ -6,13 +6,13 @@
 
 **Dragonborn Paladin. Party daddy universally scorned for his reluctance to smite baddies. The gentle shepherd in the back.**
 
-*Keywords: Moral dilemmas, Reluctant tank, Party daddy*
-
+---
 
 ## Character overview
 - **Race**: Dragonborn
 - **Class**: Paladin (Oath of Devotion) lv 5
 - **Background**: Farmer
+- **Age**: 38
 - **Alignment**: Lawful Good 
 - **Party Role**: Tank, Face, Secondary healer, Party conscience
 
@@ -22,14 +22,14 @@
     
     **At the Table**
     
-    * Patient to a fault, polite even when being ripped off or bullied
-    * Never raises his voice, but his nostrils glow when his patience wears thin
-    * Fears staining his soul more than losing honor in others' eyes
-    * The party's gentle shepherd—prime candidate for party dad with quiet gravitas
+    * Patient to a fault, never raises his voice even when getting ripped off or bullied, but his nostrils glow when his patience wears thin
+    * Always sits closest to the fire, then shuffles aside when he realizes he's hogging the heat
+    * Prime candidate for party dad and emotional regulator, not great at managing his own unresolved messes 
+	* Leadership qualities hampered by overthinking; thinks he's too boring to inspire others or find a mate
     
     **Backstory (Short Form)**
     
-    Belvarax was a gallant paladin who battled goblin raiders until he discovered the "raids" were desperate attempts to feed starving families displaced by mining companies. His oath became a tool of oppression in corrupt hands. He retreated to the mountains and returned changed, reinterpreting his vows to prioritize compassion over hasty judgment. Many now call him "Gobsmack" and consider him a coward. Other paladins scorn his constant indecision, yet he has not lost his divine powers.
+    Belvarax was a gallant paladin who battled goblin raiders until he discovered the "raids" were desperate attempts to feed starving families displaced by predatory mining companies. His oath became a tool of oppression in corrupt hands. He retreated to the mountains and returned changed, reinterpreting his vows to prioritize compassion over haste. Many now call him "Gobsmack" and consider him a coward. Other paladins scorn his constant indecision, yet his Paladin power remains undiminished. His oath answers to conviction, not the consensus of the order.
     
     **Playing Belvarax**
     
@@ -41,56 +41,11 @@
 
 ??? info "Deep Dive"
     
-    ### Character Psychology
+	## Full Backstory
     
-    Belvarax used to believe in confidence, commitment. Now he believes more in compassion and disciplined doubt, refusing to jump to hasty conclusions. Every story has another side, even if it takes years to find. But what is a year in the eyes of the Gods? 
+    Belvarax began as a farmer on Adlerfield, where he once dreamed of a simple life with his childhood friend Mariel, though he never found the words to win her heart. When goblins raided his fields, he took the Paladin oath. He was gallant back then. He's not considered gallant anymore, because he chose honor over pride.
     
-    He lives not to be honored, but to avoid staining his soul. He will protect whoever he believes are the weak in times of crisis, but he won't run anybody's errands. Any truth worth fighting for has to be complicated, and so every fight must be fought as much with the mind as the heart.
-    
-    Even so, he never leaves an ally to face the storm alone. Any good party needs a gentle shepherd in the back, and that is where Belvarax feels his calling. He is not so much self-effacing as deeply pessimistic about anybody's chances of doing real good in the world. Even so, he still tries in his own way. 
-    
-    Belvarax has the patience of a saint and will likely be kind and polite, even when he knows he is being ripped off, played for a fool or downright bullied. He's not easily triggered like that.
-    
-    However, there's one cinder that burns in his heart and can allow him to show a very different side: Marielthra "Mariel" Cinderwing, his childhood crush from back at the farm. A magnificient Dragonborn woman who was always larger than life, charismatic in a more flamboyant way, where Belvarax was more reserved and grounded. Perhaps they will meet again, and perhaps that's when Belvarax will truly have to reconsider his vows, and discover he has buttons no one has pressed in a long time?
-    
-    Ultimately, Belvarax chose *not* to become the leader of a goblin resistance against the greedy mining companies. That came with its own set of hard moral obligations for Belvarax. Among them, he had to make an entirely new intepretation of the Paladin Oath of Devotion. 
-    
-    But Belvarax is a simple farmer. His new system is built from sincerity, patience and experience, not rigorous study or intellect. He lacks the head for politics, so he tries to stick with what he knows, so that he won't have to disappoint the gods or himself by having to back down: 
-    
-    **Oath: "Let your word be your promise."**
-    Interpretation: Never give a promise, since promises depend on circumstances beyond your control. Breaking a holy promise is sacrilege before the Gods.
-    
-    **Oath: "Protect the weak and never fear to act."**
-    Interpretation: This is not a license to act with impunity. Firstly, who are the weak? What if raiding goblins lack access to other means of survival? Action without investigation is not bravery, but reckless conviction of your own infallibility. That is a hallmark of an evil-doer. Therefore, investigation is a necessary part of action, and not a sign of fear.
-    
-    **Oath: "Let your honorable deeds be an example."**
-    Interpretation: this implies there are also dishonorable deeds. Therefore you must be careful to not set bad examples. It's more important to not do wrong, since it takes more effort to rectify mistakes once made, than to not make them in the first place. A life takes many years of constant love and nurture to grow, but only a moment of force to undo. Therefore, growing and sheltering a life is the most honorable deed. Who then should I take my examples from?
-    
-    Belvarax is an experienced warrior. He wouldn't start berating his party for every pub brawl. But when he does step in, he carries quiet gravitas, and is prime candidate for party dad. 
-    
-    The saintly act isn't just humility, it's the result of dedicated discipline. But not even a saint can stay patient forever. An occasional flash of fire reminds everyone there's still a dragon in there. He never raises his voice, but he doesn't have full conscious control of his fire breath, so his friends have learned to tell by the glow in his nostrils when his patience is being tested. His biggest flaw is overthinking, *not* undercaring.
-    
-    ### Sample Quotes
-    
-    "Let the world scorn me, call me coward. I've made peace with being misunderstood. If I defended myself, I'd be serving my pride, not my oath."
-    
-    "Yes, some goblin tribes do torture their victims. That's not what I'm condoning. I'm asking, what did the mayor do with the last goblin they captured?"
-    
-    "Groats again? Oh, I'm not complaining... But didn't I contribute 20 gold to the food budget last week? Those are lovely new boots, by the way."
-    
-    "While I've no idea what's going on here, you all clearly need to calm down. If you want to get to this girl, you're going through me. And I breathe fire."
-    
-    "Death is easy, life is hard. Killing is a fast solution, talking is a patient one. Being a Paladin is about never choosing the easy way."
-    
-    "No, I don't subscribe to the children's-book morality where you just smite the evildoers and then get a lavish feast. That's fairy tale logic."
-    
-    "Gods above, if this is wrong, let me see it. If it is right, let me bear it."
-    
-    ### Full Backstory
-    
-    Belvarax began as a farmer on Adlerfield, where he once dreamed of a simple life with his childhood friend Mariel, though he never found the words to win her heart. When goblins raided his fields, he took the Paladin oath. He was gallant then, and honorable. He's not considered very gallant anymore, because he ultimately stuck to his honor before his pride.
-    
-    He spent a long time battling goblin raiders and rooting out local bandits, believing each act of violence would push the world toward order and light. One early morning, he confronted a goblin stealing potatoes, only so spot the starving child clutching a rag doll behind her. When he briefly lowered his pike in confusion, the goblin mother saw the opportunity and bolted.
+    He spent a long time battling goblin raiders and rooting out local bandits, believing each act of violence would push the world toward order and light. One early morning, he confronted a goblin stealing potatoes, only to spot the starving child clutching a rag doll behind her. When he briefly lowered his pike in confusion, the goblin mother saw the opportunity and bolted.
     
     He traced the raid back to their village, Belvarax confronted the Goblin Matron Shatrag, and finally learned that the goblins had their lands claimed by mining and lumber operations of the Satriani merchant's guild. Their "raids" were desperate attempts to feed their young. 
     
@@ -102,32 +57,87 @@
     
     Now, many call him a coward and hypocrite. Other paladins scoff at his constant indecision. He's been more or less cast out of the order. Many locals refer to him as "gobsmack" since he's become so paralyzed because of his "goblin love".
     
-    Some Paladins have gone even further. Satine Boyard, Dean of the Chapter, calls him an infidel and regards him as an affront to the order. The last time they met, her blade left its scabbard. Although he was pressed, Belvarax held his ground without retaliating. She was finally talked down by the full congregation of Elders, plus the Chapter Librarian.
+    Some Paladins have gone even further. Satine Boyard, Dean of the Chapter, calls him an infidel and regards him as an affront to the order. The last time they met, her blade left its scabbard. Although he was pressed, Belvarax held his ground without retaliating. She was finally forced to withdraw by the Chapter Librarian physically intervening with his body.
     
-    Even so, he has not lost his Paladin powers. His Oath is mysteriously still considered kept by those who watch from above.
+    And yet his powers remain. The Chapter cannot explain it—cannot accept it. A paladin's might flows from the oath itself, from the sincerity of conviction. Belvarax's reinterpretation and radical doubt *should* have severed that connection. It didn't. Either his heresy is not heresy at all, or the oath answers to laws the Chapter has never understood.
+	
+    ## Personality
     
-    ### Marielthra "Mariel" Dawnscale
+    As a Golden Dragonborn with Fire Resistance, heat is home. Belvarax gravitates closest to the campfire, the hearth, the sunny patch on the floor. Then he catches himself hogging the warmth and shuffles sideways with a quiet "ah, apologies." He stays polite even when he's being ripped off, played for a fool, or bullied—but not even a saint can stay patient forever. He never raises his voice, but he doesn't have full conscious control of his fire breath. His friends have learned to tell by the glow in his nostrils when his patience is being tested.
+	
+	He knows his way around a hammer. Every autumn, a crate of well-balanced wooden training swords arrives at the Chapter house. No note. Satine probably knows it's him, and hates that she can't bring herself to refuse them. Belvarax remembers how many practice swords he broke as a cadet, how the quartermasters complained, how the splinters got into everything. His beef is with the leadership, not the cadets. He has a terrible singing voice but a magnificent drill-sergeant bellow—the kind that can stop a charging enemy or snap a panicking ally back to focus. Everyone who's traveled with him has heard it exactly once, in a moment of genuine crisis. And then it's gone, and he's back to his quiet murmur, looking almost embarrassed.
+	
+	There's a pattern here. Belvarax could command. He has the voice, the presence, the tactical mind. He simply doesn't trust himself with that kind of power. At least not anymore. He never told Mariel how he felt. He walked away from the banquet but didn't stay to fight the mining companies. He advocates for the goblins, protects them when attacks arise, but hasn't committed to their cause. Somewhere along the way, not acting became the safe harbor, the place where he can't make the wrong decision because he never made the choice. His CHA 16 means people respect him, listen to him, feel safe around him—but none of that translates to a real *spark*. He's the person everyone wants at their table and no one thinks to invite to the dance. He made peace with this decades ago, or convinced himself he did.
+	
+	Now, he believes in compassion and disciplined doubt. Every story has another side, even if it takes years to find. He won't berate the party for every pub brawl, he remembers cadet life well enough. Now he prefers to be the shepherd in the back: He never leaves an ally to face the storm alone. When he does step in, it's because he believes there are real values to defend. He'll protect whoever he believes are the weak in times of crisis, but he won't be the aggressor or run anybody's errands unless he's sure the cause is justified. In his mind, any truth that feels simple is probably incomplete. He's not so much self-effacing as deeply pessimistic about anybody's chances of doing real good in the world. The fact that he still tries may be the ultimate proof of commitment to his oath.
+	
+	## The Reinterpreted Oath
+	
+    Ultimately, Belvarax chose *not* to become the leader of a goblin resistance against the greedy mining companies. That came with its own set of hard moral obligations. Among them, he had to make an entirely new interpretation of the Paladin Oath of Devotion. But he's a farmer, not a philosopher, and has no head for politics. His new system is built from sincerity, patience and experience, not rigorous study. 
     
-    (Add only with explicit player and DM consent)
+    **Oath: "Let your word be your promise."**
+    Interpretation: Never give a promise, since promises depend on circumstances beyond your control. Breaking a promise poisons the wellspring of conviction from which a paladin draws strength.
     
-    Dragonborn woman of deep green scales, steady hands, and a laugh that still makes Belvarax's stomach knot. They grew up side by side on neighboring farms in the Amberfield valley. Where Belvarax was cautious and deliberate, Marielthra was bold, singing while she worked, haggling at market stalls, and daring him into mischief. Belvarax never managed to confess his feelings. His oath, his battles, and later his exile kept him at a distance. Today, he knows little of what became of her.
+    **Oath: "Protect the weak and never fear to act."**
+    Interpretation: This is not a license to act with impunity. Firstly, who are the weak? What if raiding goblins lack access to other means of survival? Action without investigation is not bravery, but reckless conviction of your own infallibility. That is a hallmark of an evil-doer. Therefore, investigation is a necessary part of action, and not a sign of fear.
+    
+    **Oath: "Let your honorable deeds be an example."**
+    Interpretation: This implies there are also dishonorable deeds. Therefore you must be careful to not set bad examples. It's more important to not do wrong, since it takes more effort to rectify mistakes once made, than to not make them in the first place. A life takes many years of constant love and nurture to grow, but only a moment of force to undo. Therefore, growing and sheltering a life is the most honorable deed. Who then should I take my examples from?
+        
+    ## Sample Quotes
+    
+    "Let the world scorn me, call me coward. I've made peace with being misunderstood. If I defended myself, I'd be serving my pride, not my oath."
+    
+    "Yes, some goblin tribes do torture their victims. That's not what I'm condoning. I'm asking, what did the mayor do with the last goblin they captured?"
+    
+    "Groats again? Oh, I'm not complaining... But didn't I contribute 20 gold to the food budget last week? Those are lovely new boots, by the way."
+    
+    "While I've no idea what's going on here, I'm going to ask all of you to calm down. If you want to get to this girl, whatever harm she's done, you're going through me. And I breathe fire."
+        
+    "No, I don't subscribe to the children's-book morality where you just smite the evildoers and then celebrate in the town square. That's fairy tale logic. Dealing death is easy, growing life is hard. Being a Paladin is about never choosing the easy way."
+	
+---
 
+??? info "Key Relationships"
+	
+	**Marielthra "Mariel" Cinderwing**: Dragonborn woman of deep green scales, steady hands, and a laugh that still makes Belvarax's stomach knot. They grew up side by side on neighboring farms in the Amberfield valley. Where Belvarax was cautious and deliberate, Marielthra was bold, larger than life, singing while she worked, haggling at market stalls, and daring him into mischief. Belvarax never managed to confess his feelings. His oath, his battles, and later his exile kept him at a distance. Today, he knows little of what became of her, but she made a hell of an impression.
+	
+	**Satine Boyard, Dean of the Chapter**: An Aasimar of impeccable lineage and legendary tactical mind, Satine believes the Paladin oath is a covenant of action, and hesitation is invitation to defeat. She watched her mentor die an unnecessary and brutal death on the battlefield because someone in the chain of command second-guessed an order. She will not allow that mistake to play out again. Satine isn't angry at Belvarax, but deeply disturbed by him. If his wild interpretations are valid, if the oath still flows through him despite his analysis paralysis and radical doubt, then everything she's built her whole identity around is arbitrary. The last time they met, she drew steel: if she could provoke him to fight back, she could prove he was just another apostate hiding behind sophistry. He didn't oblige, only defended masterfully. She walked away more terrified than before.
+	
+	**Matron Shatrag**: An elderly goblin woman with a missing eye and a body scarred from decades of field work, Shatrag leads what remains of the displaced Thornback clan. She saw through Belvarax instantly that morning he came to her village, but knew better than to place trust cheaply. A paladin with tears in his eyes is still a paladin with a pike. But she also recognized a man whose world had just shattered. She took a calculated risk and told him the truth of their situation. She got what she wanted, but now she's stuck with a protector who only reacts to threats as they arise, and never actually deals with the problem. Her patience grows thin. "You're a good man, Belvarax. But my grandchildren can't eat your good intentions."
+	
+	**Brother Kavaphak, Chapter Librarian**: A rare Goliath scholar, in his sixties, with ink-stained fingers and a pronounced limp: A birth defect that ended his place in the clan before it began. The Chapter took him in, and he's been in the library for forty years, outlasting three Deans and seven doctrinal controversies. Kavaphak was the one who physically stepped between Satine and Belvarax in their confrontation, because he knows what it looks like when the strong decide the different are defective. To him, Belvarax's "crime" is that he refuses to perform strength the way the institution demands, so the institution has decided he's broken.
+	
+	Kavaphak sends short notes warning Belvarax when Satine has called a council session, or strategically mentions the eastern archive has a reading alcove no one uses. He makes sure Belvarax has access to records that might otherwise be "misplaced." His quiet solidarity is unsentimental, and worth more than any number of allies who only show up when the cause is fashionable.
+	
 --- 
  
-??? danger "For the DM: suggestions and ideas"
+??? danger "Notes for the DM"
+	
+	## Dramatic Questions
+	
+	- *How does Belvarax react when his patience with lies and misunderstandings leads to tangible consequences for his friends?*
+	- *What happens when Belvarax is confronted by goblins who ask why he never lifted his lance against the villages and the logging companies even though he thinks they're in the wrong? When they point out that Belvarax can afford to be passive, while they can't?*
+	- *Does Belvarax really like himself?*
+	- *If Belvarax dies, what happens to the Thornback goblins who've come to see him as their only advocate in the human world? Does he have a responsibility to train a successor?*
+	- *When the party encounters a situation where someone else does the violence Belvarax won't—and that violence solves the problem—how does he reconcile with allies who point out his clean hands came at the cost of their dirty ones?*
+	
+	## Plot Hooks
 
-    ### DM Suggestions and Ideas
+	**The Thornback Petition**: A desperate Matron Shatrag has sent a formal petition to the Crown, bypassing local authority entirely, claiming the Thornback clan's ancestral lands under an obscure treaty signed three centuries ago. Back then, the goblin tribes were military allies, albeit briefly, against a common enemy, and not seen as mere vermin to be cleared. The treaty is real, whether it's *enforceable* is another question. A Crown assessor has been dispatched to investigate, and suddenly the Satriani guild has a problem. If the assessor reaches the Thornback village and sees the conditions firsthand, the political embarrassment alone could cost Colette her monopoly charter. So the assessor needs to have an accident. Or one of the goblin tribes (not necessarily the Thornback Clan) need to do something violent enough to void any treaty claims before the assessor arrives. Shatrag reaches out to Belvarax and asks him to ensure neither happens...
+	
+	**The Prodigal Knight**: A young paladin named Ser Tomlin Greave has started calling himself "Belvarax's disciple" and preaching the doctrine of "patient justice" in market squares. The problem: Tomlin is an idiot. He's misunderstood everything, using Belvarax's philosophy to justify rank cowardice—refusing to stop a mugging, declining to rescue kidnapped children because "investigation takes time." Satine Boyard has publicly blamed Belvarax for creating this monster. Now the question: does Belvarax correct Tomlin (thereby admitting his ideas can be corrupted) or disown him (thereby proving Satine's point that his philosophy has no disciples worth having)?
+	
+	**Green Scale, Red Ledger**: Mariel resurfaces, but as the wildly charismatic leader of a successful and feared bandit company called the Ash Talons, which has been systematically raiding Satriani supply caravans. She's not redistributing it to the poor, however, and certainly not to the goblins. She's not deaf to their cause, however. They just don't have anything to offer that she needs. When Belvarax finally confronts her, she asks the question he's been avoiding: "You became famous for walking away from a banquet, like a good boy who had a sad moment. I am burning that company down. Which of us is actually helping?" She offers him a place at her side. All he has to do is stop pretending his hands are clean.
+	
+	## Key Relationship Dynamics
+		
+	**Satine Boyard**: The Chapter never granted Belvarax his abilities, which means they cannot revoke them. Paladin power flows from sincere adherence to the oath itself. Excommunication, branding him apostate, turning public opinion against him, these are Satine's only weapons, and none of them touch his actual power. Satine knows this, even if she won't say it aloud, and it fills her with dread. If Belvarax is right, the entire hierarchy exists only by convention, not necessity—and she's spent her whole life climbing a ladder that might not be leaning against anything.
+	
+	**Matron Shatrag**: Use her to hold Belvarax accountable for his inaction. She's the living conscience he can't escape. When he hesitates, she's the one who asks: "And how many of my people died while you were thinking?"
+	
+	**Brother Kavaphak**: What happens if Satine figures out Kavaphak has been helping Belvarax? The librarian is vulnerable in ways Belvarax isn't. He has no divine power to fall back on, just a position in an institution that could revoke it.
     
-    Force clear moral emergencies: scenarios where inaction isn't an option, e.g., villagers facing tax collectors from a robber baron. Make the choice simple: act now or they die.
-    
-    Use "last stand" spots. Give him scenes where he alone can hold a door, bridge, or ritual circle. Reward his protective instinct. Let those moments matter: a child remembers him, an ally survives against the odds, an enemy hesitates to escalate.
-    
-    Check in with the player if they're interested, and if you get a green light, add the childhood crush Mariel Cinderwing as a truly difficult challenge. She may have gotten in bad company, or she may be doing the right thing, but through means Belvarax can't approve of. What if she's a skilled Rogue, robbing the mining companies blind, but not too zealous about the "redistribution" part? 
-    
-    You could contrast Belvarax with other Paladins, have them sneer at his hesitation, his refusal to promise, that he argues ethics mid-battle. He's a clown in their eyes. Satine Boyard, believer in unquestioning fury and devotion, may even excommunicate him or brand him an apostate, showcasing deep institutional rot in the order and giving the players something new to worry about.
-    
-    Or frame him as a "theological anomaly": he's proof that the oath can be interpreted in a way that undermines the institutions built around it. To the church, he's dangerous: he might be right, and their protection of the merchant guilds and human settlers' expansion might be framed as illegitimate. Maybe they see Belvarax as a serious threat?
-
 ---
 	
 ??? info "Mechanical build (lv 5) and PDF download"
@@ -150,18 +160,24 @@
 	
 	**Armor**: Light Armor, Medium Armor, Heavy Armor, Shield | **Weapons**: Simple Weapons, Martial Weapons
 	
-	**Tools**: Carpenter's Tools | **Languages**: Common, Draconian, Goblin
+	**Tools**: Carpenter's Tools | **Languages**: Common, Draconic, Goblin
 	
 	## Feats
 	- **Tough**: +2 to HP per level
 	- **Sentinel**: Attack of Opportunity reduces enemy Speed to 0, can perform when enemy in range attacks any other target.
 	
 	## Equipment
-	Splintmail, Pike, Shield, Longsword, Holy Symbol
+	Splint Armor, Pike, Shield, Longsword, Holy Symbol
+	
+	**Suggested Magic Items**
+	
+	- Sentinel Shield (Uncommon, Advantage on Initiative and Perception rolls. For the watchful frontliner.)
+	- Cloak of Protection (uncommon, attunement, +1 to AC and saving throws. Simple, elegant, defensive.)
+	- Ring of Spell Storing (*If the DM agrees to something more powerful*. Rare, attunement, pre-load with Warding Bond to take damage for allies at range.)
 	
 	## Spellcasting
-    **Level 1**: Bless, Compelled Duel, Cure Wounds, Divine Smite, Heroism, Protection from Evil and Good, Shield of Faith
-	**Level 2**: Aid, Find Steed, Prayer of Healing, Warding bond, Zone of Truth
+    -  **Level 1**: Bless, Compelled Duel, Cure Wounds, Divine Smite, Heroism, Protection from Evil and Good, Shield of Faith
+	-  **Level 2**: Aid, Find Steed, Prayer of Healing, Warding Bond, Zone of Truth
         
     📄 [Download Level 5 Character Sheet (PDF)](assets/belvarax-gobsmack-allimander-lv5.pdf)
 

@@ -4,9 +4,7 @@
 
 > *"Ya telln me I was wrong ta smack dat boys fukwad dad over is head? Dat clerics shud stick ta healin' an preachy wurds? Fuk dat. I'm 'ere cuz the Big Boss told me to. If all went along with them fine Gads' plans they wuldn' need guys like me in da first place. I'm not lookin' fer signs. I AM the sign."*
 
-**Ex-raider turned unlikely cleric of the Big Boss; more of a streetcorner "problem solver" than mainstream faith healer.**
-
-*Keywords: Street-corner religion, Reformed warrior, Working-class divine, Problem solver, Orc healer*
+**Ex-raider turned unlikely cleric of the "Big Boss"; street-corner preacher, healer and problem solver for the little guy.**
 
 ---
 

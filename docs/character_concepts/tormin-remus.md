@@ -77,17 +77,7 @@
 	"I love hearing people play the Traitor's Tune. It belongs to everyone who hums it now, but everybody has their own little variation of it. I have mine. And that little variation that only I do... It's sacred."
 	
 	---
-	
-    ## Three Solutions to the Forgery Problem
-    
-    Tormin lacks forgery skills (simply couldn't fit them cleanly into the build), which could be essential for his missions. There are some ways you could solve this:
-    
-    1. **The Alfred Solution**: Tormin once saved a master counterfeiter from the gallows. Ever since that day, they've been a team, like Batman and Alfred, the Punisher and Micro. This ally can precisely mimic handwriting, seals, or any bureaucratic style. They could even be the unseen pen and theorist behind Tormin's revolution.
-    
-    2. **The Split Concept**: During session zero, the party can split the concept, letting one PC be the forger and/or revolutionary theorist while Tormin handles the fieldwork. Together, they're the revolution's perfect lie.
-    
-    3. **The Trade or Accept**: You could ask the DM to trade another ability in Tormin's kit for forgery kit proficiency, or just play him without this proficiency, making him an infiltrator with both strengths and weaknesses. That can also make for fun moments.
-    
+
     ## Gender and Changelingship
     
     In this character description, Tormin is referred to as "he" because the tropes he's leaning on (Guy Fawkes, Faust, etc.) are all male coded. But Tormin's form is mutable, and his sense of self is eroding with every new mask he puts on. Using 'they' pronouns can underscore that loss of identity. However, it's important to note: this is fundamentally different from actual nonbinary or genderfluid identity. Trans and nonbinary people are affirming an authentic self. Tormin's story is the opposite: a tragic loss of self through literal, unwilling fragmentation.
@@ -108,27 +98,38 @@
 
 ---
 
+??? info "Key Relationships"
+
+	**Hedda Rosewig**: Elderly Dwarven widow living a little ways out of town. She is the Devil's intermediary, periodically checking in on the investment. Charming and seemingly benevolent. Helpful, even. Always there when Tormin wavers, offering comfort and validation. Never explicitly evil. Loves to bake, but her oven runs suspiciously hot.
+	
+	**Calippa Mendosa**: A middle-aged master counterfeiter who used to work for one of the great merchant families of the realm. Tormin saved her from the gallows after it became clear she'd been embezzling money for her own private projects, including relief to border villages. Ever since that day, she's been his most valuable ally in the insurrection. She can precisely mimic handwriting, seals, or any bureaucratic style. She has even become the unseen pen and theorist behind Tormin's revolution, putting a lot of time and effort into fliers and posters that Tormin distributes.
+	
+	**Brother Weilin**: An itinerant beggar monk who keeps crossing paths with Tormin's operations. Weilin has very bad eyesight and goes wherever suffering concentrates, treating wounded guards, providing last rites over executed collaborators in exchange for food. He supports the revolution in theory but refuses to pretend the cost is acceptable. He somehows recognize Tormin regardless of disguise, and he often seeks him out to check on him with one quiet question: "Was it worth it this time?" He's never turned Tormin in, but his presence is an accounting that can't be escaped. Tormin is fascinated by Weilin - the monk, who barely sees him in the first place, is the only person left who experiences him as continuous, as still being someone rather than a series of performances. Their relationship is marked by uneasy tolerance and mutual recognition, if not respect.
+
+---
+
 ??? danger "Notes for the DM"
+
+	## Dramatic Questions
 	
-	## Possible Campaign Arcs
+	- *Can a revolution built on lies (masks and forgeries) ever produce a truthful peace?*
+	- *What would make Tormin develop a sense of 'self' again? Certain new habits? Friends who stayed with him over time? Something new to care for outside his revolution?*
+	- *Is Tormin still grieving his lost family, or is he just doing what he's doing because this is his life now?*
 	
-	**Arc 1: The Revolutionary**
-	- Tormin actively works to topple the tyranny
-	- Each mission, he loses a bit more of himself
-	- The melody spreads, the revolution grows
+	## Brother Weilin
 	
-	**Arc 2: The Revelation**
-	Mid-campaign twist options:
-	- Tormin discovers the devil's true plan
-	- The revolution succeeds but becomes what it fought against
-	- Ancient seals begin breaking
-	- Party must decide: stop Tormin or help him?
+	**Weilin's Mechanics and Role**: Brother Weilin is a high level Wild Hunt Shifter Monk (Warrior of Mercy), changing his features into a bat form when Shifting. This explains his bad eyesight, but also why he can always sense Tormin. His Shifting feature grants advantage on all WIS checks, including Perception and Survival for tracking. He tracks Tormin by scent and the signature sound of his heartbeats, not appearance. Changeling transformations and magical disguises are irrelevant. In combat when Wild Hunt form is active, Tormin cannot gain advantage on attacks against Weilin within 30 ft, even when invisible, and Stunning Strike can shut down Tormin's escape options immediately. Weilin will be a terrifying opponent in a 1v1 scenario.
 	
-	**Arc 3: The Reckoning**
+	**Philosophical Mirror**: Weilin achieved mind-body integration through discipline. Tormin lost and fragmented that connection with his body through his pact. They represent opposite responses to tyranny - mercy versus revolution, presence versus performance. Weilin may have been a revolutionary once, or lost someone to state violence. He understands why Tormin made his choice, but he won't validate the cost.
+	
+	**Campaign Role**: Weilin is either the final obstacle or the linchpin for Tormin's redemption, depending on the player's choices throughout the campaign. If Tormin crosses certain lines, Weilin stops asking questions and delivers consequences. A confrontation between them should also involve the party's moral judgment - they've seen both perspectives and must choose whether to help Tormin escape or help Weilin stop him. Weilin won't fight Tormin in front of his friends unless absolutely necessary. He prefers to catch him alone. Structure encounters so Weilin develops relationships with all PCs, as a healer, advisor or even helping them out in a tough encounter, making the choice in an eventual confrontation genuinely difficult.
+	
+	## Possible Campaign Arc Endings
+	
 	Endgame possibilities:
-	- **Tragic Completion** - Revolution succeeds, Tormin fades into crowd wearing a stranger's face
+	- **Tragic Completion** - Revolution succeeds, Tormin dies or survives, but fades away into non-personhood
 	- **Redemption** - Tormin finally realizes the cost and tries to find another way
-	- **Horror Reveal** - The devil's true purpose emerges
+	- **Horror Reveal** - The devil's true purpose emerges (see below)
 	- **The New Tyranny** - "Meet the new boss, same as the old boss"
 	
 	## What Does the Devil Actually Want In Return?
@@ -142,9 +143,13 @@
 	**Theory 3: Breaking Ancient Seals (Classic High Fantasy Style)**
 	The Kingdom's tyranny may maintain ancient wards/seals containing something much worse. The devil can't break them directly, but a revolution could burn old records, kill a bloodline of keepers, or destroy institutions maintaining the seals.
 	
-	## Additional Plot Hooks
+	## Plot Hooks
+		
+	**The Mirror-Image Purge**: A group of "Remusites" (revolutionaries inspired by him) has started burning down granaries or killing non-combatants while playing the Traitor’s Tune. Tormin has to decide: does he stop the only people fighting his war, or does he let his tune be stained by their blood?
 	
-	**Who is the forger, really?** If you add the forger to Tormin's story, maybe this person has ulterior motives with helping? Maybe they too are a servant of the same Devilish patron who was planted in Tormin's path, but with a much more grim plan for how the revolution will pan out. It may only take one deceitfully penned message at the right time, to topple everything...
+	**The Devil’s Audit**: Tormin's patron demands he impersonate a high-ranking "Good" NPC, (a beloved Bishop or General, depending on your campaign setting) and commit a public atrocity to ensure the revolution results in a bloodbath, not just a change in leadership.
+	
+	**The Sympathetic Noble**: A member of the ruling class secretly agrees with the revolution and offers to help from within. Are they genuine, or is this a sophisticated trap? More disturbingly: if they're real, does killing them anyway serve the revolution's narrative needs?
 	
 ---
 
@@ -173,14 +178,21 @@
 	## Feats
 	- **Lucky**: PB (3) Luck points/LR, can give advantage or disadvantage to your or opponent's rolls.
 	- **Skill Expert**: +1 skill proficiency, +1 skill expertise, +1 ASI
-	- **Agonizing Blast** (Eldritch Invocation): Add CHA bonus (+4) to Eldritch Blast damage rolls
-	- **Devil's Sight** (Eldritch Invocation): Can see normally even in Magical Darkness within 120 feet
-	- **One with Shadows** (Eldritch Invocation): Can cast Invisibility without using Spell Slot if in Dim light or Darkness
-	- **Pact of the Tome** (Eldritch Invocation): Gain 3 cantrips from any spell list, + 2 Ritual spells
-	- **Musician** (Eldritch Invocation): Gain proficiency with three instruments, can give Heroic Inspiration to 3 allies on SR/LR.
+	- **Eldritch invocations
+		- **Agonizing Blast**: Add CHA bonus (+4) to Eldritch Blast damage rolls
+		- **Devil's Sight**: Can see normally even in Magical Darkness within 120 feet
+		- **One with Shadows**: Can cast Invisibility without using Spell Slot if in Dim light or Darkness
+		- **Pact of the Tome**: Gain 3 cantrips from any spell list, + 2 Ritual spells
+		- **Musician**: Gain proficiency with three instruments, give Heroic Inspiration to 3 allies on SR/LR.
 		
 	## Equipment
-	Glamored Studded Leather (Magic item: Can take on the shape of any clothes), Dagger, Arcane Focus, Flute, Fiddle, Drum, Thieves' Tools
+	Studded Leather Armor, Dagger, Arcane Focus, Flute, Fiddle, Drum, Thieves' Tools
+	
+	**Suggested Magic Items**
+		- Glamored Studded Leather (Magic item: Can take on the shape of any clothes)
+		- Cloak of Many Fashions (Common Wondrous item: Change style, color and apparent quality at will)
+		- Ring of Mind Shielding (Immunity to mind reading, determining if you're lying or sensing aligment or creature type)
+		- Pearl of Power (Recovers one lv 3 spell slot per day)
 	
 	## Spellcasting
 	**Cantrips**: Mage Hand, Eldritch Blast, Minor Illusion, Thaumaturgy, Message, Guidance
@@ -201,7 +213,7 @@
     
     Tormin risks Main Character Syndrome. His modus operandi is deception, infiltration, and working alone. You *need* to make this mesh well with your party.
     
-    **Solutin: Deepening bonds**: During session zero, explicitly tie him to another character. Is he the bodyguard for the party's noble? Does he see a spark of his lost family in the cleric? He needs a reason to care about the group beyond his revolution. Share your secrets with at least one other PC early on to build trust.
+    **Solution: Deepening bonds**: During session zero, explicitly tie him to another character. Is he the bodyguard for the party's noble? Does he see a spark of his lost family in the cleric? He needs a reason to care about the group beyond his revolution. Share your secrets with at least one other PC early on to build trust.
     
     Avoid falling into the brooding edgelord stereotype by playing into gallows humor and bittersweet melancholy. People who go through hardships but still find meaning often tune in more to the plight of others and empathize with them. Tormin isn't all about himself. On the contrary, he doesn't have much of a self left. It would be natural that he live vicariously through the group, caring more about his friends and their struggles.
     

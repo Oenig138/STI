@@ -6,8 +6,6 @@
 
 **Sally was rejected by her noble family for being "unladylike", and sent to a boarding school, where she stole cutlery for ten full years before she found her purpose in life; now she is the ultimate bodyguard and smothers her Ward with equal amounts of competence, cold steel and charlatanry.**
 
-*Keywords: Bravado, Trickster, Roguish Charm, Bodyguard, Reflavored Oath of Redemption*
-
 ---
 
 ## Character Overview

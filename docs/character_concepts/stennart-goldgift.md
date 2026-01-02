@@ -109,8 +109,10 @@
 ---
 
 ??? info "Key Relationships"
-	- **Big Brother Karbold Goldgift**: The smarter older brother still knows what it's like to be underestimated, and always shared that with Stennart. The one relative who never wanted Stennart to leave, who tried to find him a place in the vault. They've had some brief contacts, although Stennart has yet to let his brother understand how serious his situation is. 
-	- **Brett Stepp**: Perpetually sleep deprived high level Rogue who sold Stennart the seed in the first place. He claims he knew nothing about the effects of the seed and only wanted to unload it because he started to feel watched by the skies. 
+
+	- **Big Brother Karbold Goldgift**: The only family member who tried to find Stennart a place in the vault, who never treated him as expendable. Their last conversation before the avalanche: Karbold signing that Stennart deserved better than the surface routes. Stennart hasn't told him about the transformation yet—partly out of shame, partly because Karbold would absolutely try to fix it, and Stennart doesn't want to be saved. 
+	
+	- **Brett Stepp**: The perpetually exhausted rogue who sold Stennart the fruit "at a suspiciously good price." Brett claims ignorance, but he definitely knew *something*—he mentioned feeling "watched by the skies." Is he a knowing accomplice to something darker, or just a middleman who got in over his head? Either way, Brett owes Stennart answers, and Stennart knows where Brett drinks. 
 
 ---
 
@@ -120,7 +122,7 @@
 	
 		- *Is it truly "cheating" if you put the powers you received to actual work?*
 		- *How will others react to Stennart as he becomes more and "wooden"? Is there a fear of contagion?*
-		- *What would he sacrifice to keep his strength for one more week? (Test this. Offer him deals. See where his line is—and whether it moves as time runs out.)
+		- *What would he sacrifice to keep his strength for one more week?*
 		- *Is this a story about acceptance or defiance? (Are we telling the tale of someone who makes peace with mortality and lives beautifully in his remaining time? Or are we telling the tale of a party that refuses to lose their friend and moves heaven and earth to save him? Both are valid.)*
 
     ### Plot Hooks
@@ -143,7 +145,11 @@
        
     **Other Fruit Seekers**
     Word spreads in certain circles. Entities emerge who want to harvest him, study the transformation, or acquire a "sample" for their own purposes. Desperate individuals offer fortunes for a single bite of his flesh (which of course does nothing, but they might be willing to force Stennart to fight to protect his body). Scholars want to dissect the process. Desperate nobles seek immortality by drinking tea from the scrapings of bark from his skin.
-    
+   
+		Worst of these are **The Vitalist Cult**: A fringe druidic sect believing that the World Tree's return will "cleanse" the Material Plane of civilization's corruption. They see Stennart as a living sacrament and plan to kidnap him, bury him in sacred soil, and nurture the transformation until the roots breach the surface. Led by a franklt feral Eladrin druid named Thessaly, who speaks with unsettling gentleness about "helping Stennart fulfill his purpose." 
+		
+		Note: Even if the cult somehow catches Stennart and has this deep hole in the ground, which is a truly macabre and compelling story beat, don't *actually* let a player character get *buried alive* without doing a vibe check with the table. This is a very real and common phobia.
+	
 ---
 
 ??? info "Mechanical build (lv 5) and PDF download"

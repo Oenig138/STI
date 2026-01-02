@@ -6,8 +6,6 @@
 
 **A sensitive noble at odds with his bestial nature. Trained bladesinging under an elven sage, now hunted by his older brother and an order of Witch hunters.**
 
-*Keywords: Bladesinger, Gothic Tragedy Good Boy, Shifter Scholar, Fugitive Noble, Identity Crisis*
-
 ---
 
 ## Character Overview
@@ -94,7 +92,7 @@
     
     Basil's background is a slightly adjusted Noble background: The STR ability score increase was changed to DEX, the proficiency in Persuasion was changed to Perception, to better reflect Basil's wallflower upbringing.
     
-    **Combat flow:** Bladesinger and Beasthide compete for Bonus Action activations. Generally, you'll want to lead with Bladesong as it provides the biggest buffs. Beasthide is great to throw in there to bolster your defenses whenever the combat flow allows it. It also fits well with Basil's persona that he falls back on his more feral self as the battle continues and he gets more desperate.
+    **Combat flow:** Bladesinger and Beasthide compete for Bonus Action activations. When possible, lead with Bladesong for bigger buffs. Beasthide bolsters your defenses when the combat flow allows it. It also fits well with Basil's persona: he falls back on his more feral self as the battle continues and he gets more desperate.
     	
     ## Sample Quotes
     
@@ -128,9 +126,32 @@
 
 ---
 
+??? info "Key Relationships"
+
+	**Perdita Saltfrost**: A perfumer in her middle years, running a cramped shop called Violet and Honey. She's immune to Basil's self-consciousness because she's spent forty years cataloguing animal musks, floral absolutes and the occasional Planar essence. The sweat of a nervous aristocrats merely even registers to her. She plays Three-dragon Ante with the viciousness of a loan shark and the smile of a grandmother, and she cheats with such artistry that catching her is considered a compliment. While she knows Basil is hiding *something*, she knows better than to ask. 
+	
+	**Captain Torval Kettridge**: The grizzled sailor who taught Basil to navigate during those summer voyages with his mother. Retired now, running a chandlery in whatever port city the campaign starts in. He doesn't know the full story of Basil's flight, but he knows the boy showed up half-starved with a stolen boat and haunted eyes. Kettridge is old-fashioned, superstitious, the kind of sailor who nails iron horseshoes to the mast. He likes the boy, but he's also the sort who'd have drowned a shifter pup "for its own good" back in his younger days. 
+	
+	He gave Basil refuge the first weeks after escaping, thinking the young man was fleeing something understandable, such as a debt, a lover's scandal perhaps. Basil never outright *lied* about his quandary, but also opted not to let the old man understand he was harboring a political refugee. He's still unsure what would happen if Captain Kettridge were to find out, but he owes him a debt of gratitude.
+	
+	**Yovanna Stern**: A Witch Hunter from the Order of the Silver Sun who struggles with doubt and faith. Born into a family whose piety was exceeded only by their ambition, her path to the Order was never in question, only how well she would ultimately excel. She's not a villain and definitely not a friend, she's just tracked Basil long enough to notice the pattern doesn't fit. The beast isn't killing. The monster writes poetry and fusses over tailoring. She has started asking inconvenient questions of her superiors and from what Basil could surmise from their last encounter, she received unsatisfying answers. 
+	
+	He was running from her colleagues, cursing his carelessness and weaving across the night streets. Pursuers hot on his heels, he almost ran into her, stopping dead in his tracks. She merely lowered her crossbow and signed for him to pass. "This once, and only until I have answers," she muttered as he passed. She's not ready to help Basil, but no longer certain they should kill him.
+
+---
+
 ??? danger "Notes for the DM"
-		
+	
+	## Dramatic Questions
+	
+	- *What would make Basil stop running and stand his ground?*
+	- *How much will he lean into his bestial side if nudged and if the reasons are important?*
+	- *If Brendall offered genuine reconciliation, could he accept it?*
+	- *When someone treats him like a full human, decent, with respect and kindness and without making a scene about his appearance, does he believe them?*
+	
 	## Plot Hooks
+	
+	**Cilantro's Legacy (Mystery arc)**: An old colleague of Cilantro's, Eckhart Wylderling, contacts Basil. On the same night she went to save him, she also wrote a letter to her old friend. She instructed Wylderling about something she left behind for Basil, should the worst come to pass: a spellbook, a weapon, or perhaps a secret about his true origins. Eckhart doesn't know where; Cilantro hid it because she knew Basil would need it when he was ready, not before. This arc functions as a treasure hunt that also reveals more about the mentor Basil barely got to know as an adult. What did she sacrifice, and for how long, to keep him safe?
 	
 	**The Order of the Silver Sun** are skilled "problem solvers" fighting witchcraft, lycanthropes and the Undead. They may have branches looking for Basil outside the reach of the kingdom. Imagine them like Witchers, intent on capturing what they consider a simple, dangerous beast dressing up in fine clothes to mask its bloodlust. They could press Basil into his more bestial nature, hunting him with nets, traps and pikes, like a boar, even calling him "it", feeding his own worst fears and thoughts about what he is.
 	
@@ -139,9 +160,11 @@
 	* **Ivrayne Feldergand**, advisor assigned to the Tenebrian estate by the king to "assist" the young Marquess Brendall in his first years. She immediately set out to isolate him from his allies with words like honeyed daggers. This effectively weakens the estate and makes it less of a threat to the king. You could play her as the classic deceitful "Grima Wormtongue" advisor, or something much more nefarious. What's to say she doesn't have plans of her own? Is she even who or what she claims to be?
 	
 	* **Dirty family secret:** Basil is the one true heir to the house, while Brendall is actually a bastard. His imprisonment of Nevarra was also a cover-up to make sure she'd never tell anyone. What would Basil's reaction be if he found out?
+		
+	**Yovanna Stern**: Whether her bad habit of thinking independently leads to something like grudging mutual respect, genuine friendship, something more complicated, or a tragedy neither survives is a question the table will answer. The ingredients are present. the recipe is yet to be written. Adjust the flavor to your table. The Stern family is sure to have opinions if their favorite daughter were to squander a career in such an unseemly manner.
 	
-	**Mentor Figure:** Suggestion: add an older Shifter at some point, one who is comfortable in their own skin and can be a mentor on another level than Cilantro could be.
-
+	Do note however, that she's already set up as a textbook "eventual ally". If you're going to sell the table on her being a real Tweener, you need to have her make the "wrong" decision at least once or twice. That means there's a more real risk she might get killed, but as usual, that's up to the dice. 
+	
 ---
 
 ??? info "Mechanical build (lv 5) and PDF download"
@@ -176,6 +199,11 @@
 		
 	## Equipment
 	Studded Leather, Rapier, Orb (arcane focus), Enduring Spellbook, Fine Clothes, Perfume, Three-Dragon Ante Set
+	
+	**Suggested Magic Items**
+		
+		- Amulet of Proof against Detection and Location (Uncommon, requires attunement, you can't be targeted by Divination spells or seen through scrying; cheap insurance vs Witch Hunters)
+		- Cloak of the Manta Ray (Uncommon, requires attunement, you can breathe underwater, and get a swim speed of 60 ft. Especially for sailing campaigns where Basil's proficiency in Vehicles (Water) might be useful.)
 	
 	## Spellcasting
 	- **Cantrips:** Fire Bolt, Booming Blade, Mage Hand, Minor Illusion

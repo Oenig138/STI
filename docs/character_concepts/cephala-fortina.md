@@ -104,11 +104,11 @@
 	
 	## Playing Cephala
 	
-	When others talk about their families or homes, she might go quiet, or joke to cover discomfort.
+	When others talk about their families or homes, she might go quiet, or give a sweet joke to cover discomfort.
 	
 	**The Tattered Seraph has given her a task that fundamentally goes against her nature**: something that requires tenacity, holding on to clues in memory, taking notes and weaving the fragments into a whole. This can be both stressful and a healing process for Cephala. In either case, she's the only one who can do it, and the only chance for her patron to find whatever it is it needs. 
 	
-	Cephala is very sensual, in the sense that **the world is textured to her**. She smells it, watches it, listens to it. Her eyes linger on hemlines and accessories, makeup smudges, the smell of damp clinging to yesterday's clothes, the feel of stepping in mud that's a little waterlogged. You can let it color the way she describes the world to others. It could also be the way she intuits the clues to the riddle her patron has laid before her. She doesn't go by investigation. She goes by vibes and intuition alone. 
+	Cephala is very sensual, in the sense that **the world is textured to her**. She smells it, watches it, listens to it, and maybe foremost: touches it. Always describe how she runs her hands and fingers over surfaces, as if reading them with her fingertips. Her eyes linger on hemlines and accessories, makeup smudges, the smell of damp clinging to yesterday's clothes, the feel of stepping in mud that's a little waterlogged. You can let it color the way she describes the world to others. It could also be the way she intuits the clues to the riddle her patron has laid before her. She doesn't go by investigation. She goes by vibes and intuition alone. 
 	
 	Consider Cephala's relationship to the notebook **(Pact of the Tome)** that she can't lose. As soon as she learns it keeps reappearing, how does she treat it? Does she forget it everywhere? Does she feel stressed that it constantly reminds her of the mission that was shoved upon her? Does it feel like the first anchor in her life, for better or worse? A way to not stop moving, but to start *making sense* of her drifting?
 	
