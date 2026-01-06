@@ -151,9 +151,30 @@
 
 ---
 
+??? info "Key Relationships"
+	
+	- ** **
+
+	- ** **
+	
+	- ** **
+	
+---
+
 ??? danger "Notes for the DM"
 	
-	### Running Archangel Serena
+	## Dramatic Questions 
+	
+	- *How will Iblit respond when he encounters other kobolds who embraced violence, and berate him for his choices?*
+	
+	- *What happens when someone sees past the funny little shit to the scared kid underneath?*
+	
+	- *Question 3*
+
+	## Key Relationship Dynamics
+	
+	
+	## Running Archangel Serena
 	
 	**DM buy-in is essential**  
 	You as a DM need to be willing to play the role of Serena for this character to work. Collaborate about finding the right voice and tone of their interaction.
