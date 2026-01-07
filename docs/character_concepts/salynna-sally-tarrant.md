@@ -99,7 +99,9 @@
 	"Once I had to save a guy who was choking on a grape. I panicked and broke his ribs. He was grateful, but took detours when I met him at campus for the rest of the year."
 	
 	---
-
+	
+	![Salynna "Sally" Tarrant](assets/sally-dungeoneering.png){ width="460" }
+	
 	## The Oath of Redemption Reflavored
 	Reflavor the Oath of Redemption from "Divine Peacekeeper" to "Personally invested bouncer". Why the Gods accepted her oath she does not know, and rightly does not care much about. As long as they provide her with the power to shut down any threat to her Ward, she's all for it. This is her life now, and she has so many years of purposeless existence to make up for. The Redemption Paladin can take damage for others, reduce threats, buff allies and work as secondary healer if need be. She may not be a perfect fit for the subclass looking at the exact tenets, but keep the sub-class in its entirety and rework the tenet: Protect Ward at all costs. 
 	
