@@ -6,8 +6,6 @@
 
 **A tortle wizard who survived being boiled by the fey and turned calculated kindness into her best defense—diplomat, abjurer, and philosophical survivor who forgives everything but forgets nothing.**
 
-*Keywords: Character Driven Roleplay, Bittersweet philosophical play, Party Detective, Munchkin-adjacent Build*
-
 ---
 
 ## Character Overview

@@ -156,6 +156,7 @@
 	**Resistances: Fire**
 	
 	## Proficiencies
+	
 	**Skills**: Animal Handling +4, Athletics +6, Insight +4, Nature +2
 	
 	**Armor**: Light Armor, Medium Armor, Heavy Armor, Shield | **Weapons**: Simple Weapons, Martial Weapons
@@ -163,6 +164,7 @@
 	**Tools**: Carpenter's Tools | **Languages**: Common, Draconic, Goblin
 	
 	## Feats
+	
 	- **Tough**: +2 to HP per level
 	- **Sentinel**: Attack of Opportunity reduces enemy Speed to 0, can perform when enemy in range attacks any other target.
 	
@@ -176,6 +178,7 @@
 	- Ring of Spell Storing (*If the DM agrees to something more powerful*. Rare, attunement, pre-load with Warding Bond to take damage for allies at range.)
 	
 	## Spellcasting
+	
     -  **Level 1**: Bless, Compelled Duel, Cure Wounds, Divine Smite, Heroism, Protection from Evil and Good, Shield of Faith
 	-  **Level 2**: Aid, Find Steed, Prayer of Healing, Warding Bond, Zone of Truth
         

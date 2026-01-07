@@ -189,8 +189,11 @@
 	War Pick, Maul, 3x Handaxe, Breastplate, Shield, Explorer's Kit
 	
 	**Suggested Magic Items**
-		- Stone of Good Luck (Better skill checks and saving throws, with Merchant-esque flavor)
-		- Maul +1 (For Barbs to do what Barbs do)
+	
+	- Stone of Good Luck (Better skill checks and saving throws, with Merchant-esque flavor)
+	- Maul +1 (For Barbs to do what Barbs do)
+	- Bag of Holding (Uncommon, reasonable Merchant item to have, for someone from a good family)
+	- Decanter of Endless Water (Stennart hydrates like there's no tomorrow. With this thing, that becomes integrated with his character)
 	
 	📄 [Download Level 5 Character Sheet (PDF)](assets/stennart-goldgift-lv5.pdf)
 

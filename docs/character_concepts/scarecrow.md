@@ -2,14 +2,11 @@
 
 ![Scarecrow](assets/scarecrow.png){ width="300" }
 
-> *"Why would you ask that? Is it important to you? Would knowing help? Is there any deeper layer behind your question? Would you like a cup of tea?"*
+> *"Why would you ask that? Is it important to you? Would knowing help? Is there any deeper layer behind your question? Would you like a nice cup of cinnamon tea?"*
 
 ---
 
-**A gentle Warforged Bard who stood guard in a village square for centuries, quietly indexing every life, until the day it chose violence to protect a child. Its position compromised, it chose to leave peacefully.**
-
-*Keywords: Battlefield control, Face, Goodhearted support, Uncanny spybot*
-
+**A kind Warforged Bard who stood guard in disguise in a village square for centuries, quietly indexing every life. Still maintaining its directive to spy on everybody, it gives great hugs and subdues threats with overwhelming Psionic powers.**
 
 ## Character overview
 - **Race**: Warforged
@@ -72,8 +69,18 @@
 	This builds a *"Highlander"* type scenario. The Caretaker units may be anywhere, infiltrating common life and waiting to strike. Scarecrow was lucky in a way, following its routines and taking the role of a humble scarecrow in a village square. It fell off the map and never entered the shadowy war that's claimed most of its colleagues. But that also means Scarecrow is the underdog. It hasn't upgraded, hasn't gathered data to understand itself or the other Caretaker bots. 
 	
 	Scarecrow may be the only one still insisting that individual people matter, that lives have intrinsic worth beyond data extraction. It may eventually understand that its way of caring is a liability, that its peers survived by shedding exactly the attachments it preserved. Its fidelity would then no longer be a result of ignorance, but a conscious choice of defiance and loyalty. In the final confrontation with whichever Caretaker is left, Scarecrow may also be an ambassador for a gentler way, if the player chooses to play it that way.
-		
-??? info "DM notes"
+	
+---
+
+??? info "Key Relationships"
+
+	- ** **
+	- ** **
+	- ** **
+
+---
+	
+??? danger "DM notes"
     
 	### Scarecrow's roles
 	

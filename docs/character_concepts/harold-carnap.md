@@ -176,8 +176,7 @@
 	## Feats
 	- **Lucky**: PB(3) Luck points /LR, use to give advantage or disadvantage to one roll
 	- **Inspiring Leader**: Every SR/LR, give up to 6 Allies (including you) Temp HP equal to your character level(5) + CHA modifier(4)
-		
-	**Eldritch Invocations**
+	- **Eldritch Invocations**
 		- **Tough**: +2 HP/level
 		- **Agonizing Blast**: Add CHA modifier(4) to damage rolls of Eldritch Blast
 		- **Repelling Blast**: Push Large or smaller creature back 10 feet per hit with Eldritch Blast
@@ -189,12 +188,13 @@
 	
 	**Suggested Magic Items**
 	
-		- Ring of Mind Shielding (Uncommon, Attunement. Can't have your thoughts read, no magic can determine if you're lying, know your true alignment or creature type. Essential if you want to play Harold ambiguously.)
-		- Pipe of Smoke Monsters (Common, Harold blows smoke shapes to entertain the children at Wednesday daycare. Little dragons, dancing figures, ships at sea, the kids love it. The fact that his smoke animals occasionally take shapes he didn't consciously choose—something with too many eyes, something with wings that aren't quite right—well, the draft does funny things sometimes.)
-		- Ring of Warmth (Uncommon, attunement. Gives Harold Cold resistance. Good on those nippy late autumn mornings.)
-		- Hat of Vermin (Common. Harold reaches into his cap and pulls out a rat, a frog, or a spider. The children think it's hilarious. Tim thinks it's a summoning ritual.)
+	- Ring of Mind Shielding (Uncommon, Attunement. Can't have your thoughts read, no magic can determine if you're lying, know your true alignment or creature type. Essential if you want to play Harold ambiguously.)
+	- Pipe of Smoke Monsters (Common, Harold blows smoke shapes to entertain the children at Wednesday daycare. Little dragons, dancing figures, ships at sea, the kids love it. The fact that his smoke animals occasionally take shapes he didn't consciously choose—something with too many eyes, something with wings that aren't quite right—well, the draft does funny things sometimes.)
+	- Ring of Warmth (Uncommon, attunement. Gives Harold Cold resistance. Good on those nippy late autumn mornings.)
+	- Hat of Vermin (Common. Harold reaches into his cap and pulls out a rat, a frog, or a spider. The children think it's hilarious. Tim thinks it's a summoning ritual.)
 	
 	## Spellcasting
+	
 	- **Cantrips**: Eldritch Blast, Blade Ward, Prestidigitation, Minor Illusion, Guidance, Sorcerous Burst
     - **Level 1**: Burning Hands, Command, Unseen Servant [R], Detect Magic [R]
 	- **Level 2**: Spider Climb, Scorching Ray, Suggestion

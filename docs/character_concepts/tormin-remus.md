@@ -189,10 +189,11 @@
 	Studded Leather Armor, Dagger, Arcane Focus, Flute, Fiddle, Drum, Thieves' Tools
 	
 	**Suggested Magic Items**
-		- Glamored Studded Leather (Magic item: Can take on the shape of any clothes)
-		- Cloak of Many Fashions (Common Wondrous item: Change style, color and apparent quality at will)
-		- Ring of Mind Shielding (Immunity to mind reading, determining if you're lying or sensing aligment or creature type)
-		- Pearl of Power (Recovers one lv 3 spell slot per day)
+	
+	- Glamored Studded Leather (Magic item: Can take on the shape of any clothes)
+	- Cloak of Many Fashions (Common Wondrous item: Change style, color and apparent quality at will)
+	- Ring of Mind Shielding (Immunity to mind reading, determining if you're lying or sensing aligment or creature type)
+	- Pearl of Power (Recovers one lv 3 spell slot per day)
 	
 	## Spellcasting
 	**Cantrips**: Mage Hand, Eldritch Blast, Minor Illusion, Thaumaturgy, Message, Guidance

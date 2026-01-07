@@ -178,10 +178,10 @@
 	
 	**Suggested Magic Items**
 	
-		- Periapt of Health (Uncommon, Attunement, Poison resistance; for hangover resistance)
-		- Circlet of Blasting (Uncommon, Cast Scorching Ray once/day, +5 to hit; Lia is a striker and an extra damaging spell never hurts)
-		- Bag of Tricks (Uncommon, pulls out random creature; Because it's very much Lia to let a Giant Elk loose on the battlefield by mistake)
-		- Bloodwell Vial +1 (Uncommon, Attunement; +1 to Spell attack/Save throw DC, once/day: regain 5 sorcery points on HP recovery from hit dice; Adding attack accuracy fits Lia)
+	- Periapt of Health (Uncommon, Attunement, Poison resistance; for hangover resistance)
+	- Circlet of Blasting (Uncommon, Cast Scorching Ray once/day, +5 to hit; Lia is a striker and an extra damaging spell never hurts)
+	- Bag of Tricks (Uncommon, pulls out random creature; Because it's very much Lia to let a Giant Elk loose on the battlefield by mistake)
+	- Bloodwell Vial +1 (Uncommon, Attunement; +1 to Spell attack/Save throw DC, once/day: regain 5 sorcery points on HP recovery from hit dice; Adding attack accuracy fits Lia)
 	
 	
 	## Spellcasting

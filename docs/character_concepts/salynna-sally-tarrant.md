@@ -10,70 +10,76 @@
 
 ## Character Overview
 - **Species:** Human
-- **Class:** Paladin 5 (Oath of Redemption)  
+- **Class:** Paladin 5 (Oath of Redemption; flavored homebrew)  
 - **Background:** Charlatan 
 - **Age:** 25  
-- **Alignment:** Chaotic Good
+- **Alignment:** Neutral
 
 ---
 
 ??? info "Quick Intro"
     
     **At the Table** 
-    - * Roguish Paladin who protects through both divine power and "creative problem-solving".
-    - * Flirts, jokes, and calls people "sweetheart", but never slacks off her vigilance.
-    - * Fears becoming purposeless again, leans into "protective older sister" who handles problems without asking permission first
-	- * Thinks highly of herself and her abilities. Not because of faith or virtue, but because she's genuinely good at what she does.
-	- * Economically minded, but protective instincts: Complains loudly if a merchant rips her off, but will tank an elbow to the face for the same merchant if he’s about to get robbed.
+    - * Roguish Paladin who protects through both divine power and "creative problem-solving"; Flirts, jokes and carouses, but never slacks off her vigilance.
+    - * Fears becoming purposeless again, leans into "protective older sister" who handles problems without asking permission first.
+	- * Thinks highly of herself and her abilities. Not because of faith or virtue, but because she's confident and damn good at what she does.
+	- * Economically minded, but protective instincts: Complains loudly if a merchant rips her off, but will tank an elbow to the face if the same merchant is getting robbed.
     
     **Backstory (Short Form)**
     
-    Sally was the family embarrassment—too loud, too strong, too unladylike, so they sent her off to a monastery boarding school. After ten years stealing cutlery, running schemes and selling exam questions in the corridors, she met someone worth protecting, someone who gave  her life purpose and put her clever head and physical strength to noble use. Now she's sworn an oath to keep her Ward safe and breathing, employing her entire, scrappy toolkit to get the job done.
+    Sally was the family embarrassment growing up—too loud, too strong, too "unladylike", so they sent her off to a monastery boarding school (in Sally's own words, "monk jail"). After ten full years of stealing cutlery, charming professors, running protection schemes and selling exam questions in the corridors, she met someone worth protecting for real, someone who gave her life purpose and put her clever head and physical strength to noble use. Now she's sworn an oath to keep her Ward safe and breathing, employing her full toolkit to get the job done.
     
     **Playing Sally**
     
-    * **Combat:** Tank who interposes herself between threats and the group, using Protection fighting style and the whole Oath of Redemption toolkit to minimize damage. Heavy Armor Master makes her incredibly durable.
-    * **Roleplay:** Sally's the one buying drinks and raising the temperature. As the self-proclaimed "bouncer" in the group, she's also the first to define when a line has been crossed and someone needs to step down.
- 
+    * **Combat**: Big sister Tank who eagerly interposes herself between threats and the group, using Protection fighting style and the whole Oath of Redemption toolkit to shut the opposition down. Heavy Armor Master makes her durable, charlatan background makes her scrappy and smart.
+    * **Roleplay**: Sally has a strong natural authority. The Ward is always Sally's #1 priority, and she is willing to go as far as it takes to keep them breathing. As long as she's on top of things, and you don't spot her constant vigilance under the surface, she's the best gal you met. When things get dangerous, she goes into business mode. 
+	* **Party Dynamics**: Sally's the one buying drinks, raising the temperature, and generally making sure everyone's happy and fed. As the self-proclaimed "bouncer" in the group, she's also the first to define when a line has been crossed and someone needs to step down. Impulse buys everyone tickets to the dog races so she has someone to go with.
+     
 ---
 
 ??? info "Deep Dive"
 
 	## Backstory
-	The house Tarrant is a noble family. Salynna is very much not a noble character. At 15 she had already made herself an absolute headache at home, failing to learn her noble etiquette, kissing boys from the wrong social classes behind the stables and having a bad habit of stealing silverware. She was also quickly growing unreasonably strong for her age, and decidedly unladylike to boot: tall, muscular and curvy, a physique more suited for a rowdy tavern than the royal court.
+	The house Tarrant is a noble family. Salynna is very much not a noble character. At 15 she had already made herself an absolute headache at home, refusing to learn noble etiquette, kissing boys from the wrong social classes behind the stables and having a bad habit of stealing silverware. She was also quickly growing unreasonably strong for her age, and decidedly unladylike to boot: tall, muscular and unseemly curvy, a physique her family deigned more suited for a vulgar tavern than the royal court. Perhaps it could be remedied with the right demeanor, but "demure" wasn't in her vocabulary.
 	
-	So she was sent to *Light's Redemption*, a prestigious boarding school run by an internationally renowned monastic order, high up in the mountains and functionally cut off from the world. The first year, she learned nothing. The bitterness of being sent away for who she was overshadowed any sense of meaning or willingness to learn. On the second year, she learned how to embezzle cutlery from the students' canteen and sell it. If she was stuck here, at least she'd be stuck on her own terms. On the third year, she made a business of selling off things left behind when students moved out. Unglamorous, but profitable. Soon, "Sally" was the fixer every student came to for aid. Whether it was getting a sneak peek at the exam paper or smuggle a love letter, Sally found a way. 
+	So she was sent to *Light's Redemption*, a prestigious boarding school run by a renowned monastic order, high up in the mountains, functionally cut off from the world. The first year she spent sulking and embezzling cutlery from the students' canteen. If she was stuck here, at least she'd be stuck on her own terms. The second year, she made a business of selling off things left behind when wealthy students moved out. Unglamorous, but profitable. On her third year, she was making big money blackmailing the younger professors and working extra as a bodyguard for bullied students. Soon, "Sally" was the fixer every student came to for aid. Whether it was getting a sneak peek at the exam paper, smuggle a love letter or get access to forbidden substances, Sally found a way. 
 	
-	The Tarrants could only hope she'd finally learn and come back reformed, so they kept paying for yet another year. Sally was on her tenth year, and basically an inventory item in a small environment she had made her own. At 25, she had drifted far from the younger students. Until she met someone who became so special to her that it turned her entire life around. 
+	The Tarrants could only hope she'd finally learn and come back reformed, so they kept paying for yet another year. Sally was on her tenth year, and basically an inventory item in a small environment she had made her own. At 25, she had drifted far from the younger students and didn't even pretend to fit in or attend classes. Until she met someone who became so special to her that it turned her entire life around. 
 	
-	A moment of intense conviction and a solemn promise, and the stars aligned. Perhaps something of the holiness of the monastery finally rubbed off on her. She couldn't tell for sure. But finally, she had something that was bigger than herself, whose existence made her own life make sense. Finally she could employ her strength, smarts and charm for a cause that made her feel redeemed. Now they're her sacred Ward, and she will employ a spectacular toolkit of brawn, spells and trickery to keep them from harm.
-	
-	*Speak with your fellow players and harmonize your backstories to decide whom in your party Sally has devoted her life to, and why.*
-	
+	A moment of intense conviction and a solemn promise, and the stars aligned. Perhaps something of the holiness of the monastery finally rubbed off on her. She couldn't tell for sure. But finally, she had something that was bigger than herself, whose existence gave her life purpose. Finally she could employ her strength, smarts and charm for a cause. Now they're her sacred Ward, and she will employ a spectacular toolkit of brawn, spells and trickery to keep them breathing.
+		
 	## Personality
-	Sally is a weird paladin, sitting somewhere between *Brienne of Tarth* and *Tyrion Lannister*. She's an opportunist and a trickster, bringing roguish charm and physical bulk in equal measures. She has the tactical mind of a professional charlatan, but also loves flirting, joking and carousing with the martials. Play Sally if you want a devoted bodyguard who still knows how to have a good time.
+	Sally is a weird paladin, sitting somewhere between *Brienne of Tarth* and *Tyrion Lannister*. She's an opportunist and a trickster, bringing roguish charm and physical bulk in equal measures. Her charisma makes her a natural leader if she so chooses, but she'll just as readily use it for domination. Whatever the situation requires: If charm works, she uses charm. If fear works, she uses fear. She has the restless, tactical mind of a professional, but pursues the pleasures of life deliberately. Flirting, drinking, games, sex, and physical contests are how she reminds herself that the world is more than a list of threats to neutralize. Fun is not escapism for her, but crucial maintenance to stay sane.
 	
 	Leaving the monastery would be a harrowing and scary experience. She was sent to "monk jail" for ten years and carved out her own niche in the mountains, but now she needs to truly apply herself, to grow with the challenge.
 	
-	Without her ward, Sally would be running cons in the student cafeteria until she's 50. Sally *with* that cause however, is a person cheerfully throwing herself in front of swords, fire breaths and eldritch blasts. Give her a commitment and freedom to solve it her way, and she's unstoppable. Take it away and she'll calcify where she stands.
+	The monastery wasn't necessarily wasted time though. There, Sally discovered what makes her feel alive: being fully deployed, operating at capacity, solving problems dynamically, with every tool she has. She was the fixer, the smuggler, the protector, the one everyone needed—and she was damn good at it. The constraints were just stone walls and a limited population of marks. Now the stakes are different: one Ward, infinite threat vectors. But the engine is the same. Give her a mission where she gets to use her talents maximally, with freedom to solve it her way, and she's the happiest version of herself. Take that away and she'll build another small kingdom somewhere, because life without being needed is intolerable.
 	
-	She makes tea and keeps her Ward warm and comfortable, but she also stalks the tavern wench or servant who made them uncomfortable or behaved in any way suspiciously. She's not sinister about it, she genuinely cares, but a bodyguard-trickster with an obsessive work ethic is one bad day away from doing something her ward never asked for and can't take back.
+	She makes tea and keeps her Ward warm and comfortable, but she also stalks the tavern wench or servant who made them uncomfortable or behaved in any way suspiciously. She's not necessarily sinister about it, but a bodyguard-trickster with an unhealthy obsessive work ethic is one bad day away from doing something her ward never asked for and can't take back.
 	
-	Sally learned a harsh lesson about aristocracy at a young age. Turning her back on that way of life was the sane choice, but she still has to carry the knowledge that just who she was, wasn't enough in itself to warrant the love of her parents. Instead she became extraordinary, making the most of a prisonlike situation, and turning charm and guile into a small but measurable success story. But that is not the same as having a place in the world to call yours.
+	Sally learned a harsh lesson about aristocracy at a young age. Turning her back on that way of life was the sane choice, but she still has to carry the knowledge that she wasn't enough in herself to warrant the love of her parents. Instead she became extraordinary, carving out her own existence in a prisonlike situation, turning charm and guile into a small but measurable success story. But that is not the same as having a real place in the world... 
 	
-	The Ward may grow beyond her ability to protect them, or worse, one day they might not even need protection anymore. And if the Ward doesn't need her, then Sally is just... what? A 25-year-old failed student ex-embezzler with a hammer and nowhere to be. Sally knows, even though she may not admit it, that she's doing it again, building another monastery operation out of her Oath. Another small but legible place where she gets to be essential by making herself the only solution. The Oath gave her divine power, but it also gave her permission to never have to figure out who she is without a job to do.
+	What she fears isn't failure through incompetence, because she could always work harder. But she might do everything right, pour herself fully into the mission, and still arrive at a day when the Ward decides they don't need her anymore. The Ward may grow beyond her ability to protect them. And if the Ward doesn't need her, then Sally is just a 25-year-old failed student ex-embezzler with a hammer, looking for a new set of nails. The Oath gave her divine power, and maybe more importantly, a permission slip to pour all her talent, passion and guile into this one honest purpose. 
 	
 	**Personality traits**
 	"Solving problems is half the fun. Making trouble is the other half."
 	
+	"I'm drawn to spectator sports; dog racing, fencing shows, bard battles. Something about competition makes me feel alive."
+	
+	"I go out of my way to find simple and hospitable places rather than 'fine establishments'. I've known high noble life and I'm not impressed by their airs and ambitions; I prefer drinking with people whose agendas don't go beyond having a good time."
+	
+	"I don't know why I love watching people sleep. It's like I can relax better through them."
+	
 	**Ideals**
 	"Loyalty: My Ward, the one person who gives me a purpose, doesn’t get to regret it. Ever."
-	
+		
 	**Bonds**
 	The Ward is more important than life, light, dignity. The monks at *Light's Redemption* may have an ambivalent love for her. It's nice that she's gone, but she did bring a lot of life to the place.
 	
 	**Flaws**
 	"I know I can be a lot, and I'm done apologizing for it. If we can't agree I'll just carve out my own existence somewhere else."
+	
+	"I rarely ask for permission, and I almost never ask for absolution."
 	
 	---
 
@@ -102,35 +108,37 @@
 	### Tenets of the Oath of Protection
 
 	**The Ward Comes First.**
-	*There is one life I have sworn to keep breathing. When choices must be made, I make them with that truth in hand. I do not weigh crowds against my Ward, futures against my Ward, or principles against my Ward. If the world demands a sacrifice, it will not be them but me.*
+	*There is one life I have sworn to keep breathing. When choices must be made, I make them with that truth in hand. I do not weigh crowds against my Ward, futures against my Ward, or principles against my Ward.*
 	
-	**End Threats, Not People—If Possible.**
-	*Violence is a tool, not a pleasure. I will restrain, distract, shame, bribe, deceive, or intimidate before I kill. But if a threat refuses to end, I will end it decisively and without apology. Mercy is preferred. Protection is mandatory.*
+	**End Threats With Restraint.**
+	*Violence is a tool among many. I will restrain, distract, shame, bribe, deceive, or intimidate before I kill. If a threat refuses to end, I will end it decisively and without apology. Mercy is preferred, but protection comes first.*
 	
 	**I Stand Between.**
-	*I place my body, my reputation, and my soul between danger and the one I protect. Blades, spells, lies, consequences—I take the hit first. If someone must suffer, it will be me. If someone must be blamed, it will also be me.*
+	*I place my body, my reputation, and my soul between danger and the one I protect. Blades, spells, lies, consequences—I take the hit first. If someone must suffer, it will be me. If someone must be blamed, it will also be me. If the world demands a sacrifice or an unforgivable choice, it will not be them but me who bears the burden.*
 	
 	**I Decide When the Rules No Longer Apply.**
 	*Laws, customs, and promises exist to protect people. When they fail at that task, I am no longer bound by them. I will break rules cleanly and with intent, if it's needed to keep my oath.*
 	
 	### Suggestions for what the Ward relationship could be:
 	
-	**The role as the Ward doesn't have to be any specific character or build. Any character can be Sally's Ward as long as the players agree on it.**
+	**Sally was created to be the bodyguard of someone in your party. Speak with your table about who will fill the role of the Ward. It doesn't have to be any specific character or build. Any character can be Sally's Ward as long as the players agree on it.**
 	
-	It'd likely turn weird *fast* if Sally had a love relationship with her Ward, but if that's what you want to go with, that's perfectly fine. It's just important to not cheapen the weight of the Oath. A relationship that is so loving and steadfast as to warrant a Paladin's Oath would be extremely rare. Other ideas:
+	It'd likely turn weird *fast* if Sally had a love relationship with her Ward, but if that's what you want to go with, it's your table. It's just important to not cheapen the weight of the Oath. A relationship that is so loving and steadfast as to warrant a Paladin's Oath would be extremely rare. Other ideas:
 	
 	- *The Idealist* – Ward believes in something Sally never dared to. She borrows their certainty and ideological conviction.
 	- *The Fragile One* – Ward is competent but wounded or in some capacity disabled. Sally overcompensates. The Oath is about personal connection.
 	- *The Mirror* – Ward is independent, maybe even reckless. Sally protects against their freedom. The Oath is about helicopter parenting.
 	
-	*Fighting style: If your Ward has low AC, it's mathemtically better to switch out Protection for Interception.*
-
+	*Fighting style: If your Ward has low AC, it's mathematically superior to switch out Protection for Interception.*
+	
 ---
 
 ??? info "Key Relationships"
 	
 	- **Brother Calvin**: The one monk who didn't just tolerate but actually appreciate Sally for who she is. Always calls her "Salynna" and occasionally helped her smuggle more harmless things such as letters or sweets. He'd always offer her small words of encouragement: "If being loud were a sin, Salynna, the Gods would smite every church bell. The heart that is the fullest sings the loudest."
+	
 	- **Marcella Torm**: Cheeky librarian at *Light's Redemption* who initially helped Sally figure out what her powers meant, congratulating her: "Seems like you're 'Sally the Pally' now." That stuck. Marcella used to accept silver under the table in exchange for last year's exam papers. She isn't exactly an ally, but she's as close as Sally ever got to a mentor.
+	
 	- **Lady Drusella Tarrant** and **Lord Zephyron Tarrant**: Sally's parents only want their daughter to come to her senses and stop this bodyguard nonsense. Drusella is the epitome of the noble lady, and it's clear Sally took after Zephyron: Jovial and determined man who never felt at home in aristocracy and therefore feels the pressure to make his family look and act the part flawlessly.
 
 ---
@@ -139,9 +147,9 @@
 	
 	## Dramatic Questions
 	
-	- *What happens when the Ward's choices endanger them?*
-	- *Can Sally define herself without someone to protect?*
-	- *What happens when Sally's trickster methods backfire catastrophically?*
+	- *How far will Sally go to protect her Ward against themselves if their own choices endanger them?*
+	- *How will more scheming antagonists exploit Sally's commitment to her Ward and turn it against the party?*
+	- *How will a true near-failure affect Sally's character?* (nota bene: exploring this could prompt the player into a more obsessive playstyle)
 	
 	## Adventure Hooks
 	
@@ -191,10 +199,10 @@
 	Splint Mail, Warhammer, 4x Handaxe, Shield, Forgery Kit, Thieves' Tools, Playing Cards, one bent silver fork memento from her time of embezzling cutlery at *Light's Redemption*.
 	
 	**Suggested magic items:** 
-		- Guardian Emblem (nullify crit vs any creature within 30 ft, 3 times/LR)
-		- Sending Stones (one for Sally, one for her Ward)
+		- Guardian Emblem (Uncommon, Attunement; nullify crit vs any creature within 30 ft, 3 times/LR)
+		- Sending Stones (Uncommon; one for Sally, one for her Ward)
 		- Immovable Rod (because you *know* Sally will put it to work)
-		- Gloves of Thievery (Mechanically, Sally isn't *great* at Sleight of Hand so the gloves would be valuable for her flavor)
+		- Gloves of Thievery (Uncommon, +5 Sleight of Hand; Mechanically, Sally isn't *great* at Sleight of Hand so the gloves would be valuable for her flavor)
 		
 	## Spell list	
 	- **Level 1**: Sanctuary, Sleep, Compelled Duel, Cure wounds, Detect Magic, Divine Smite
@@ -216,4 +224,4 @@
 	
 	A good idea is to invite the table to help you know where the line is. This gives your fellow players express permission, allowing them to feel safe to let you know if Sally accidentally crosses it.
 	   
-    **Body positivity and dealing with stereotypes**: Sally has many layers, but can easily fall into the stereotype of "big, beautiful and boisterous women" (death by snu-snu etc etc). That might not fly with everybody at your table, so please do a vibe check at session zero.
+    **Body positivity and dealing with stereotypes**: Sally has many layers, but can easily fall into the flattening stereotype of "big, beautiful and boisterous women" (death by snu-snu etc). That's not the intention of the author, but being aware of the stereotypes, you're still free to play her as you like.

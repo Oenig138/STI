@@ -11,7 +11,7 @@
 ## Character Overview
 - **Species:** Kobold  
 - **Class:** Warlock 5 (Celestial Patron)  
-- **Background:** Acolyte  
+- **Background:** Unwilling Acolyte (minimal homebrew)
 - **Age:** 15  
 - **Alignment:** Chaotic Neutral
 
@@ -66,13 +66,13 @@
         
     **Pact of the Chain: Archangel Serena's Avatar**
     
-    Any familiar made available by the Pact of the Chain can be visually reflavored to an avatar of Serena, but some are better fits than others mechanically. The celestial option is the **Sphinx of Wonder**, which can notably add +2 to any ability check or saving throw within 30 ft, twice per day. Another option is the **Pseudodragon**, perhaps a more pugnacious avatar of Serena that she musters before a big fight. Investment of the Chain Master allows her to Sting using Iblit's Spell save DC instead of the measly 12 DC of the familiar's stat block. On a fail, the target has the Poisoned condition *and* is rendered unconscious for one hour.
+    Any familiar made available by the Pact of the Chain can be visually reflavored to an avatar of Serena, but some are better fits than others mechanically. The celestial option (suggested to be the default) is the **Sphinx of Wonder**, which can notably add +2 to any ability check or saving throw within 30 ft, twice per day. Another option is the **Pseudodragon**, perhaps a more pugnacious avatar of Serena that she musters before a big fight. Investment of the Chain Master allows her to Sting using Iblit's Spell save DC instead of the measly 12 DC of the familiar's stat block. On a fail, the target has the Poisoned condition *and* is rendered unconscious for *one hour*.
     
     **Pact of the Tome: The Coloring Book of Shame**
     
     *"Why the hell is it a coloring book? I'm not a fucking kid!"*  
     *"Please abstain from sullying the scripture with your foul remarks. This book was crafted with the young, and learning, in mind."*  
-    *"This is embarrassing! Do I have to do this?"*  
+    *"This is embarrassing! Do I have to do this?"* 
     *"Just... sit with it for now. The Morning Lord has promised fine rewards if you study vigorously."*  
     *"Daaamn, that's a cool ass dragon picture though. Is that like your battle-mount? Could I ride it?!"*  
     *"...That's Tiamat."*
@@ -99,6 +99,8 @@
     
     Maybe as he sees more of the world, or even becomes an indispensable part of a group of adventurers, using his powers to bring back someone he likes from the brink of death, he slowly comes to appreciate what he has. Only time will tell.
     
+	---
+	
     ### Sample Dialogue
     
     **Iblit:** "So... have you ever, you know, been with someone?"  
@@ -107,8 +109,6 @@
     *flies off*  
     **Iblit:** "Peak virgin behavior."
     
-    ---
-    
     **Serena:** "Was it truly necessary to utilise the power of Lathander to... soil the breeches of that bully?"  
     **Iblit:** "It's teaching humility right? Deacon yapped about that all the time! Fuck, did you really teach a kid like me the Prestidigitation spell and expect me to be mature with it?"  
     *Thoughtful pause*  
@@ -116,16 +116,16 @@
     **Iblit:** "Partially? Really?"  
     **Serena:** "Don't push it."
     
-    ---
-    
     **Iblit:** *(snaps fingers nonchalantly, radiant energy stitches the fighter closed)* "There, happy? You're un-died. Don't hug me, you're sweaty."  
     **Fighter:** *(weak thumbs-up)* "Thanks, little guy."  
     **Iblit:** "Whatever. Wing Mom said I had to, or she'd reduce my spell allowance."
     
+	---
+	
     ### Playing Iblit: Practical Advice
     
     **Balance comedy with consequences**  
-    Don't just lean into comedy. Remember, Iblit is a kid! Seeing too much death, having to heal someone he likes and possibly failing, or facing terrifying threats or betrayal should have real consequences for him. Give him moments where he drops the bit and just desperately keeps someone alive while whispering "don't you fucking die on me, asshole, I mean it." Let the party see the scared kid under the gremlin. That contrast is what makes people care.
+    Don't just lean into comedy. Remember, Iblit is a kid! Seeing too much death, having to heal someone he likes and possibly failing, or facing terrifying threats or betrayal should have real consequences. Give him moments where he drops the bit and just desperately keeps someone alive while whispering "don't you fucking die on me, asshole, I mean it." Let the party see the scared kid under the gremlin. That contrast is what makes people care.
     
     **Accidental wisdom**  
     Let Iblit occasionally say something wise by accident, planting the seed that maybe, just maybe Lathander saw something real and valuable in this kid. Maybe he blurts something offhand that hits a moral truth Serena's been dodging. That inversion keeps the dynamic from being purely "teacher and unruly student."
@@ -135,7 +135,7 @@
     
     Having Serena essentially on stand-by as an extra NPC in the party creates different dynamics from the regular, more sparse dream-sequence or private contacts that most Warlocks have with their Patron. If other players at your table feel the banter takes too much time, try and think of ways to include other party members. Ask the Barbarian to judge in your latest conflict with Serena on the theology of doing your homework. Ask the Rogue for a potion to prank your familiar.
     
-    ### Thematic Notes
+    ## Thematic Notes
     
     This is **Calvin & Hobbes** meets **Good Omens**, with radiant damage and occasional outbursts of "you're not my mom!"
     
@@ -143,21 +143,25 @@
     
     Iblit never asked for this, and he doesn't exactly sympathize with Serena, even though he realizes she's just middle management stuck with a problem she never asked for. He'll send her avatar to perform all kinds of highly dubious tasks only to spite her, and will constantly try to trick and cheat her into releasing him from her patronage, something she is simply not allowed to do.
 
-	### Roleplaying Ideas
+	## Roleplaying Ideas
 	
 	- Iblit learns Serena doesn't know how to whistle. It doesn't come with the Angelic toolkit. After laughing at her for ten solid minutes, he makes it his new mission in life to teach her. Serena is flustered at the difficulty. She smites demons for a living. She's not used to failing at menial tasks.
-	- Serena teaches Iblit some actual, valuable facts about life, and for a brief moment they actually connect and laugh together.
-	- Offer to run Serena's "barks" (small dialogue lines) yourself during combat, based on agreed-upon personality traits, so the DM only has to step in for big plot moments and downtime dialogue.
-
+	- Have there be positive tension as well. If the relationship plays off one single note, it loses dynamics quickly. For instance, Serena can teach Iblit some actual, valuable facts about life, and for a brief moment they actually connect and laugh together.
+	- Offer to run Serena's "barks" (small dialogue lines) yourself during combat, so the DM only has to step in for big plot moments and downtime dialogue.
+	
+	## Unwilling Acolyte homebrew note
+	
+	The only difference between Iblit's background and the standard Acolyte class is that proficiency in Religion is swapped for proficiency in Sleight of Hand, for reasons that should be obvious.
+	
 ---
 
 ??? info "Key Relationships"
 	
-	- ** **
-
-	- ** **
+	- **Sister Marlene Caterassi**: Marlene is the human cleric who found infant Iblit in the wreckage of his clan's warren and made the split-second decision not to kill him. She brought him to the Lathanderian monastery, made sure the monks understood he was under her protection, and visited periodically over the years— brief, uncomfortable check-ins. To the small child Iblit, these visits were confusing. She brought gifts (books he couldn't read, toys he didn't understand), asked careful questions about his treatment, and left before anything real could be said. By age twelve, he'd figured out she was likely feeling guilty about what she did to his clan. But as far as Iblit is concerned, they were all likely just a bunch of evil dragon worshippers... right?
 	
-	- ** **
+	Now, at fifteen, Iblit has questions Marlene won't want to answer. She's still adventuring, still doing "good work," still telling the story of the kobold baby she saved out of the goodness of her heart. What she doesn't know is that the baby grew up to have an Archangel of her faith in his pocket, and a curiosity that doesn't politely stop when things get uncomfortable.
+	
+	- **Brother Enric**: The youngest monk assigned to Iblit's religious education, Brother Enric was barely into his twenties when he took on the impossible task of teaching scripture to a traumatized, hostile kobold child who saw every lesson as an extension of his captivity. Unlike the senior deacons who treated Iblit as a disciplinary problem, Enric genuinely believed in Lathander's message of redemption and renewal. He stayed late to help Iblit with reading, argued with the other monks about their harsh punishments, struggled to find common ground. It wasn't enough. 
 	
 ---
 
@@ -165,19 +169,28 @@
 	
 	## Dramatic Questions 
 	
-	- *How will Iblit respond when he encounters other kobolds who embraced violence, and berate him for his choices?*
+	- *How will Iblit respond when he encounters other kobolds who make violent resistance, and see him as a kidnapped child of their own?*
 	
-	- *What happens when someone sees past the funny little shit to the scared kid underneath?*
+	- *What if Serena actually ever got in real trouble?*
 	
-	- *Question 3*
+	- *What were those adventurers even doing, eradicating Iblit's clan and family that one time, and how does Iblit truly feel about it all?*
 
 	## Key Relationship Dynamics
 	
-	
+	**Sister Marlene Caterassi**: These are two radically different suggestions to the way she saved Iblit. Through this one choice you can change the weather for Iblit's entire background story. Either:
+		- The adventurers were only after treasure. The kobolds fought to defend their home, their young, their small accumulated wealth. Marlene's party robbed the place blind, felt they were justified in doing so because they needed the money to finance their travels. When the dust settled and the treasure was divided, Marlene found a hatchling in the wreckage and couldn't bring herself to finish the job. In this story, Marlene's "mercy" for Iblit was guilt management, not genuine compassion. Other kobolds who learn the truth will see Iblit as a stolen child, a victim of kidnapping who needs rescue/recovery. Iblit's teenage defiance is in this version the only sane response to a cosmos that murdered his family and then tried to assimilate him. The question becomes whether Iblit can build something new from these ashes, or whether the wound is too deep.
+		
+		- The adventurers were ending a legitimate threat. The kobolds were worshipping and serving a Black Dragon and raiding the countryside. They fought with religious fervor, calling on their dragon patron. It was violent, chaotic, and genuinely dangerous. Marlene found a hatchling afterwards and made a split-second decision: this child hadn't chosen to serve a chromatic dragon. Maybe he could be something else. In this version, Marlene made a hard call and went against her party's will. The monastery becomes a plausible redemption project, not a prison. Iblit's anger also becomes more complicated and his resistance to divine authority more tragic. He's angry at the wrong people. The question becomes whether Iblit can recognize genuine love even when it arrives through institutional fumbling that failed to meet him and his culture.
+				
+	**Brother Enric**: Iblit destroyed the monastery's holy relic and vanished, and Enric took it personally. He'd spent ten years advocating for compassion, and this was his reward: confirmation that mercy was wasted on creatures fundamentally incapable of gratitude or growth. The other monks had been right all along. If Iblit encounters Enric again, he'll find either a broken man who gave up on his ideals, or someone who's hardened those ideals into something uglier. Either way, Enric will want an explanation Iblit isn't ready to give: "Why wasn't I enough? Why did you prove them right about you?"
+
 	## Running Archangel Serena
 	
 	**DM buy-in is essential**  
 	You as a DM need to be willing to play the role of Serena for this character to work. Collaborate about finding the right voice and tone of their interaction.
+	
+	**Saying 'no'**
+	Serena’s authority only matters if it occasionally bites. Their back-and-forth is the engine of the relationship, but it mustn't hollow out her respect too much. She is the *patron*, not a sparring partner on equal footing.	If Iblit’s brattiness starts to disrupt the table or derail the narrative, Serena applies pressure, divine middle management style: tightening allowances ("Sorry, you only get to cast one spell today. You get one more if you're good."), delaying spell recovery, attaching humiliating conditions to his magic, or requiring visible acts of cooperation before restoring full access.
 	
 	**Serena's perspective: Mommy issues go both ways**
 	
@@ -199,16 +212,16 @@
 	
 	And genuinely caring is not necessarily a thing angels excel at, because that means improvising, being flexible, and acknowledging the importance of someone else than their God.
 	
-	### Plot Hooks
+	## Plot Hooks
 	
-	- The monastery sends someone to retrieve Iblit (and the stolen/destroyed relic's remains)
-	- Serena is told by the inscrutable powers above to give Iblit specific missions, such as saving a temple from corruption or, Heavens forbid, broker peace in a Chapter of the Dawn between two factions of quarreling Paladins. Iblit may seem like the worst possible candidate for the job, but just trust the process!
+	- The monastery sends Enric to retrieve Iblit (and the stolen/destroyed relic's remains)
+	- Serena is told by the inscrutable powers above to give Iblit specific missions, such as saving a temple from corruption or, Heavens forbid, broker peace in a Chapter of the Dawn between two factions of quarreling Paladins. Iblit may rightly seem like *the* worst possible candidate for the job, but Serena is told to just trust the process!
 	- Iblit encounters other survivors from his kobold clan
 	
-	### Lathander's Gambit
+	## Lathander's Gambit
 	
 	The Morning Lord doesn’t need Iblit to become devout. Maybe the choice to assign Serena to this little menace is much simpler, and kinder. Here's a little brave soul who was handed a shitty start in life. The decision to put him in a monastery of the Morning Lord meant something. A being was put in the care of a God, and that God decided to care. So many wily Kobolds are slain in the name of the good Gods every year. What if just one of them was allowed to explore their potential, find connection and do something great? That is a thesis statement about not giving up on anybody. That is a profoundly Lathanderian message. The big problem, of course, is that Lathander doesn't have a squad of Nanny Angels available, so it had to be Serena. For better or worse, Lathander decided to trust in the process.
-
+	
 ---
 
 ??? info "Mechanical build (lv 5) and PDF download"
@@ -223,37 +236,46 @@
 	|:---:|:---:|:---:|:---:|:---:|:---:|
 	| 15 | 43 | 5d8 | 30 ft. | +2 | +3 |
 	
-	**Saving Throws:** DEX +3, WIS +4, CHA +7  
+	**Saving Throws:** CON +6, WIS +3, CHA +7  
 	**Resistances:** Advantage on saves to avoid or end the frightened condition
 	
 	## Proficiencies
-	**Skills:** Deception +7, Insight +3, Persuasion +7, Religion +2
+	**Skills:** Deception +7, Insight +3, Investigation +2, Sleight of Hand +5
 	
 	**Armor:** Light Armor | **Weapons:** Simple Weapons
 	
-	**Tools:** Calligrapher's Supplies | **Languages:** Celestial, Common
+	**Tools:** Calligrapher's Supplies | **Languages:** Draconian, Common
 	
 	## Feats
 	- **Resilient (Constitution)**: +1 CON, gain proficiency in CON saving throws
-	- **Magic Initiate (Cleric)**: Learn Guidance and Mending cantrips, Cure Wounds 1/long rest (CHA spellcasting)
+	- **Magic Initiate (Cleric)**: Learn Guidance and Thaumaturgy cantrips, Cure Wounds 1/long rest (CHA spellcasting)
 	- **Eldritch Invocations:**
 		- *Agonizing Blast*
 		- *Eldritch Mind*
 		- *Investment of the Chain Master* 
 		- *Pact of the Chain*
 		- *Pact of the Tome* 
+	- **Defiance**: Advantage on saves vs Fear. (Kobold Legacy: Racial feat)
 	
 	## Equipment
-	- Studded Leather armor, Dagger (×2), Holy Symbol, Cloak of Protection (magic item for durability, suggested), Gloves of Thievery (for "little Kobold shit" vibes)
+	- Studded Leather armor, Dagger, Holy Symbol, Lathander's Primer, Arcane Focus (Orb), Calligrapher's Supplies (crayons)
+	
+	**Suggested Magic Items**
+	
+	- Cloak of Protection (+1 AC, +1 saving throws, because Iblit is a child and needs to be protected at all costs)
+	- Gloves of Thievery (+5 to Sleight of Hand, gives Iblit serious skill for pickpocketing and shenanigans)
+	- Pearl of Power (Restores 1 Level 3 spell slot each day, crucial for giving Warlocks more spellpower)
 		
 	### Spellcasting
-	- **Cantrips**: Eldritch Blast, Guidance, Light, Mage Hand, Mending, Message, Minor Illusion, Prestidigitation, Sacred Flame, Word of Radiance
-	- **Level 1**: Armor of Agathys, Comprehend Languages [R], Cure Wounds [1/LR], Detect Magic[R], Find Familiar, Guiding Bolt
+	- **Cantrips**: Blade Ward, Eldritch Blast, Guidance, Light, Mage Hand, Prestidigitation, Sacred Flame, Shocking Grasp, Thaumaturgy, Vicious Mockery
+	- **Level 1**: Hex, Speak With Animals [R], Cure Wounds [1/LR], Detect Magic[R], Find Familiar, Guiding Bolt
 	- **Level 2**: Aid, Lesser Restoration, Mirror Image
 	- **Level 3**: Counterspell, Daylight, Fly, Hypnotic Pattern, Revivify, Thunder Step
-
+		
 	📄 [Download Level 5 Character Sheet (PDF)](assets/iblit-lv5.pdf)
-
+	
+	![Iblit](assets/iblit-study.png){ width="300" }
+	
 ---
 
 ??? danger "**Session Zero Considerations**"

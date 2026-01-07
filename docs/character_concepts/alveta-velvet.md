@@ -61,6 +61,9 @@
     Their style always had an edge: moves they invented as teenagers that worked a little too well. The Reaping Wind. The Twin Sirocco. Velvet abandoned them after the mayor's boy died. Now she saw the village kids aspiring to be adventurers or town guards do bastardized versions of these same moves, with no restraint, no care for anything but the sense of "looking cool". Their minds were trapped in ego and spectacle, not in achieving actual results, or growing as people.
     
     Velvet didn't want to believe Reed would do something like that, but she could think of no other explanation. Nobody else could even know those moves. Now her mission was double: by ways of heroic deeds restore the honor of the dream that had carried her throughout her life, and eventually find the emotional courage to seek out and confront her childhood friend.
+	
+	![Alveta "Velvet"](assets/alveta-velvet-meditation.webp){ width="300" }
+
     
     ## Personality & Psychology
     
@@ -207,11 +210,13 @@
 	
 	**Suggested magic items:**
 	
-		- Ring of Protection (+1 AC and Saving Throws, never a bad pick for Dexadins with middling AC)
-		- Gloves of Thievery (+5 to Sleight of Hand and lockpicking checks, aids in Velvet's patchy past flavor)
-		- Dazzling Scimitar (Eberron: Forge of the Artificer. Rare +1 weapon, shed Bright Light 30 ft as BA. As a Reaction after being hit by an attck you can expend a charge to force DC 15 CON save, or opponent has Blinded condition until end of its next turn. 4 charges, restore 1d4 every dawn)
+	- Ring of Protection (+1 AC and Saving Throws, never a bad pick for Dexadins with middling AC)
+	- Gloves of Thievery (+5 to Sleight of Hand and lockpicking checks, aids in Velvet's patchy past flavor)
+	- Dazzling Scimitar (Eberron: Forge of the Artificer. Rare +1 weapon, shed Bright Light 30 ft as BA. As a Reaction after being hit by an attck you can expend a charge to force DC 15 CON save, or opponent has Blinded condition until end of its next turn. 4 charges, restore 1d4 every dawn)
 
 	📄 [Download Level 5 Character Sheet (PDF)](assets/alveta-velvet-lv5.pdf)
+	
+	![Alveta "Velvet"](assets/alveta-velvet-skirmish.webp){ width="300" }
 
 ---
 
