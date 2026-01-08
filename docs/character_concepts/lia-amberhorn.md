@@ -19,11 +19,11 @@
     
     **At the Table**
     
-    * Performs the entitled Sorcerer: Refuses to do anything by hand that she could use Mage hand and Prestidigitation for; Subtle Spell Catapults wine bottles and chamber pots for dramatic flair during arguments
-    * Never learned to read and count well, due to ableist parents wanting to break with the Satyr stereotypes; she's all they tried to distance themselves from
-    * Sides with the castouts, the strays, the underdogs. Harasses every cat for affection; always carries cat treats and string
-    * Party Role: Face, glass Cannon, comedic relief, source of warmth and tragedy
-	* Gifted doodler; Takes notes in form of doodles and silly characters, because it's less anxiety-inducing than writing
+    * Performs the entitled Sorcerer: Refuses to do anything by hand that she could use Mage hand and Prestidigitation for. Subtle Spell Catapults wine bottles and chamber pots for dramatic flair during arguments.
+    * Never learned to read and count well, due to ableist parents wanting to break with the Satyr stereotypes; she's all they tried to distance themselves from.
+    * Sides with the castouts, the strays, the underdogs. Harasses every cat for affection; always carries cat treats and string.
+	* Gifted doodler, takes notes in form of doodles and silly characters, because it's less anxiety-inducing than writing.
+    * Party Role: Face, glass Cannon, comedic relief, source of warmth and tragedy.
     
     **Backstory (Short Form)**
     
@@ -57,7 +57,9 @@
     
     Lia distrusts experts. Knowledge may be good, but she's only ever seen, and felt, it wielded as a weapon. Leaning hard the other way is becoming an ethical standpoint for Lia: People don't lose their value just because they aren't smart. 
 	
-	But her body knows a different truth: She's the botched one, the stupid girl. She never learned to value her instincts with people, her gift for reading a room. Instead she performs what her parents always accused her of being: the wild Satyr, the sloppy Sorcerer. She does everything with magic: Why *work* and open a simple door manually when you have Mage Hand? She uses her gifts for lavish, silly displays and party tricks. She tells herself this is who she is. The wine helps her believe it.
+	But her body knows a different truth, that she's the botched one, the stupid girl. She never learned to value her instincts with people, her gift for reading a room. Instead she performs what her parents always accused her of being: the wild Satyr, the sloppy Sorcerer. 
+	
+	She does everything with magic. Why *work* and open a simple door manually when you have Mage Hand? She uses her gifts for lavish, silly displays and party tricks. She tells herself this is who she is. The wine helps her believe it.
 	
 	Wild Magic functions as both weapon and shield. When she "accidentally" triggers surges during arguments, it gives her plausible deniability ("can't control it, sorry"). But it's also real chaos she genuinely can't always control, which means she's never certain if she's weaponizing it or if it's weaponizing her. The performance and the truth are tangled past separation.
 	    
