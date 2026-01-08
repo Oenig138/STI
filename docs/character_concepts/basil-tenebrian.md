@@ -119,11 +119,10 @@
     **Bonds:** My mother still needs me. She's the only one I have left.
     
     **Flaws:** I doubt there is truly a place for me in this world. I fear the truth of who I am.
-
-	## Before Playing
 	
-	Decide with your DM whether you prefer to play Basil keeping his identity secret, if he's still being pursued, or if he's sailed so far away he thinks he's safe from pursuers, as this changes the situation wildly for the first adventure.
+	![Basil resting](assets/basil-resting.png){ width="300" }
 
+	
 ---
 
 ??? info "Key Relationships"

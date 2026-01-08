@@ -215,7 +215,9 @@
 	## PDF Character Sheet
 	
 	📄 [Download full character sheet](assets/salynna-sally-tarrant-lv5.pdf)
-		
+	
+	![Sally scheming](assets/sally-scheming.png){ width="420" }
+	
 ---
 
 ??? danger "Session Zero Considerations"

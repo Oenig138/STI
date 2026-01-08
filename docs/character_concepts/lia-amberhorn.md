@@ -1,6 +1,6 @@
 # Lia Amberhorn
 
-![Character Name](assets/lia-amberhorn.png){ width="300" }
+![Lia Amberhorn](assets/lia-amberhorn.png){ width="300" }
 
 > *"Don't say it, I know what you think. Typical Lia. Can't read, can't count. I'm only good with cats and hard liquor. Why do you come to me for advice?"*
 
@@ -194,7 +194,9 @@
 	- **Level 3**: Fireball, Fly
 
 	📄 [Download Level 5 Character Sheet (PDF)](assets/lia-amberhorn-lv5.pdf)
-
+	
+	![Lia in action](assets/lia-in-action-ff.png){ width="420" }
+	
 ---
 
 ??? danger "**Session Zero Considerations**"

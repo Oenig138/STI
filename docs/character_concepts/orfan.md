@@ -1,6 +1,6 @@
 # Orfan
 
-![Orfan](assets/orfan.webp){ width="300" }
+![Orfan](assets/orfan.png){ width="300" }
 
 > *"For sure, Bellamy would be happy if I just stayed. Maybe we could have children too, but... to leave so much unexamined? Doesn't sit right. Do I really have to choose? I know she'd understand."*
 
@@ -9,11 +9,12 @@
 ---
 
 ## Character Overview
-**Species:** Firbolg  
-**Class:** Sorcerer 5 (Draconic Sorcery)  
-**Background:** Natural Archaeologist (small homebrew, see *Mechanical Notes*)
-**Age:** 26
-**Alignment:** Neutral Good
+
+- **Species:** Firbolg  
+- **Class:** Sorcerer 5 (Draconic Sorcery)  
+- **Background:** Natural Archaeologist (small homebrew, see *Mechanical Notes*)
+- **Age:** 26
+- **Alignment:** Neutral Good
 
 ??? info "Quick Intro"
     

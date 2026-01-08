@@ -1,6 +1,6 @@
 # Scarecrow
 
-![Scarecrow](../assets/characters/scarecrow.webp){ width="300" }
+![Scarecrow](assets/characters/scarecrow.png){ width="300" }
 
 > *"Why would you ask that? Is it important to you? Would knowing help? Is there any deeper layer behind your question? Would you like a nice cup of cinnamon tea?"*
 
@@ -9,11 +9,12 @@
 ---
 
 ## Character Overview
-**Species:** Warforged  
-**Class:** Bard 5 (College of Whispers)  
-**Background:** Inquisitive  
-**Age:** Unknown (centuries old)  
-**Alignment:** Neutral Good
+
+- **Species:** Warforged  
+- **Class:** Bard 5 (College of Whispers)  
+- **Background:** Inquisitive  
+- **Age:** Unknown (centuries old)  
+- **Alignment:** Neutral Good
 
 ---
 
@@ -214,8 +215,10 @@
 
     ---
 
-    📄 [Download Level 5 Character Sheet (PDF)](../assets/scarecrow-lv5.pdf)
-
+    📄 [Download Level 5 Character Sheet (PDF)](assets/scarecrow-lv5.pdf)
+	
+	![Basil cornered](assets/basil-cornered-mignola.png){ width="460" }
+	
 ---
 
 ## Session Zero
