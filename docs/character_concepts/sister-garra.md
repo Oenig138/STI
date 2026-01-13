@@ -66,7 +66,7 @@
     
     The Mud Nuns broke from the older order Seekers of Penitence many years ago. Recently, the conflict has escalated into a religious turf war.
 	
-	[Read the full Mud Nuns document here.](../factions/mud-nuns)
+	[Read the full Mud Nuns document here.](../factions/mud-nuns.md)
 	
 	---
 	    
@@ -112,7 +112,7 @@
 	---
 	
 	### The Seekers' Complexity
-	[The Seekers of Penitence](../factions/mud-nuns) are a powerful religious order in the city, and ultimately were the ones who stopped the Purge. After two days, they issued declarations about "the sanctity of all souls," pressured the Duke to call off the watch, sheltered arrested Tabaxi until tensions cooled. Grand Master Syphone condemned the "unnecessary brutality." But they arrived after Garra was orphaned and her parents were shipped nowhere. They had power to prevent it but didn't act until violence became politically embarrassing.
+	[The Seekers of Penitence](../factions/mud-nuns.md) are a powerful religious order in the city, and ultimately were the ones who stopped the Purge. After two days, they issued declarations about "the sanctity of all souls," pressured the Duke to call off the watch, sheltered arrested Tabaxi until tensions cooled. Grand Master Syphone condemned the "unnecessary brutality." But they arrived after Garra was orphaned and her parents were shipped nowhere. They had power to prevent it but didn't act until violence became politically embarrassing.
 	
 	Still, Garra can't hate them like her younger sisters do. She can't pretend they're pure evil when Tabaxi are alive because they intervened. But she can't forgive them for waiting until after the purge to decide Tabaxi lives mattered. "You rescued many of my kind," she once told a Seeker monk trying to arrest her. "They are alive today thanks to you, so I can't hate you even if you persecute us now. If things were different, I may have been a Seeker. Even so, I am what I am, and would not have it otherwise." Then she escaped through a window.
 		
@@ -128,8 +128,12 @@
     "By my count, this feast they're throwing us could feed twenty-three for a week. Give me your Bag of Holding. Now."
     
     "I'm not saying it's wrong to don the turmeric. I just don't think I'm middle management material."
+	
+	“Some rich idiot once said I hoard knowledge in my ledger like he hoards gold. That’s… no. Gold sits, gets fat and lazy. When I teach you something, I still have it, see? That’s the whole trick: it flows freely. That’s why they hate schools and we run them. My ledger’s not a bleeding lockbox for blessings, it’s a distribution map. Anyway. Yeah, I liberated his shoes. He had five pairs.”
+	
+	"A rich man once said I hoard knowledge in my ledger like he hoards gold. Wrong. Gold divides. Knowledge multiplies. When I teach you, I still have what I taught. That's why they fear education and we give it freely. My ledger doesn't trap blessings like a vault. It's more like a map of where they need to flow! So yeah, I took... I mean, I liberated his shoes."
     
-    "Cats are obligate carnivores! I might just die if I don't get to eat grilled sea bass now and then! Would you have my life on your conscience?"
+    "Tabaxi are obligate carnivores! I might just die if I don't get to eat grilled sea bass now and then. Would you have my life on your conscience?"
     
 	"I'm gonna need to come back to this inn again in the near future. This place is *stagnant*. What do you mean, 'how do I know'? When we came in I just counted the heads in the room, then the visibly poor, and then calculated the mean of poverty in my ledger. This place is in the top 2 deciles."
 	
