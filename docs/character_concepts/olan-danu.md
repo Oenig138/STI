@@ -118,13 +118,13 @@
 	- **Dharma Lanternghost**: Tabaxi soothsayer who almost certainly goes under a stagename. She runs fortunes from a river boat that's constantly on the move, and she's either the real deal or the world's most convincing charlatan—even Olan can't tell, and that uncertainty drives her crazy. Whenever they bump into eachother the will always indulge in tea and card games and catch up: part genuine affection, part philosophical chess match. Dharma represents everything Olan's trying not to believe: that maybe some things can't be rationalized, that maybe trust requires actual faith, that maybe her careful calculations are just another shell she's hiding in.
 	
 	Dharma constantly tries to give Olan talismans, which the more secularly minded Tortle kindly declines. They met forty years ago when Dharma read Olan's fortune unbidden: "You'll spend your life building walls that look like bridges." Olan laughed it off, but the line haunts her.
-
+	
 	- **Trequay Kimwin**: Aaracokra who is better known as the "Messenger Pigeon". He's pathologically devoted to his work, treating every delivery like a sacred oath. He's saved multiple city-states just by refusing to accept that "impossible" applies to him. Olan hired him once for a routine job and was so impressed that she's used him exclusively for 10 years. He's delivered messages through active warzones, bypassed magical wards, and memorized verbal messages too sensitive to write down.
-
+	
 	- **Aquila Diredawn**: Edgy young Tortle Sorceress. She is everything Olan used to be before the incident with the cauldron: brilliant, idealistic, convinced that being right is enough. She's also reckless, self-sabotaging, and chronically underestimates consequences. Olan has extracted her from trouble dozens of times—magical debts, pissed-off nobles, experiments gone wrong. Aquila is grateful but also deeply resentful, trapped in that adolescent belief that accepting help means admitting incompetence.
 	
 	Olan never asked for a mentor role and Aquila never demanded it, but somehow that's the positions they slip into whenever their paths cross. Aquila is arguably more naturally talented than Olan. Her wild magic makes her unpredictable but devastatingly powerful when it connects. Olan sees her younger self in Aquila but also sees potential she herself never had. There's genuine affection there, buried under layers of mentorship neither of them agreed to. But Aquila is making the same mistakes Olan did, and it's only a matter of time before she embarrasses the wrong archfey.
-
+	
 ---
 
 ??? danger "Notes for the DM"

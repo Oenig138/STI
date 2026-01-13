@@ -6,8 +6,6 @@
 
 **Folk cleric of communal providence: half saint, half neighborhood menace, racing against middle age while her order wants her to hang up her lockpicks and take the scholarly "turmeric robe".**
 
-*Keywords: Robin Hood theology, compulsive record-keeper, cat burglar nun, redistribution of blessings, turf war brewing*
-
 ---
 
 ## Character Overview
@@ -21,69 +19,79 @@
     
     **At the Table**
     
-    * Intense and decisive, but struggles with short attention span
-    * Compulsively counts everything and records it in her ledger
-    * Fears becoming irrelevant, losing her edge before taking the turmeric robe
-    * The conscience and Robin Hood of the party—redistributes "blessings" with holy precision
+    * Intense and decisive, but struggles with short attention span and a flaring, decidedly unclerical temper
+    * Compulsively counts things of relevance for her mission, and records it in her ledger
+    * Fears becoming irrelevant, losing her edge before taking the Turmeric robe, advancing to a diplomatic/paperwork position in her order
+    * The uncompromising Robin Hood conscience of the party, redistributes blessings with holy fervor and precision
     
     **Backstory (Short Form)**
     
-    Orphaned at five when authorities scattered her Tabaxi commune for "squatting", Garra fled to the streets where Sister Nadya of the Mud Nuns raised her in their radical faith of "redistributing blessings." Now at 39, she's racing against the turmeric robe—the order's middle management—while her mentor has gone silent just as the rivaling Seekers of Penitence cult launch attacks against her order.
+    Garra was five when the Tabaxi Purge burned two buildings to ash and deported her commune in the Lower Wards. Orphaned, she fled to Sister Nadya of the mendicant barefoot order the Mud Nuns, who taught her to channel her rage for holy purposes. Now at 39, she runs the Dockyard Corridor of the Copper Pot network, smuggling persecuted Tabaxi out before the inevitable next crackdown. She's racing against the turmeric robe while her mentor has gone silent just as the Seekers of Penitence escalate their attacks.
     
     **Playing Sister Garra**
     
-    * **Combat:** Highly mobile support Cleric with Trickster domain stealth/control, heals while summoning "The Humbler" (traditional spiritual weapon ladle to keep order in the soup lines) to bonk enemies
-    * **Roleplay:** Sincere and driven by purpose, not sexy cat burglar—her tail betrays her when lying, she counts compulsively, leaves receipts with blessings after "redistributing" wealth
-    * **Party Synergy:** Moral compass with flexible interpretation—she'll argue theft isn't theft when correcting "cosmic stagnation," keeps detailed ledgers of party actions
+    * **Combat:** Mobile support cleric with stealth and control options, heals while summoning "The Humbler" (spectral soup ladle) to bonk enemies
+    * **Roleplay:** Sincere holy work, not sexy heist. Tail betrays lies, counts compulsively, leaves receipts with blessings
+    * **Party Synergy:** Moral compass who keeps ledgers of party actions and inspires others through burning conviction rather than charisma.
 	
 ---
 
 ??? info "Deep Dive"
     
-    ### Full Backstory
+    ## Backstory
+
+	### The Purge
+	Garra was born in a Tabaxi commune in the Lower Ward. Seventy-three souls in two converted warehouses near the dockyards, raising their young collectively. Her birth parents were dock workers, too exhausted to spend much time with any individual kitten. But the commune was family. She was five when it ended. For weeks, Tabaxi had been disappearing. Picked off walking home from work. Arrested for "loitering" or "suspicious behavior," and never seen again. The commune locked its doors, posted watches, tried to become invisible. 
+	
+	Dockyard developers wanted the land of the commune, and so it was purged, in an incident locals speak of to this day. Garra remembers smoke burning her chest as she hid under a cot, adults screaming, crossbow bolts against wood, fire catching the roof beams, turning the night orange. By morning, only ash remained. Dozens arrested, herded onto ships and deported. Some claimed the Tabaxi were returned to a "homeland" none had seen. Others whispered that the ships never made port, passengers sold as indentured labor or dumped overboard.
+	
+	Garra's parents were on one of those ships. She spent twenty years sending inquiries to port authorities and shipping companies before she gave up on ever seeing them again.
+	
+	Authorities intended to place her in an orphanage. She fled the first night. Sister Nadya of the Mud Nuns found her three days later behind a soup kitchen, feral and starving, trying to bite anyone who came close.
+	
+	### Sister Nadya and the Undulation
+	Nadya didn't try to gentle her. She crouched down, looked Garra in the eye, and said: "Good. Stay angry. The people who burned your home want you to think your rage makes you less civilized. They're wrong. Your rage carries the love of those you've lost. You carry the indignity of their passing, but you don't have to carry it alone."
+	
+	Nadya raised her in the order of the Mud Nuns. When funds ran low, Garra and her fellow novices did runs through the communities, "liberated" baby clothes, blankets, and the good copper pans for whoever needed them more. Garra's small size made her invaluable for slipping through windows, hiding in tight spaces and opening tough locations from the inside.
+	
+	Nadya explained why the Purge happened through the *Undulation of Graces*, the theology of their order: wealth and power stagnated with the few, and poisoned their minds to see Tabaxi as vermin. Concentration stagnates and rots. Flow liberates and breathes new life. Therefore it is compassion to liberate the rich of their wealth. "Compassion without correction is just stagnation of the heart" Nadya said. "We are the agents of the Flow."
+	
+	### The Mud Nuns
     
-    Born in the soot and soup kitchens of the Lower Ward, Garra was first raised in a large Tabaxi communal living. Her parents were dock workers and runners, too busy making a basic living to spend much time with her. But at only five years old, the commune was shattered by the authorities, who claimed it was a nest of squatters and radical thought, plotting against the rightful rulers. More likely, the city watch wanted the "dirty catfolk" off their streets.
+    The Mud Nuns are a barefoot order of mendicant women who believe enlightenment lives in the heat and stink of the city. They walk alleys where incense meets sewage, stirring lentils with the same hand that blesses the dying. Their duty is feeding the poor and liberating the rich of their stagnation.
     
-    Garra's parents were deported from the city. She was intended to be raised into the culture of the city in an orphanage, but fled to the streets on the first night. There, she was soon taken in by Sister Nadya of the Mud Nuns, and raised in their faith.
+    Divinity pervades all things, so the divine is also in filth and struggle. To seek purity is a lie of those who seek to segment the world. Their chants mix prayer with bargaining, their temples are soup lines.
     
-    When the community lacked funds, she and her fellow mud sisters "redistributed grace" the only way they could: knocking on doors and liberating outgrown baby clothes, blankets, and sometimes, regrettably, the good copper pans.
+    Older Nuns wear turmeric robes, signifying their redistribution days are behind them. Instead, they teach, negotiate and run the order's various hideouts (called "pots") around the city.
     
-    Garra's small size immediately made her useful to the sisters. She could access places others could not, stealthily sneak into the finer mansions and liberate goods.
-    
-    Now, she's a folk cleric of communal providence: half saint, half neighborhood menace. Her parish network is everywhere. Townspeople either love her for her work, or see her nunnery as a gang of absolute thieves and rascals.
-    
-    After many years as servant in the Mud Nuns, she is approaching the age of taking the turmeric robe. While it is an honor, it's also a monumental shift that Garra struggles with.
-    
-    It's a race against middle age. Every heist has a new weight of quiet defiance, not just another entry in the ledger but an "I've still got it" scrawled in the margin. She might be more reckless, quicker to act, because the clock is ticking. She's supposed to be a guide, a future elder, but she's the one feeling lost, trying to figure out what holiness means when you're too old to be the prodigy and too young to be the sage.
-    
-    Seeking reprieve from the mounting expectations to give up her life of heisting, she has applied for a year as a missionary, to travel to new places and spread the influence of the Mud Nuns. Being approved for external service, she grabbed the order's Sentinel Shield, made to protect missionaries and pilgrims on the path, and set out. But many things are still afoot in the city, not least of which is the Penitentians...
-    
-    ### The Mud Nuns
-    
-    The Mud Nuns are a barefoot order of mendicant women who believe enlightenment is not found in mountain caves or silent cloisters, but in the heat and stink of the living city. They walk the seedy alleys where incense meets sewage, stirring lentils with the same hand that blesses the dying. The duty of the order is not only to feed the poor, but also snap the rich out of their senses of entitlement and belief that their possessions are going to bring them happiness.
-    
-    Their doctrine is simple: If divinity pervades all things, then the divine is also in filth, sweat, and struggle. Purity is a lie of the privileged. Cleanliness cannot cleanse the soul that has never been soiled. Their chants mix prayer with bargaining, their temples are soup lines and drainage canals. To them, theft or stern persuasion campaigns done in compassion is just another form of almsgiving. They call it "redistributing blessings." Wherever the Mud Nuns go, the poor eat, the rich lock their cupboards, and many inevitably feel very uncomfortable about what holiness really means.
-    
-    Older Mud Nuns wear turmeric robes, signifying that their days of "redistribution" are behind them, and instead they work with teaching, negotiation, etc.
-    
-    The Mud Nuns broke out from the larger order of the Seekers of Penitence many years ago, and the much more powerful Penitentians are still salty about it. Recently, the conflict has escalated into the beginnings of a religious turf war in the streets.
-    
+    The Mud Nuns broke from the older order Seekers of Penitence many years ago. Recently, the conflict has escalated into a religious turf war.
+	
+	[Read the full Mud Nuns document here.](../factions/mud-nuns)
+	
+	---
+	    
     ### Personality Deep Dive
+    **Theology**
+	When she liberates objects, she's not "stealing" but correcting cosmic stagnation. She'd be offended by "theft" the way a surgeon would be by "stabber." She leaves receipts with hastily scrawled blessings as religious documentation, proof of karma correction. She often adds spice from her Heward's Handy Spice Pouch. If you've been good, you get saffron. Cruel people get salt.
+
+    Her Cleric spell Spiritual Weapon is "The Humbler," a huge traditional ladle the Mud sisters have summoned for generations to keep order in soup lines and correct bullies.
     
-    Garra always carries a little ledger and has a compulsive need to keep track of balances, what was taken, gold values, what was distributed and to whom. With time she's started to keep statistics of all kinds.
+    **Cat traits**
+	Garra struggles with mundane indulgences. On her rare days off, she typically curls up in a warm place like a house cat for hours, preferring to not think too hard about if this counts as "stagnation". When heisting, her big obstacle isn't magic traps but luxurious feather beds she must try, lingering far longer than necessary, rationalizing it as "meditating on the illusion of comfort."  She's also not strictly vegetarian like the other nuns, but hides it well. It's her own shameful secret. 
+	
+	Tabaxi raise young communally. Biological parents matter less than the whole community. Every kitten belongs to everyone. This means every Tabaxi in the city is kin to Garra. She's viciously protective, tracks their wellbeing and intervenes when it's threatened.
+	
+    **Psychology**
+	Garra carries a ledger and compulsively tracks balances: what was taken, gold values, distributions. She keeps statistics of all kinds. It's how she maintains control in a world that proved she had none. She couldn't stop the Purge, save her parents, prevent deportations. But she can count, record, create order through documentation. 
+	
+	Her tendency to get sidetracked goes deeper than just comfy beds. While deeply committed to her order, she struggles with attention span and focus. This is why she dreads the turmeric robes and cerebral duties.
     
-    When she liberates objects from people with "improper levels of ownership", she's not "stealing", but correcting cosmic stagnation. She would be most offended if accused of theft, the way a surgeon would be offended if called a stabber. She always leaves receipts after her deeds, complete with hastily scrawled blessings. Not as jokes or supervillain calling cards, but religious documentation, proof of karma correction. But she also often leaves little "gifts" of spice from her Heward's Handy Spice Pouch along with the receipt. If you've been good, you get saffron.
-    
-    Garra's Spiritual Weapon spell manifests as a huge, traditional ladle that Mud sisters have summoned for generations to keep order in the lines for lentil soup and correct bullies who try to grab too much food. It even has a name: "The Humbler".
-    
-    Garra struggles with her mundane sides. On the rare days off, she curls up like a house cat for hours on end, enjoying the languid life. She's also not *strictly* vegetarian, like the other nuns, but she has managed to hide it pretty well so far.
-    
-    When heisting, her big obstacle isn't magic traps, but luxurious feather beds which she simply must try, lingering far longer than necessary, rationalizing it as "meditating on the illusion of comfort." She'd never admit it falling asleep, but...
-    
-    The tendency to get sidetracked goes deeper than just comfy beds though. While Sister Garra is deeply committed to her order, she also does struggle a bit with her attention span and focus. This is another reason why she dreads taking the turmeric robes and settling for more cerebral duties in the order in the year to come.
-    
-    Sister Nadya was Garra's mentor for many years, and they had a warm relationship before they were assigned to different districts of the City. Now they haven't seen each other for a while. But right as the Seekers of Penitence started attacking, Sister Nadya stopped responding to Garra's letters, leading her to wonder. Was her old mentor the first victim, or did she defect to the Seekers?
-    
+	Garra's rage erupts when someone calls her "cute," when a merchant says "little one" or "sweetheart," when nobles explain how the poor just need to work harder, when anyone treats her size, species, or gender as reason not to take her seriously. Her tail goes rigid, pupils dilate, and she says something so cutting it takes three seconds for them to realize they've been filleted. She isn't very intimidating but throws excellent hissy fits.
+	
+	Five minutes later she's apologizing profusely for eating grilled sea bass, claiming tabaxi are obligate carnivores. She is hyperaware of her "shameful" indulgences (luxury beds, eating fish, curling up like a house cat) and feels guilty about them.
+	
+	She doesn't connect these moments. The rage just is. She'd be baffled if someone said she has an anger problem. "I don't have an anger problem. I have a problem with people being smug, condescending, unwiped assholes who need a bump with the Humbler."
+		
     ### Character Traits Summary
     
     **Personality Traits:** Intense and decisive, but short attention span
@@ -93,10 +101,27 @@
     **Bonds:** Sister Nadya taught me all I know. I will find her.
     
     **Flaws:** Compulsive counter, struggles with desire for comfort
-    
-    ### Appearance
-    
-    Sister Garra is a 3'8" ball of speed. Mottled yellow fur, never quite clean. She has expressive, radiant green eyes and wears a belt jangling with spoons, keys, holy symbols and various objects for use in everyday life in the slums.
+	
+	---
+		
+	### The Dockyard Corridor
+	Garra runs the Dockyard Corridor of the Copper Pot network (refugee shelters working like an underground railway), smuggling persecuted people out before violence finds them. She stocks supplies, maintains hidden entrances, ensures residents know evacuation protocols. When the Seekers raid elsewhere, she relocates people at three in the morning, getting them onto boats before dawn. The dockyards are in her blood. Her parents worked there. She knows every foreman, cargo inspector, and corner where contraband gets "lost." She knows which captains take passengers for the right price, which are sympathetic, which are dangerous.
+	
+	She couldn't save her family, but she can save the next one. Every Tabaxi who makes it out proves the Purge didn't win. Every forged document is a small vindication of another life. Her record-keeping makes her exceptional at this. She tracks manifests, memorizes customs schedules, forges documents with precision. The ledger is her criminal toolbox. When someone needs to disappear, Garra creates paperwork saying they were never here.
+		
+	---
+	
+	### The Seekers' Complexity
+	[The Seekers of Penitence](../factions/mud-nuns) are a powerful religious order in the city, and ultimately were the ones who stopped the Purge. After two days, they issued declarations about "the sanctity of all souls," pressured the Duke to call off the watch, sheltered arrested Tabaxi until tensions cooled. Grand Master Syphone condemned the "unnecessary brutality." But they arrived after Garra was orphaned and her parents were shipped nowhere. They had power to prevent it but didn't act until violence became politically embarrassing.
+	
+	Still, Garra can't hate them like her younger sisters do. She can't pretend they're pure evil when Tabaxi are alive because they intervened. But she can't forgive them for waiting until after the purge to decide Tabaxi lives mattered. "You rescued many of my kind," she once told a Seeker monk trying to arrest her. "They are alive today thanks to you, so I can't hate you even if you persecute us now. If things were different, I may have been a Seeker. Even so, I am what I am, and would not have it otherwise." Then she escaped through a window.
+		
+	This nuance is what makes someone worthy of the turmeric robe, but Garra doesn't realize it yet. She thinks turmeric means comfortable, cerebral, removed from the work. She doesn't see her capacity for both complexity and rage *is* the work. 
+	
+	---
+	
+    ### Appearance    
+    Sister Garra is 3'3". Mottled yellow fur, never quite clean. Expressive, radiant green eyes. She wears a belt jangling with spoons, keys, holy symbols, and everyday slum objects.
     
     ### Sample Quotes and Ledger Entries
     
@@ -106,6 +131,8 @@
     
     "Cats are obligate carnivores! I might just die if I don't get to eat grilled sea bass now and then! Would you have my life on your conscience?"
     
+	"I'm gonna need to come back to this inn again in the near future. This place is *stagnant*. What do you mean, 'how do I know'? When we came in I just counted the heads in the room, then the visibly poor, and then calculated the mean of poverty in my ledger. This place is in the top 2 deciles."
+	
     **Lord Pemberton's Estate**
     - Liberated: 3 silver candlesticks, 1 bolt of wool
     - Value: 45gp
@@ -120,35 +147,59 @@
     - Left: SALT (kicked a beggar, spat at Sister Chen)
     - Notes: Deserved worse. May his cheese curdle.
     
-    ### Playing Sister Garra - Extended Guidance
     
-    **Important Boundary:** Don't steal from your party members unless given explicit permission above table! Suggestion: A creed for clarity. "I act only to feed the hungry and redistribute blessings; I take nothing bound by love."
+    **Character Customization:**
     
-    To show her counting compulsion and high passive perception, when in a new tavern, you could announce "I silently count the heads in the tavern, then the number of visibly poor, and discreetly note the mean of poverty in my ledger, as basis for future considerations whether this place needs redistribution or not."
+    Does Garra believe something even other Mud Nuns question? Lean more radical or easygoing. Maybe she's fine with extortion, not just theft. If so, discuss switching a skill to Intimidation.
     
-    **Character Customization Questions:**
+    Perhaps she loves expensive perfume or silk and can't reconcile this with her theology that such delights are "illusory." Shame or pride?
     
-    Does Garra believe something that even other Mud Nuns question? Decide whether to lean more radical or more easygoing. Maybe she's fine with using extortion, not just theft? If so, discuss switching a skill proficiency to Intimidation and discuss the Voice of Conviction homebrew suggestion with your DM. Or maybe she struggles with temptations?
-    
-    Perhaps she loves the smell of expensive perfume, or the feel of silk, and she can't come to terms with her theology that these delights are "illusory". Does she feel shame or pride?
-    
-    With her low charisma, she's more alley cat than "sexy cat burglar". This is her holy work, so avoid the roguish "isn't this naughty" attitude. Does her tail betray her with an involuntary twitch when she's lying to a guard? Her movements are otherwise economical, her presence quiet until she needs to act. She may not be smooth, but she is sincere, perceptive and driven by purpose.
-    
-	## Homebrew Background: Mud nun
+    With low Charisma, she's more alley cat than "sexy cat burglar." This is holy work, so avoid the roguish "isn't this naughty" attitude. Does her tail twitch when lying? Her movements are economical, presence quiet until action. Not smooth, but sincere, perceptive, driven.
 	
-	The Mud Nun Background is a revised Scribe background, changing proficiency in Calligraphy for Cooking, and the skill proficiencies to Acrobatics and Animal Handling. Read more about the (Mud Nuns faction)[factions/mud-nuns.md].
+	## Mechanics
+	
+	**Modified Background: Mud Nun
+	The Mud Nun Background is a revised Scribe background, changing proficiency in Calligraphy for either Cooking or Forgery, and the skill proficiencies to Acrobatics and Animal Handling. Read more in the [Mud Nuns faction](factions/mud-nuns.md).
+	
+	**"Inspiring Leader" feat**
+	Sister Garra is closer to the Turmeric than she realizes. She has the fire *and* the cool necessary to lead. The feat reflects this. Another possible feat you may want to take if this one doesn't suit your table is "Observant", which goes well with her passive tendency to count and observe her surroundings.
+	
+---
+
+??? info "Key relationships"
+	
+	**Kharrus "Old Barnacle" Dent**: Dockyard Foreman, Reluctant Ally. Grizzled half-orc foreman who's worked the dockyards forty years. He was there during the Purge as a junior stevedore, watching the buildings burn, watching the ships carry people away. He did nothing. He's never forgiven himself. When Garra appeared years later running the Dockyard Corridor, he recognized the mottled yellow fur, the way she moved through the docks. He started looking away when she showed up with "cargo," mentioning which ships had sympathetic captains, "losing" manifests.
+
+	They don't talk about the Purge, his guilt, or her rage. They work together in careful silence, two people preventing the next atrocity through bureaucratic sabotage. He calls her "kit" sometimes, which should infuriate her but doesn't. Maybe because he's one of few who remembers her family and treats that memory as sacred.
+	
+	**Sister Nadya**: Mentor, Theological Anchor. Nadya and Garra were separated years ago, assigned to different districts. They corresponded regularly (Nadya's letters full of theological debate, practical advice, gentle teasing about Garra's distraction by comfortable beds).
+	
+	Then, as the Seekers began their crackdown, Nadya stopped writing. No explanation. Just silence.
+	
+	Garra doesn't know if Nadya is dead, captured, or defected. That last option haunts her. Nadya knew the Order's safe houses, methods, key members. If she broke or was broken, it would explain how the Seekers became so effective at dismantling the network. Garra doesn't want to believe it. But everyone has a breaking point, and the Seekers have centuries finding it.
 
 ---
 
 ??? danger "Notes for the DM"
+
+	## Dramatic Questions
+	- What happens when Garra must choose between saving Tabaxi and following the Undulation? The theology says all souls deserve grace, but when she can only smuggle five people instead of ten, will she prioritize Tabaxi? How will she justify that?
+
+	- What happens when she discovers what happened to Nadya? If Nadya defected under torture, can Garra forgive her? If Nadya was killed, who fills that theological void? If Nadya simply stopped writing, what does that abandonment mean?
+
+	- What happens when the Seekers offer her the emissary role? They need someone both orders trust. Garra is uniquely positioned, but taking that role means admitting she's already the mediator the turmeric robe demands.
 	
-	**Plot Hook: The Defector**
+	## Plot Hooks
 	
-	Sister Nadya may have defected to the Seekers of Penitence after a crisis of faith. That may explain how the Seekers have become so effective at dismantling the Mud Nuns. They have inside information.
+	**The Emissary Offer**: Grand Master Syphone requests a meeting with Mother Esparda to negotiate ceasefire. Both sides need a neutral party. The Seekers suggest Garra (the Tabaxi who publicly acknowledged their role stopping the Purge). The Mud Nuns are horrified. Garra is torn. This could save lives. Or be a trap.
+
+	**The Missing Shipment**: A ship carrying twelve Tabaxi Garra smuggled out never arrived. Either the captain betrayed her or something worse happened. She needs the party's help investigating but can't reveal the Copper Pot network, which means lying about why this matters.
+
+	**The Foreman's Price**: Kharrus is being pressured to inform on Garra by a Seeker investigator who knows he's been looking away. If he doesn't cooperate, they'll arrest him for conspiracy. Garra must either extract him (losing her most valuable dockyard contact) or find leverage against the investigator (escalating the conflict).
+
+	**The Receipt That Backfired**: Garra left a receipt on someone powerful enough to make an example of the Mud Nuns. Now there's a manhunt, and the Order demands she lay low. But she knows three Tabaxi families needing extraction now. If she stops working the Dockyard Corridor, they'll be caught in the next sweep.
 	
-	**Plot Hook: The Wrong Item**
-	
-	Somebody in the order stole the Wrong Item. An immensely powerful and evil artifact was stolen from an influential noble by a younger sister. She's now gone missing, and the whole city is turned upside down looking for Mud Nuns to interrogate. Sister Garra must find her sister first, and potentially disarm whatever evil the artifact is spreading.
+	**The Wrong Item**: Someone in the order stole the Wrong Item. An immensely powerful evil artifact was stolen from an influential noble by a younger sister. She's gone missing, and the whole city is hunting Mud Nuns for interrogation. Sister Garra must find her sister first and potentially disarm whatever evil the artifact spreads.
 	
 ---
 
@@ -162,27 +213,27 @@
 	
 	| AC | HP | Hit Dice | Speed | Initiative | Prof. Bonus |
 	|:---:|:---:|:---:|:---:|:---:|:---:|
-	| 17 | 31 | 5d8 | 40 ft. | +3 | +3 |
+	| 17 | 38 | 5d8 | 30 ft. (30 Climbing) | +3 | +3 |
 	
 	**Saving Throws:** Wisdom: +7, Charisma: +2
 	
 	**Resistances:** None
-	
-	**Speed:** 40 ft. (Walking), 40 ft. (Climbing)
-	
+		
 	## Proficiencies
-	**Skills:** Acrobatics +6, Animal Handling +7, Insight +7, Medicine +7, Perception +7, Religion +3, Sleight of Hand +6, Stealth +6
+	**Skills:** Acrobatics +6, Animal Handling +7, Insight +7, Medicine +7, Perception +7, Religion +7, Sleight of Hand +6, Stealth +6
 	
 	**Armor:** Light Armor, Medium Armor, Shield | **Weapons:** Simple Weapons
 	
-	**Tools:** Cook's Utensils, Thieves' Tools | **Languages:** Common, Celestial
+	**Tools:** Forgery Kit, Thieves' Tools | **Languages:** Common, Celestial
 	
 	## Feats
 	- **Skilled:** Proficient with 3 additional skills or tools
-	- **Speedy:** +10 Speed, Dash over difficult terrain costs no extra movement, Opportunity attacks have disadvantage
+	- **Inspiring Leader:** +1 WIS, give Temp HP to six allies (including you) = Character Level + WIS modifier (9) on end of any SR/LR
 		
 	## Equipment
-	Studded Leather, Shield, Dagger, Holy Symbol, Ledger, Cook's Utensils, Thieves' Tools, Heward's Handy Spice Pouch (minor magical item)
+	Studded Leather, Shield, Dagger, Holy Symbol, Ledger, Forgery Kit, Thieves' Tools, Heward's Handy Spice Pouch (minor magical item)
+	
+	**Suggested Magical Items**
 	
 	## Spellcasting
 	- **Cantrips:** Guidance, Spare the Dying, Mending, Word of Radiance, Toll the Dead
@@ -196,8 +247,10 @@
 
 ??? danger "**Session Zero Considerations**"
     
-    **Content Notes:** Themes of economic inequality, religious conflict/turf war, parental abandonment/deportation. Generally suitable for most tables with standard fantasy violence.
+    **Content Notes:** Themes of economic inequality, religious conflict/turf war, forced deportation, violence against minority communities. Generally suitable for most tables with standard fantasy violence.
     
-    **Representation Notes:** Features a character with compulsive counting/record-keeping behaviors and attention difficulties. Player should discuss comfort level with portraying neurodivergent traits authentically.
-
+    **Representation Notes:** Features a character with compulsive counting/record-keeping behaviors, anger management issues and attention difficulties. Player should discuss comfort level with portraying traits often coded as neurodiverse authentically.
+	
+	**Important Boundary:** Don't liberate wealth from party members unless given explicit permission above table. Suggested creed: "I act only to feed the hungry and redistribute blessings; I take nothing bound by love."
+    
 ---

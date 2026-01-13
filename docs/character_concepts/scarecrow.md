@@ -1,6 +1,6 @@
 # Scarecrow
 
-![Scarecrow](assets/characters/scarecrow.png){ width="300" }
+![Scarecrow](assets/scarecrow.png){ width="300" }
 
 > *"Why would you ask that? Is it important to you? Would knowing help? Is there any deeper layer behind your question? Would you like a nice cup of cinnamon tea?"*
 

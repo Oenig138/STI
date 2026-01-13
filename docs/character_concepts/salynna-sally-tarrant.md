@@ -216,7 +216,7 @@
 	
 	📄 [Download full character sheet](assets/salynna-sally-tarrant-lv5.pdf)
 	
-	![Sally scheming](assets/sally-scheming.png){ width="420" }
+	![Sally scheming](assets/sally-close.png){ width="420" }
 	
 ---
 
