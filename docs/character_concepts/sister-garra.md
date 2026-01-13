@@ -151,7 +151,6 @@
     - Left: SALT (kicked a beggar, spat at Sister Chen)
     - Notes: Deserved worse. May his cheese curdle.
     
-    
     **Character Customization:**
     
     Does Garra believe something even other Mud Nuns question? Lean more radical or easygoing. Maybe she's fine with extortion, not just theft. If so, discuss switching a skill to Intimidation.
@@ -172,35 +171,37 @@
 
 ??? info "Key relationships"
 	
-	**Kharrus "Old Barnacle" Dent**: Dockyard Foreman, Reluctant Ally. Grizzled half-orc foreman who's worked the dockyards forty years. He was there during the Purge as a junior stevedore, watching the buildings burn, watching the ships carry people away. He did nothing. He's never forgiven himself. When Garra appeared years later running the Dockyard Corridor, he recognized the mottled yellow fur, the way she moved through the docks. He started looking away when she showed up with "cargo," mentioning which ships had sympathetic captains, "losing" manifests.
-
-	They don't talk about the Purge, his guilt, or her rage. They work together in careful silence, two people preventing the next atrocity through bureaucratic sabotage. He calls her "kit" sometimes, which should infuriate her but doesn't. Maybe because he's one of few who remembers her family and treats that memory as sacred.
+	**Kharrus "Old Barnacle" Dent**: Dockyard foreman, reluctant ally. Grizzled half-orc foreman who's worked the dockyards forty years. He was there during the Purge as a junior stevedore, watching the buildings burn, watching the ships carry people away. He did nothing, and has never quite forgiven himself. When Garra appeared years later running the Dockyard Corridor, he recognized the mottled yellow fur, the medal of Sisterhood she carried. He started looking away when she showed up with "cargo," mentioning which ships had sympathetic captains, "losing" manifests. They don't talk about the Purge, his guilt, or her rage. They work together in careful silence, two people preventing the next atrocity through bureaucratic sabotage. He calls her "kit" sometimes, which should infuriate her but doesn't. Maybe because he's one of few who remembers her family and treats that memory as sacred.
 	
-	**Sister Nadya**: Mentor, Theological Anchor. Nadya and Garra were separated years ago, assigned to different districts. They corresponded regularly (Nadya's letters full of theological debate, practical advice, gentle teasing about Garra's distraction by comfortable beds).
+	**Sister Nadya**: Mentor, theological anchor. Nadya and Garra were separated years ago, assigned to different districts by sister Demorah, right hand of mother Esparda. They corresponded regularly (theological debate, practical advice and gentle teasing about Garra's distraction by comfortable beds). But then, as the Seekers began their crackdown, Nadya stopped writing. No explanation. Garra doesn't know if she is dead, captured, or even defected. That last option haunts Garra. She knows Nadya had her spats with sister Demorah. Nadya knows the Order's safe houses, methods, key members. If she broke or was broken, it would explain how the Seekers became so effective at dismantling the network. Garra doesn't want to believe it. But everyone has a breaking point, and the Seekers have centuries finding it.
 	
-	Then, as the Seekers began their crackdown, Nadya stopped writing. No explanation. Just silence.
+	**Sister Chen**: Living legend, unwanted mirror. Sister Chen has walked barefoot through the City for over sixty years, never donning the turmeric. She still runs street kitchens, sleeps where she can, liberates what's stagnated and passes it on. To the younger sisters she is a holy relic in flesh, proof that a life of perpetual redistribution is possible. Garra idolizes her. Chen, infuriatingly, refuses to return the sentiment. When Garra talks about staying in the streets forever just like her, Chen laughs dryly and tells her she’d rot in the rain inside a decade. “Your fur would fall off your skin, girl. You like warm beds too much.” It's a brutal slap in the face from an authoritative voice, and it hits Garra where it hurts every time. She responds with rage in the moment, but it also drives her to do better, to try and prove herself. Chen however doesn't seem impressed yet.
 	
-	Garra doesn't know if Nadya is dead, captured, or defected. That last option haunts her. Nadya knew the Order's safe houses, methods, key members. If she broke or was broken, it would explain how the Seekers became so effective at dismantling the network. Garra doesn't want to believe it. But everyone has a breaking point, and the Seekers have centuries finding it.
-
 ---
 
 ??? danger "Notes for the DM"
-
+	
+	## Relationship dynamic
+	
+	**Sister Chen**: Garra only hears mockery, but in reality, Chen sees what Garra cannot yet face: that her terror of the turmeric robe has less to do with doctrine than with fear of becoming slow and irrelevant, diplomatic instead of decisive. Chen does not want Garra choosing a lifetime of hardship just to outrun that fear. So she pushes her away, needles her, refuses to sanctify or enable Garra’s self-image as a tireless street saint. If Garra is going to stay barefoot for the rest of her life, Chen wants it to be because she truly belongs there, not because she was too afraid to step into her power.
+	
 	## Dramatic Questions
-	- What happens when Garra must choose between saving Tabaxi and following the Undulation? The theology says all souls deserve grace, but when she can only smuggle five people instead of ten, will she prioritize Tabaxi? How will she justify that?
-
-	- What happens when she discovers what happened to Nadya? If Nadya defected under torture, can Garra forgive her? If Nadya was killed, who fills that theological void? If Nadya simply stopped writing, what does that abandonment mean?
-
-	- What happens when the Seekers offer her the emissary role? They need someone both orders trust. Garra is uniquely positioned, but taking that role means admitting she's already the mediator the turmeric robe demands.
+	- What happens when Sister Garra discovers what happened to Nadya? If Nadya defected under torture and gave away Sister Garra's Dockyard Corridor, can Garra forgive her? If Nadya was killed, can Sister Garra find the confidence to fill that theological void herself?
+	
+	- What happens if the Seekers of Penitence order asks her to fill an emissary role? Garra is uniquely positioned, but taking that role means admitting she's already the mediator the turmeric robe demands. 
+	
+	- Can she let go of her rage? *Should* she? Garra's anger is a form of stagnation too. It is old, congealed grief that she keeps circulating through theft and rescue and ledgers instead of letting it transform. The Undulation is supposed to be about change, but Garra is still orbiting the same 34 year old wound.
 	
 	## Plot Hooks
 	
 	**The Emissary Offer**: Grand Master Syphone requests a meeting with Mother Esparda to negotiate ceasefire. Both sides need a neutral party. The Seekers suggest Garra (the Tabaxi who publicly acknowledged their role stopping the Purge). The Mud Nuns are horrified. Garra is torn. This could save lives. Or be a trap.
-
+	
 	**The Missing Shipment**: A ship carrying twelve Tabaxi Garra smuggled out never arrived. Either the captain betrayed her or something worse happened. She needs the party's help investigating but can't reveal the Copper Pot network, which means lying about why this matters.
-
+	
 	**The Foreman's Price**: Kharrus is being pressured to inform on Garra by a Seeker investigator who knows he's been looking away. If he doesn't cooperate, they'll arrest him for conspiracy. Garra must either extract him (losing her most valuable dockyard contact) or find leverage against the investigator (escalating the conflict).
-
+	
+	**The sacred census**: What happens when Garra’s books disagree with the city’s records? When her version of who lived, who was deported, who was smuggled becomes more accurate than the Duke’s? She already has the bones of a shadow archive, a clandestine census of the erased. Her constant scribbling may prove extremely valuable, or uncomfortable, as a plot device for any "disappearing" plot you're running.
+	
 	**The Receipt That Backfired**: Garra left a receipt on someone powerful enough to make an example of the Mud Nuns. Now there's a manhunt, and the Order demands she lay low. But she knows three Tabaxi families needing extraction now. If she stops working the Dockyard Corridor, they'll be caught in the next sweep.
 	
 	**The Wrong Item**: Someone in the order stole the Wrong Item. An immensely powerful evil artifact was stolen from an influential noble by a younger sister. She's gone missing, and the whole city is hunting Mud Nuns for interrogation. Sister Garra must find her sister first and potentially disarm whatever evil the artifact spreads.
@@ -231,6 +232,7 @@
 	**Tools:** Forgery Kit, Thieves' Tools | **Languages:** Common, Celestial
 	
 	## Feats
+	
 	- **Skilled:** Proficient with 3 additional skills or tools
 	- **Inspiring Leader:** +1 WIS, give Temp HP to six allies (including you) = Character Level + WIS modifier (9) on end of any SR/LR
 		
@@ -239,7 +241,13 @@
 	
 	**Suggested Magical Items**
 	
+	- *Boots of Striding and Springing* (Uncommon, Attunement, Speed=30 ft, even if encumbered, jump 30 ft by spending 10 ft movement, once on each of your turns; lets Sister Garra swiftly abscond with more loot than her str 8 Small frame should be able to. Jump is always useful)
+	- *Clockwork Amulet* (Common, Once per day, set it and guarantee an ability check roll of 10 instead of rolling; divine insurance for that crucial Sleight of Hand when forging a manifest or palming a key.)
+	- *Amulet of the Devout +1* (Uncommon, Attunement, +1 to spell attacks and save DC, one free Channel Divinity/day; Pure combat utility)
+	- *Gloves of Thievery* (Uncommon, +5 to Sleight of Hand checks and checks to pick locks; Makes sister Garra a very competent thie... liberator)
+	
 	## Spellcasting
+	
 	- **Cantrips:** Guidance, Spare the Dying, Mending, Word of Radiance, Toll the Dead
 	- **Level 1:** (Trickster domain) Charm Person, Disguise Self
 	- **Level 2:** (Trickster domain) Pass without Trace, Invisibility
