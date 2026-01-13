@@ -31,7 +31,8 @@
     Tormin watched his family hang for unpaid taxes, then walked the forbidden path to strike a devil's bargain at the crossroads: the power to fight back in exchange for his soul. Years of wearing stolen faces as a revolutionary have eroded his memory of who he was. Now he spreads rebellion through an outlawed melody while slowly dissolving into the masks he wears.
     
     **Playing Tormin**
-    * **Roleplay:** Gallows humor masking melancholy. Observant and empathetic to others' struggles since he's lost connection to his own identity. The flute melody he learned from his mother is his only remaining anchor to his former self.
+    
+	* **Roleplay:** Gallows humor masking melancholy. Observant and empathetic to others' struggles since he's lost connection to his own identity. The flute melody he learned from his mother is his only remaining anchor to his former self.
     * **Party Synergy:** Needs explicit ties to other PCs established in session zero—a reason to care beyond the revolution. Works best when sharing secrets early to build trust and balancing solo infiltration with group unity.
 
 ---
@@ -87,14 +88,10 @@
     Tormin's alignment is set as Neutral. Tormin truly can't know if his struggle will create a better country. All he knows is that this one has to go, and he's willing to take the risk that innocents will die in the process. All things considered, "Good" seems too generous an alignment, and "Evil" too harsh.
     
     In a more morally grey campaign, consider carefully where you want the character to be headed. Would he kidnap the family of an oppressive duke? Destroy sites of worship? Silence witnesses? Burn the village granary to force troops out into the open field?
-    
-    ## Magic Item Notes
-    
-    Suggested Magic item: Glamoured studded leather would be perfect for Tormin's vibe, but it's listed as a Rare magic item. Check in with your DM for approval.
-    
+      
     ## Mechanical Notes
     
-    Tormin is listed as a Changeling and is supposed to play as such. If there's any confusion at the table about mechanics, you can treat his human past as flavor text and not as homebrew.
+    Tormin is listed as a Changeling and is supposed to play as such. If there's any confusion at the table about mechanics, you can treat his human past as flavor text.
 
 ---
 
@@ -196,6 +193,7 @@
 	- Pearl of Power (Recovers one lv 3 spell slot per day)
 	
 	## Spellcasting
+	
 	**Cantrips**: Mage Hand, Eldritch Blast, Minor Illusion, Thaumaturgy, Message, Guidance
     **Level 1**: Hex, Burning Hands, Command, Comprehend Languages [R], Unseen Servant [R]
 	**Level 2**: Mirror Image, Scorching Ray, Suggestion, Invisibility

@@ -62,22 +62,16 @@
     
 	---
 	
-    ## The Wolf in Silk
+    ## The Wolf and the Ermine
     
-    Basil Tenebrian has refined tastes, and would never stoop to eating raw meat, but the smell still makes his nose twitch. His bookish manners give way for something more feral when he's feeling cornered.
-        
-    Cilantro always called him "a wolf in silk". He thought it a jest in poor taste, but with time he understood it was her way of honoring who he was, to take pride in his body. She never settled for just giving him a scholarly education, she wanted to prepare him for life as an odd one.
-    
+    Basil has the kind of refined tastes that only come with prolonged reflection on the small things in life. He would *never* stoop to eating raw meat, but the smell still makes his nose twitch. Just like his bookish manners give way for something more feral when he's feeling cornered. Cilantro always called him "*wolf in silk*". He thought it a jest in poor taste, but with time he understood it was her way of honoring who he was, to take pride in his body. She never settled for just giving him a scholarly education, she wanted to prepare him for life as an odd one. While he doesn't exactly enjoy the nickname, he keenly remembers the affection she put in it.
+
+    Lexley the ermine familiar fits Basil a little too well: a fierce but graceful little predator with regal connotations. He embodies Basil's Jungian shadow, part comic relief, part serial killer; from the merchant's prize canary to the kittens behind the inn, a constant source of headaches and embarrassments for Basil.
+
     ## Doubt and Despair
     
-    Basil is exceptionally well spoken, but his family hid him away, meaning he never got the chance to hone his people skills. He doesn't exactly envision himself as a noble of house Tenebrian, and ousting his brother. He is more set in his family's view of himself as "less than" other nobles, unfit for the job.
-    
-    Whether his mother Nevarra still lives, and what price her loyalty cost, haunts Basil's dreams. Some nights he imagines daring rescues. Others he fears he'll return to find nothing but a grave. Basil has paid a heavy price for the time he hesitated, failed to see the danger in time.
-    
-    ## Lexley the Shadow-Self
-    
-    Lexley the ermine fits Basil a little too well: a fierce but graceful little predator with regal connotations. He embodies Basil's Jungian shadow, part comic relief, part serial killer; from the merchant's prize canary to the kittens behind the inn, a constant source of headaches and embarrassments for Basil.
-    
+    Basil is exceptionally well spoken, but his family hid him away, meaning he never got the chance to hone his people skills. He doesn't exactly envision himself as a noble of house Tenebrian, and ousting his brother. He is more set in his family's view of himself as "less than" other nobles, unfit for the job. Whether his mother Nevarra still lives, and what price her loyalty cost, haunts Basil's dreams. Some nights he imagines daring rescues. Others he fears he'll return to find nothing but a grave.
+       
     ## Sniffs, sniffles, and wardrobe malfunctions
     
     Basil experiences the world through smell. When casting Detect Magic, it is an olfactory experience as much as a magic one. Illusion spells smell of camphor and sage, conjuration spells of sulphur and ozone.
@@ -112,13 +106,13 @@
     
     ## Personality Framework
     
-    **Personality Traits:** Fuzzes about little things like propriety, fragrance notes and hem lengths, but if you're in need he will give you his last food scrap and never even bring it up again.
+    **Personality Traits:** Propriety, fragrance notes and hem lengths may seem like fuzzy little things to you, but that's how you know if a person truly cares about you. If they also care for the small details in your life. The bigger picture: If you're in need I will give you my last food scrap, and never bring it up again. I don't linger in the shame or vulnerability of others.
     
-    **Ideals:** Knowledge without kindness is just a sail without wind.
+    **Ideals:** Knowledge without kindness is just a sail without wind. Yes, I read that in a book. Still true.
     
-    **Bonds:** My mother still needs me. She's the only one I have left.
+    **Bonds:** Mother needs me. So what should I do? Raise an army? Turn myself in? She wouldn't want me to do that. 
     
-    **Flaws:** I doubt there is truly a place for me in this world. I fear the truth of who I am.
+    **Flaws:** I doubt there is truly a place for me in this world. I fear the truth of who I am. Yes, Lexley bites the heads off kittens, but I can't bring myself to put him on a leash. That's just his *nature*! My nature? I'm a scholar of course!
 	
 	![Basil resting](assets/basil-resting.png){ width="300" }
 
@@ -145,7 +139,7 @@
 	
 	- *What would make Basil stop running and stand his ground?*
 	- *How much will he lean into his bestial side if nudged and if the reasons are important?*
-	- *If Brendall offered genuine reconciliation, could he accept it?*
+	- *If Brendall offered genuine reconciliation, could he accept it? What if his mother adviced against it?*
 	- *When someone treats him like a full human, decent, with respect and kindness and without making a scene about his appearance, does he believe them?*
 	
 	## Plot Hooks
@@ -201,8 +195,8 @@
 	
 	**Suggested Magic Items**
 		
-		- Amulet of Proof against Detection and Location (Uncommon, requires attunement, you can't be targeted by Divination spells or seen through scrying; cheap insurance vs Witch Hunters)
-		- Cloak of the Manta Ray (Uncommon, requires attunement, you can breathe underwater, and get a swim speed of 60 ft. Especially for sailing campaigns where Basil's proficiency in Vehicles (Water) might be useful.)
+	- Amulet of Proof against Detection and Location (Uncommon, requires attunement, you can't be targeted by Divination spells or seen through scrying; cheap insurance vs Witch Hunters)
+	- Cloak of the Manta Ray (Uncommon, requires attunement, you can breathe underwater, and get a swim speed of 60 ft. Especially for sailing campaigns where Basil's proficiency in Vehicles (Water) might be useful.)
 	
 	## Spellcasting
 	- **Cantrips:** Fire Bolt, Booming Blade, Mage Hand, Minor Illusion

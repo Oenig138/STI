@@ -191,10 +191,10 @@
 	
 	**Suggested Magic Items**
 	
-		- Necklace of Adaptation (Uncommon, attunement, can breathe anywhere, Advantage on saves vs Poison)
-		- Ring of Swimming (Uncommon, gives 40 ft Swim Speed, only suggested till Ranger skill comes online)
-		- Lantern of Revealing (Uncommon, see Invisibility within 30 ft.)
-		- Nature's Mantle (Uncommon, attunement, Ranger spellcasting focus, can Hide as Bonus Action in Lightly Obscured terrain even if directly observed)
+	- Necklace of Adaptation (Uncommon, attunement, can breathe anywhere, Advantage on saves vs Poison)
+	- Ring of Swimming (Uncommon, gives 40 ft Swim Speed, only suggested till Ranger skill comes online)
+	- Lantern of Revealing (Uncommon, see Invisibility within 30 ft.)
+	- Nature's Mantle (Uncommon, attunement, Ranger spellcasting focus, can Hide as Bonus Action in Lightly Obscured terrain even if directly observed)
 	
 	## Spellcasting
 	**Cantrips**: Chill Touch, Thaumaturgy

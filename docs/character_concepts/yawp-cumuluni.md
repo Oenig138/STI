@@ -11,7 +11,7 @@
 ## Character Overview
 - **Species:** Goliath
 - **Class:** Bard 5 (College of Valor)  
-- **Background:** Diplomatic Hostage (Homebrew)
+- **Background:** Diplomatic Hostage
 - **Age:** 24
 - **Alignment:** Chaotic Neutral
 
@@ -31,8 +31,8 @@
     **Playing Yawp**
     
     * **Combat:** Valor Bard with a shock-and-awe spell list (Earth Tremor, Shatter, Thunderwave). Lives to make noise so overwhelming the enemy can't think straight. Suggested homebrew: **Lion's Roar** (1/LR, 20ft cone, CON save, PB d6 Thunder damage, targets pushed 10ft and deafened on failed save)
-    * **Roleplay:** Unapologetically loud and never afraid to challenge, oscillates between explosive belting inspiration and gathering silence, like brooding stormclouds charging for the next blast
-    * **Party Synergy:** If she likes you, she will make you the center of attention whether you asked for it or not. One-woman moshpit and likely the best wingman you never asked for.
+    * **Roleplay:** Unapologetically loud and never afraid to challenge, oscillates between explosive belting inspiration and silence like a gathering storm, but falters and turns inward when restrained, silenced or in tight spaces. (Don't *actually* be loud at the table.)
+    * **Party Synergy:** If she likes you, she will make you the center of attention. One-woman moshpit and likely the best wingman you never asked for.
 
 ---
 
@@ -120,11 +120,11 @@
 	- **Effect on Failed Save:** Target takes full damage, is pushed 10 feet away, and is deafened until the end of their next turn
 	- **Effect on Successful Save:** Target takes half damage, no other effects
 	
-	This is essentially a modest, scaled Thunder Wave variant (and a loving wink at *Kung Fu Hustle* and *Skyrim*). The Push effect is flavorful, but can absolutely be removed if it's not the right call for your table.
+	This is essentially a modest, scaled Thunder Wave variant (and a loving wink at both *Kung Fu Hustle* and *Skyrim*). The Push effect is flavorful, but can absolutely be removed if it's not the right call for your table.
 	
-	## Homebrew Background: Diplomatic Hostage
+	## Background: Diplomatic Hostage
 	
-	This Background has the same build as all Backgrounds in D&D 5e (2024): 1 Origin Feat (Tough), 2 proficiencies (Arcana, Acrobatics), 1 tool proficiency (Thieves' tools). This is to represent both Yawp's time inside the Sanctuary (reading for Arcana proficiency) and her wild time on the roads since (learning Thieves tools, growing Tough and Acrobatic). 
+	This is a custom-made background: 1 Origin Feat (Tough), 2 proficiencies (Arcana, Acrobatics), 1 tool proficiency (Thieves' tools). This is to represent both Yawp's time inside the Sanctuary (reading for Arcana proficiency) and her wild time on the roads since (learning Thieves tools, growing Tough and Acrobatic). 
 	
 ---
 
@@ -206,11 +206,12 @@
 	Breastplate, Rapier, Thieves' Tools, Bagpipes
 	
 	**Suggested Magic Items**
-		- Shield of Expression (Common, only for flair and fun)
-		- Rhythm-Maker's Drum (Uncommon, Attunement, +1 bonus to spell attack rolls and Spell save DC)
-		- Instrument of Illusions (Common, Attunement, creates small illusions while playing, like drifting notes, butterflies etc.)
-		- Cloak of Protection (Common, Attunement, Yawp will be in close quarters and would benefit a lot from higher AC)
-		- Pipes of Haunting (Common, play as a Magic action to force creatures within 30 ft to take Wisdom DC 15 save or be Frightened)
+	
+	- Shield of Expression (Common, only for flair and fun)
+	- Rhythm-Maker's Drum (Uncommon, Attunement, +1 bonus to spell attack rolls and Spell save DC)
+	- Instrument of Illusions (Common, Attunement, creates small illusions while playing, like drifting notes, butterflies etc.)
+	- Cloak of Protection (Common, Attunement, Yawp will be in close quarters and would benefit a lot from higher AC)
+	- Pipes of Haunting (Common, play as a Magic action to force creatures within 30 ft to take Wisdom DC 15 save or be Frightened)
 	
 	## Spellcasting
 	- **Cantrips**: Minor Illusion, Thunderclap, True Strike

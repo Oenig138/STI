@@ -211,9 +211,9 @@
 	
 	**Suggested Magic Items**
 	
-		- Heward's Handy Spice Pouch (Common produces seasonings on command, never emptying)
-		- Sentinel Shield (Uncommon, advantage on Initiative and Perception check rolls)
-		- Periapt of Wound Closure (Uncommon, stabilizes you when dying and doubles hit dice healing)
+	- Heward's Handy Spice Pouch (Common produces seasonings on command, never emptying)
+	- Sentinel Shield (Uncommon, advantage on Initiative and Perception check rolls)
+	- Periapt of Wound Closure (Uncommon, stabilizes you when dying and doubles hit dice healing)
 		
 	📄 [Download Level 5 Character Sheet (PDF)](assets/donner-lv5.pdf)
 

@@ -31,9 +31,9 @@
     
     **Playing Stennart**
     
-    *Combat:* Enthusiastic front-liner who revels in his new strength. Great Weapon Master attacks, protective of squishier allies, may overcommit due to excitement, which frankly is just Barbarians working as intended.
-    *Roleplay:* Friendly, chatty, but quickly veers into performative Chad-ness if given a chance. Compulsively hides physical changes, bandages wounds quickly, prunes moss and sticks from his beard, wears gloves. Morning stretching routines are suspiciously creaky.
-    *Party Synergy:* The guy who carries everyone's stuff, haggles for deals, and accidentally breaks things when emotional. Hits hard, but needs gentle feedback when intimidation isn't the answer.
+    - *Combat:* Enthusiastic front-liner who revels in his new strength. Great Weapon Master attacks, protective of squishier allies, may overcommit due to excitement, which frankly is just Barbarians working as intended.
+    - *Roleplay:* Friendly, chatty, but quickly. Veers into performative Chad-ness if given a chance. Compulsively hides physical changes, bandages wounds quickly, prunes moss and sticks from his beard, wears gloves. Morning stretching routines are suspiciously creaky.
+    - *Party Synergy:* The guy who carries everyone's stuff, haggles for deals, and accidentally breaks things when emotional. Hits hard, but needs gentle feedback when intimidation isn't the answer.
 
 ---
 
@@ -120,10 +120,10 @@
 	
 	### Dramatic questions
 	
-		- *Is it truly "cheating" if you put the powers you received to actual work?*
-		- *How will others react to Stennart as he becomes more and "wooden"? Is there a fear of contagion?*
-		- *What would he sacrifice to keep his strength for one more week?*
-		- *Is this a story about acceptance or defiance? (Are we telling the tale of someone who makes peace with mortality and lives beautifully in his remaining time? Or are we telling the tale of a party that refuses to lose their friend and moves heaven and earth to save him? Both are valid.)*
+	- *Is it truly "cheating" if you put the powers you received to actual work?*
+	- *How will others react to Stennart as he becomes more and "wooden"? Is there a fear of contagion?*
+	- *What would he sacrifice to keep his strength for one more week?*
+	- *Is this a story about acceptance or defiance? (Are we telling the tale of someone who makes peace with mortality and lives beautifully in his remaining time? Or are we telling the tale of a party that refuses to lose their friend and moves heaven and earth to save him? Both are valid.)*
 
     ### Plot Hooks
     
@@ -146,9 +146,9 @@
     **Other Fruit Seekers**
     Word spreads in certain circles. Entities emerge who want to harvest him, study the transformation, or acquire a "sample" for their own purposes. Desperate individuals offer fortunes for a single bite of his flesh (which of course does nothing, but they might be willing to force Stennart to fight to protect his body). Scholars want to dissect the process. Desperate nobles seek immortality by drinking tea from the scrapings of bark from his skin.
    
-		Worst of these are **The Vitalist Cult**: A fringe druidic sect believing that the World Tree's return will "cleanse" the Material Plane of civilization's corruption. They see Stennart as a living sacrament and plan to kidnap him, bury him in sacred soil, and nurture the transformation until the roots breach the surface. Led by a franklt feral Eladrin druid named Thessaly, who speaks with unsettling gentleness about "helping Stennart fulfill his purpose." 
+	Worst of these are **The Vitalist Cult**: A fringe druidic sect believing that the World Tree's return will "cleanse" the Material Plane of civilization's corruption. They see Stennart as a living sacrament and plan to kidnap him, bury him in sacred soil, and nurture the transformation until the roots breach the surface. Led by a franklt feral Eladrin druid named Thessaly, who speaks with unsettling gentleness about "helping Stennart fulfill his purpose." 
 		
-		Note: Even if the cult somehow catches Stennart and has this deep hole in the ground, which is a truly macabre and compelling story beat, don't *actually* let a player character get *buried alive* without doing a vibe check with the table. This is a very real and common phobia.
+	Note: Even if the cult somehow catches Stennart and has this deep hole in the ground, which is a truly macabre and compelling story beat, don't *actually* let a player character get *buried alive* without doing a vibe check with the table. This is a very real and common phobia.
 	
 ---
 

@@ -30,9 +30,9 @@
     
     **Playing Sister Garra**
     
-    * **Combat:** Mobile support cleric with stealth and control options, heals while summoning "The Humbler" (spectral soup ladle) to bonk enemies
-    * **Roleplay:** Sincere holy work, not sexy heist. Tail betrays lies, counts compulsively, leaves receipts with blessings
-    * **Party Synergy:** Moral compass who keeps ledgers of party actions and inspires others through burning conviction rather than charisma.
+    * **Combat:** Mobile support cleric with stealth and control options, heals while summoning "The Humbler" (traditional soup ladle of her order) to bonk enemies
+    * **Roleplay:** Sincere (leaning zealous) holy work, not sexy heist. Counts compulsively, leaves receipts with blessings where she's "liberated" wealth
+    * **Party Synergy:** Simultaneous moral compass, trouble instigator and party mom who inspires others through burning conviction rather than charisma.
 	
 ---
 
@@ -130,8 +130,6 @@
     "I'm not saying it's wrong to don the turmeric. I just don't think I'm middle management material."
 	
 	“Some rich idiot once said I hoard knowledge in my ledger like he hoards gold. That’s… no. Gold sits, gets fat and lazy. When I teach you something, I still have it, see? That’s the whole trick: it flows freely. That’s why they hate schools and we run them. My ledger’s not a bleeding lockbox for blessings, it’s a distribution map. Anyway. Yeah, I liberated his shoes. He had five pairs.”
-	
-	"A rich man once said I hoard knowledge in my ledger like he hoards gold. Wrong. Gold divides. Knowledge multiplies. When I teach you, I still have what I taught. That's why they fear education and we give it freely. My ledger doesn't trap blessings like a vault. It's more like a map of where they need to flow! So yeah, I took... I mean, I liberated his shoes."
     
     "Tabaxi are obligate carnivores! I might just die if I don't get to eat grilled sea bass now and then. Would you have my life on your conscience?"
     

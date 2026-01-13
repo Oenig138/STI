@@ -72,8 +72,8 @@
     
     *"Why the hell is it a coloring book? I'm not a fucking kid!"*  
     *"Please abstain from sullying the scripture with your foul remarks. This book was crafted with the young, and learning, in mind."*  
-    *"This is embarrassing! Do I have to do this?"* 
-    *"Just... sit with it for now. The Morning Lord has promised fine rewards if you study vigorously."*  
+	*"This is embarrassing! Do I have to do this?"* 
+	*"Just... sit with it for now. The Morning Lord has promised fine rewards if you study vigorously."*  
     *"Daaamn, that's a cool ass dragon picture though. Is that like your battle-mount? Could I ride it?!"*  
     *"...That's Tiamat."*
     
@@ -106,8 +106,8 @@
     **Iblit:** "So... have you ever, you know, been with someone?"  
     *Serena stiffens and represses a scoff*  
     **Serena:** "Iblit. I am not discussing mortal reproductive customs with you. I am not equipped, commissioned, or compensated for this conversation."  
-    *flies off*  
-    **Iblit:** "Peak virgin behavior."
+    *Flies off*  
+    **Iblit:** [shouts] "Peak virgin behavior!"
     
     **Serena:** "Was it truly necessary to utilise the power of Lathander to... soil the breeches of that bully?"  
     **Iblit:** "It's teaching humility right? Deacon yapped about that all the time! Fuck, did you really teach a kid like me the Prestidigitation spell and expect me to be mature with it?"  
@@ -149,7 +149,7 @@
 	- Have there be positive tension as well. If the relationship plays off one single note, it loses dynamics quickly. For instance, Serena can teach Iblit some actual, valuable facts about life, and for a brief moment they actually connect and laugh together.
 	- Offer to run Serena's "barks" (small dialogue lines) yourself during combat, so the DM only has to step in for big plot moments and downtime dialogue.
 	
-	## Unwilling Acolyte homebrew note
+	## Acolyte background note
 	
 	The only difference between Iblit's background and the standard Acolyte class is that proficiency in Religion is swapped for proficiency in Sleight of Hand, for reasons that should be obvious.
 	
@@ -157,11 +157,11 @@
 
 ??? info "Key Relationships"
 	
-	- **Sister Marlene Caterassi**: Marlene is the human cleric who found infant Iblit in the wreckage of his clan's warren and made the split-second decision not to kill him. She brought him to the Lathanderian monastery, made sure the monks understood he was under her protection, and visited periodically over the years— brief, uncomfortable check-ins. To the small child Iblit, these visits were confusing. She brought gifts (books he couldn't read, toys he didn't understand), asked careful questions about his treatment, and left before anything real could be said. By age twelve, he'd figured out she was likely feeling guilty about what she did to his clan. But as far as Iblit is concerned, they were all likely just a bunch of evil dragon worshippers... right?
+	**Sister Marlene Caterassi**: Marlene is the human cleric who found infant Iblit in the wreckage of his clan's warren and made the split-second decision not to kill him. She brought him to the Lathanderian monastery, made sure the monks understood he was under her protection, and visited periodically over the years— brief, uncomfortable check-ins. To the small child Iblit, these visits were confusing. She brought gifts (books he couldn't read, toys he didn't understand), asked careful questions about his treatment, and left before anything real could be said. By age twelve, he'd figured out she was likely feeling guilty about what she did to his clan. But as far as Iblit is concerned, they were all likely just a bunch of evil dragon worshippers... right?
 	
 	Now, at fifteen, Iblit has questions Marlene won't want to answer. She's still adventuring, still doing "good work," still telling the story of the kobold baby she saved out of the goodness of her heart. What she doesn't know is that the baby grew up to have an Archangel of her faith in his pocket, and a curiosity that doesn't politely stop when things get uncomfortable.
 	
-	- **Brother Enric**: The youngest monk assigned to Iblit's religious education, Brother Enric was barely into his twenties when he took on the impossible task of teaching scripture to a traumatized, hostile kobold child who saw every lesson as an extension of his captivity. Unlike the senior deacons who treated Iblit as a disciplinary problem, Enric genuinely believed in Lathander's message of redemption and renewal. He stayed late to help Iblit with reading, argued with the other monks about their harsh punishments, struggled to find common ground. It wasn't enough. 
+	**Brother Enric**: The youngest monk assigned to Iblit's religious education, Brother Enric was barely into his twenties when he took on the impossible task of teaching scripture to a traumatized, hostile kobold child who saw every lesson as an extension of his captivity. Unlike the senior deacons who treated Iblit as a disciplinary problem, Enric genuinely believed in Lathander's message of redemption and renewal. He stayed late to help Iblit with reading, argued with the other monks about their harsh punishments, struggled to find common ground. It wasn't enough. 
 	
 ---
 

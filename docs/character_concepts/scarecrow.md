@@ -18,8 +18,6 @@
 
 ---
 
-## Quick Intro
-
 ??? info "Quick Intro"
     
     **At the Table**
@@ -41,8 +39,6 @@
     * **Party Synergy:** Adopts the party as family and studies them to serve better. Excellent at reading social situations and providing emotional support, though its secrecy can frustrate those who want straight answers.
 	
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -106,8 +102,6 @@
 
 ---
 
-## Key Relationships
-
 ??? info "Key Relationships"
     
     **The Original Family (deceased):** Buried in a crypt beneath Oldstead Mill, forgotten by everyone except Scarecrow's dormant memory. Their names, crests, and an ancient lullaby lie waiting to be rediscovered. What happened to them—natural death, rival caretaker, or something Scarecrow did—remains a DM decision.
@@ -119,8 +113,6 @@
     **The Caretaker Network (scattered):** Other infiltration-constructs still operating in the world, hunting each other for data on their shared origin. They've optimized, shedding emotional "inefficiencies" that Scarecrow preserved. Any could be embedded in temples, courts, or universities—The Saint, The Advisor, The Janitor—each answering questions only with questions, each a potential ally or deadly rival.
 
 ---
-
-## Notes for the DM
 
 ??? danger "Notes for the DM"
     
@@ -173,8 +165,6 @@
 
 ---
 
-## Mechanical Build and PDF Download
-
 ??? info "Level 5 Build"
 
     | STR | DEX | CON | INT | WIS | CHA |
@@ -205,13 +195,16 @@
     Studded Leather, Spear, Dulcimer (internal music box), Light Crossbow, Thieves' Tools
     
     **Suggested Magic Items:**  
-    *Clockwork Amulet* (common; take 10 instead of rolling once per day—Scarecrow's philosophy made artifact: "I do not gamble. When the moment matters, I am reliable."), *Ring of Mind Shielding* (protects the spy from being spied upon), *Sentinel Shield* (advantage on initiative and Perception—the watcher's tool, perhaps salvaged from another caretaker or found in the crypt)
+    
+	- *Clockwork Amulet* (Common, take 10 instead of rolling once per day)
+	- *Ring of Mind Shielding* (Uncommon, Attunement, immune to magic allowing others to read your thoughts, if you are lying, know your alignment, or  your creature type; Protects the spy from being spied upon)
     
     ## Spellcasting
-    **Cantrips:** Blade Ward, Minor Illusion, True Strike  
-    **Level 1:** Charm Person, Dissonant Whispers, Thunderwave  
-    **Level 2:** Calm Emotions, Detect Thoughts, Mirror Image, Phantasmal Force, Suggestion  
-    **Level 3:** Hypnotic Pattern, Slow
+    
+	- **Cantrips:** Blade Ward, Minor Illusion, True Strike  
+    - **Level 1:** Charm Person, Dissonant Whispers, Thunderwave  
+    - **Level 2:** Calm Emotions, Detect Thoughts, Mirror Image, Phantasmal Force, Suggestion  
+    - **Level 3:** Hypnotic Pattern, Slow
 
     ---
 
@@ -220,8 +213,6 @@
 	![Basil cornered](assets/basil-cornered-mignola.png){ width="460" }
 	
 ---
-
-## Session Zero
 
 ??? danger "Session Zero Considerations"
     

@@ -4,7 +4,7 @@
 
 > *"Let the world scorn me, call me coward. I've made peace with being misunderstood. If I defended myself, I'd be serving my pride, not my oath."*
 
-**Dragonborn Paladin. Party daddy universally scorned for his reluctance to smite baddies. The gentle shepherd in the back.**
+**Dragonborn party daddy/shepherd universally scorned for his reluctance to smite baddies or even stand up for himself. Unironically sends birthday cards to his worst enemies, which likely pisses them off more than any scorn.**
 
 ---
 
@@ -22,10 +22,10 @@
     
     **At the Table**
     
-    * Patient to a fault, never raises his voice even when getting ripped off or bullied, but his nostrils glow when his patience wears thin
+    * Patient to a fault, never raises his voice even when getting ripped off or bullied. Has a big tell: his nostrils glow once his patience wears thin or the rare occasions when he gets excited
     * Always sits closest to the fire, then shuffles aside when he realizes he's hogging the heat
-    * Prime candidate for party dad and emotional regulator, not great at managing his own unresolved messes 
-	* Leadership qualities hampered by overthinking; thinks he's too boring to inspire others or find a mate
+    * Prime candidate for party dad, emotional regulator and returner of overdue library books; not great at managing his own unresolved messes 
+	* Overthinks rather than undercares: his flaw is analysis paralysis, not apathy. Thinks he's too boring to inspire others or find a mate, and is probably at least half right
     
     **Backstory (Short Form)**
     
@@ -33,9 +33,8 @@
     
     **Playing Belvarax**
     
-    * **Combat:** Experienced warrior who protects allies but refuses to promise anything—action requires investigation first. Won't berate the party for pub brawls, but when he steps in, it matters.
-    * **Roleplay:** Speaks with quiet conviction and philosophical patience. Never curses or loses his temper, though fire breath may flicker when pressed. Deflects personal attacks with gentle irony.
-    * **Party Synergy:** Natural protector who never leaves allies to face storms alone. Overthinks rather than undercares—his flaw is analysis paralysis, not apathy.
+    * **Combat:** Experienced warrior who protects allies and possibly also enemies. Toolkit leans battlefield control, tanking and buffing.
+    * **Roleplay:** Speaks with quiet conviction, receives and delivers threats in the voice of an overworked accountant. Doesn't know how to dance. If he ever tried to sing, it would curdle all the ale in the tavern. Feels good about ordering things in rows and then sweeping them away. 
 
 ---
 
@@ -62,12 +61,11 @@
     And yet his powers remain. The Chapter cannot explain it—cannot accept it. A paladin's might flows from the oath itself, from the sincerity of conviction. Belvarax's reinterpretation and radical doubt *should* have severed that connection. It didn't. Either his heresy is not heresy at all, or the oath answers to laws the Chapter has never understood.
 	
     ## Personality
-    
     As a Golden Dragonborn with Fire Resistance, heat is home. Belvarax gravitates closest to the campfire, the hearth, the sunny patch on the floor. Then he catches himself hogging the warmth and shuffles sideways with a quiet "ah, apologies." He stays polite even when he's being ripped off, played for a fool, or bullied—but not even a saint can stay patient forever. He never raises his voice, but he doesn't have full conscious control of his fire breath. His friends have learned to tell by the glow in his nostrils when his patience is being tested.
 	
-	He knows his way around a hammer. Every autumn, a crate of well-balanced wooden training swords arrives at the Chapter house. No note. Satine probably knows it's him, and hates that she can't bring herself to refuse them. Belvarax remembers how many practice swords he broke as a cadet, how the quartermasters complained, how the splinters got into everything. His beef is with the leadership, not the cadets. He has a terrible singing voice but a magnificent drill-sergeant bellow—the kind that can stop a charging enemy or snap a panicking ally back to focus. Everyone who's traveled with him has heard it exactly once, in a moment of genuine crisis. And then it's gone, and he's back to his quiet murmur, looking almost embarrassed.
+	He knows his way around a hammer. Every autumn, a crate of well-balanced wooden training swords arrives at the Chapter house. No note. Satine probably knows it's him, and hates that she can't bring herself to refuse them. Belvarax remembers how many practice swords he broke as a cadet, how the quartermasters complained, how the splinters got into everything. His beef is with the leadership, not the cadets. He has a terrible singing voice but a magnificent drill-sergeant bellow, which he uses maybe once per adventure. And then it's gone, and he's back to his quiet murmur. He could command. He has the voice, the presence, the tactical mind. But he doesn't trust himself with that kind of power anymore. 
 	
-	There's a pattern here. Belvarax could command. He has the voice, the presence, the tactical mind. He simply doesn't trust himself with that kind of power. At least not anymore. He never told Mariel how he felt. He walked away from the banquet but didn't stay to fight the mining companies. He advocates for the goblins, protects them when attacks arise, but hasn't committed to their cause. Somewhere along the way, not acting became the safe harbor, the place where he can't make the wrong decision because he never made the choice. His CHA 16 means people respect him, listen to him, feel safe around him—but none of that translates to a real *spark*. He's the person everyone wants at their table and no one thinks to invite to the dance. He made peace with this decades ago, or convinced himself he did.
+	Belvarax never told Mariel how he felt. He walked away from the banquet but didn't stay to fight the mining companies. He advocates for the goblins, protects them when attacks arise, but hasn't committed to their cause. Somewhere along the way, not acting became the safe harbor. People respect him, listen to him, feel safe around him—but none of that translates to a real *spark*. He's the person everyone wants at their table and no one thinks to invite to the dance. He made peace with this decades ago, or convinced himself he did.
 	
 	Now, he believes in compassion and disciplined doubt. Every story has another side, even if it takes years to find. He won't berate the party for every pub brawl, he remembers cadet life well enough. Now he prefers to be the shepherd in the back: He never leaves an ally to face the storm alone. When he does step in, it's because he believes there are real values to defend. He'll protect whoever he believes are the weak in times of crisis, but he won't be the aggressor or run anybody's errands unless he's sure the cause is justified. In his mind, any truth that feels simple is probably incomplete. He's not so much self-effacing as deeply pessimistic about anybody's chances of doing real good in the world. The fact that he still tries may be the ultimate proof of commitment to his oath.
 	

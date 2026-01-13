@@ -91,14 +91,14 @@
     
     "Ipso! Presto! Fabuloso! Because manual labor is for dummies and the non sorcery-gifted."
     
-    "I totally had a plan, but then the chandelier got tangled in my horns and the innkeep is on the street shouting my name again, so we're improvising!"
+    "I totally had a plan, but then I turned the chandelier into butter and the innkeep is on the street shouting my name, so we're improvising!"
     
 	"Don't. Just, don't touch me right now. Everything feels too loud and I'm one kind word away from falling apart in front of you lot. Last night was plenty, let's not have a messy tragedy two days in a row."
 	
     "Do you remember if i ate the cat treats last night? I can't find them, and my tongue tastes funny."
     
-    "Sure, I'll negotiate a discount for you with that merchant. One third of the price? Don't be shy, you deserve at least one fourth. Watch this!"
-        
+    "You sure you want *me* to negotiate a discount for you with that merchant? Well... okay. One third of the price? Don't be shy, you deserve at least one fourth. "
+    
 ---
 
 ??? info "Key Relationships"

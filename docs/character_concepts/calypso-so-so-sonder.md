@@ -212,8 +212,11 @@
 	Painter's Supplies, Horn.
 	
 	**Suggested Magic Items**
-	- Cloak of Billowing (common, as a Free Action, billows dramatically)
-	- Ring of Jumping (uncommon, enhanced acrobatics for *super* dramatic entrances)
+	
+	- Cloak of Billowing (Common, as a Free Action, billows dramatically; practically *required* to play So-So)
+	- Ring of Jumping (Uncommon, casts Jump spell; enhanced acrobatics for *super* dramatic entrances)
+	- Horn of Blasting (Rare, 30-foot cone DC 15 CON save or 5d8 damage+deafened; Sometimes you gotta Make some noise)
+	- Bracers of Defense (Rare, Attunement, +2 AC if not wearing armor; Because So-So is a little squishy and deserves protection)
 
 	📄 [Download Level 5 Character Sheet (PDF)](assets/calypso-so-so-sonder-lv5.pdf)
 

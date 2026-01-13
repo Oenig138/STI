@@ -20,6 +20,7 @@
 ??? info "Quick Intro"
     
     **At the Table** 
+	
     - * Roguish Paladin who protects through both divine power and "creative problem-solving"; Flirts, jokes and carouses, but never slacks off her vigilance.
     - * Fears becoming purposeless again, leans into "protective older sister" who handles problems without asking permission first.
 	- * Thinks highly of herself and her abilities. Not because of faith or virtue, but because she's confident and damn good at what she does.
@@ -27,7 +28,7 @@
     
     **Backstory (Short Form)**
     
-    Sally was the family embarrassment growing up—too loud, too strong, too "unladylike", so they sent her off to a monastery boarding school (in Sally's own words, "monk jail"). After ten full years of stealing cutlery, charming professors, running protection schemes and selling exam questions in the corridors, she met someone worth protecting for real, someone who gave her life purpose and put her clever head and physical strength to noble use. Now she's sworn an oath to keep her Ward safe and breathing, employing her full toolkit to get the job done.
+    Sally was the family embarrassment growing up—too loud, too strong, too "unladylike", so they sent her off to a monastery boarding school (in Sally's own words, "monk jail"). After ten full years of embezzling, charming professors, running protection schemes and selling exam questions in the corridors, she met someone worth protecting for real, someone who gave her life purpose and put her clever head and physical strength to noble use. Now she's sworn an oath to keep her Ward safe and breathing, employing her full toolkit to get the job done.
     
     **Playing Sally**
     
@@ -201,10 +202,11 @@
 	Splint Mail, Warhammer, 4x Handaxe, Shield, Forgery Kit, Thieves' Tools, Playing Cards, one bent silver fork memento from her time of embezzling cutlery at *Light's Redemption*.
 	
 	**Suggested magic items:** 
-		- Guardian Emblem (Uncommon, Attunement; nullify crit vs any creature within 30 ft, 3 times/LR)
-		- Sending Stones (Uncommon; one for Sally, one for her Ward)
-		- Immovable Rod (because you *know* Sally will put it to work)
-		- Gloves of Thievery (Uncommon, +5 Sleight of Hand; Mechanically, Sally isn't *great* at Sleight of Hand so the gloves would be valuable for her flavor)
+	
+	- Guardian Emblem (Uncommon, Attunement; nullify crit vs any creature within 30 ft, 3 times/LR)
+	- Sending Stones (Uncommon; one for Sally, one for her Ward)
+	- Immovable Rod (because you *know* Sally will put it to work)
+	- Gloves of Thievery (Uncommon, +5 Sleight of Hand; Mechanically, Sally isn't *great* at Sleight of Hand so the gloves would be valuable for her flavor)
 		
 	## Spell list	
 	- **Level 1**: Sanctuary, Sleep, Compelled Duel, Cure wounds, Detect Magic, Divine Smite

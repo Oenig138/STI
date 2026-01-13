@@ -12,7 +12,7 @@
 
 - **Species:** Firbolg  
 - **Class:** Sorcerer 5 (Draconic Sorcery)  
-- **Background:** Natural Archaeologist (small homebrew, see *Mechanical Notes*)
+- **Background:** Natural Archaeologist
 - **Age:** 26
 - **Alignment:** Neutral Good
 
@@ -30,9 +30,9 @@
     
     **Playing Orfan**
     
-    * **Combat:** Control and restraint. Web, Fog Cloud, Hypnotic Pattern, and Command limit enemy options while protecting allies. Shield keeps you alive; Thunder Step provides emergency extraction. You're not the blaster—you're the one who ensures nobody needs to be.
+    * **Combat:** Control and restraint. Web, Fog Cloud, Hypnotic Pattern, and Command limit enemy options while protecting allies. Shield keeps you alive; Thunder Step provides emergency extraction.
     * **Roleplay:** Has happy feet, quick to dance and swing his potbelly. Loves experimenting, but lacks methodology. Tries inhaling different smokes, soaking foodstuffs in ale overnight, or mixing compounds with no obvious plan. Deeply skeptical of magic casters, especially ambitious women who he pattern matches psychologically to his bad experiences with the coven. 
-    * **Party Synergy:** Excellent force multiplier. Use control spells to set up martial characters for devastating attacks against restrained or incapacitated enemies. 
+    * **Party Synergy:** Excellent force multiplier. Use control spells to set up martial characters for crits against restrained or incapacitated enemies. 
 
 ---
 
@@ -118,7 +118,7 @@
 	
 	**Ability Score considerations**: Orfan has DEX 14 to aid his AC and CON 14, which is standard for casters. This leaves him with WIS 12. This can seem low given his personality, while DEX 14 may seem high given his "clumsiness". It is fine mechanically, but if you're ok with lower AC, swapping the WIS and DEX stats may create a character sheet closer to Orfan's personality as it is portrayed.
 	
-	**Spell selection**: Orfan didn't get to choose exactly what he can do and not as he basically absorbed Draconic Sorcery through musical osmosis. This justifes why he knows destructive spells even though he *prefers* not to use them.
+	**Spell selection**: Orfan didn't get to choose exactly what he can do and not as he basically absorbed Draconic Sorcery through musical osmosis. This justifes why he knows destructive spells, even though he *prefers* not to use them.
 	
 ---
 
@@ -174,9 +174,9 @@
     
 	**A Dig at Legitimacy**: In the party's travels, they come upon an excavation. Orfan soon realizes it's not legitimate: The "archaeologists" aren't using the right lingo, or their tools are wrong. They don't even know who's the current prefect of the faculty. Confronting the fraudsters can take three clear directions:
 	
-		- They're family of the individual buried here, seeking to reclaim a lost tablet indicating their right of ownership to their land, which is now disputed by the powers that be. Orfan can help them or the party can turn them in for a reward.
-		- They're a small minority group of descendants of the ancient civilization buried here. The dig is about preserving their cultural roots, and they honestly have no idea what they're doing, but their old songs indicate that they may find something in these ruins that can give them legitimacy, or reignite their pride.
-		- They're literally just regular graverobbers.
+	- They're family of the individual buried here, seeking to reclaim a lost tablet indicating their right of ownership to their land, which is now disputed by the powers that be. Orfan can help them or the party can turn them in for a reward.
+	- They're a small minority group of descendants of the ancient civilization buried here. The dig is about preserving their cultural roots, and they honestly have no idea what they're doing, but their old songs indicate that they may find something in these ruins that can give them legitimacy, or reignite their pride.
+	- They're literally just regular graverobbers.
 	
     **Bellamy's Secret History**: Bellamy has never told Orfan that she is an experienced caster (Level 11 Circle of the Land Druid). She fled that very same coven that manipulated Orfan many years ago and has no intention of returning to civilization. She knows the senior members of the coven personally and fears them. When she learns that Orfan was manipulated by the coven—and worse, that his current work with academia potentially exposed their location—she will be angry that he lied to her by omission, and that he's inadvertently put them in danger. However, she also knows that she hasn't been straightforward with him either.
     

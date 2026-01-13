@@ -191,7 +191,9 @@
 	
 	**Suggested Magic Items**
 		
-		- Eyes of the Eagle (Uncommon, Advantage on Wisdom (Perception) checks that rely on sight, even over very long distances)
+	- Eyes of the Eagle (Uncommon, Advantage on Wisdom (Perception) checks that rely on sight, even over very long distances)
+	- Stone of Good Luck (Uncommon, Attunement, +1 to all skill checks and saving throws; because you *know* if Betty found a good luck charm she'd never let it go)
+	- Slippers of Spider Climbing (Uncommon, Attunement, move on vertical/upside-down surfaces, no falling unless incapacitated; Fly where you want, then place yourself there as long as you want. Play cards in the ceiling. Literally hang right under the balcony where the starcrossed lovers confess their forbidden feelings)
 	
 	---
 	
