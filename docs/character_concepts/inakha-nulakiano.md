@@ -15,8 +15,6 @@
 **Age:** 22  
 **Alignment:** Lawful Neutral (sliding toward Lawful Evil more than Lawful Good)
 
-## Quick Intro
-
 ??? info "Quick Intro"
     
     **At the Table**
@@ -39,8 +37,6 @@
     * **Party Synergy:** Adds flavor (literally) to any adventure by reframing encounters through culinary potential. Creates natural extra investment in party goals when her mysterious cookbook always happens to contain recipes requiring ingredients found near their destination.
 
 ---
-
-## Deep Dive
 
 ??? info "Deep Dive"
     
@@ -127,8 +123,6 @@
 	
 ---
 
-## Key Relationships
-
 ??? info "Key Relationships"
     
 	**Parents-Mother Gauri and Father Arpath:** They are both ambitious about Inakha's quest, and see it as the family's chance at vindication. They write letters asking about progress but always frames them as gentle questions rather than pressure—which somehow makes the pressure worse. They also send old recipe notes and technique diagrams. Since Inakha left, they've found jobs processing ingredients for the army: Salting meat, malting barley, carrying oats. It's hard work but safe pay. The only big issue is that they're now constantly on the move, following campaigns and moving between empostments.
@@ -140,8 +134,6 @@
 	Olivia occasionally runs with a loose network of bounty hunters who take contracts that don't quite fit the usual mold—people wanted for debts, disputes, or offenses against powerful patrons rather than crimes. She's floated the idea of bringing Inakha in on a difficult hunt. The pay would be excellent. The target probably hasn't done anything Inakha would consider wrong. Inakha hasn't said yes, but she also hasn't said no.
 	
 ---
-
-## Notes for the DM
 
 ??? danger "Notes for the DM"
     
@@ -206,9 +198,7 @@
 	
 ---
 
-## Mechanical Build and PDF Download
-
-??? info "Level 5 Build"
+??? info "Level 5 Build and PDF download"
 
     | STR | DEX | CON | INT | WIS | CHA |
     |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -270,8 +260,6 @@
     📄 [Download Level 5 Character Sheet (PDF)](assets/inakha-nulakiano-lv5.pdf)
 
 ---
-
-## **Session Zero**
 
 ??? danger "**Session Zero Considerations**"
     
