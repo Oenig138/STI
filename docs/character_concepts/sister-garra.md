@@ -19,10 +19,9 @@
     
     **At the Table**
     
-    * Intense and decisive, but struggles with short attention span and a flaring, decidedly unclerical temper
-    * Compulsively counts things of relevance for her mission, and records it in her ledger
-    * Fears becoming irrelevant, losing her edge before taking the Turmeric robe, advancing to a diplomatic/paperwork position in her order
-    * The uncompromising Robin Hood conscience of the party, redistributes blessings with holy fervor and precision
+    * The uncompromising Robin Hood conscience of the party, redistributes material goods with holy fervor and bureaucratic precision
+    * Intense and decisive, struggles with short attention span and a flaring, decidedly unclerical temper
+    * Compulsively counts things of relevance for her mission and records it in her ledger
     
     **Backstory (Short Form)**
     
@@ -31,7 +30,7 @@
     **Playing Sister Garra**
     
     * **Combat:** Mobile support cleric with stealth and control options, heals while summoning "The Humbler" (traditional soup ladle of her order) to bonk enemies
-    * **Roleplay:** Sincere (leaning zealous) holy work, not sexy heist. Counts compulsively, leaves receipts with blessings where she's "liberated" wealth
+    * **Roleplay:** Theft is sincere holy work, not sexy heist cat shenanigans. She leaves receipts with blessings wherever she's "liberated" wealth
     * **Party Synergy:** Simultaneous moral compass, trouble instigator and party mom who inspires others through burning conviction rather than charisma.
 	
 ---

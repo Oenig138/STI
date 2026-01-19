@@ -62,7 +62,7 @@
 	
 	Matteus wrote down three names of chefs in different cities. "Tell them Matteus sent you. They'll give you a chance. After that, you're on your own merit."
     
-    She found the cookbook in a small curiosity shop. Or it found her—she's never been entirely sure. The recipes were unlike anything she'd seen: manticore foie gras, wyrmling short ribs, deep mushroom bone broth. They were only theoretically achievable, for an accomplished adventurer. If she could master even one of them, create something undeniably excellent and unique, maybe she could prove her family deserved better than exile.
+    She studied under one of the chefs on Matteus list for a little under a month before he cancelled the commitment, citing "cooperation difficultues". Wandering, lost, she found the cookbook in a small curiosity shop but a few days later. Or it found her? She's never been entirely sure, but it felt like it was meant to be. The recipes were unlike anything she'd seen. Manticore foie gras? Wyrmling short ribs in Gelatinous Cube aspic? Deep mushroom bone broth and steamed Drider Legs. They were only theoretically achievable, for an accomplished adventurer. If she could master even one of them, create something undeniably excellent and unique, maybe she could prove her family deserved better than exile.
 	
     ## Personality
     
