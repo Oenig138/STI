@@ -158,13 +158,13 @@
 </figure>
 
 <figure class="character-card">
-  <img src="assets/characters/olan-danu.webp"
-       alt="Olan Danù, Tortle Abjurer" loading="lazy">
-  <span class="name" id="name-olan-danu">Olan Danù</span>
-  <figcaption id="cap-olan-danu">
-    Tortle Abjurer. Diplomat who almost died for being right. Struggles with mounting evidence that people aren't worth the effort of mercy, but keeps being decent out of pure spite. 
+  <img src="assets/characters/inakha-nulakiano.webp"
+       alt="Inakha Nulakiano, Goliath Ranger" loading="lazy">
+  <span class="name" id="name-inakha-nulakiano">Inaka Nulakiano</span>
+  <figcaption id="cap-inakha-nulakiano">
+    Goliath Ranger chasing culinary redemption armed with a greataxe, a mysterious cookbook, and the emotional regulation of a kicked hornet's nest.
   </figcaption>
-  <a href="character_concepts/olan-danu" aria-labelledby="name-olan-danu cap-olan-danu"></a>
+  <a href="character_concepts/inakha-nulakiano" aria-labelledby="name-inakha-nulakiano cap-inakha-nulakiano"></a>
 </figure>
 
 <figure class="character-card">
