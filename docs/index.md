@@ -2,24 +2,19 @@
 
 <img src="assets/sti.png" alt="STI logo" width="300">
 
-**Steal These Ideas** is a free library of state of the art plug-and-play D&D material: prebuilt **high-quality characters** with clear **personality, narrative hooks** and **unique voice**. Remix what you want, ignore the rest. 
+**Steal These Ideas** is a free library of plug-and-play D&D material: prebuilt **high-quality characters** with clear **personality, narrative hooks** and **unique voice**. Remix what you want, ignore the rest.
 
-*All characters created in the official character creator tool at DNDBeyond.com, with minimal homebrew marked as such.*
+*All characters created in the official character creator tool at DNDBeyond.com, with minimal homebrew clearly marked.*
 
-**About me:** Experienced writer of prose and fiction, and dungeon master in various RPG systems for 30 years. This project has been a creative outlet through a period of illness, and I'd like to share it freely with the D&D community.
+**About me:** Experienced writer of prose and fiction, gamemaster in various RPG systems for almost 30 years. This project has been a creative outlet through a period of illness, and I'd like to share it freely with the D&D community.
 
-**Note:** Visual aid and graphics are indeed AI generated, *with love and care on a zero-budget*. If this is an issue, feel free to ignore any images and focus on the actual content.
+**Note:** Visual aid and graphics are AI generated, *with love and care on a zero-budget*. If this is an issue, feel free to ignore any images and focus on the actual content.
 
-<p>
-  <a href="#explore" class="md-button md-button--primary">Browse Character Concepts</a>
-  <a href="assets/full-bundle.zip" class="md-button">Download full character Bundle (ZIP)</a>
-</p>
-
-<small>Updated: 2025-12-21 • v0.2 · <a href="changelog/">CHANGELOG</a></small>
+<small>Updated: 2026-01-25 • v0.2 · <a href="changelog/">CHANGELOG</a></small>
 
 ### Why this helps you run better games
 
-- **Save prep time:** drop-in NPCs and PCs ready for adventure.
+- **Save prep time:** highly individual drop-in NPCs and PCs ready for adventure.
 - **Session-ready:** stat blocks, hooks, and sample dialogue crafted by an experienced writer.
 - **Remix-friendly:** free to use and share with attribution, non-commercial. 🔖 **License:** CC BY-NC-SA 4.0. See the full terms in the <a href="https://github.com/Oenig138/STI#readme">README</a>.
 
@@ -32,7 +27,7 @@
        alt="Alveta 'Velvet', Air Genasi Paladin of Glory" loading="lazy">
 <span class="name" id="name-alveta">Alveta “Velvet”</span>
 <figcaption id="cap-alveta">
-    Air Genasi Glory Paladin. Her childhood stickfights became a scam dojo, now she fights for vindication.
+    Air Genasi Glory Paladin. Her childhood stickfights became a scam dojo, now she fights to vindicate her dream.
   </figcaption>
   <a href="character_concepts/alveta-velvet" aria-labelledby="name-alveta cap-alveta"></a>
 </figure>
@@ -42,7 +37,7 @@
        alt="Basil Tenebrian, Noble Bladesinger Shifter" loading="lazy">
   <span class="name" id="name-basil">Basil Tenebrian</span>
   <figcaption id="cap-basil">
-    A fugitive Noble shifter who mastered bladesinging under an elven sage, now hunted by his brother, but still a Good Boy.
+    Noble Bladesinger Shifter, hunted by his brother, but still a Good Boy. Struggles with body dysmorphia and clings to decency like a drowning man.
   </figcaption>
   <a href="character_concepts/basil-tenebrian" aria-labelledby="name-basil cap-basil"></a>
 </figure>
@@ -52,7 +47,7 @@
        alt="Beitian 'Betty' Winter’s Heart, dragonborn psionic rogue" loading="lazy">
   <span class="name" id="name-betty">Beitian “Betty” Winter’s Heart</span>
   <figcaption id="cap-betty">
-    Dragonborn Psionic Rogue. Deaf Dragonchess prodigy and gambling addict who lives for gossip, outsmarting card sharps, and cataloguing everything that does and doesn't go with mustard.
+    A Soulknife gambler from a rare, all-deaf clan who clings desperately to her self-image as Dragonchess prodigy, and lives for gossip and mustard. 
 	</figcaption>
   <a href="character_concepts/beitian-winters-heart" aria-labelledby="name-betty cap-betty"></a>
 </figure>
@@ -62,7 +57,7 @@
        alt="Belvarax 'Gobsmack' Allimander, dragonborn paladin" loading="lazy">
   <span class="name" id="name-belvarax-allimander">Belvarax “Gobsmack” Allimander</span>
   <figcaption id="cap-belvarax-allimander">
-    Dragonborn Paladin. Party daddy universally scorned for his reluctance to smite baddies. The gentle shepherd in the back.
+    Dragonborn Paladin and party daddy scorned by his order for his awkward reinterpretation of his Vows, to not deal with raiding Goblins.
   </figcaption>
   <a href="character_concepts/belvarax-allimander" aria-labelledby="name-belvarax-allimander cap-belvarax-allimander"></a>
 </figure>
@@ -72,7 +67,7 @@
        alt="Calypso 'So-So' Sonder, human monk (Open Hand)" loading="lazy">
   <span class="name" id="name-calypso-so-so-sonder">Calypso “So-So” Sonder</span>
   <figcaption id="cap-calypso-so-so-sonder">
-    Human Monk (Open Hand). The last noble D&D style kabuki luchador, aging artist of a dying tradition struggling with obsolence. Hogs party protein, but always apologizes.
+    Honorable Human Monk "kabuki luchador" chasing one last hurrah without selling out to vulgarity, Hogs party protein, but always apologizes. 
   </figcaption>
   <a href="character_concepts/calypso-so-so-sonder" aria-labelledby="name-calypso-so-so-sonder cap-calypso-so-so-sonder"></a>
 </figure>
@@ -102,7 +97,7 @@
        alt="Donner, harengon Battle Master" loading="lazy">
   <span class="name" id="name-donner">Donner</span>
   <figcaption id="cap-donner">
-    Harengon Battle Master with a Schopenhauerian worldview. Haunted by the young he sacrificed to escape a predating terror; keeps others alive with blunt advice and kale stew.
+    Harengon Battle Master haunted by the apprentice he sacrificed to escape a Revenant; keeps others alive with blunt advice and kale stew.
   </figcaption>
   <a href="character_concepts/donner" aria-labelledby="name-donner cap-donner"></a>
 </figure>
@@ -112,7 +107,7 @@
        alt="Geldok Iron Tusk, orc cleric" loading="lazy">
   <span class="name" id="name-geldok-iron-tusk">Geldok Iron Tusk</span>
   <figcaption id="cap-geldok-iron-tusk">
-    Orc Cleric. Soft-gutted ex-raider turned unlikely cleric of the Big Boss; more of a streetcorner "problem solver" than mainstream faith healer. 
+    Soft-gutted Orc ex-raider turned unlikely Cleric of the mysterious "Big Boss"; streetcorner problem solver and healer, who obeys no worldly authority.
   </figcaption>
   <a href="character_concepts/geldok-iron-tusk" aria-labelledby="name-geldok-iron-tusk cap-geldok-iron-tusk"></a>
 </figure>
@@ -122,7 +117,7 @@
        alt="Harold Carnap, halfling warlock" loading="lazy">
   <span class="name" id="name-harold-carnap">Harold Carnap</span>
   <figcaption id="cap-harold-carnap">
-    Halfling Warlock grandpa. Devilishly wholesome; possibly an evil genius in a cardigan. The jury is still out.
+    Halfling Warlock grandpa. Devilishly wholesome, turning blood rituals to potlucks. Possibly an evil genius in a cardigan. The jury is still out.
   </figcaption>
   <a href="character_concepts/harold-carnap" aria-labelledby="name-harold-carnap cap-harold-carnap"></a>
 </figure>
@@ -132,7 +127,7 @@
        alt="Iblit, Kobold Celestial Warlock" loading="lazy">
   <span class="name" id="name-iblit">Iblit</span>
   <figcaption id="cap-iblit">
-    Calvin & Hobbes meets Good Omens: A kobold teen warlock bound to an archangel who hates this assignment as much as he does.
+    Calvin & Hobbes meets Good Omens: An orphaned teen Kobold Celestial Warlock bound to an archangel who hates this assignment as much as he does.
   </figcaption>
   <a href="character_concepts/iblit" aria-labelledby="name-iblit cap-iblit"></a>
 </figure>
@@ -142,7 +137,7 @@
        alt="Orfan, Firbolg Sorcerer" loading="lazy">
   <span class="name" id="name-orfan">Orfan</span>
   <figcaption id="cap-orfan">
-    Firbolg Archaeologist whose questionably scientific methods landed him magic powers. He is torn between the still unimpressed faculty and the relationships drawing him from civilization.
+    Firbolg Archaeologist whose questionable scientific methods landed him Draconic Sorcery powers. Torn between the call of the wild and the academy that failed him.
   </figcaption>
   <a href="character_concepts/orfan" aria-labelledby="name-orfan cap-orfan"></a>
 </figure>
@@ -152,7 +147,7 @@
        alt="Lia Amberhorn, satyr sorcerer" loading="lazy">
   <span class="name" id="name-lia-amberhorn">Lia Amberhorn</span>
   <figcaption id="cap-lia-amberhorn">
-    Satyr Sorcerer. Dyslexic and rejected by her merchant family. Plays into all the party girl and sorcerer stereotypes. But beyond the cope, chaos and negative self talk, she's competent, clever and loving.
+    Satyr Wild Magic Sorcerer who believes in her own stereotypes. Rejected by her sober, ableist merchant family, but still snipes with pinpoint precision, whether with word or spell.
   </figcaption>
   <a href="character_concepts/lia-amberhorn" aria-labelledby="name-lia-amberhorn cap-lia-amberhorn"></a>
 </figure>
@@ -162,7 +157,7 @@
        alt="Inakha Nulakiano, Goliath Ranger" loading="lazy">
   <span class="name" id="name-inakha-nulakiano">Inaka Nulakiano</span>
   <figcaption id="cap-inakha-nulakiano">
-    Goliath Ranger chasing culinary redemption armed with a greataxe, a mysterious cookbook, and the emotional regulation of a kicked hornet's nest.
+    Goliath working-class Ranger chasing culinary redemption armed with a greataxe, a mysterious cookbook, and the emotional regulation skills of a toddler.
   </figcaption>
   <a href="character_concepts/inakha-nulakiano" aria-labelledby="name-inakha-nulakiano cap-inakha-nulakiano"></a>
 </figure>
@@ -172,7 +167,7 @@
        alt="Sally Tarrant, Human Oath of Redemption Paladin" loading="lazy">
   <span class="name" id="name-salynna-sally-tarrant">Salynna "Sally" Tarrant</span>
   <figcaption id="cap-salynna-sally-tarrant">
-    Stole cutlery at the boarding school for ten years before she found her purpose in life; now smothers her sworn Ward with equal amounts of steel and trickery.
+    Trickster Paladin who stole cutlery at the boarding school for ten years before she found her purpose in life; now smothers her sworn Ward with an overreach steel and cunning.
   </figcaption>
   <a href="character_concepts/salynna-sally-tarrant" aria-labelledby="name-salynna-sally-tarrant cap-salynna-sally-tarrant"></a>
 </figure>
@@ -192,7 +187,7 @@
        alt="Sister Garra, Tabaxi Trickster Cleric" loading="lazy">
   <span class="name" id="name-sister-garra">Sister Garra</span>
   <figcaption id="cap-sister-garra">
-    Tabaxi Trickster Cleric of the mendicant Mud Nuns order, meticulous about accounting and receipts to the people she robs, struggles with the allure of soft beds mid-heist.
+    Tiny Tabaxi Trickster Cleric of the illegal slum order the Mud Nuns. Smuggles refugees and leaves receipts of spiritual unclogging with those she robs.
   </figcaption>
   <a href="character_concepts/sister-garra" aria-labelledby="name-sister-garra cap-sister-garra"></a>
 </figure>
@@ -202,7 +197,7 @@
        alt="Stennart Goldgift, Barbarian (World Tree)" loading="lazy">
   <span class="name" id="name-stennart">Stennart Goldgift</span>
   <figcaption id="cap-stennart">
-    Dwarf merchant turned overnight Chad. Slowly transforming into a World Tree seedling while desperately clinging to the strength that finally made him feel important.
+    Meidocre Dwarf merchant accidentally turned overnight Hercules. Slowly transforming into a World Tree seedling, but still clings to the strength that finally made him feel significant.
   </figcaption>
   <a href="character_concepts/stennart-goldgift" aria-labelledby="name-stennart cap-stennart"></a>
 </figure>
@@ -235,12 +230,12 @@
 **Factions:**
 - **[The Mud Nuns](factions/mud-nuns.md)**, a barefoot mendicant order of nuns living for mercy through mischief and larceny in the slums of the City. Tone: Heists, Divine trickstery, Urban Intrigue. Includes Sister Garra, PC/NPC who leaves receipts of "karma rebalanced" with her victims.
 
-* *(More sections coming soon: one-shots, campaign seeds, bestiaries, etc.)*
+* *(More sections coming: one-shots, campaign seeds, bestiaries, etc.)*
 
 ## FAQ
 
 **Why are there AI-generated images?**  
-Some mood images and visual aids are AI-generated to convey vibes. They’re non-essential and you're free to ignore them. The concepts and writing are original.
+Mood images and visual aids are AI-generated to convey vibes. They’re non-essential and you're free to ignore them. The concepts and writing are original.
 
 **Is this PG-13?**  
 Yes. Most content works for younger audiences or can easily be tweaked, but check notes on each page. Any trigger warnings appear on the relevant character pages.
@@ -252,6 +247,7 @@ All characters are designed to slot in seamlessly at many tables:
 - Built in the official character creator at dndbeyond.com
 - All ability scores are taken with the Points buy method.
 - Homebrew is marked as such and explained on the character page.
+- Characters are built with respect for both narrative weight and game efficiency; they are not "mechanically optimized".
 - PDF's are clean sheets taken directly from dndbeyond.com. They do not include all the info on the character page because: 1) it wouldn't fit, 2) it leaves space for the players to take notes.
 
 Take what you want, discard, rebuild or remix the rest.
