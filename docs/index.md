@@ -155,9 +155,9 @@
 <figure class="character-card">
   <img src="assets/characters/inakha-nulakiano.webp"
        alt="Inakha Nulakiano, Goliath Ranger" loading="lazy">
-  <span class="name" id="name-inakha-nulakiano">Inaka Nulakiano</span>
+  <span class="name" id="name-inakha-nulakiano">Inakha Nulakiano</span>
   <figcaption id="cap-inakha-nulakiano">
-    Goliath working-class Ranger chasing culinary redemption armed with a greataxe, a mysterious cookbook, and the emotional regulation skills of a toddler.
+    Conservative Goliath working-class Ranger chasing culinary redemption armed with a greataxe, a mysterious cookbook, and the emotional regulation skills of an average toddler.
   </figcaption>
   <a href="character_concepts/inakha-nulakiano" aria-labelledby="name-inakha-nulakiano cap-inakha-nulakiano"></a>
 </figure>
@@ -167,7 +167,7 @@
        alt="Sally Tarrant, Human Oath of Redemption Paladin" loading="lazy">
   <span class="name" id="name-salynna-sally-tarrant">Salynna "Sally" Tarrant</span>
   <figcaption id="cap-salynna-sally-tarrant">
-    Trickster Paladin who stole cutlery at the boarding school for ten years before she found her purpose in life; now smothers her sworn Ward with an overreach steel and cunning.
+    Trickster Paladin who stole cutlery at the boarding school for ten years before she found her purpose in life; now smothers her sworn Ward with an overreach of steel and cunning.
   </figcaption>
   <a href="character_concepts/salynna-sally-tarrant" aria-labelledby="name-salynna-sally-tarrant cap-salynna-sally-tarrant"></a>
 </figure>
