@@ -4,7 +4,7 @@
 
 > *"Oh honey, your voice can shatter glass? That's cute. Mine kills wildlife."*
 
-**Goliath Bard raised in twelve years of enforced silence, now a force of nature and noise who plays bagpipes in thunderstorms and inspires to epic heights.**
+**Goliath Bard raised in twelve years of enforced silence, now a force of nature and noise who plays bagpipes in thunderstorms and dares the world to respond.**
 
 ---
 

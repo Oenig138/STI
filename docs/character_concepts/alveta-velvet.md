@@ -2,9 +2,9 @@
 
 ![Alveta "Velvet"](assets/alveta-velvet.png){ width="300" }
 
-> *"Dreams built on lies can still become true."*
+> *"Duel ya for the dishes? No? For glory then? Come on, I'm basically complimenting you by asking for a fight!"*
 
-**Air Genasi charlatan turned paladin. She fights to prove her childhood's invented fighting style can go from a swindle that cost lives to become something worthy of glory.**
+**A kid's fake fighting style got a boy killed. Now she's sworn an oath to make it real. Winning duels, teaching it right, proving that a dream born from a scam can still come true. Meanwhile, someone's franchising the dangerous version, and she's pretty sure it's the childhood friend she lost.**
 
 ---
 

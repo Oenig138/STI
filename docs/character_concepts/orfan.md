@@ -2,9 +2,9 @@
 
 ![Orfan](assets/orfan.png){ width="300" }
 
-> *"For sure, Bellamy would be happy if I just stayed. Maybe we could have children too, but... to leave so much unexamined? Doesn't sit right. Do I really have to choose? I know she'd understand."*
+> *"I brought them strays and lost ones, fawns that had lost their mothers. I thought it was for study and conservation, even though they never told me what the knives were for."*
 
-**Innocent-hearted Firbolg archaeologist who absorbed draconic magic walking ancient paths. Stuck between love of simple life and longing for recognition and learning more about the world.**
+**The academy dismissed his archaeological methods, the coven exploited his trust. Returning to the forest and walking the ancient paths, his 'bad academic praxis' yielded him Draconic powers. Now he's stuck between his love of simple life and longing for recognition from the faculty that failed him.**
 
 ---
 
@@ -90,9 +90,11 @@
 	
 	"Are you going to eat your carrots? I want to try something!"
 	
-	"I don't know if it's the soil composition or something about the, ah, what's the word—substrate? But you walk the paths enough times and it's like the earth sings back every step you take. Once I danced through a meadow like a fawn, and my bellybutton started to glow! It's true!"
-	
 	"This stew needs—wait, do you have any sage? Good. But what about thyme? Wait, why not try both! Oh, and I pocketed some weeds along the way too. You don't mind if I add them, right? Some bitterness might cut through the fat."
+	
+	"Sure, Bellamy would be happy if I just stayed. Maybe we could have children too, but... to leave so much unexamined? Doesn't sit right. Do I really have to choose? I know she'd understand."
+	
+	"I don't know if it's the soil composition or something about the, ah, what's the word—substrate? But you walk the paths enough times and it's like the earth sings back every step you take. Once I danced through a meadow like a fawn, and my bellybutton started to glow! It's true!"
 	
 	"Oh! Sorry—yes, that was yours? I wasn’t taking it *from* you, exactly. I was taking it *near* you, right? But you can absolutely have it back."
 	

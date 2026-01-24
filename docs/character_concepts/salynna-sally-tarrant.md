@@ -2,9 +2,9 @@
 
 ![Salynna "Sally" Tarrant](assets/salynna-sally-tarrant.png){ width="300" }
 
-*“Break the rules. Keep the oath.”*
+> *“Break the rules. Keep the oath.”*
 
-**Sally was rejected by her noble family for being "unladylike", and sent to a boarding school, where she stole cutlery for ten full years before she found her purpose in life; now she is the ultimate bodyguard and smothers her Ward with equal amounts of competence, cold steel and charlatanry.**
+**Gifted Human Trickster Paladin sent by her noble family to a boarding school, hoping to file down the "rough edges". Instead she started her own semi-criminal operation for ten full years before purpose found her; now she is the ultimate bodyguard, smothering her Ward with an overreach of competence, cold steel and street hustling.**
 
 ---
 

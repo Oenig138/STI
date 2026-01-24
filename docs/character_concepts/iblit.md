@@ -247,8 +247,8 @@
 	**Tools:** Calligrapher's Supplies | **Languages:** Draconian, Common
 	
 	## Feats
-	- **Resilient (Constitution)**: +1 CON, gain proficiency in CON saving throws
-	- **Magic Initiate (Cleric)**: Learn Guidance and Thaumaturgy cantrips, Cure Wounds 1/long rest (CHA spellcasting)
+	- **War Caster**: Advantage on Concentration saves, can cast spells as Attacks of Opportunity, can cast spells without Somatic components.
+	- **Magic Initiate (Cleric)**: Learn Guidance and Thaumaturgy (for extra strong tantrums) cantrips, Cure Wounds for free 1/long rest (CHA spellcasting)
 	- **Eldritch Invocations:**
 		- *Agonizing Blast*
 		- *Eldritch Mind*

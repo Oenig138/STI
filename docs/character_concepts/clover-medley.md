@@ -4,7 +4,7 @@
 
 > *"For sure been called names, none of them pretty. But my mama calls me Clover and that's the only name that matters."*
 
-**Charming farmgirl from a blighted valley obsessed with chasing a supposed cursed Kirin that no one else believes in. Wrangles blighted pigs that grunt in Abyssal, and delights in creeping the cityfolk out.**
+**Charming Tiefling farmgirl from a blighted valley where the farm pigs grunt in Abyssal. The locals think her birth another sign of the curse. Her family knows better. Her grandpa swore on his deathbed he saw a "cursed Kirin" poisoning the land, and it has become her White Whale.**
 
 ---
 

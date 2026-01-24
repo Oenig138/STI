@@ -2,11 +2,9 @@
 
 ![Tormin Remus](assets/tormin-remus.png){ width="300" }
 
-> *"I think I like grapes. I used to. Or was that me? You know what, you look hungry. Keep them."*
+> *"I think I like grapes. I used to, but I had a different tongue then. Or was that me? You know what, you look hungry. Keep them."*
 
-**A revolutionary changeling warlock who traded his soul—and his face—to fight tyranny, now spreading sedition through music while slowly forgetting who he used to be.**
-
-*Keywords: Revolutionary, Identity Loss, Folk Hero, Deception, Heavy Intrigue Play, Tragic Heroism*
+**A revolutionary changeling warlock who traded his soul—and his face—to fight tyranny, now spreading sedition through traitorous tunes while slowly forgetting who he used to be.**
 
 ---
 
@@ -21,10 +19,10 @@
     
     **At the Table**
     
-	* Effortless party face with Warlock blasting power and versatile toolkit
-    * His Faustian bargain gave him uncanny musical skills; now he plays a haunting melody that's become an outlawed anthem of rebellion
-    * The party's infiltrator and face-changer, but needs emotional anchors to avoid Main Character Syndrome
-	* Best suited for a limited, heavy intrigue arc
+	* Effortless party face with Warlock blasting power and versatile toolkit.
+    * His Faustian bargain gave him uncanny musical skills. Now he plays a haunting melody that's become an outlawed anthem of rebellion.
+    * The party's infiltrator and face-changer, but needs emotional anchors to avoid Main Character Syndrome.
+	* Best suited for a limited, heavy intrigue arc.
     
     **Backstory (Short Form)**
     
@@ -32,9 +30,9 @@
     
     **Playing Tormin**
     
-	* **Roleplay:** Gallows humor masking melancholy. Observant and empathetic to others' struggles since he's lost connection to his own identity. The flute melody he learned from his mother is his only remaining anchor to his former self.
-    * **Party Synergy:** Needs explicit ties to other PCs established in session zero—a reason to care beyond the revolution. Works best when sharing secrets early to build trust and balancing solo infiltration with group unity.
-
+	* **Roleplay:** Gallows humor masking melancholy. Observant and empathetic to others' struggles since he's lost connection to his own identity. The flute melody he learned from his mother is his only remaining anchor to his former self. A Fantasy Paganini with demonic command over his instruments.
+    * **Party Synergy:** Needs explicit ties to other PCs established in session zero: A reason to care beyond the revolution. Works best when sharing secrets early to build trust and balancing solo infiltration with group unity.
+	
 ---
 
 ??? info "Deep Dive"

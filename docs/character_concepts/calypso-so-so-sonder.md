@@ -4,7 +4,7 @@
 
 > *"Witness the Apocalypso! A thousand suns blaze, and you stand in their shadow!"*
 
-**The last noble D&D style kabuki luchador, aging artist of a dying tradition.**
+** Aging kabuki luchador so devoted to performing nobility he'd rather die than going 'vulgar' for the crowd. Can't bring himself to tell the truth about why he was fired from the circus, chasing one last hurrah.**
 
 ---
 
@@ -94,9 +94,7 @@
     "That kind farmer gave me an extra carrot for our performance. It is only partially blackened. Do you want it?"
     
     "Worry not, sweet friend. It only hurts when I'm not smiling. I'll be fine."
-    
-    "Witness the Apocalypso! A thousand suns blaze, and you stand in their shadow!"
-    
+      
     "The mask is not disguise, but the truth! Revealed in colors bolder than flesh can bear!"
     
     "You laugh at my antics. I weep for the shallowness of your understanding."

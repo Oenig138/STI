@@ -4,7 +4,7 @@
 
 > *"You wanna good deal? I'll give ya a great one! But first, d'ya wanna wager if I can crack this walnut with my biceps?"*
 
-**Dwarf merchant turned overnight Chad. Slowly transforming into a World Tree seedling while desperately clinging to the strength that finally made him feel important.**
+**Mediocre Dwarf merchant accidentally turned heroic overnight. Slowly transforming into a World Tree seedling while desperately clinging to the strength that finally made him feel special. He knows he's cheating, he's made his peace. Now he intends to live out an unforgettable finale.**
 
 ---
 
@@ -142,13 +142,19 @@
     3. **Nothing**: *"You would do nothing? Interesting. I don't intend to force my will on you. This will make for a better story."* Let nature take its course. In six months to a year, Stennart Goldgift stops moving. Roots dig deep. Something new grows from the husk with no memory of banking clans or the specific way his siblings looked through him like furniture. What happens when the World Tree starts to grow on the Material Plane? That'll be up the DM.
 	
 	4. **A quest**: If the party wants to rescue Stennart *and* keep his powers, you could always honor player agency by making a quest out of it. The dragon (or another knowledgeable NPC) can hint at extreme solutions, for example: An entire World Tree barbarian tribe with dangerous rituals, a Djinn, or Hag who trades in "botanical curses," or a Sphinx with forbidden knowledge, banished from this plane and stuck in a labyrinth like a Minotaur. But, also attempt to honor the emotional weight of Stennart's arc. Maybe there is still a steep price to pay. He's not a character who's made to ride off happily into the sunset.
-       
+    
     **Other Fruit Seekers**
     Word spreads in certain circles. Entities emerge who want to harvest him, study the transformation, or acquire a "sample" for their own purposes. Desperate individuals offer fortunes for a single bite of his flesh (which of course does nothing, but they might be willing to force Stennart to fight to protect his body). Scholars want to dissect the process. Desperate nobles seek immortality by drinking tea from the scrapings of bark from his skin.
    
 	Worst of these are **The Vitalist Cult**: A fringe druidic sect believing that the World Tree's return will "cleanse" the Material Plane of civilization's corruption. They see Stennart as a living sacrament and plan to kidnap him, bury him in sacred soil, and nurture the transformation until the roots breach the surface. Led by a franklt feral Eladrin druid named Thessaly, who speaks with unsettling gentleness about "helping Stennart fulfill his purpose." 
-		
+	
 	Note: Even if the cult somehow catches Stennart and has this deep hole in the ground, which is a truly macabre and compelling story beat, don't *actually* let a player character get *buried alive* without doing a vibe check with the table. This is a very real and common phobia.
+	
+	---
+	
+	## Mechanics and Stennart
+	
+	If you want to help the players to more viscerally feel the clock ticking down for Stennart, slowly tweak his Ability scores. You decide when in the campaign. Announce that Stennart loses a point in DEX and gains a point in CON, or loses a point in INT and gains a point in STR for instance. Remember that switching a player from for instance 14 DEX/16 CON to 13 DEX/17 CON would in effect be a punishment as odd numbers don't provide any bonuses. Consider allowing Stennart to keep the +2 AC from 14 DEX even when going to 13 DEX, justified by his skin becoming tougher.
 	
 ---
 

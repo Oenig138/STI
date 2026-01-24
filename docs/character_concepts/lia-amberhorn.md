@@ -4,7 +4,7 @@
 
 > *"Don't say it, I know what you think. Typical Lia. Can't read, can't count. I'm only good with cats and hard liquor. Why do you come to me for advice?"*
 
-**Satyr Sorcerer. Dyslexic and rejected by her merchant family. Plays to all the party girl and sorcerer stereotypes, but is secretly brilliant.**
+**Satyr Wild Magic Sorcerer. Believes in her own stereotypes she was rejected by her sober, ableist merchant family, but still snipes with pinpoint precision, whether with word or spell.**
 
 ---
 
@@ -43,11 +43,11 @@
     
     Lia Amberhorn was born into a family of satyrs determined to scrub away every Feywild cliché. Her father, Dionel, was a sober, hard-nosed merchant. Her mother, Thyra, left revelry behind and devoted herself to austere faith and respectability. Together they built a reputation as "the serious Satyrs," the kind who never touched drink, never laughed too loud and were always good on their word. Then came Lia, naturally gifted, deeply connected to the Fey. And no matter how often Dionel drilled her, the columns never lined up.
     
-    Every mistake in the shop ledger was a reminder that she wasn't the merchant daughter they wanted. Thyra prayed discipline into her, but Lia's magic burst out at all the wrong moments. Books caught fire, feather pens started dancing. Lia's extraordinary magic talent was whimsical and Fey in the worst possible way, and her control was flimsy at best. While they were never physically violent, their words and sneers cut deep.
+    Every mistake in the shop ledger was a reminder that she wasn't the merchant daughter they wanted. Thyra prayed for her discipline, but Lia's magic burst out at all the wrong moments. Books caught fire, feather pens started dancing. Her extraordinary magic talent was whimsical and Fey in the worst possible way, but her control was flimsy at best. While her parents were never physically violent, their words and sneers cut deep. She was born with the wrong talents.
     
     To make matters worse, her little brother Calen was the perfect merchant son—sharp, disciplined, able to track the markets and dance through the ledgers before he could even grow horns. His favorite line was, "Don't blame your Fey blood for your failures, sister. Some of us just work harder." Their sibling bond hardened into rivalry, but there was never much competition.
     
-    When Lia was 17, her parents were summoned to Feywild court business. They left the shop in their children's hands. Lia did what she always did: partied, slacked and magicked the mess away. But when their parents returned, a vast sum of money had gone missing from the accounts. Calen laid the blame squarely on Lia.
+    When Lia was 17, her parents were summoned to Feywild court business. They left the shop in their children's hands, making them solemnly swear to be careful and do everything by the book. Lia did what she always did when her parents were away: Decompressed. Partied, slacked and magicked the mess away. But when their parents returned, a vast sum of money had gone missing from the accounts. Calen laid the blame squarely on Lia.
     
     She knew she hadn't touched the money, but she couldn't prove which entries were hers. Her protests sounded hollow against Calen's cool arithmetic. Dionel and Thyra disowned her at seventeen, with nothing but her chaotic magic and a chipped wine jug.
     
@@ -142,7 +142,7 @@
 	Calen could be a BBEG for an arc, with hidden Warlock powers and a dirty secret he is afraid Lia will uncover. He stole their parents' fortune to set up his own enterprise, and blamed her. Their father Dionel wanted a shrewd merchant for a child, and in Calen he got more than he bargained for.
 		
 	**Wild Magic Lull**
-	(Bottle episode) For some reason, Wild Magic isn't happening right now. Lia is temporarily reduced to opening doors manually, and eventually using whatever magic her magic items might carry. Don't necessarily make it a big thing, just enough to allow the player to explore Lia's reaction to having a huge part of her identity pulled out from under her.
+	(Bottle episode) For some reason, Wild Magic isn't happening right now. Lia is temporarily reduced to opening doors manually, and using whatever magic her magic items might carry. Don't make it a big thing, just enough to allow the player to explore Lia's reaction to having a huge part of her identity pulled out from under her.
 	
 	**Wild Magic Storm**
 	Have Lia's powers go crazy for real. Have the player declare what they cast, then roll a D6 for what actual level the spell gets cast at. Roll Wild Magic Surge for every spell she casts an entire combat. Roll a d10 for additional Metamagic effects. Add extra effects: Lia's shadow separates from herself and runs off. The trees start meowing. Fireballs now smell of cloying vanilla and splash like curd.

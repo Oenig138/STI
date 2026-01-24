@@ -4,7 +4,7 @@
 
 > *"So I don't much understand your fancy plan mister Vampire, and I didn't chiefly come here to stop it. You're ingredients to me."*
 
-**A goliath monster hunter chasing culinary redemption for her exiled family, armed with a greataxe, a mysterious cookbook, and the patience of a stalking predator paired with the emotional regulation of a kicked hornet's nest.**
+**Goliath monster hunter chasing culinary redemption for her exiled family, armed with a greataxe, a legendary cookbook, and the emotional regulation of a kicked hornet's nest. Conservative workhorse who sees a Gelatinous cube as aspic with extra steps.**
 
 ---
 

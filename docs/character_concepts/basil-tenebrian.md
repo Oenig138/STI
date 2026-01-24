@@ -4,7 +4,7 @@
 
 > *"My lady, I believe I can surmise where this conversation is going, and while genuinely flattered, I'm convinced your notion of the allure of the 'exotic noble' is inflated. I'm a scholar. My 'edge' is that of the papercut."*
 
-**A sensitive noble at odds with his bestial nature. Trained bladesinging under an elven sage, now hunted by his older brother and an order of Witch hunters.**
+**Shifter Bladesinger who spent his isolated youth studying swordplay in secret, certain he'd be ready when danger came. His mentor died proving he wasn't. Now he's hunted, his mother imprisoned, and the wallflower dandy who imagined himself 'a scholar riding the wolf' is learning that real life seldom respects fantasies.**
 
 ---
 
@@ -54,9 +54,9 @@
     
     Suddenly holding a new, powerful title, Brendall grew protective of his image. His brother Basil seemed like a liability. Meanwhile, Cilantro grew wary of the rapid developments. Basil found her in her small room, packing her bags. She advised that he do the same.
     
-    Brendall had always been distant, focused on duty where Basil preferred books, but the crown's reward transformed him into someone Basil no longer recognized. Still, he failed to see the danger until it knocked on his door. Three Witch Hunters of the Order of the Silver Sun charged into his quarters, hired by his brother. He fought well, surprising them all with his secret training, but they were seasoned hunters. They quickly took him into custody and branded him a danger to the realms, scheduled for execution the next morning.
+    Brendall had always been distant, focused on duty where Basil preferred books, but the crown's reward transformed him into someone Basil no longer recognized. Still, he failed to see the danger until it knocked on his door, convinced Cilantro's lessons had already put him in a league of his own. Three Witch Hunters of the Order of the Silver Sun, hired by his brother, charged into his quarters and proved him wrong. They branded him a Shifter and a danger to the realms, scheduled for execution the next morning.
     
-    But in the hour before sunrise, Cilantro came, under the pretense of bringing a message from his mother. She broke him free, literally slapping the young man into action. But ultimately, the Witch Hunter guards were too strong, equipped to counter spells and beasts alike. She tricked Basil into running ahead, then lowered the portcullis behind him. He couldn't return to help her, but across the moat, he heard her bladesong coming to an abrupt end just as the sun rose. Out of options, he ran to honor her sacrifice.
+    But in the hour before sunrise, Cilantro came, under the pretense of bringing a message from his mother. She broke him free, literally slapping the dazed young man into action. They ran, but ultimately the Witch Hunter guards were too strong. She tricked Basil into running ahead, then lowered the portcullis behind him. He couldn't return to help her, but across the moat he heard her bladesong coming to an abrupt end just as the sun rose. Out of options, he ran to honor her sacrifice.
     
     Brendall was furious. Nevarra's involvement in the plot to free Basil with a false letter was discovered, and she was imprisoned. With Witch Hunters patrolling the roads, Basil had no other choice but flee. Stealing a sailing boat, he set off to far shores, vowing to return one day.
     
@@ -68,26 +68,30 @@
 
     Lexley the ermine familiar fits Basil a little too well: a fierce but graceful little predator with regal connotations. He embodies Basil's Jungian shadow, part comic relief, part serial killer; from the merchant's prize canary to the kittens behind the inn, a constant source of headaches and embarrassments for Basil.
 
-    ## Doubt and Despair
+    ## Late Blooming Wallflower
     
-    Basil is exceptionally well spoken, but his family hid him away, meaning he never got the chance to hone his people skills. He doesn't exactly envision himself as a noble of house Tenebrian, and ousting his brother. He is more set in his family's view of himself as "less than" other nobles, unfit for the job. Whether his mother Nevarra still lives, and what price her loyalty cost, haunts Basil's dreams. Some nights he imagines daring rescues. Others he fears he'll return to find nothing but a grave.
-       
+    Basil is very well spoken, but his family hid him away, meaning he never got the chance to hone his people skills or get a strong sense of place in the community he inhabited. He doesn't envision himself as a noble of house Tenebrian and is more set in his family's view of himself as "other" from the nobles, unfit or differently fit for the job. 
+	
+	Instead, he had to invent his own identity, with kind help from Cilantro. As a youth he explained away his wallflowerhood, thinking he was 'studying the blade', going his own path. In the end, that didn't prepare him for the actual challenges he'd face, and Cilantro paid the price for him learning that lesson.
+	
     ## Sniffs, sniffles, and wardrobe malfunctions
     
-    Basil experiences the world through smell. When casting Detect Magic, it is an olfactory experience as much as a magic one. Illusion spells smell of camphor and sage, conjuration spells of sulphur and ozone.
+    Smells guide Basil's experiences. When casting Detect Magic, it is an olfactory experience as much as a magic one. Illusion spells smell of camphor and sage, conjuration spells of sulphur and ozone.
     
     Despite his sensitive nose, he still uses perfume to cover some of the beastly musk he exudes (or thinks he exudes). It makes him sniffle, and makes it harder for him to use Perception with smell.
     
     Basil's tail is a constant source of concern. Does he hide his tail in his trousers, or does he have them tailor made with a hole in the back? He's still struggling to find the best solution.
         
-    ## Mechanical Analysis
+    ## Mechanical Considerations
     
-    With both Bladesong and Beasthide active, Basil reaches 20 AC, with a decent pool of temp HP on top, strengthening the gish-ness of the build. He also gets a strong bonus to Concentration saves on top of Warcaster advantage, meaning CON 14 should be perfectly serviceable for this build.
+    With both Bladesong and Beasthide active, Basil reaches 20 AC, with a little pool of temp HP on top. He also gets a strong bonus to Concentration saves on top of Warcaster advantage, meaning CON 14 should be perfectly serviceable for this build.
     
-    Basil's background is a slightly adjusted Noble background: The STR ability score increase was changed to DEX, the proficiency in Persuasion was changed to Perception, to better reflect Basil's wallflower upbringing.
+    Basil's background is a slightly adjusted Noble background: The STR ability score increase was changed to DEX, the proficiency in Persuasion was changed to Perception, to better reflect his wallflower upbringing.
     
     **Combat flow:** Bladesinger and Beasthide compete for Bonus Action activations. When possible, lead with Bladesong for bigger buffs. Beasthide bolsters your defenses when the combat flow allows it. It also fits well with Basil's persona: he falls back on his more feral self as the battle continues and he gets more desperate.
-    	
+	
+	**Wild Hunt alternative:** If the +1 AC and temp HP from Beasthide feel superfluous, the Wild Hunt Shifter option gives advantage on Wisdom checks, giving stronger mechanical justification for his fine-tuned senses. It also makes him immune to attacks with Advantage.
+    
     ## Sample Quotes
     
     "The barmaid called me a 'good boy', and I couldn't even project proper outrage because... I hate to admit it, but of course my stupid tail started wagging. 'Mortified' doesn't begin to cover my emotional state right now. So I'm afraid we need to find another tavern. I'm never coming back."

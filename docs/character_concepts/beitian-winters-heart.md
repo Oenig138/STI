@@ -2,9 +2,9 @@
 
 ![Beitian "Betty" Winter's Heart](assets/beitian-winters-heart.png){ width="300" }
 
-> *"You hear lies. I see them. We're not the same. I poke holes in them till they deflate like puffballs."*
+	> *"Wait wait wait—the blacksmith's son and the mayor's daughter?! No, sit down, you're not going anywhere until I have the complete timeline. Pretzel?"*
 
-**Deaf Dragonchess prodigy turned gambling addict, haunted by her own brilliance and the clan debt she swore to repay. She's been one perfect hand away from redemption for years.**
+	**White Dragonborn Soulknife from a clan born without earbones, where sign language and psionic gifts are the only speech. A Dragonchess prodigy who got hustled and can't go home until she's won back what she lost *and* interest that'll impress. So she fills her days with fast quips and other people's drama, because examining her own life would mean admitting maybe even a prodigy has her limits.**
 
 ---
 

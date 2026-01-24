@@ -2,9 +2,9 @@
 
 ![Geldok Iron Tusk](assets/geldok-iron-tusk.png){ width="300" }
 
-> *"Ya telln me I was wrong ta smack dat boys fukwad dad over is head? Dat clerics shud stick ta healin' an preachy wurds? Fuk dat. I'm 'ere cuz the Big Boss told me to. If all went along with them fine Gads' plans they wuldn' need guys like me in da first place. I'm not lookin' fer signs. I AM the sign."*
+> *"Ya telling me I was wrong ta smack dat boys fuckwad dad over'is head? Like clerics should stick ta healin' an preachy wurds? Fuck dat. I'm 'ere cuz the Big Boss told me. If all went along with them fine Gads' plans they wouldn't need guys like me in da first place. I'm not lookin' fer signs. I AM the sign."*
 
-**Ex-raider turned unlikely cleric of the "Big Boss"; street-corner preacher, healer and problem solver for the little guy.**
+**Ex-raider turned unlikely cleric of the mysterious "Big Boss". Street-corner theologist who doesn't believe in preaching, instead opting to be a healer and problem solver for the little guy.**
 
 ---
 
@@ -19,10 +19,9 @@
     
     **At the Table**
     
-    * Undeniably 'Orcish' yet compassionate healer who treats the smallfolk for free
-    * Not institutional religion—he's the guy who'll reset your arm, give your kid a honey treat, then deal with the bastard who broke that arm
-    * Fears no mortal hierarchy; pities his old clan more than he resents them
-    * The party's tough-love medic and moral anchor who doesn't need scripture (and possibly can't even read) to know his god is with him.
+    * Undeniably 'Orcish' yet compassionate healer who treats the smallfolk for free 
+    * Not institutional religion, and fears no mortal hierarchy as he answers only to the 'Big Boss'.
+    * The party's tough-love medic and moral anchor who doesn't need scripture (and doesn't read too well anyhow) to know his God is with him.
     
     **Backstory (Short Form)**
     
@@ -30,9 +29,9 @@
     
     **Playing Geldok**
     
-    * **Combat:** Tanky old healer who refuses to go down easily; focuses on tenacity and big healing.
-    * **Roleplay:** Think Friar Tuck meets Uncle Iroh—gruff Orc dialect, pedantic about cleanliness, calls out bullshit without fear, excellent judge of character
-    * **Party Synergy:** The sane adult everyone wishes they had in their life as a kid—tough, fair, kind, and unafraid to do what's right
+    * **Combat:** Tanky old healer who refuses to go down easily, providing *big* healing and occasional mace to face.
+    * **Roleplay:** A gruff Orc who is still pedantic about cleanliness, calls out bullshit without fear, and is an excellent judge of character. Distrusts any technology more advanced than a four-wheel wagon, and prefers street-level direct aid to saving kingdoms.
+    * **Party Synergy:** The sane adult everyone wishes they had in their life as a kid—tough, fair, kind, and unafraid to do what's right.
 
 ---
 
@@ -56,11 +55,11 @@
     
     On downtime, his Orc manners give way to pedantic cleanliness as he sets up his tent and invites patients, faithfully in every town and village he visits. It's about setting up a small sacred space where you're seen as important no matter where you come from in society; the smallfolk deserve better than sitting in someone else's blood or pus. He also knows full well that many in the smallfolk don't trust him initially. Whether setting broken bones or treating coughs, he's gruff but compassionate, like that sane, assertive adult every abused kid wished they had in their life. Tough, fair, no time for verbal sparring, no respect for lofty titles. He only answers to the Big Boss. Mortal hierarchies are dust to him.
     
-    Geldok is an excellent judge of character who will call others out without fear. He's been training his entire life at playing into a tough Orc facade. With his high Insight, he's not easily intimidated or unbalanced. He's no stranger to violence, even though it never held any appeal to him.
+    Geldok is an excellent judge of character who will call others out without fear. He's been training his entire life at playing into a tough Orc facade. With his high Insight, he's not easily intimidated or unbalanced. He's no stranger to violence, even though it never held any appeal to him. 
     
-    Does Geldok still remember the abuse he suffered at the hands of his clan, and especially the women? Of course. Does he resent the path they ultimately set him on today? Not at all. He thinks of them as fundamentally misguided, and their cruelty may still haunt his dreams on some nights. But when he wakes up, Big Boss is there to greet him again. He does not fear his old clan. He pities them.
+    Does Geldok still remember the abuse he suffered at the hands of his clan, especially the women? Of course. Does he resent the path they ultimately set him on today? Not at all. He thinks of them as fundamentally misguided, and their cruelty may still haunt his dreams on some nights. But when he wakes up, Big Boss is there to greet him again. He does not fear his old clan. He pities them.
     
-    In his heart, Geldok realizes he knows little of the deity he serves. The Big Boss could be a divine union rep calling out people who abuse power, a merciful broken God who heals pain, or a breaker of chains. But so far it has been faithfully by his side, and it only showed itself once he accepted the purpose that was already written in his heart. It all has to mean something. He's spent half a lifetime pretending to be something he didn't really want to be. Why not spend the rest pretending to be something he believes in? Truth isn't always given. In the words of Geldok, "Sometimes you gotta work for it."
+    In his heart, Geldok realizes he knows little of the deity he serves. The Big Boss could be a merciful broken God who heals pain, a breaker of chains, or just a divine union rep. But so far Big Boss has been faithfully by his side, and only showed up once he accepted the purpose he already felt was true in his heart. It all has to mean something, and so Geldok has developed a fatalistic streak. He's spent half a lifetime pretending to be something he didn't really want to be. Why not spend the rest pretending to be something he believes in? If he works hard enough, maybe it becomes true.
     
     ### Character Traits
     
@@ -68,27 +67,33 @@
     
     **Ideals:** Cleanliness is respect for your body and others. The Big Boss provides. 
     
-    **Bonds:** Clan Iron Tusk hasn't forgotten...
+    **Bonds:** Clan Iron Tusk hasn't forgotten... But there are so many others who matter more. 
     
-    **Flaws:** Bit of a pedant, sticks to his guns, has a fatalistic streak.
+    **Flaws:** Bit of a pedant, sticks to his guns, has a fatalistic streak. *Very bad* with machinery and needs help manipulating even simple contraptions. Has a deep distrust of Warforgeds.
     
     ### Sample Quotes
-    
-    "Ya telln me I was wrong ta smack dat boys fukwad dad over is head? Dat clerics shud stick ta healin' an preachy wurds? Fuk dat. I'm 'ere cuz the Big Boss told me to. If all went along with them fine Gads' plans they wuldn' need guys like me in da first place. I'm not lookin' fer signs. I AM the sign."
     
     "Ere's a bad rotted toof. Gotta pull it. Sum big hurt now, but none in the morrow. Gargle this. Orc rum like momma used to make it. Burns nice, don't it?"
     
     "Ya come limpin' in my tent, ya get patched. Don't care if yer a prince or a pig thief. Well... if yer princely ye pay."
     
     "Mercy don't mean soft. Mercy means stoppin' when ya coulda kept goin'."
+	
+	"Back when, I used ta mill grain muscle-wise, wit a stone pestle. Ye smell when it's dun, when grit's gone soft. I dun trust these windmills. How's da wind to know when the grain's proper done?"
     
     "Never seen an Orc up close before have ya, lass? Jus relax, tusks're for show. Mostly. What's yer ail today? If yer good and yer momma say so, ya can have a honey treat from da jar."
 	
-    "Big Boss told me, he says, 'set them broken bones an talk straight to da tax collector. Dat's wut vindication looks like. Prayer's gravy."
+    "Big Boss told me, he says, 'set them broken bones an talk straight to da tax collector. Prayer's gravy.' Dat's wut vindication is all about."
     
 	"Who is Big Boss? I dunno. He's in my heart, not my head. I dun trust preachers wut have everything explained. Dat's too neat."
 	
-	"Lad... yer ma didn't make it. No words. Sumtimes life's not meant to keep goin'. She said she luvs ye very much. Come'ere. I'll take ye home."
+	"Lad... yer ma didn't make it. No words. Sumtimes life's not meant ta keep goin'. She said she luvs ye very much. Come'ere. I'll take ye home."
+	
+	---
+	
+	### Playing Geldok: Group Dynamics
+	
+	Geldok's big redemption is behind him. He's not traumatized, doesn't require much emotional investment from the group. He's a giver and a stabilizing force. Justify joining a party if they seem to need a healer, or maybe the Big boss just comes to you and tells you they need you. Geldok may not even really be up for it initially, depending on the party, but he trusts Big Boss. Geldok can easily default to being the party’s conscience. If you want to introduce tensions, you can play to Geldok's fatalism. Maybe the big battles seem too abstract for him? Maybe he doesn't truly care if the kingdom collapses, as long as he gets to keep helping the little guy?
 	
 	---
 	

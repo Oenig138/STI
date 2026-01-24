@@ -4,7 +4,7 @@
 
 > *"Am I what? Evil? Goodness no. I wouldn't even swear in front of the children, and they have children of their own now."*
 
-**Halfling Warlock grandpa who accidentally became a cult leader by turning blood rituals into potluck dinners and community daycare.**
+**Halfling Warlock grandpa who accidentally became a cult leader by turning blood rituals into potluck dinners and community daycare. May be an evil genius.**
 
 ---
 

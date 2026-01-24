@@ -4,7 +4,7 @@
 
 > *"By my count, this feast they're throwing us could feed twenty-three for a week. Give me your Bag of Holding. Now."*
 
-**Folk cleric of communal providence: half saint, half neighborhood menace, racing against middle age while her order wants her to hang up her lockpicks and take the scholarly "turmeric robe".**
+**Illegal slum cleric of the Mud Nuns and refugee smuggler who redistributes wealth with bureaucratic zeal, racing against middle age while her order pressures her to retire from hustling and take the scholarly "turmeric robe".**
 
 ---
 

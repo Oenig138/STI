@@ -2,9 +2,11 @@
 
 ![Belvarax "Gobsmack" Allimander](assets/belvarax-gobsmack-allimander.png){ width="300" }
 
-> *"Let the world scorn me, call me coward. I've made peace with being misunderstood. If I defended myself, I'd be serving my pride, not my oath."*
+> *"Yes, some goblin tribes do torture their victims. That's not what I'm condoning. I'm asking, what did the mayor do with the last goblin they captured?"*
 
-**Dragonborn party daddy/shepherd universally scorned for his reluctance to smite baddies or even stand up for himself. Unironically sends birthday cards to his worst enemies, which likely pisses them off more than any scorn.**
+**A paladin who read the fine print and realized "protect the weak" might mean the goblins, not the mining companies paying his order's bills to displace them. Now he's an unwelcome reminder that the oath answers to sincerity, not the rules of the order. Meanwhile the goblins keep dying while he's busy asking questions.**
+
+A paladin who stopped mid-swing when he saw a starving child behind the goblin he was fighting. Now he asks questions first, defends second, and smites almost never, while the goblins he advocates for keep dying. His old order calls him a coward for reinterpreting his oath, but fear the fact it is still intact.**
 
 ---
 
@@ -29,7 +31,7 @@
     
     **Backstory (Short Form)**
     
-    Belvarax was a gallant paladin who battled goblin raiders until he discovered the "raids" were desperate attempts to feed starving families displaced by predatory mining companies. His oath became a tool of oppression in corrupt hands. He retreated to the mountains and returned changed, reinterpreting his vows to prioritize compassion over haste. Many now call him "Gobsmack" and consider him a coward. Other paladins scorn his constant indecision, yet his Paladin power remains undiminished. His oath answers to conviction, not the consensus of the order.
+    Belvarax was a gallant paladin who battled goblin raiders, until he discovered the "raids" were desperate attempts to feed starving families displaced by mining companies that donated big money to his order. He retreated to the mountains and returned changed, reinterpreting his vows to serve his heart, not his order. Many now call him "Gobsmack" and consider him a coward. Other paladins scorn his constant indecision, yet his Paladin power remains undiminished. The Chapter can neither explain it, or accept it.
     
     **Playing Belvarax**
     
@@ -71,27 +73,25 @@
 	
 	## The Reinterpreted Oath
 	
-    Ultimately, Belvarax chose *not* to become the leader of a goblin resistance against the greedy mining companies. That came with its own set of hard moral obligations. Among them, he had to make an entirely new interpretation of the Paladin Oath of Devotion. But he's a farmer, not a philosopher, and has no head for politics. His new system is built from sincerity, patience and experience, not rigorous study. 
+    Ultimately, Belvarax chose *not* to become the leader of a goblin resistance against the greedy mining companies. He also chose not to take the Oath of Redemption. That choice came with a set of hard moral obligations. He returned to Oath of Devotion's tenets and found the Chapter had been reading them to serve power rather than principle. He's a farmer, not a philosopher, with no head for politics, but even so he chose to make new interpretations and live by them.
     
     **Oath: "Let your word be your promise."**
-    Interpretation: Never give a promise, since promises depend on circumstances beyond your control. Breaking a promise poisons the wellspring of conviction from which a paladin draws strength.
+    Interpretation: Words are empty in a world of actions, and therefore you should never make a promise. Promises depend on circumstances beyond your control, and breaking a promise poisons the wellspring of conviction from which a paladin draws strength.
     
     **Oath: "Protect the weak and never fear to act."**
-    Interpretation: This is not a license to act with impunity. Firstly, who are the weak? What if raiding goblins lack access to other means of survival? Action without investigation is not bravery, but reckless conviction of your own infallibility. That is a hallmark of an evil-doer. Therefore, investigation is a necessary part of action, and not a sign of fear.
+    Interpretation: This is not a license to act with impunity. Who are the weak? Action without investigation is not bravery, but reckless conviction of your own infallibility. That is a hallmark of an evil-doer. Therefore, investigation is *the* necessary first part of any legitimate action of protection.
     
     **Oath: "Let your honorable deeds be an example."**
-    Interpretation: This implies there are also dishonorable deeds. Therefore you must be careful to not set bad examples. It's more important to not do wrong, since it takes more effort to rectify mistakes once made, than to not make them in the first place. A life takes many years of constant love and nurture to grow, but only a moment of force to undo. Therefore, growing and sheltering a life is the most honorable deed. Who then should I take my examples from?
-        
+    Interpretation: This implies there are also dishonorable deeds. Therefore you must be careful to not set a bad example. It's more important to not do wrong: A life takes many years of constant love and nurture to grow, but only a moment of force to undo. Therefore, growing and sheltering a life is the most honorable deed.
+    
     ## Sample Quotes
     
     "Let the world scorn me, call me coward. I've made peace with being misunderstood. If I defended myself, I'd be serving my pride, not my oath."
-    
-    "Yes, some goblin tribes do torture their victims. That's not what I'm condoning. I'm asking, what did the mayor do with the last goblin they captured?"
-    
+        
     "Groats again? Oh, I'm not complaining... But didn't I contribute 20 gold to the food budget last week? Those are lovely new boots, by the way."
     
     "While I've no idea what's going on here, I'm going to ask all of you to calm down. If you want to get to this girl, whatever harm she's done, you're going through me. And I breathe fire."
-        
+    
     "No, I don't subscribe to the children's-book morality where you just smite the evildoers and then celebrate in the town square. That's fairy tale logic. Dealing death is easy, growing life is hard. Being a Paladin is about never choosing the easy way."
 	
 ---
@@ -100,7 +100,7 @@
 	
 	**Marielthra "Mariel" Cinderwing**: Dragonborn woman of deep green scales, steady hands, and a laugh that still makes Belvarax's stomach knot. They grew up side by side on neighboring farms in the Amberfield valley. Where Belvarax was cautious and deliberate, Marielthra was bold, larger than life, singing while she worked, haggling at market stalls, and daring him into mischief. Belvarax never managed to confess his feelings. His oath, his battles, and later his exile kept him at a distance. Today, he knows little of what became of her, but she made a hell of an impression.
 	
-	**Satine Boyard, Dean of the Chapter**: An Aasimar of impeccable lineage and legendary tactical mind, Satine believes the Paladin oath is a covenant of action, and hesitation is invitation to defeat. She watched her mentor die an unnecessary and brutal death on the battlefield because someone in the chain of command second-guessed an order. She will not allow that mistake to play out again. Satine isn't angry at Belvarax, but deeply disturbed by him. If his wild interpretations are valid, if the oath still flows through him despite his analysis paralysis and radical doubt, then everything she's built her whole identity around is arbitrary. The last time they met, she drew steel: if she could provoke him to fight back, she could prove he was just another apostate hiding behind sophistry. He didn't oblige, only defended masterfully. She walked away more terrified than before.
+	**Satine Boyard, Dean of the Chapter**: An Aasimar of impeccable lineage and legendary tactical mind, Satine believes the Paladin oath is a covenant of action, and hesitation is invitation to defeat. She watched her mentor die an unnecessary and brutal death on the battlefield because someone in the chain of command second-guessed an order. She will not allow that mistake to play out again. Satine isn't angry at Belvarax, but deeply unsettled by him. If his wild interpretations are valid, if the oath still flows through him despite his analysis paralysis and radical doubt, then everything she's built her whole identity around is arbitrary, and the order has no monopoly on what the Oath even means, and she is no better than Belvarax herself. The last time they met, she drew steel. If she could provoke him to fight back, she could prove he was just another apostate hiding behind sophistry. He didn't oblige, only defended masterfully. She walked away more terrified than before.
 	
 	**Matron Shatrag**: An elderly goblin woman with a missing eye and a body scarred from decades of field work, Shatrag leads what remains of the displaced Thornback clan. She saw through Belvarax instantly that morning he came to her village, but knew better than to place trust cheaply. A paladin with tears in his eyes is still a paladin with a pike. But she also recognized a man whose world had just shattered. She took a calculated risk and told him the truth of their situation. She got what she wanted, but now she's stuck with a protector who only reacts to threats as they arise, and never actually deals with the problem. Her patience grows thin. "You're a good man, Belvarax. But my grandchildren can't eat your good intentions."
 	
@@ -130,7 +130,7 @@
 	
 	## Key Relationship Dynamics
 		
-	**Satine Boyard**: The Chapter never granted Belvarax his abilities, which means they cannot revoke them. Paladin power flows from sincere adherence to the oath itself. Excommunication, branding him apostate, turning public opinion against him, these are Satine's only weapons, and none of them touch his actual power. Satine knows this, even if she won't say it aloud, and it fills her with dread. If Belvarax is right, the entire hierarchy exists only by convention, not necessity—and she's spent her whole life climbing a ladder that might not be leaning against anything.
+	**Satine Boyard**: The Chapter never granted Belvarax his abilities, which means they cannot revoke them. Excommunication, branding him apostate, turning public opinion against him, these are Satine's only weapons, and none of them touch his actual power. Satine knows this, even if she won't say it aloud, and it fills her with dread. If Belvarax is right, the entire hierarchy exists only by convention, and she's spent her whole life climbing a ladder that might not be leaning against anything.
 	
 	**Matron Shatrag**: Use her to hold Belvarax accountable for his inaction. She's the living conscience he can't escape. When he hesitates, she's the one who asks: "And how many of my people died while you were thinking?"
 	
