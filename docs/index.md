@@ -73,13 +73,13 @@
 </figure>
 
 <figure class="character-card">
-  <img src="assets/characters/cephala-fortina.webp"
-       alt="Cephala Fortina, aasimar warlock" loading="lazy">
-  <span class="name" id="name-cephala-fortina">Cephala Fortina</span>
-  <figcaption id="cap-cephala-fortina">
-    Aasimar Warlock. Charlatan with chronic wanderlust and attachment issues. Perhaps the least qualified person to become divine detective tasked by a broken Patron with finding a lost people, but here we are.
+  <img src="assets/characters/cog-stool.webp"
+       alt="Cog-Stool, Warforged Spore Druid" loading="lazy">
+  <span class="name" id="name-cog-stool">Cog-Stool</span>
+  <figcaption id="cap-Cog-Stool">
+    Warforged Spore Druid, a strange two-minded chimera born of centuries of quiet interfacing between a decommissioned battledroid prototype and an awakened mycelial network.
   </figcaption>
-  <a href="character_concepts/cephala-fortina" aria-labelledby="name-cephala-fortina cap-cephala-fortina"></a>
+  <a href="character_concepts/cog-stool" aria-labelledby="name-cog-stool cap-cog-stool"></a>
 </figure>
 
 <figure class="character-card">
