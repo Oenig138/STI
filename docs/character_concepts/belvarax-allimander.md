@@ -6,8 +6,6 @@
 
 **A paladin who read the fine print and realized "protect the weak" might mean the goblins, not the mining companies paying his order's bills to displace them. Now he's an unwelcome reminder that the oath answers to sincerity, not the rules of the order. Meanwhile the goblins keep dying while he's busy asking questions.**
 
-A paladin who stopped mid-swing when he saw a starving child behind the goblin he was fighting. Now he asks questions first, defends second, and smites almost never, while the goblins he advocates for keep dying. His old order calls him a coward for reinterpreting his oath, but fear the fact it is still intact.**
-
 ---
 
 ## Character overview

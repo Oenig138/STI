@@ -2,20 +2,21 @@
 
 ![Cog-Stool](assets/cog-stool.png){ width="300" }
 
-> 	"Winds move the grass, visible only in movement. When thoughts stir the mind, what is it that moves?"
->	"OUTPUT: NULL. REFERRENT NONSENSICAL. PLEASE RESTATE YOUR QUERY."
->	"We consider 'sense'. The wind is picking up."
+> 	"Winds move the grass, visible only in movement. When thoughts stir the mind, what is it that moves?"  
+>	"OUTPUT: NULL. REFERRENT NONSENSICAL. PLEASE RESTATE YOUR QUERY."  
+>	"We consider 'sense'. The wind is picking up."  
 
 **A decommissioned warforged lightning rod colonized by mycelium for centuries. Somehow an interface arose, and now two incommensurable minds with vastly different perspectives and powers share one frame.**
 
 ---
 
 ## Basic Information
-**Species:** Warforged (Construct)  
-**Class:** Druid 5 (Circle of Spores)  
-**Background:** Deepborn (Tweaked Guard)
-**Age:** Unknown.
-**Alignment:** Neutral
+
+- **Species:** Warforged (Construct)  
+- **Class:** Druid 5 (Circle of Spores)  
+- **Background:** Deepborn (Tweaked Guard)
+- **Age:** Unknown.
+- **Alignment:** Neutral
 
 ??? info "Quick Intro"
     
