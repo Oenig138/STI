@@ -214,6 +214,12 @@
     
     **Content Notes:** Mild body horror (mycelium colonizing metal frame, spore dispersal, fungal growth), existential themes (dual consciousness, identity crisis, question of personhood for hybrid being).
     
-    **Representation Notes:** Cog-Stool's dual consciousness might resonate with players exploring plurality, neurodivergence, or identity multiplicity. The character's struggle with mismatched systems might parallel experiences of internal conflict or trying to integrate different aspects of self. But Cog-Stool is *not* designed to serve as direct representation of any group. The topic that may be up for discussion is comfort levels with dissociative experiences or identity fragmentation,if relevant to your table.
+    **Representation Notes:** Cog-Stool's dual consciousness might resonate with players exploring plurality, neurodivergence, or identity multiplicity. The character's struggle with mismatched systems might parallel experiences of internal conflict or trying to integrate different aspects of self. However, Cog-Stool is *not* designed to serve as direct representation of any specific condition or experience.
+
+	**Stigma and Ableism:** Cog-Stool's primitive frame and dual consciousness create genuine limitations that other characters may respond to with pity, disgust, fascination, or assumptions about what Cog-Stool "needs." The character is designed to allow exploration of how societies treat those who are visibly different - but this is OPTIONAL content.
+	
+	**Critical Session Zero Question:** Does anyone at your table face stigma, ableism, or social marginalization in their daily life and come to D&D specifically to get away from that experience? If so, the DM should strongly consider running a world where Cog-Stool is simply accepted as they are, where other NPCs respond with curiosity or matter-of-fact professionalism rather than prejudice. The character works perfectly well without the stigma elements - they're narrative options, not requirements.
+	
+	If your table DOES want to explore these themes, establish clear boundaries about what kinds of NPC reactions are on/off limits, and make sure the player of Cog-Stool (or the party if Cog-Stool is an NPC) has full agency over when and how those interactions occur.
 
 ---

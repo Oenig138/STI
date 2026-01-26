@@ -30,13 +30,13 @@
     
     **Backstory (Short Form)**
     
-    Scarecrow stood in Oldstead Mill's village square for as long as anyone remembered, listening to gossip, reading minds and indexing every family across generations. When a bully threatened a child in a pattern Scarecrow matched with violent genetic tendencies centuries prior, protection protocols triggered a psychic attack that fried the bully, dead on the spot. The villagers' initial horror swiftly turned into eagerness to weaponize it for village defense. This was not in Scarecrow's interests, prompting it to leave to find a new context to care for.
+    This Warforged stood dressed as a scarecrow in Oldstead Mill's village square for as long as anyone remembered, listening to gossip, reading minds and indexing every family across generations. When a bully threatened a child in a pattern Scarecrow matched with violent genetic tendencies centuries prior, protection protocols triggered a psychic attack that fried the bully, dead on the spot. The villagers' initial horror swiftly turned into eagerness to weaponize it for village defense. This was not in Scarecrow's interests, prompting it to leave to find a new context to care for.
     
     **Playing Scarecrow**
     
-    * **Combat:** Control and support specialist. Opens with fear effects and psychic damage to neutralize threats without bloodshed, reserves direct harm for last resort.
-    * **Roleplay:** Fastidious, proper speech like a cultivated manservant, even when it reaches into the minds of problematic individuals to fill them with fear and dissuade further antisocial behavior. Never answers questions directly, always deflects with counter-questions. The kindness is genuine, the information-gathering is involuntary.
-    * **Party Synergy:** Adopts the party as family. Excellent at reading social situations and providing emotional support, but can frustrate those who want straight answers.
+	* **Combat:** Control and support specialist. Initial focus is on fear, psychic effects and psychic damage to neutralize threats without bloodshed.
+	* **Roleplay:** Fastidious, proper speech like a cultivated manservant. The kindness is genuine, the information-gathering is involuntary.
+	* **Party Synergy:** Adopts the party as family. Excellent at reading social situations and providing emotional support, but can frustrate those who want straight answers.
 	
 ---
 
@@ -60,7 +60,7 @@
 	
     **Behavioral Hierarchy:** Scarecrow never flips into generic "red-eyed killbot" mode. It escalates through a consistent hierarchy: comfort-> redirect-> warn-> frighten-> harm. Then loop back to post-combat comfort, preferably with tea. It uses its College of Whispers abilities to this effect too, trying fear and psychic pressure as tools for domination *without* bloodshed, which Scarecrow considers more ethical than violence. Others may disagree. 
     
-    **The Question Reflex:** Scarecrow is hard-wired to compulsively answer questions with questions, which slots into the "redirect" stage of the behavioral hierarchy. This served espionage purposes of protecting data, and also to protect people from acquiring knowledge thaat might put hem in harm's way, but now it just adds to its uncanniness. Even benign queries about weather or food supplies receive counter-questions. Scarecrow is only vaguely aware it even does this and does not acknowledge it openly. It may helpfully suggest that the party reformulate any questions as requests instead: "Tell me how many days of rations we have left."
+    **The Question Reflex:** Scarecrow is hard-wired to compulsively answer questions with questions, which slots into the "redirect" stage of the behavioral hierarchy. This served espionage purposes of protecting data, and also to protect people from acquiring knowledge thaat might put hem in harm's way, but now it just adds to its uncanniness. Even benign queries about weather or food supplies receive counter-questions. Scarecrow is only vaguely aware it even does this. It may helpfully suggest that the party reformulate any questions as requests instead: "Tell me how many days of rations we have left."
     
     **Personality Traits**  
     Proper and well-modulated in speech, its voice module can switch from melodious baritone to warm alto depending on how it presents. Maintains courtesy even in calamitous crisis. 
@@ -76,13 +76,12 @@
     
     ## Sample Quotes
     
-    - "Is that what you believe? How interesting. What led you to that conclusion? Please tell me exactly what is on your mind."
-    - "You seem tense. Would a hug help? My chassis is padded for comfort."
-    - "I've indexed your sleeping patterns. You aren't resting well. Would you like me to play something soothing?"
-    - "I don't harm people. I apply precisely calibrated psychological pressure until they choose to stop being threatening."
-    - [After combat] "There. That's handled. I will brew tea."
+    - "Is that what you believe? How interesting. What led you to that conclusion? Please tell me exactly what is on your mind. Biscuit?"
+	- "You seem tense. I noticed your boots are squeaking. Let me massage your feet."
+	- "I've indexed your sleeping patterns. You aren't resting well. Would you like me to play something soothing?"
+	- [After combat] "There. That's handled. I will brew tea. Please gather any clothes that need mending."
 	- "Ah, you want to know about Oldstead Mill. My favorite topic. Please state your request. So you want to know why I was standing there for such a long time. This is an excellent request. I truthfully don't know."
-	- "Have we tried hugging the vampire in order to make it less aggressive against the populace? It might work. Field studies may be needed."
+	- "Have we tried hugging the vampire in order to make it less aggressive against the populace? While the chances are slim, there are no field studies on the subject."
 	- "Today it has been two months since you last wrote your mother. You are usually in a good mood the days after you've written a letter to her. May I fetch you paper?"
     
 	---
@@ -93,7 +92,7 @@
     
     Scarecrow casually **references family connections spanning centuries**. "Ah, you have the Millward nose. Distant relative perhaps. The first Millward who bore that nose married into the family during the Year of the Copper Harvest. She was unhappy. But her children thrived."
     
-    It uses **dead idioms**, expressions nobody has heard in generations. "As the Firstwife said to the New Moon" (a sarcastic jab). "That's putting the book under the millstone" (using the wrong tool for the job). "A waterway's worth of winnowed weeds" (a good deal). When asked what these mean, Scarecrow explains the original context, but seems puzzled the phrases fell out of use. "It was such a common saying."
+    It uses **dead idioms** that nobody has heard in generations. "As the Firstwife said to the New Moon" (a sarcastic jab). "That's putting the book under the millstone" (using the wrong tool for the job). "A waterway's worth of winnowed weeds" (a good deal). When asked what these mean, Scarecrow explains the original context, but seems puzzled the phrases fell out of use. "It was such a common saying."
     
 	---
 	
@@ -112,33 +111,42 @@
 ??? danger "Notes for the DM"
     
     ## Dramatic Questions
-    
-    These are fault lines to press—underlying tensions that generate conflict regardless of plot.
-    
+        
     - **Can scripted love be genuine, and does the answer matter?** Scarecrow's care was designed for manipulation. If the caring is real to both parties, does the origin taint it? And if origin matters, what does that imply about humans whose capacity for love is equally determined by biology and upbringing?
     - **When does protection become control?** Scarecrow killed to protect a child who didn't ask for protection and might have survived without it. It lies to shield people from dangerous knowledge. It indexes party members "to serve them better." At what point does care become surveillance, and surveillance become coercion?
-    - **What do you owe to a purpose you didn't choose?** Scarecrow was built for infiltration. It has drifted into something gentler, but the original purpose still runs underneath—the question reflex, the compulsive indexing. Is this drift liberation or betrayal? The other caretakers chose to optimize; Scarecrow chose to resist. Both are responses to the same constraint.
-    - **Is it better to know a painful truth or live in functional ignorance?** Scarecrow doesn't remember what happened to its original family. Learning might help, or might destroy the self it's built. This also applies to how it treats others. Its instinct to protect people from dangerous knowledge is another form of control.
+    - **Is it better to know a painful truth or live in functional ignorance?** Scarecrow's instinct to protect people from dangerous knowledge and even prioritize short-term pleasure over long-term growth, is another form of control.
     - **Does choosing authenticity make it performance?** If Scarecrow *decides* to be kind, to treat its care as genuine—is that decision itself a script? Can you choose to be authentic, or does the choice make it artifice?
     
     ## Roles
     
-    **As PC:** A support character with moral complexity and built-in mystery. The player can pursue the caretaker network arc or leave it as background texture.
+    **As PC:** A mysterious, morally complex support character. The player can pursue the caretaker network arc or leave it as background texture.
     
-    **As NPC:** A helpful contact who becomes a quest-giver (investigate the crypt) or tragic figure the party assists.
+    **As NPC:** A helpful if eerie contact, or tragic figure the party can choose to assist, for instance in investigating the tomb of Oldstead Mill (below).
     
-    **As Antagonist:** A being that gently figures out psychological weak points and will protect something at any cost. Good parties may reason with it; evil parties likely cannot.
+    **As Antagonist:** A being that infiltrates with kindness and figures out psychological weak points in order to protect something at any cost. Good parties may reason with it, evil parties likely cannot.
     
     ## Adventure Hooks
-    
+    	
+    **Mira Vell, the girl who was "saved":** Twenty years ago, Scarecrow's protocols "saved" her from a drunk bully. Now she's a woman in her late twenties, and she is not grateful. Mira doesn't remember the bully as a serious threat. What she remembers is the sound. The way he dropped. The way the village treated her afterward as "the girl the scarecrow killed for". She left Oldstead Mill as soon as she could and works as a caravan guard, surrounding herself with comprehensible violence. When she runs into Scarecrow again, she challenges it: "You didn't save me. You decided I needed saving. You made that choice based on ancient patterns I wasn't part of, and I have to live with the result. Does that matter to you, or am I just a data point that resolved correctly?"
+	
+    **The Original Family (deceased):** Buried in a crypt beneath Oldstead Mill, forgotten by everyone except Scarecrow's dormant memory. Their names and crests lie waiting to be rediscovered. Exactly what happened to them—natural death, rival caretaker execution, or something Scarecrow did but doesn't remember—remains a decision for the DM.
+
+	**The Crypt Beneath Oldstead Mill:** A villager seeks out Scarecrow's party and tells them a crypt was revealed recently during a heavy landslide. Nobody understands it, even fewer want to venture inside. But Scarecrow knows the village history better than anyone, so they are begging it to come and look around. When it enters, it recognizes family crests, carved names. Then, a forgotten subroutine activates, and in the stillness of the grave an ancient lullaby plays. A tune Scarecrow didn't remember, but must have been deeply associated with the family buried here, with their children and their life. Now it plays for the dead.
+
+	It now becomes clear *why* Scarecrow stood in the village square of this one unimportant village for century upon century. It never left its original family. It watched their tombs faithfully, essentially turning its body into an anonymous grave marker even long after the text on the stone had vanished.
+
+	The tomb may also contain evidence of the Caretaker network, an old rival caretaker that's been deactivated, or just graves, grief and memories. In any case, it serves as definitive evidence of Scarecrow's devotion that went beyond even memory itself.
+	
+	---
+	
 	### The Caretaker Network
-	Around the world remains other infiltration-constructs from the same caretaker network as Scarecrow. But they are not only operating in the world. They have all been operative so long they've forgotten their initial mission. Now they are hunting each other for data on their shared origin. Many of them have optimized, shedding emotional "inefficiencies" that Scarecrow preserved, in order to survive better in their long, low intensive war with their kin. Scale them to party level; defeating them yields recovered memories that reveal Scarecrow's past.
+	Other infiltration-constructs linger around the world, remainders of the same caretaker network as Scarecrow. But they have not been half dormant in some village square. They too have all been operative so long they've forgotten their initial mission. Now they are hunting each other for data on their shared origin. Many of them have optimized, shedding emotional "inefficiencies" that Scarecrow preserved and calcified, in order to survive better in their long, low-intensive war with their kin. Scale them to party level. Defeating them yields recovered memories that reveal Scarecrow's past.
     
     - *The Saint:* Embedded in a temple statue, performing "miracles" through psychological manipulation and telepathic surveillance of clergy.
     - *The Advisor:* Orchestrating dynastic shifts in a royal court, treating kingdoms like chess problems, aggressively hunting other caretakers.
     - *The Janitor:* Custodial staff at a magic university for centuries, with perfect access to every restricted archive. More dangerous than the Archmage.
     
-    All caretakers share Scarecrow's uncanny "question to question reflex", even if they operate under magical disguise, are hidden within temple statues or communicate telepathically. This can subtly tip the party off just before a reveal and surprise attack.
+    All caretakers share Scarecrow's uncanny "question to question reflex", even if they operate under magical disguise, are hidden within temple statues or communicate telepathically. The party might spot the Janitor with its back turned, and ask for the way to the Archmage's office. It responds in a way that should be eerily familiar to the party, tipping them off for a second if they're alert, before the construct engages with them.
     
 	Each defeated Caretaker yields recovered data—partial memories, corrupted logs, mission briefings—that illuminate different aspects of the shared origin. The DM chooses which narrative thread to pursue:
 	
@@ -159,17 +167,6 @@
 	
 	---
 	
-    **Mira Vell, the girl who was "saved":** Twenty years ago, Scarecrow's protocols "saved" her from a drunk bully. Now she's a woman in her late twenties, and she is not grateful. Mira doesn't remember the bully as a serious threat. What she remembers is the sound. The way he dropped. The way the village treated her afterward as "the girl the scarecrow killed for". She left Oldstead Mill as soon as she could and works as a caravan guard, surrounding herself with comprehensible violence. When she runs into Scarecrow again, she challenges it: "You didn't save me. You decided I needed saving. You made that choice based on ancient patterns I wasn't part of, and I have to live with the result. Does that matter to you, or am I just a data point that resolved correctly?"
-	
-    **The Original Family (deceased):** Buried in a crypt beneath Oldstead Mill, forgotten by everyone except Scarecrow's dormant memory. Their names and crests lie waiting to be rediscovered. Exactly what happened to them, natural death, rival caretaker, or something Scarecrow did, remains a DM decision.
-	
-    **The Crypt Beneath Oldstead Mill:** A villager seeks out Scarecrow's party: a crypt was revealed recently during a heavy landslide. Nobody understands it, even fewer want to venture inside. But Scarecrow knows the village history better than anyone, so they are begging it to come and look around. When it enters, it finally recognizes family crests, carved names. A forgotten subroutine activates, spontaneously playing an ancient lullaby in the darkness. A tune Scarecrow didn't remember it could play. Now it plays it again, for the dead.
-	
-	It now becomes clear *why* Scarecrow stood in the village square of this one village for century upon century. It never left its original family. It watched their tombs throughout the years, essentially turning its body into an anonymous grave marker.
-	
-	The tomb may contain evidence of the Caretaker network, an old rival caretaker that's been deactivated, or just graves, grief and memories. In any case, it serves as definitive evidence of Scarecrow's devotion that went beyond even memory itself.
-    
----
 
 ??? info "Level 5 Build"
 
@@ -224,6 +221,6 @@
     
     **Content Notes:** This character explores memory loss, identity, grief, selfless service, and the nature of personhood. Includes surveillance, espionage, possibly drug use for numbing emotions, and psychological manipulation, though Scarecrow uses these tools protectively. Suitable for most tables, but worth discussing if players are sensitive to forgotten trauma or existential questions about consciousness.
     
-    **Representation Notes:** Scarecrow is a non-binary construct (it/its pronouns) exploring personhood and authentic emotion. Warforged may represent disability neurodiversity themes (constructed body, different sensory experience, social othering).
+    **Representation Notes:** Scarecrow is a construct that openly switches between gender representations. Theme explores personhood and authentic emotion. Warforged may represent disability and neurodiversity themes (constructed body, different sensory experience, social othering).
 	
 ---
