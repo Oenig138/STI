@@ -1,0 +1,30 @@
+rikiki:
+  name: Rikiki Twilk
+  level: 4
+  cls: Barbarian
+  prof: 2
+  abilities:
+    str: 18
+    dex: 12
+    con: 15
+    int: 8
+    wis: 10
+    cha: 13
+  speed:
+    walk: 30
+    fly: 30
+  hp:
+    max: 41
+    temp: 0
+  features:
+    - Rage (3/long rest)
+    - Danger Sense
+    - Reckless Attack
+    - Divine Fury (1d6+2)
+  attacks:
+    - name: Maul
+      tohit: 6
+      damage: "2d6+4 B, Topple"
+    - name: Talons
+      tohit: 6
+      damage: "1d6+4 S"

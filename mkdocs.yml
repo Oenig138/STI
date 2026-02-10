@@ -1,0 +1,55 @@
+site_name: Steal These Ideas
+site_url: https://oenig138.github.io/STI/
+
+theme:
+  name: material
+  palette:
+    scheme: slate  # Default to dark mode
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+      
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/cards.css
+
+nav:
+  - Home: index.md
+  - Character Concepts:
+      - Alveta "Velvet": character_concepts/alveta-velvet.md
+      - Basil Tenebrian: character_concepts/basil-tenebrian.md
+      - Beitian "Betty" Winters Heart: character_concepts/beitian-winters-heart.md
+      - Belvarax "Gobsmack" Allimander: character_concepts/belvarax-allimander.md
+      - Calypso "So-So" Sonder: character_concepts/calypso-so-so-sonder.md
+      - Cog-Stool: character_concepts/cog-stool.md
+      - Clover Medley: character_concepts/clover-medley.md
+      - Donner: character_concepts/donner.md
+      - Geldok Iron Tusk: character_concepts/geldok-iron-tusk.md
+      - Harold Carnap: character_concepts/harold-carnap.md
+      - Iblit: character_concepts/iblit.md
+      - Inakha Nulakiano: character_concepts/inakha-nulakiano.md
+      - Lia Amberhorn: character_concepts/lia-amberhorn.md
+      - Mahorran The Undertide: character_concepts/mahorran-the-undertide.md
+      - Orfan: character_concepts/orfan.md
+      - Salynna "Sally the Pally" Tarrant: character_concepts/salynna-sally-tarrant.md
+      - Scarecrow: character_concepts/scarecrow.md
+      - Sister Garra: character_concepts/sister-garra.md
+      - Stennart Goldgift: character_concepts/stennart-goldgift.md
+      - Tormin Remus: character_concepts/tormin-remus.md
+      - Yawp Cumuluni: character_concepts/yawp-cumuluni.md
+  - Locations:
+      - Lith and Flesh: locations/the-lith-and-flesh.md
+  - Factions:
+      - The Mud Nuns: factions/mud-nuns.md
