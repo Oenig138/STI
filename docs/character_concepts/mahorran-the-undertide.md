@@ -15,8 +15,6 @@
 **Age:** 33  
 **Alignment:** Neutral Evil
 
-## Quick Intro
-
 ??? info "Quick Intro"
     
     **At the Table**
@@ -34,8 +32,6 @@
     - **Party Synergy:** Reliable in combat, follows orders and keeps people alive as per the job description, but bonding requires the party to actively drag her into engagement, using whichever pressure points they can device. Cider? Werewolf smut? Pretty seashells? With the right party, Mahorran's clammy personality is expected to slowly open up during the campaign, as she finally meets people outside the corporate success cult she calls a family.
 	
 ---
-	
-## Deep Dive
 	
 ??? info "Deep Dive"
     
