@@ -1,0 +1,168 @@
+{
+  "faction_name": "The Mud Nuns (Sisters of the Undulating Graces)",
+  "visual_identity_summary": "Urban sanctity through weathered materials and warm light. Balance sacred imagery with street-level grit. Every element should feel used, earned, and purposeful.",
+  
+  "color_palette": {
+    "primary": [
+      { "name": "Turmeric Gold", "hex": "#D4A017", "usage": "Elder robes, divine light, warmth" },
+      { "name": "Mud Brown", "hex": "#3D2817", "usage": "Shadows, earth, poverty" }
+    ],
+    "secondary": [
+      { "name": "Weathered Copper", "hex": "#7C9473", "usage": "Patina, age, infrastructure" },
+      { "name": "Soot Gray", "hex": "#3A3635", "usage": "Charcoal marks, urban texture" },
+      { "name": "Clay Red", "hex": "#A0522D", "usage": "Brick, blood, sacrifice" }
+    ],
+    "accent": [
+      { "name": "Spectral Gold", "hex": "#FFE4B5", "usage": "The Humbler glow, divine manifestation" },
+      { "name": "Parchment", "hex": "#F4ECD8", "usage": "Receipts, aged paper" }
+    ],
+    "forbidden": "Bright, clean, or jewel tones. Nothing pristine."
+  },
+
+  "core_visual_elements": [
+    {
+      "element": "Turmeric Robes (Elder Sisters)",
+      "specs": "Sun-faded saffron yellow with visible mending. Hems mud-stained. Fabric shows wear patterns at elbows and knees. Never perfectly clean.",
+      "symbolic_weight": "Divine light made humble"
+    },
+    {
+      "element": "Bare Feet",
+      "specs": "Always visible in character art. Calloused, dirty, but purposeful. Show contact with ground.",
+      "symbolic_weight": "Rejection of separation; groundedness"
+    },
+    {
+      "element": "The Humbler (Spectral Ladle)",
+      "specs": "Translucent golden glow, slightly steaming. Worn wooden texture with visible grain. Gentle downward angle. Soft light radius ~5ft.",
+      "symbolic_weight": "Nourishment, gentle correction, presence of grace"
+    },
+    {
+      "element": "Receipts of Grace",
+      "specs": "Handwritten on torn parchment scraps. Smudged ink, grease stains, muddy thumbprints. Simple ladle stamp. Irregular edges.",
+      "symbolic_weight": "Sacred bureaucracy; proof of faith"
+    },
+    {
+      "element": "Raccoon Stripes (Urban Druids)",
+      "specs": "Soot or charcoal bands across eyes. War paint aesthetic, not decorative. Applied with fingers.",
+      "symbolic_weight": "Kinship with urban scavengers"
+    },
+    {
+      "element": "Pot Symbols",
+      "specs": "Simple vessel silhouettes marked discreetly on walls. Different metals = different functions. Chalked or carved, never painted.",
+      "symbolic_weight": "Hidden infrastructure of care"
+    }
+  ],
+
+  "character_design_guidelines": {
+    "body_diversity": "Wide range of ages (18-60s prominently), body types, and ethnicities. Prioritize realistic proportions over fantasy idealization.",
+    "clothing": "Layers of practical, patched garments under robes. Visible tools: pouches, utensils, rope. Nothing ornamental without function.",
+    "expressions": "Knowing, serene, compassionate with edge of mischief. Never pitiful or martyred.",
+    "companions": "City animals at same eye level or importance: rats on shoulders, dogs at heels, pigeons in background.",
+    "key_distinction": "They are competent professionals, not victims. Show capability through posture and tool familiarity."
+  },
+
+  "lighting_direction": {
+    "style": "Low-key chiaroscuro with warm sources",
+    "primary_sources": "Candlelight, torches, The Humbler's glow, dawn/dusk urban light",
+    "treatment": "Strong shadows with warm highlights. Reflect light in puddles and wet cobblestone. Divine light from below (soup kitchen) rather than above (traditional religious art).",
+    "mood": "Intimacy, hidden sanctity, found holiness"
+  },
+
+  "environmental_design": {
+    "settings": "Back alleys, flooded basements, market corners, abandoned shrines, under bridges",
+    "textures": "Wet stone, rust, mildew, weathered wood, cracked plaster, growing moss",
+    "atmosphere": "Urban decay with signs of care: swept corners, tended plants in cracks, organized chaos",
+    "scale": "Human-level perspectives. Avoid grand vistas; show intimate spaces."
+  },
+
+  "typography": {
+    "faction_branding": {
+      "style": "Weathered serif with monastic weight",
+      "recommended": ["IM Fell DW Pica", "Cormorant Garamond Bold"],
+      "treatment": "Slight texture overlay, never perfectly clean"
+    },
+    "body_text": {
+      "style": "Readable serif for accessibility",
+      "recommended": ["EB Garamond", "Crimson Text"],
+      "specifications": "11-12pt, generous leading, high contrast for readability"
+    },
+    "handwritten_elements": {
+      "style": "Imperfect script for receipts and quotes",
+      "recommended": ["Caveat", "Patrick Hand"],
+      "treatment": "Vary baseline, add ink splotches, occasional smudging"
+    }
+  },
+
+  "required_art_assets": {
+    "tier_1_essential": [
+      {
+        "asset": "Faction Icon/Logo",
+        "description": "Three overlapping bowls forming infinity knot, steam rising. Works at small sizes.",
+        "formats": "Vector + high-res raster",
+        "color_versions": ["Full color", "Black & white", "Single color (turmeric)"]
+      },
+      {
+        "asset": "The Humbler",
+        "description": "Spectral soup ladle, multiple angles",
+        "variations": ["Floating neutral", "Mid-correction gesture", "Serving position"]
+      },
+      {
+        "asset": "Receipt Template",
+        "description": "Printable handout, actual size",
+        "specifications": "Aged parchment texture, pre-filled example text, space for GM notes"
+      }
+    ],
+    "tier_2_recommended": [
+      {
+        "asset": "Character Portraits",
+        "subjects": ["Mother Esparda (elderly Aasimar)", "Sister Demorah (middle-aged Tiefling)", "Generic Sister (3 variations)"],
+        "style": "Bust or half-body, establishing personality"
+      },
+      {
+        "asset": "Scene Illustration",
+        "description": "Soup kitchen operation with The Humbler overhead",
+        "scope": "Full scene establishing faction atmosphere"
+      },
+      {
+        "asset": "Pot Network Icons",
+        "description": "Iron/Tin/Bronze/Copper pot symbols for maps",
+        "specifications": "Small (20-30px), clear at size, distinct silhouettes"
+      }
+    ],
+    "tier_3_deluxe": [
+      {
+        "asset": "Environmental Spreads",
+        "concepts": ["Bronze Pot safehouse interior", "Alley soup line at dusk", "Secret meeting beneath bridge"]
+      },
+      {
+        "asset": "Equipment Illustrations",
+        "items": ["Cookware set", "Mud Nun holy symbol", "Turmeric robe detail", "Receipt seal stamp"]
+      }
+    ]
+  },
+
+  "style_references": {
+    "visual_inspiration": [
+      "Caravaggio's chiaroscuro (The Calling of St Matthew lighting)",
+      "Dishonored video game (urban decay with purpose)",
+      "Documentary photography of street kitchens",
+      "Wes Anderson symmetry applied to poverty (organized chaos)"
+    ],
+    "avoid": [
+      "Clean medieval fantasy aesthetic",
+      "Orientalist/exotic treatments despite Hindu inspiration",
+      "Grimdark misery without hope",
+      "Generic 'poor people' stereotypes"
+    ]
+  },
+
+  "print_specifications": {
+    "page_layout": "Two-column with wide margins for handwritten notes aesthetic",
+    "texture_overlays": "Subtle parchment or canvas texture, 5-10% opacity",
+    "drop_caps": "Illuminated first letters using The Humbler or pot motifs",
+    "margins": "Receipt-style torn edges or margin notes in handwriting font"
+  },
+
+  "contrast_design_note": {
+    "seekers_of_penitence": "When depicting opposition, use cool blues/silvers, clean chains, rigid verticality vs. Mud Nuns' warm browns/golds, organic curves, horizontal/ground-level composition. Visual opposition should be immediately readable."
+  }
+}
