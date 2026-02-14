@@ -191,6 +191,16 @@
 </figure>
 
 <figure class="character-card">
+  <img src="assets/characters/sergeant-bink.webp"
+       alt="Sergeant Bink, Bugbear Rune Knight Fighter" loading="lazy">
+  <span class="name" id="name-sergeant-bink">Sergeant Bink</span>
+  <figcaption id="cap-sergeant-bink">
+    Bugbear Rune Knight sheriff who sees patterns in everything, talks to his corkboard, and eats his own paperwork. Your local cryptid with badge authority. The town children love him anyway.
+  </figcaption>
+  <a href="character_concepts/sergeant-bink" aria-labelledby="name-sergeant-bink cap-sergeant-bink"></a>
+</figure>
+
+<figure class="character-card">
   <img src="assets/characters/sister-garra.webp"
        alt="Sister Garra, Tabaxi Trickster Cleric" loading="lazy">
   <span class="name" id="name-sister-garra">Sister Garra</span>
