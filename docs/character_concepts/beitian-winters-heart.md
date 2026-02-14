@@ -4,7 +4,7 @@
 
 	> *"Wait wait wait—the blacksmith's son and the mayor's daughter?! No, sit down, you're not going anywhere until I have the complete timeline. Pretzel?"*
 
-	**White Dragonborn Soulknife from a clan born without earbones, where sign language and psionic gifts are the only speech. A Dragonchess prodigy who got hustled and can't go home until she's won back what she lost *and* interest that'll impress. So she fills her days with fast quips and other people's drama, because examining her own life would mean admitting maybe even a prodigy has her limits.**
+	**Dragonchess prodigy from an all-deaf clan who got hustled and can't go home until she wins back her losses with interest. Lives for gossip and mustard because examining her own limits would shatter the self-image keeping her afloat.**
 
 ---
 

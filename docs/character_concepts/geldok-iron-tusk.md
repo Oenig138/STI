@@ -4,7 +4,7 @@
 
 > *"Ya telling me I was wrong ta smack dat boys fuckwad dad over'is head? Like clerics should stick ta healin' an preachy wurds? Fuck dat. I'm 'ere cuz the Big Boss told me. If all went along with them fine Gads' plans they wouldn't need guys like me in da first place. I'm not lookin' fer signs. I AM the sign."*
 
-**Ex-raider turned unlikely cleric of the mysterious "Big Boss". Street-corner theologist who doesn't believe in preaching, instead opting to be a healer and problem solver for the little guy.**
+**Soft-gutted Orc ex-raider turned unlikely Cleric of the mysterious "Big Boss"; streetcorner problem solver and healer, who obeys no worldly authority.**
 
 ---
 

@@ -4,7 +4,7 @@
 
 > *"My lady, I believe I can surmise where this conversation is going, and while genuinely flattered, I'm convinced your notion of the allure of the 'exotic noble' is inflated. I'm a scholar. My 'edge' is that of the papercut."*
 
-**Shifter Bladesinger who spent his isolated youth studying swordplay in secret, certain he'd be ready when danger came. His mentor died proving he wasn't. Now he's hunted, his mother imprisoned, and the wallflower dandy who imagined himself 'a scholar riding the wolf' is learning that real life seldom respects fantasies.**
+**Shifter Bladesinger certain he'd be ready when danger came. His mentor died proving he wasn't. Now hunted, his mother imprisoned, the wallflower dandy who imagined himself a scholar (and a Good Boy) must come to terms with who he wants to be.**
 
 ---
 

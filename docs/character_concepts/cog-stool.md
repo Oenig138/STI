@@ -6,7 +6,7 @@
 >	"OUTPUT: NULL. REFERRENT NONSENSICAL. PLEASE RESTATE YOUR QUERY."  
 >	"We consider 'sense'. The wind is picking up."  
 
-**A decommissioned warforged lightning rod colonized by mycelium for centuries. Somehow an interface arose, and now two incommensurable minds with vastly different perspectives and powers share one frame.**
+**Warforged Spore Druid, a strange two-minded chimera born of centuries of interfacing between a decommissioned battledroid prototype and an awakened mycelial network. Seeks to understand life and personhood in a world unconvinced it has either.**
 
 ---
 

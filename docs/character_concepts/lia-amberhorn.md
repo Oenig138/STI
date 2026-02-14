@@ -4,7 +4,7 @@
 
 > *"Don't say it, I know what you think. Typical Lia. Can't read, can't count. I'm only good with cats and hard liquor. Why do you come to me for advice?"*
 
-**Satyr Wild Magic Sorcerer who believes in her own stereotypes. She was rejected by her sober, ableist merchant family, but still snipes with pinpoint precision, whether with word or spell.**
+**Satyr Wild Magic Sorcerer who believes in her own stereotypes. Rejected by her sober, ableist merchant family, but still snipes with pinpoint precision, whether with word or spell.**
 
 ---
 

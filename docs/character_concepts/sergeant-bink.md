@@ -4,7 +4,7 @@
 
 > *"I'm not angry, I'm disappointed. And also I'm seven feet tall and the literal creature your nan told you ghost stories about, so I'm going to ask again..."*
 
-**Your local cryptid with badge authority. A bugbear sheriff who sees patterns everywhere, talks to his corkboard, and struggles with paperwork. Your classic maverick cop trope poured into the chassis of a fey outsider who only tries to be a valuable member of the community.**
+**Bugbear Rune Knight sheriff who sees patterns in everything, talks to his corkboard, and eats his own paperwork. Your local cryptid with badge authority. The town children love him anyway.**
 
 ---
 

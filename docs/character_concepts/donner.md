@@ -6,7 +6,7 @@
 
 > *"You're still not too old for me to tell you to finish your kale like a good boy. I made plum tea for dessert. Clean your mug first, you filthy ape."*
 
-**A camp cook who spent ten years watching heroes die for glory, then sacrificed his own apprentice to escape the thing that killed them. Now he keeps new companions alive with grim stories and good stew, and can't tell anymore if it's love or just making sure someone's around to throw behind him when the Revenant catches up.**
+**A camp cook who spent ten years watching heroes die for glory, then sacrificed his own apprentice to escape the thing that killed them. Now he keeps new companions alive with grim stories and good stew, and can't tell anymore if it's care or just making sure someone's around to throw behind him when the Revenant catches up.**
 
 ---
 

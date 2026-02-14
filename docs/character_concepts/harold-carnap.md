@@ -4,7 +4,7 @@
 
 > *"Who would have thought 'Harmless Harold' would turn out to be a sorcerer in his old days? Not me! But come to think of it, my great aunt Tilde used to claim a Brass Dragon fell in love with her in her youth. Maybe there's some truth to it all? Yes, true, I may not be her progeny, but these forces work in mysteries ways, do they not?"*
 
-**Halfling Warlock grandpa who accidentally became a cult leader by turning blood rituals into potluck dinners and community daycare. May be an evil genius.**
+**Halfling Warlock grandpa. Devilishly wholesome, turning blood rituals to potlucks. Possibly an evil genius in a cardigan. The jury is still out.**
 
 ---
 

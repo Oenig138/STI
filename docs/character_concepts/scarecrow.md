@@ -4,7 +4,7 @@
 
 > *"Why would you ask that? Is it important to you? Would knowing help? Is there any deeper layer behind your question? Would you like a nice cup of cinnamon tea?"*
 
-**A warforged infiltration-construct who stood disguised in a village square for centuries, indexing every life. Still hard-wired to spy on everybody it loves, it now offers great hugs and subdues threats with overwhelming psionic force.**
+**Warforged Bard who stood guard in a village square for centuries, quietly indexing every life and family tree. Gives great hugs. Also spies on you.**
 
 ---
 

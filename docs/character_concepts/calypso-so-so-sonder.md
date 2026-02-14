@@ -4,7 +4,7 @@
 
 > *"Witness the Apocalypso! A thousand suns blaze, and you stand in their shadow!"*
 
-** Aging kabuki luchador so devoted to performing nobility he'd rather die than going 'vulgar' for the crowd. Can't bring himself to tell the truth about why he was fired from the circus, chasing one last hurrah.**
+**Aging kabuki luchador who'd rather die than go vulgar for the crowd. Hogs party protein but always apologizes. Can't tell the truth about why he was fired, chasing one last hurrah before his body gives out.**
 
 ---
 

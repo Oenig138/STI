@@ -4,7 +4,7 @@
 
 > *“Break the rules. Keep the oath.”*
 
-**Gifted Human Trickster Paladin sent by her noble family to a boarding school, hoping to file down the "rough edges". Instead she started her own semi-criminal operation for ten full years before purpose found her; now she is the ultimate bodyguard, smothering her Ward with an overreach of competence, cold steel and street hustling.**
+**Trickster Paladin who stole cutlery at the boarding school for ten years before she found her purpose in life; now smothers her sworn Ward with an overreach of steel and cunning.**
 
 ---
 

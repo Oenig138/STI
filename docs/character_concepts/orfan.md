@@ -4,7 +4,7 @@
 
 > *"I brought them strays and lost ones, fawns that had lost their mothers. I thought it was for study and conservation, even though they never told me what the knives were for."*
 
-**The academy dismissed his archaeological methods, the coven exploited his trust. Returning to the forest and walking the ancient paths, his 'bad academic praxis' yielded him Draconic powers. Now he's stuck between his love of simple life and longing for recognition from the faculty that failed him.**
+**Firbolg archaeologist dismissed by the academy and exploited by an animal abusing coven. His 'bad academic praxis' yielded Draconic powers, but he's torn between wilderness peace and the academic recognition that still haunts him.**
 
 ---
 

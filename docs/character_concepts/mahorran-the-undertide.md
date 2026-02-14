@@ -4,7 +4,7 @@
 
 > *"I'm here because the King of the Sea told me to. I'm his agent. And as long as he wants me with you, I'll keep blasting and saving your as... that is, providing adequate protection. But this is a strictly professional relationship."*
 
-**A corporate Marid's one-woman pirate crew grinding it out on the high seas for that sweet promotion to branch manager. She boards ships in Darkness, wins fights by equal amounts of intimidation and drowning tactics, and retreats to her underwater garden for depressingly uneventful downtime with her turtles.**
+**Corporate Marid's one-woman pirate crew grinding for that sweet branch manager promotion. Precious about her working conditions and retreats to her underwater garden for depressingly uneventful downtime with her turtles.**
 
 ---
 

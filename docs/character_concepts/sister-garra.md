@@ -4,7 +4,7 @@
 
 > *"By my count, this feast they're throwing us could feed twenty-three for a week. Give me your Bag of Holding. Now."*
 
-**Illegal slum cleric of the Mud Nuns and refugee smuggler who redistributes wealth with bureaucratic zeal, racing against middle age while her order pressures her to retire from hustling and take the scholarly "turmeric robe".**
+**Tiny Tabaxi of the illegal slum order the Mud Nuns. Smuggles refugees, redistributes wealth, leaves receipts of 'karma rebalanced.' Racing middle age while the order pressures her to retire to the scholarly turmeric robe.**
 
 ---
 
