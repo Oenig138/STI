@@ -31,6 +31,16 @@
 </figure>
 
 <figure class="character-card">
+  <img src="assets/characters/anwar-the-radiant.webp"
+       alt="Anwar the Radiant, Variant Human Monk (Warrior of Mercy)" loading="lazy">
+  <span class="name" id="name-anwar">Anwar the Radiant</span>
+  <figcaption id="cap-anwar">
+    A travelling, dancing Monk of Mercy who gently scare-berates the smallfolk into accountability and carries the trauma of famine through beauty, dignity and goat milk.
+  </figcaption>
+  <a href="character_concepts/anwar-the-radiant" aria-labelledby="name-anwar cap-anwar"></a>
+</figure>
+
+<figure class="character-card">
   <img src="assets/characters/basil-tenebrian.webp"
        alt="Basil Tenebrian, Noble Bladesinger Shifter" loading="lazy">
   <span class="name" id="name-basil">Basil Tenebrian</span>
