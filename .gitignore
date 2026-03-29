@@ -1,0 +1,21 @@
+# Local AI instructions and logs
+instructions-claude-code.md
+**/.claude/
+
+# Development and staging folders
+dnd-development/
+
+# Image processing (local workflow only)
+images/
+
+# Windows system files
+desktop.ini
+Thumbs.db
+$Temp/
+
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
