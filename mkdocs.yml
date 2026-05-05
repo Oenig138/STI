@@ -28,6 +28,7 @@ extra_css:
 nav:
   - Home: index.md
   - Character Concepts:
+      - Agnes Avernus: character_concepts/agnes-avernus.md
       - Alveta "Velvet": character_concepts/alveta-velvet.md
       - Anwar the Radiant: character_concepts/anwar-the-radiant.md
       - Basil Tenebrian: character_concepts/basil-tenebrian.md

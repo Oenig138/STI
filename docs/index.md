@@ -21,6 +21,16 @@
 <div class="character-gallery" markdown>
 
 <figure class="character-card">
+  <img src="assets/characters/agnes-avernus.webp"
+       alt="Agnes Avernus, Tiefling Wildfire Druid" loading="lazy">
+  <span class="name" id="name-agnes-avernus">Agnes Avernus</span>
+  <figcaption id="cap-agnes-avernus">
+    Tiefling Wildfire Druid smuggling refugees through hidden roads, treating cities as wild ecosystems and pigeons as colleagues. Warm-bodied, sober, and trying not to think about whether the holy war filling her doorstep with strays traces back to a fire she set as a grieving teen.
+  </figcaption>
+  <a href="character_concepts/agnes-avernus" aria-labelledby="name-agnes-avernus cap-agnes-avernus"></a>
+</figure>
+
+<figure class="character-card">
   <img src="assets/characters/alveta-velvet.webp"
        alt="Alveta 'Velvet', Air Genasi Paladin of Glory" loading="lazy">
 <span class="name" id="name-alveta">Alveta “Velvet”</span>
